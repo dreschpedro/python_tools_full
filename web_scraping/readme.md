@@ -33,7 +33,7 @@ Este script de Python procesa una lista de enlaces de productos para extraer inf
 ## Uso
 
 1. Coloca los enlaces de los productos en un archivo de texto llamado `enlaces_productos.txt`, uno por línea.
-2. Ejecuta el script `procesar_enlaces_productos.py`:
+2. Ejecuta el script `scraping.py`:
 
    ```bash
    python scraping.py
