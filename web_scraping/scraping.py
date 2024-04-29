@@ -27,7 +27,7 @@ with open(output_file, 'w') as f:
             enlace = enlace.strip()
 
             # Realizar la solicitud HTTP
-            response = requests.get(enlace)
+            response = requests.get(enlace, timeout=10)  # Espera hasta 10 segundos por una respuesta
 
             # Verificar si la solicitud fue exitosa
             if response.status_code == 200:
