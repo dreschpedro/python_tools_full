@@ -8,41 +8,18 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import os
 import time
-import json
 
 # Crear un directorio para guardar las imágenes
 folder_name = 'images'
 if not os.path.isdir(folder_name):
     os.makedirs(folder_name)
 
-def download_image(url, folder_name, sku):
+def download_image(url, folder_name, num):
     # Escribir imagen en un archivo
     response = requests.get(url)
     if response.status_code == 200:
-        with open(os.path.join(folder_name, sku + ".jpg"), 'wb') as file:
+        with open(os.path.join(folder_name, str(num) + ".jpg"), 'wb') as file:
             file.write(response.content)
-
-def save_image_data(data, filename):
-    # Intenta cargar los datos existentes
-    try:
-        with open(filename, 'r') as file:
-            existing_data = json.load(file)
-    except (FileNotFoundError, json.JSONDecodeError):
-        existing_data = []
-    
-    # Agrega el nuevo dato a la lista de datos existentes
-    existing_data.append(data)
-    
-    # Guarda todos los datos juntos
-    with open(filename, 'w') as file:
-        json.dump(existing_data, file, indent=4)
-
-# Leer el archivo JSON
-with open('velas.json', 'r', encoding='utf-8') as file:
-    data = json.load(file)
-
-# Extraer los nombres de los productos y los SKUs
-products = [{'nombre': item['nombre'], 'sku': item['sku']} for item in data]
 
 # Configuración de opciones de Chrome
 chromePath = r'C:\Users\taller 2\Documents\chromedriver-win64\chromedriver.exe'
@@ -50,15 +27,13 @@ chrome_options = Options()
 chrome_service = Service(chromePath)
 driver = webdriver.Chrome(service=chrome_service, options=chrome_options)
 
-for product in products:
-    query = product['nombre']
-    sku = product['sku']
+queries = ["VELA PERLADA MEDIANO VERDE BLUZ X 10"] # Agrega aquí tus consultas
+
+for idx, query in enumerate(queries, start=1):
     search_URL = f"https://www.google.com/search?q={query}&source=lnms&tbm=isch"
     driver.get(search_URL)
-    
+
     input("Waiting...")
-    # Esperar un tiempo para que la página se cargue completamente
-    # time.sleep(0)
 
     # Desplazarse hasta arriba
     driver.execute_script("window.scrollTo(0, 0);")
@@ -91,11 +66,8 @@ for product in products:
 
             # Descargar imagen
             try:
-                download_image(imageURL, folder_name, sku)
+                download_image(imageURL, folder_name, idx)
                 print(f"Imagen descargada. URL: {imageURL}")
-                # Guardar la URL de la imagen, la ruta de la imagen y el SKU en otro archivo JSON
-                image_data = {'sku': sku, 'image_url': imageURL}
-                save_image_data(image_data, 'image_data.json')
             except Exception as e:
                 print(f"No se pudo descargar la imagen. Error: {e}")
         except Exception as e:
