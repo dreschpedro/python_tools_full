@@ -1,11 +1,11 @@
 import json
 
 # Ruta del archivo JSON
-archivo_json = 'productos.json'
+archivo_json = 'velas.json'
 
 # Cadena a buscar y reemplazar
-cadena_buscar = ' H '
-cadena_reemplazar = ' HOJAS '
+cadena_buscar = 'LAQEUADA'
+cadena_reemplazar = 'LAQUEADA'
 
 # Leer el archivo JSON
 with open(archivo_json, 'r') as file:

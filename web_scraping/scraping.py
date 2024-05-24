@@ -56,9 +56,9 @@ for product in products:
     search_URL = f"https://www.google.com/search?q={query}&source=lnms&tbm=isch"
     driver.get(search_URL)
     
-    input("Waiting...")
+    # input("Waiting...")
     # Esperar un tiempo para que la página se cargue completamente
-    # time.sleep(0)
+    time.sleep(5)
 
     # Desplazarse hasta arriba
     driver.execute_script("window.scrollTo(0, 0);")
