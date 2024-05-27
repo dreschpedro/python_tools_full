@@ -15,11 +15,23 @@ folder_name = 'images'
 if not os.path.isdir(folder_name):
     os.makedirs(folder_name)
 
-def download_image(url, folder_name, sku):
+# Solicitar el número máximo de imágenes a descargar por búsqueda
+while True:
+    try:
+        max_images = int(input('Cantidad de imágenes a descargar: '))
+        if max_images > 0:
+            max_images = max_images + 1
+            break
+        else:
+            print("Por favor, introduce un número mayor a 0.")
+    except ValueError:
+        print("Por favor, introduce un número válido.")
+
+def download_image(url, folder_name, sku, index):
     # Escribir imagen en un archivo
     response = requests.get(url)
     if response.status_code == 200:
-        with open(os.path.join(folder_name, sku + ".jpg"), 'wb') as file:
+        with open(os.path.join(folder_name, f"{sku}_{index}.jpg"), 'wb') as file:
             file.write(response.content)
 
 def save_image_data(data, filename):
@@ -38,7 +50,7 @@ def save_image_data(data, filename):
         json.dump(existing_data, file, indent=4)
 
 # Leer el archivo JSON
-with open('velas.json', 'r', encoding='utf-8') as file:
+with open('data.json', 'r', encoding='utf-8') as file:
     data = json.load(file)
 
 # Extraer los nombres de los productos y los SKUs
@@ -56,7 +68,6 @@ for product in products:
     search_URL = f"https://www.google.com/search?q={query}&source=lnms&tbm=isch"
     driver.get(search_URL)
     
-    # input("Waiting...")
     # Esperar un tiempo para que la página se cargue completamente
     time.sleep(5)
 
@@ -65,41 +76,44 @@ for product in products:
 
     page_html = driver.page_source
     pageSoup = bs4.BeautifulSoup(page_html, 'html.parser')
-    first_container = pageSoup.find('div', {'jscontroller': "Um3BXb"})
+    containers = pageSoup.find_all('div', {'jscontroller': "Um3BXb"}, limit=max_images)
 
-    if first_container:
-        print("Contenedor encontrado, procesando...")
+    if containers:
+        print("Contenedores encontrados, procesando...")
 
-        try:
-            # XPath de la imagen de vista previa
-            previewImageXPath = "(//div[@jscontroller='Um3BXb']//img)[1]"
-            previewImageElement = driver.find_element("xpath", previewImageXPath)
-            previewImageURL = previewImageElement.get_attribute("src")
-
-            # Hacer clic en el contenedor
-            containerXPath = "(//div[@jscontroller='Um3BXb'])[1]"
-            driver.find_element("xpath", containerXPath).click()
-
-            # Esperar a que la imagen completa se cargue
-            WebDriverWait(driver, 10).until(
-                EC.presence_of_element_located((By.XPATH, "//a[contains(@class,'jlTjKd')]/img[@class='sFlh5c pT0Scc iPVvYb']"))
-            )
-
-            # Obtener la URL de la imagen completa
-            imageElement = driver.find_element("xpath", "//a[contains(@class,'jlTjKd')]/img[@class='sFlh5c pT0Scc iPVvYb']")
-            imageURL = imageElement.get_attribute('src')
-
-            # Descargar imagen
+        for i, container in enumerate(containers):
             try:
-                download_image(imageURL, folder_name, sku)
-                print(f"Imagen descargada. URL: {imageURL}")
-                # Guardar la URL de la imagen, la ruta de la imagen y el SKU en otro archivo JSON
-                image_data = {'sku': sku, 'image_url': imageURL}
-                save_image_data(image_data, 'image_data.json')
+                # XPath de la imagen de vista previa
+                previewImageXPath = f"(//div[@jscontroller='Um3BXb']//img)[{i + 1}]"
+                previewImageElement = driver.find_element("xpath", previewImageXPath)
+                previewImageURL = previewImageElement.get_attribute("src")
+
+                # Hacer clic en el contenedor
+                containerXPath = f"(//div[@jscontroller='Um3BXb'])[{i + 1}]"
+                driver.find_element("xpath", containerXPath).click()
+
+                # Esperar a que la imagen completa se cargue
+                WebDriverWait(driver, 10).until(
+                    EC.presence_of_element_located((By.XPATH, "//a[contains(@class,'jlTjKd')]/img[@class='sFlh5c pT0Scc iPVvYb']"))
+                )
+
+                # Obtener la URL de la imagen completa
+                imageElement = driver.find_element("xpath", "//a[contains(@class,'jlTjKd')]/img[@class='sFlh5c pT0Scc iPVvYb']")
+                imageURL = imageElement.get_attribute('src')
+
+                # Descargar imagen
+                try:
+                    # download_image(imageURL, folder_name, sku, i + 1)
+                    # print(f"Imagen descargada. URL: {imageURL}")
+                    # Guardar la URL de la imagen, la ruta de la imagen y el SKU en otro archivo JSON
+                    time.sleep(10)
+                    
+                    image_data = {'sku': sku, 'image_url': imageURL}
+                    save_image_data(image_data, 'image_data.json')
+                except Exception as e:
+                    print(f"No se pudo descargar la imagen. Error: {e}")
             except Exception as e:
-                print(f"No se pudo descargar la imagen. Error: {e}")
-        except Exception as e:
-            print(f"No se pudo procesar el contenedor. Error: {e}")
+                print(f"No se pudo procesar el contenedor {i + 1}. Error: {e}")
     else:
         print("No se encontró ningún contenedor.")
 
