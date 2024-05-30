@@ -1,0 +1,104 @@
+{
+  "01": {
+    "name": "Repostería",
+    "subcategories": {
+      "01": { "name": "Azúcares" },
+      "02": { "name": "Baños y Chocolates" },
+      "03": { "name": "Bizcochuelos y Piononos" },
+      "04": { "name": "Confites, Perlas y Crocantes" },
+      "05": { "name": "Conservantes y Estabilizantes" },
+      "06": { "name": "Cremas y Mousses" },
+      "07": { "name": "Dulces" },
+      "08": { "name": "Esencias y Colorantes" },
+      "09": { "name": "Frutas Enlatadas y Congeladas" },
+      "10": { "name": "Frutos Secos y Derivados" },
+      "11": { "name": "Grasas" },
+      "12": { "name": "Harinas y Almidones" },
+      "13": { "name": "Impresiones Comestibles" },
+      "14": { "name": "Moldes y Cortantes" },
+      "15": { "name": "Pastas, Rellenos y Salsas" },
+      "16": { "name": "Pastillajes" },
+      "17": { "name": "Placas De Moldeo" },
+      "18": { "name": "Premezclas" },
+      "19": { "name": "Saludables" },
+      "20": { "name": "Utensilios" }
+    }
+  },
+  "02": {
+    "name": "Cotillón",
+    "subcategories": {
+      "01": { "name": "Adornos y Decoraciones" },
+      "02": { "name": "Carioca" },
+      "03": { "name": "Disfraces" },
+      "04": { "name": "Globos y Piñatas" },
+      "05": { "name": "Infantil" },
+      "06": { "name": "Souvenir" },
+      "07": { "name": "Velas" }
+    }
+  },
+  "03": {
+    "name": "Acontecimientos Especiales",
+    "subcategories": {
+      "01": { "name": "Comunión y Confirmación" },
+      "02": { "name": "Despedidas de Solteros" },
+      "03": { "name": "Halloween" },
+      "04": { "name": "Navidad" },
+      "05": { "name": "Patrios" }
+    }
+  },
+  "04": {
+    "name": "Bebidas",
+    "subcategories": {
+      "01": { "name": "Agua" },
+      "02": { "name": "Saborizados" }
+    }
+  },
+  "05": {
+    "name": "Condimentos",
+    "subcategories": {
+      "01": { "name": "Especias" },
+      "02": { "name": "Semillas" }
+    }
+  },
+  "06": {
+    "name": "Copetín",
+    "subcategories": {
+      "01": { "name": "Dulces" },
+      "02": { "name": "Salados" }
+    }
+  },
+  "07": {
+    "name": "Manualidades",
+    "subcategories": {
+      "01": { "name": "Floristería" },
+      "02": { "name": "Librería" },
+      "03": { "name": "Porcelanas y Accesorios" },
+      "04": { "name": "Velas, Jabón y Accesorios" }
+    }
+  },
+  "08": {
+    "name": "Golosinas",
+    "subcategories": {
+      "01": { "name": "Caramelos" },
+      "02": { "name": "Chocolates, Obleas y Cubanitos" },
+      "03": { "name": "Chupetines" },
+      "04": { "name": "Galletitas" },
+      "05": { "name": "Gomitas y Gelatinas" }
+    }
+  },
+  "09": {
+    "name": "Descartables",
+    "subcategories": {
+      "01": { "name": "Accesorios de Cocina" },
+      "02": { "name": "Bandejas y Moldes" },
+      "03": { "name": "Bolsas" },
+      "04": { "name": "Cajas y Torteras" },
+      "05": { "name": "Cintas" },
+      "06": { "name": "Platos y Cubiertos" },
+      "07": { "name": "Servilletas y Manteles" },
+      "08": { "name": "Sorbetes" },
+      "09": { "name": "Telgopor" },
+      "10": { "name": "Vasos y Copas" }
+    }
+  }
+}

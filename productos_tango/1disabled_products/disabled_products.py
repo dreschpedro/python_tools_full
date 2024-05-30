@@ -1,54 +1,18 @@
-import os
-import requests
-from dotenv import load_dotenv
-from tqdm import tqdm
+import json
 
-load_dotenv()
+# Leer el archivo JSON
+with open('productos.json', 'r') as json_file:
+    json_data = json.load(json_file)
+    json_skus = {item['SKUCode'] for item in json_data}
 
-TANGO_API_URL = os.getenv('TANGO_TIENDAS_API_URL')
-TANGO_ACCESS_TOKEN = os.getenv('TANGO_TIENDAS_ACCESS_TOKEN')
+# Leer el archivo de texto
+with open('skus.txt', 'r') as txt_file:
+    txt_skus = {line.strip() for line in txt_file}
 
-def listar_skus_de_tango():
-    last_sync_datetime = get_last_sync_datetime()
-    print(last_sync_datetime)
+# Encontrar los SKUs que coinciden
+matching_skus = json_skus.intersection(txt_skus)
 
-    skus_habilitados = []
-    skus_deshabilitados = []
-
-    with open('../skus.txt', 'r') as file:
-        skus = file.readlines()
-
-    for sku in tqdm(skus, desc="Buscando SKUs", unit="sku"):
-        sku = sku.strip()  # Remove trailing newline
-        response = requests.get(
-            f"{TANGO_API_URL}/Aperture/Product",
-            params={
-                'pageSize': 1,
-                'pageNumber': 1,
-                'filter': sku,
-                # 'updatedDate': last_sync_datetime
-            },
-            headers={'accessToken': TANGO_ACCESS_TOKEN}
-        )
-        data = response.json()
-
-        if 'Data' in data and data['Data']:
-            producto = data['Data'][0]
-            if producto['Disabled']:
-                skus_deshabilitados.append(sku)
-            else:
-                skus_habilitados.append(sku)
-        else:
-            print(f"No se encontró el SKU {sku} en la respuesta de Tango API.")
-
-    with open('skus_habilitados.txt', 'w') as file:
-        file.write('\n'.join(skus_habilitados))
-
-    with open('skus_deshabilitados.txt', 'w') as file:
-        file.write('\n'.join(skus_deshabilitados))
-
-def get_last_sync_datetime():
-    # Implementar lógica para obtener la última fecha de sincronización
-    pass
-
-listar_skus_de_tango()
+# Imprimir los SKUs coincidentes
+print("SKUs coincidentes:")
+for sku in matching_skus:
+    print(sku)
