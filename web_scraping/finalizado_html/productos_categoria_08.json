@@ -1,230 +1,122 @@
 [
-    {
-        "id": 15873,
-        "nombre": "ALFAJOR BLANCO GUAYMALLEN 40 X 38G",
-        "sku": "0802000281",
-        "image_url": "https://http2.mlstatic.com/D_NQ_NP_951347-MLA49736130206_042022-O.webp"
-    },
-    {
-        "id": 15912,
-        "nombre": "ALFAJOR FELFORT 24X 28G",
-        "sku": "0802000320",
-        "image_url": "https://http2.mlstatic.com/D_NQ_NP_715693-MLU72603234057_102023-O.webp"
-    },
-    {
-        "id": 15820,
-        "nombre": "ALFAJOR FELFORT X 28G",
-        "sku": "0802000219",
-        "image_url": "https://http2.mlstatic.com/D_NQ_NP_715693-MLU72603234057_102023-O.webp"
-    },
-    {
-        "id": 15875,
-        "nombre": "ALFAJOR FRUTA GUAYMAYEN 40 X 38G",
-        "sku": "0802000283",
-        "image_url": "https://acdn.mitiendanube.com/stores/313/507/products/fru-6b55ce8e47b66dd81517135485680304-640-0.jpg"
-    },
-    {
-        "id": 15841,
-        "nombre": "ALFAJOR GLASEADO TOFI X 44G",
-        "sku": "0802000244",
-        "image_url": "https://cdn11.bigcommerce.com/s-3stx4pub31/images/stencil/1280x1280/products/2903/7186/1011663__69132.1611336204.1280.1280__55344.1655295719.jpg?c=2?imbypass=on"
-    },
-    {
-        "id": 15806,
-        "nombre": "ALFAJOR LECHE TOFI X 46G",
-        "sku": "0802000199",
-        "image_url": "https://d1on8qs0xdu5jz.cloudfront.net/webapp/images/productos/b/0000012000/12617.jpg"
-    },
-    {
-        "id": 15801,
-        "nombre": "ALFAJOR MINITORTA BLANCO AGUILA",
-        "sku": "0802000192",
-        "image_url": "https://i.ebayimg.com/images/g/GIQAAOSwYLtin1qf/s-l1600.jpg"
-    },
-    {
-        "id": 15874,
-        "nombre": "ALFAJOR NEGRO GUAYMAYEN 40 X 38G",
-        "sku": "0802000282",
-        "image_url": "https://naladistribution.com.ar/wp-content/uploads/2023/06/Alfajor-Negro-Guaymallen-Caja-de-40-unidades.webp"
-    },
-    {
-        "id": 15856,
-        "nombre": "ALFAJOR ORO GUAYMALLEN X 48G",
-        "sku": "0802000264",
-        "image_url": "https://dcdn.mitiendanube.com/stores/002/609/727/products/27-06-isidora-post1-3213eb18e3a3cf518b16878730147476-640-0.png"
-    },
-    {
-        "id": 15908,
-        "nombre": "ALFAJOR SIMPLE BLANCO B&N X 50G",
-        "sku": "0802000316",
-        "image_url": "https://http2.mlstatic.com/D_NQ_NP_655826-MLA76407686563_052024-O.webp"
-    },
-    {
-        "id": 15869,
-        "nombre": "ALFAJOR SIMPLE BLANCO TATIN 56 X 33G",
-        "sku": "0802000277",
-        "image_url": "https://masonlineprod.vtexassets.com/arquivos/ids/246403-800-auto?v=637884525888370000&width=800&height=auto&aspect=true"
-    },
-    {
-        "id": 420,
-        "nombre": "ALFAJOR SIMPLE GLASE TERRABUSI",
-        "sku": "0802000256",
-        "image_url": "https://yerbamateaustralia.com.au/media/catalog/product/cache/68e6283f0522c1ba068d18f15991f845/t/e/terrabusi-alfa-glaseado.png"
-    },
-    {
-        "id": 15854,
-        "nombre": "ALFAJOR SIMPLE MANON X 43G",
-        "sku": "0802000262",
-        "image_url": "https://e-silicaro-resized.s3.sa-east-1.amazonaws.com/20230403-113821Alfajor-manon-1.png"
-    },
-    {
-        "id": 15826,
-        "nombre": "ALFAJOR SIMPLE MILKA 6 X 42G",
-        "sku": "0802000227",
-        "image_url": "https://mdlzargentina.vtexassets.com/arquivos/ids/156018-800-800?v=638174216982570000&width=800&height=800&aspect=true"
-    },
-    {
-        "id": 15827,
-        "nombre": "ALFAJOR SIMPLE MILKA X 42G",
-        "sku": "0802000228",
-        "image_url": "https://ardiaprod.vtexassets.com/arquivos/ids/293980/Alfajor-Simple-Milka-Mousse-42-Gr-_1.jpg?v=638458624471500000"
-    },
-    {
-        "id": 15887,
-        "nombre": "ALFAJOR SIMPLE MOUSSE NG MILKA",
-        "sku": "0802000295",
-        "image_url": "https://cdn11.bigcommerce.com/s-3stx4pub31/images/stencil/1280x1280/products/1130/26396/milka-Simple-Mousse-42g__72186.1699646286.jpg?c=2"
-    },
-    {
-        "id": 15870,
-        "nombre": "ALFAJOR SIMPLE NEGRO TATIN 56 X 33G",
-        "sku": "0802000278",
-        "image_url": "https://masonlineprod.vtexassets.com/arquivos/ids/246188/Alfajor-Simple-Tatin-Negro-33g-1-32815.jpg?v=637883553702800000"
-    },
-    {
-        "id": 419,
-        "nombre": "ALFAJOR SIMPLE NEGRO TERRABUSI",
-        "sku": "0802000254",
-        "image_url": "https://eltanoshop.com.ar/802-large_default/terrabusi-simple-negro-48.jpg"
-    },
-    {
-        "id": 15823,
-        "nombre": "ALFAJOR TORTA TERRABUSI X 70G",
-        "sku": "0802000224",
-        "image_url": "https://masonlineprod.vtexassets.com/arquivos/ids/161704/Alfajor-Triple-Torta-Terrabusi-70-Gr-2-12675.jpg?v=637835132121570000"
-    },
-    {
-        "id": 15898,
-        "nombre": "ALFAJOR TRIPLE BLANCO B&N X 73G",
-        "sku": "0802000306",
-        "image_url": "https://yerbamateaustralia.com.au/media/catalog/product/cache/68e6283f0522c1ba068d18f15991f845/b/l/blancotriple.png"
-    },
-    {
-        "id": 15816,
-        "nombre": "ALFAJOR TRIPLE BLANCO GUAYMALLEN X 1",
-        "sku": "0802000210",
-        "image_url": "https://dulcilandia.com.ar/par/wp-content/uploads/sites/4/2020/04/09801001.png"
-    },
-    {
-        "id": 15877,
-        "nombre": "ALFAJOR TRIPLE BLANCO GUAYMALLENX 24",
-        "sku": "0802000285",
-        "image_url": "https://acdn.mitiendanube.com/stores/001/877/724/products/diseno-sin-titulo-61-7aeb800d5e00f5bd2016356140984146-480-0.png"
-    },
-    {
-        "id": 15672,
-        "nombre": "ALFAJOR TRIPLE BLANCO TATIN X 60G",
-        "sku": "0802000018",
-        "image_url": "https://acdn.mitiendanube.com/stores/001/185/658/products/tatintripleblanco-113a2ad710fe320cc617147738603859-1024-1024.jpg"
-    },
-    {
-        "id": 15798,
-        "nombre": "ALFAJOR TRIPLE BON O BON X 60G",
-        "sku": "0802000189",
-        "image_url": "https://m.media-amazon.com/images/I/614cTDdHPpL._AC_UF894,1000_QL80_.jpg"
-    },
-    {
-        "id": 15822,
-        "nombre": "ALFAJOR TRIPLE DDL MILKA X 70G",
-        "sku": "0802000223",
-        "image_url": "https://yerbamateaustralia.com.au/media/catalog/product/cache/68e6283f0522c1ba068d18f15991f845/m/i/milkaddl-triple.png"
-    },
-    {
-        "id": 16161,
-        "nombre": "ALFAJOR TRIPLE FRUTA GUAYMALLEN X 24",
-        "sku": "0805000097",
-        "image_url": "https://http2.mlstatic.com/D_NQ_NP_693120-MLA52431694456_112022-O.webp"
-    },
-    {
-        "id": 15857,
-        "nombre": "ALFAJOR TRIPLE FRUTA GUAYMALLEN",
-        "sku": "0802000265",
-        "image_url": "https://dulcilandia.com.ar/par/wp-content/uploads/sites/4/2020/04/09801003.png"
-    },
-    {
-        "id": 15828,
-        "nombre": "ALFAJOR TRIPLE MOUSSE BLANCO MILKA X 55G",
-        "sku": "0802000229",
-        "image_url": "https://jumboargentina.vtexassets.com/arquivos/ids/803252/Alfajor-Triple-Milka-Mousse-Blanco-55g-1-24792.jpg?v=638379382556330000"
-    },
-    {
-        "id": 15893,
-        "nombre": "ALFAJOR TRIPLE MOUSSE BLANCO MILKA",
-        "sku": "0802000301",
-        "image_url": "https://www.antojosontheway.com/cdn/shop/products/milkatripleblanco_b21342ef-84ed-4a07-b152-6808fa1a2300.png?v=1659316527"
-    },
-    {
-        "id": 15849,
-        "nombre": "ALFAJOR TRIPLE MOUSSE NEGRO MILKA",
-        "sku": "0802000257",
-        "image_url": "https://gauchofood.com/wp-content/uploads/2020/10/Milka-Mousse-Negro-Triple-x-6.jpg"
-    },
-    {
-        "id": 15807,
-        "nombre": "ALFAJOR TRIPLE NEGRO B&N X 73G",
-        "sku": "0802000200",
-        "image_url": "https://yerbamateaustralia.com.au/media/catalog/product/cache/88d58e9238214da18c178141c7d0d19a/n/e/negrotriple.png"
-    },
-    {
-        "id": 15815,
-        "nombre": "ALFAJOR TRIPLE NEGRO GUAYMALLEN X 1",
-        "sku": "0802000209",
-        "image_url": "https://acdn.mitiendanube.com/stores/001/877/724/products/diseno-sin-titulo-51-c24e9a9359716f718b16356140303833-240-0.png"
-    },
-    {
-        "id": 15876,
-        "nombre": "ALFAJOR TRIPLE NEGRO GUAYMALLENX 24",
-        "sku": "0802000284",
-        "image_url": "https://acdn.mitiendanube.com/stores/001/877/724/products/diseno-sin-titulo-51-c24e9a9359716f718b16356140303833-240-0.png"
-    },
-    {
-        "id": 15872,
-        "nombre": "ALFAJOR TRIPLE NEGRO TATIN 21 X 60G",
-        "sku": "0802000280",
-        "image_url": "https://arcordiezb2c.vteximg.com.br/arquivos/ids/156090/ALFAJOR-TATIN-TRIPLE-NEGRO-1-168.jpg?v=637432156914670000"
-    },
-    {
-        "id": 15850,
-        "nombre": "ALFAJOR TRIPLE OREO MILKA X 61G",
-        "sku": "0802000258",
-        "image_url": "https://jumboargentina.vtexassets.com/arquivos/ids/803263/Alfajor-Triple-Milka-Oreo-61g-1-42017.jpg?v=638379382598800000"
-    },
-    {
-        "id": 15853,
-        "nombre": "ALFAJOR TRIPLE OREO X 56G",
-        "sku": "0802000261",
-        "image_url": "https://jumboargentina.vtexassets.com/arquivos/ids/803284-800-600?v=638379382690670000&width=800&height=600&aspect=true"
-    },
-    {
-        "id": 15829,
-        "nombre": "ALFAJOR TRIPLE PEPITOS X 57G",
-        "sku": "0802000230",
-        "image_url": "https://arjosimarprod.vteximg.com.br/arquivos/ids/167234-1000-1000/Alfajor-Triple-Pepitos-57-gr-1-2731.jpg?v=638234985648370000"
-    },
-    {
-        "id": 15866,
-        "nombre": "ALFAJOR TRIPLE TERRABUSI 70G",
-        "sku": "0802000274",
-        "image_url": "https://yerbamateaustralia.com.au/media/catalog/product/cache/68e6283f0522c1ba068d18f15991f845/t/e/terrabusi-alfajor-triple.png"
-    }
+  {
+      "id": 15806,
+      "nombre": "ALFAJOR LECHE TOFI X 46G",
+      "sku": "0802000199",
+      "image_url": "https://d1on8qs0xdu5jz.cloudfront.net/webapp/images/productos/b/0000012000/12617.jpg"
+  },
+  {
+      "id": 15801,
+      "nombre": "ALFAJOR MINITORTA BLANCO AGUILA",
+      "sku": "0802000192",
+      "image_url": "https://i.ebayimg.com/images/g/GIQAAOSwYLtin1qf/s-l1600.jpg"
+  },
+  {
+      "id": 15856,
+      "nombre": "ALFAJOR ORO GUAYMALLEN X 48G",
+      "sku": "0802000264",
+      "image_url": "https://dcdn.mitiendanube.com/stores/002/609/727/products/27-06-isidora-post1-3213eb18e3a3cf518b16878730147476-640-0.png"
+  },
+  {
+      "id": 15908,
+      "nombre": "ALFAJOR SIMPLE BLANCO B&N X 50G",
+      "sku": "0802000316",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_655826-MLA76407686563_052024-O.webp"
+  },
+  {
+      "id": 15854,
+      "nombre": "ALFAJOR SIMPLE MANON X 43G",
+      "sku": "0802000262",
+      "image_url": "https://e-silicaro-resized.s3.sa-east-1.amazonaws.com/20230403-113821Alfajor-manon-1.png"
+  },
+  {
+      "id": 15898,
+      "nombre": "ALFAJOR TRIPLE BLANCO B&N X 73G",
+      "sku": "0802000306",
+      "image_url": "https://yerbamateaustralia.com.au/media/catalog/product/cache/68e6283f0522c1ba068d18f15991f845/b/l/blancotriple.png"
+  },
+  {
+      "id": 15816,
+      "nombre": "ALFAJOR TRIPLE BLANCO GUAYMALLEN X 1",
+      "sku": "0802000210",
+      "image_url": "https://dulcilandia.com.ar/par/wp-content/uploads/sites/4/2020/04/09801001.png"
+  },
+  {
+      "id": 15877,
+      "nombre": "ALFAJOR TRIPLE BLANCO GUAYMALLENX 24",
+      "sku": "0802000285",
+      "image_url": "https://acdn.mitiendanube.com/stores/001/877/724/products/diseno-sin-titulo-61-7aeb800d5e00f5bd2016356140984146-480-0.png"
+  },
+  {
+      "id": 15672,
+      "nombre": "ALFAJOR TRIPLE BLANCO TATIN X 60G",
+      "sku": "0802000018",
+      "image_url": "https://acdn.mitiendanube.com/stores/001/185/658/products/tatintripleblanco-113a2ad710fe320cc617147738603859-1024-1024.jpg"
+  },
+  {
+      "id": 15798,
+      "nombre": "ALFAJOR TRIPLE BON O BON X 60G",
+      "sku": "0802000189",
+      "image_url": "https://m.media-amazon.com/images/I/614cTDdHPpL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+      "id": 16161,
+      "nombre": "ALFAJOR TRIPLE FRUTA GUAYMALLEN X 24",
+      "sku": "0805000097",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_693120-MLA52431694456_112022-O.webp"
+  },
+  {
+      "id": 15857,
+      "nombre": "ALFAJOR TRIPLE FRUTA GUAYMALLEN",
+      "sku": "0802000265",
+      "image_url": "https://dulcilandia.com.ar/par/wp-content/uploads/sites/4/2020/04/09801003.png"
+  },
+  {
+      "id": 15893,
+      "nombre": "ALFAJOR TRIPLE MOUSSE BLANCO MILKA",
+      "sku": "0802000301",
+      "image_url": "https://www.antojosontheway.com/cdn/shop/products/milkatripleblanco_b21342ef-84ed-4a07-b152-6808fa1a2300.png?v=1659316527"
+  },
+  {
+      "id": 15849,
+      "nombre": "ALFAJOR TRIPLE MOUSSE NEGRO MILKA",
+      "sku": "0802000257",
+      "image_url": "https://gauchofood.com/wp-content/uploads/2020/10/Milka-Mousse-Negro-Triple-x-6.jpg"
+  },
+  {
+      "id": 15807,
+      "nombre": "ALFAJOR TRIPLE NEGRO B&N X 73G",
+      "sku": "0802000200",
+      "image_url": "https://yerbamateaustralia.com.au/media/catalog/product/cache/88d58e9238214da18c178141c7d0d19a/n/e/negrotriple.png"
+  },
+  {
+      "id": 15815,
+      "nombre": "ALFAJOR TRIPLE NEGRO GUAYMALLEN X 1",
+      "sku": "0802000209",
+      "image_url": "https://acdn.mitiendanube.com/stores/001/877/724/products/diseno-sin-titulo-51-c24e9a9359716f718b16356140303833-240-0.png"
+  },
+  {
+      "id": 15876,
+      "nombre": "ALFAJOR TRIPLE NEGRO GUAYMALLENX 24",
+      "sku": "0802000284",
+      "image_url": "https://acdn.mitiendanube.com/stores/001/877/724/products/diseno-sin-titulo-51-c24e9a9359716f718b16356140303833-240-0.png"
+  },
+  {
+      "id": 15850,
+      "nombre": "ALFAJOR TRIPLE OREO MILKA X 61G",
+      "sku": "0802000258",
+      "image_url": "https://jumboargentina.vtexassets.com/arquivos/ids/803263/Alfajor-Triple-Milka-Oreo-61g-1-42017.jpg?v=638379382598800000"
+  },
+  {
+      "id": 15853,
+      "nombre": "ALFAJOR TRIPLE OREO X 56G",
+      "sku": "0802000261",
+      "image_url": "https://jumboargentina.vtexassets.com/arquivos/ids/803284-800-600?v=638379382690670000&width=800&height=600&aspect=true"
+  },
+  {
+      "id": 15866,
+      "nombre": "ALFAJOR TRIPLE TERRABUSI 70G",
+      "sku": "0802000274",
+      "image_url": "https://yerbamateaustralia.com.au/media/catalog/product/cache/68e6283f0522c1ba068d18f15991f845/t/e/terrabusi-alfajor-triple.png"
+  }
 ]
