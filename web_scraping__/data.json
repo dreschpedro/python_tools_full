@@ -1,0 +1,917 @@
+[
+  {
+    "id": 43703,
+    "nombre": "COLORANTE SALMON BLOCH 4 X 15G",
+    "sku": 108000599
+  },
+  {
+    "id": 43669,
+    "nombre": "COLORANTE SALMON CIRCE 12 X 15G",
+    "sku": 108000566
+  },
+  {
+    "id": 43704,
+    "nombre": "COLORANTE TURQUESA BLOCH 4 X 15G",
+    "sku": 108000600
+  },
+  {
+    "id": 43670,
+    "nombre": "COLORANTE TURQUESA CIRCE 12 X 15",
+    "sku": 108000567
+  },
+  {
+    "id": 43672,
+    "nombre": "COLORANTE VERDE A CIRCE 12 X 15G",
+    "sku": 108000569
+  },
+  {
+    "id": 43707,
+    "nombre": "COLORANTE VERDE BLOCH 4 X 15G",
+    "sku": 108000603
+  },
+  {
+    "id": 43671,
+    "nombre": "COLORANTE VERDE CIRCE 12 X 15G",
+    "sku": 108000568
+  },
+  {
+    "id": 43588,
+    "nombre": "COLORANTE VERDE FLEIBOR DISP",
+    "sku": 108000525
+  },
+  {
+    "id": 42433,
+    "nombre": "COLORANTE VERDE FLEIBOR X 15G",
+    "sku": 108000483
+  },
+  {
+    "id": 43705,
+    "nombre": "COLORANTE VERDE HOJA BLOCH 4 X 15G",
+    "sku": 108000601
+  },
+  {
+    "id": 43673,
+    "nombre": "COLORANTE VERDE HOJA CIRCE 12 X 15G",
+    "sku": 108000570
+  },
+  {
+    "id": 43595,
+    "nombre": "COLORANTE VERDE HOJA FLEIBOR DISP",
+    "sku": 108000532
+  },
+  {
+    "id": 43079,
+    "nombre": "COLORANTE VERDE HOJA FLEIBOR X 15G",
+    "sku": 108000509
+  },
+  {
+    "id": 43706,
+    "nombre": "COLORANTE VERDE NAV BLOCH4 X 15G",
+    "sku": 108000602
+  },
+  {
+    "id": 43593,
+    "nombre": "COLORANTE VERDE W FLEIBOR DISP",
+    "sku": 108000530
+  },
+  {
+    "id": 43075,
+    "nombre": "COLORANTE VERDE W FLEIBOR X 15G",
+    "sku": 108000505
+  },
+  {
+    "id": 43708,
+    "nombre": "COLORANTE VIOLETA BLOCH 4 X 15G",
+    "sku": 108000604
+  },
+  {
+    "id": 43674,
+    "nombre": "COLORANTE VIOLETA CIRCE 12 X 15G",
+    "sku": 108000571
+  },
+  {
+    "id": 43581,
+    "nombre": "COLORANTE VIOLETA FLEIBOR DISP",
+    "sku": 108000518
+  },
+  {
+    "id": 42419,
+    "nombre": "COLORANTE VIOLETA FLEIBOR X 15G",
+    "sku": 108000469
+  },
+  {
+    "id": 44099,
+    "nombre": "COMBO 1 MEDIDOR DCL",
+    "sku": 114000933
+  },
+  {
+    "id": 44100,
+    "nombre": "COMBO 2 REPOSTERO DCL",
+    "sku": 114000934
+  },
+  {
+    "id": 44101,
+    "nombre": "COMBO 3 PIZZERO DCL",
+    "sku": 114000935
+  },
+  {
+    "id": 44102,
+    "nombre": "COMBO 4 COOKIES DCL",
+    "sku": 114000936
+  },
+  {
+    "id": 44103,
+    "nombre": "COMBO 5 DECORACION DCL",
+    "sku": 114000937
+  },
+  {
+    "id": 44104,
+    "nombre": "COMBO 6 PASTELERO DCL",
+    "sku": 114000938
+  },
+  {
+    "id": 44105,
+    "nombre": "COMBO 7 PANADERO DCL",
+    "sku": 114000939
+  },
+  {
+    "id": 42399,
+    "nombre": "CONFITE CORAZON DORADO LOW COST",
+    "sku": 104000491
+  },
+  {
+    "id": 31852,
+    "nombre": "CONFITE CORAZON LILA PAST LOW COST",
+    "sku": 104000429
+  },
+  {
+    "id": 27238,
+    "nombre": "CONFITE CORAZON MULTI LOW COST",
+    "sku": 104000404
+  },
+  {
+    "id": 27240,
+    "nombre": "CONFITE CORAZON MULTI PAST LOW COST",
+    "sku": 104000405
+  },
+  {
+    "id": 27236,
+    "nombre": "CONFITE CORAZON ROJO LOW COST",
+    "sku": 104000402
+  },
+  {
+    "id": 27237,
+    "nombre": "CONFITE CORAZON ROSA LOW COST",
+    "sku": 104000403
+  },
+  {
+    "id": 27242,
+    "nombre": "CONFITE CORAZON ROSA PAST LOW COST",
+    "sku": 104000406
+  },
+  {
+    "id": 15456,
+    "nombre": "CONFITE DORADO PROIN 24 X 350G",
+    "sku": 104000018
+  },
+  {
+    "id": 15457,
+    "nombre": "CONFITE DORADO PROIN X 350G",
+    "sku": 104000019
+  },
+  {
+    "id": 52372,
+    "nombre": "CONFITE DORADO PROIN X KG",
+    "sku": 104000017
+  },
+  {
+    "id": 27244,
+    "nombre": "CONFITE LENTEJA FUCSIA LOW COST",
+    "sku": 104000407
+  },
+  {
+    "id": 27246,
+    "nombre": "CONFITE LENTEJA MULTI LOW COST",
+    "sku": 104000408
+  },
+  {
+    "id": 27190,
+    "nombre": "CONFITE MAXI PERLAS X 100G",
+    "sku": 104000356
+  },
+  {
+    "id": 52371,
+    "nombre": "CONFITE PLATA CIRCE X KG",
+    "sku": 104000010
+  },
+  {
+    "id": 20961,
+    "nombre": "CONFITE ROCKLETS ARCOR X 1.1KG",
+    "sku": 104000355
+  },
+  {
+    "id": 15463,
+    "nombre": "COOL PAD 12CM BOTICA",
+    "sku": 120000297
+  },
+  {
+    "id": 30238,
+    "nombre": "COPOS DE MAIZ SIN AZUCAR X 3KG SA",
+    "sku": 119000019
+  },
+  {
+    "id": 52310,
+    "nombre": "COPOS DE MAIZ SIN AZUCAR X KG SA",
+    "sku": 119000020
+  },
+  {
+    "id": 44433,
+    "nombre": "CORNET PLASTICO BOTICA",
+    "sku": 120000813
+  },
+  {
+    "id": 52234,
+    "nombre": "CORTANTE GA102 CARA CONEJO FLOUGUS",
+    "sku": 114000969
+  },
+  {
+    "id": 15920,
+    "nombre": "CORTANTE TREBOL MULTY",
+    "sku": 114000467
+  },
+  {
+    "id": 15922,
+    "nombre": "CORTANTE TRINEO MULTY",
+    "sku": 114000469
+  },
+  {
+    "id": 27377,
+    "nombre": "CORTANTE TRINEO MULTY",
+    "sku": 114000726
+  },
+  {
+    "id": 15923,
+    "nombre": "CORTANTE TULIPAN MULTY",
+    "sku": 114000470
+  },
+  {
+    "id": 15925,
+    "nombre": "CORTANTE VACA MULTY",
+    "sku": 114000472
+  },
+  {
+    "id": 15926,
+    "nombre": "CORTANTE VARITA MAGICA MULTY",
+    "sku": 114000473
+  },
+  {
+    "id": 30176,
+    "nombre": "CORTANTES SET PARA PASTAS PARPEN",
+    "sku": 120000570
+  },
+  {
+    "id": 42401,
+    "nombre": "CREMA BASE NO LACTEA X 500G",
+    "sku": 106000127
+  },
+  {
+    "id": 43476,
+    "nombre": "CREMA CHANTILLY LEDEVIT 4 X 5KG",
+    "sku": 106000133
+  },
+  {
+    "id": 43474,
+    "nombre": "CREMA CHANTILLY LEDEVIT 6 X 1KG",
+    "sku": 106000131
+  },
+  {
+    "id": 43475,
+    "nombre": "CREMA CHANTILLY LEDEVIT 8 X 500G",
+    "sku": 106000132
+  },
+  {
+    "id": 9686,
+    "nombre": "CREMA CHANTILLY LEDEVIT X 1KG",
+    "sku": 106000031
+  },
+  {
+    "id": 15974,
+    "nombre": "CREMA CHANTILLY LEDEVIT X 4.7KG",
+    "sku": 106000032
+  },
+  {
+    "id": 9687,
+    "nombre": "CREMA CHANTILLY LEDEVIT X 500G",
+    "sku": 106000033
+  },
+  {
+    "id": 9685,
+    "nombre": "CREMA CHANTILLY LEDEVIT X 5KG",
+    "sku": 106000030
+  },
+  {
+    "id": 43473,
+    "nombre": "CREMA CHANTILLY LEDEVIT4 X 4.7KG",
+    "sku": 106000130
+  },
+  {
+    "id": 43477,
+    "nombre": "CREMA CHOCOLAT LEDEVIT 4 X 4.5KG",
+    "sku": 106000134
+  },
+  {
+    "id": 43478,
+    "nombre": "CREMA CHOCOLATE LEDEVIT 6 X 1KG",
+    "sku": 106000135
+  },
+  {
+    "id": 43479,
+    "nombre": "CREMA CHOCOLATE LEDEVIT 8 X 500G",
+    "sku": 106000136
+  },
+  {
+    "id": 9690,
+    "nombre": "CREMA CHOCOLATE LEDEVIT X 1KG",
+    "sku": 106000037
+  },
+  {
+    "id": 9691,
+    "nombre": "CREMA CHOCOLATE LEDEVIT X 4.5KG",
+    "sku": 106000038
+  },
+  {
+    "id": 9692,
+    "nombre": "CREMA CHOCOLATE LEDEVIT X 500G",
+    "sku": 106000039
+  },
+  {
+    "id": 15967,
+    "nombre": "CREMA DE LECHE LA PAULINA",
+    "sku": 106000021
+  },
+  {
+    "id": 45445,
+    "nombre": "CREMA DE LECHE LA PAULINA X 200C",
+    "sku": 106000192
+  },
+  {
+    "id": 27270,
+    "nombre": "CREMA DE LECHE MILKAUT X 330CC",
+    "sku": 106000117
+  },
+  {
+    "id": 27266,
+    "nombre": "CREMA DE LECHE MILKAUT X 5L",
+    "sku": 106000115
+  },
+  {
+    "id": 27264,
+    "nombre": "CREMA DOBLE MILKAUT X 205CC",
+    "sku": 106000114
+  },
+  {
+    "id": 43480,
+    "nombre": "CREMA FRUTILLA LEDEVIT 4 X 4.7KG",
+    "sku": 106000137
+  },
+  {
+    "id": 43481,
+    "nombre": "CREMA FRUTILLA LEDEVIT 6 X 1KG",
+    "sku": 106000138
+  },
+  {
+    "id": 43482,
+    "nombre": "CREMA FRUTILLA LEDEVIT 8 X 500G",
+    "sku": 106000139
+  },
+  {
+    "id": 9695,
+    "nombre": "CREMA FRUTILLA LEDEVIT X 1KG",
+    "sku": 106000043
+  },
+  {
+    "id": 15986,
+    "nombre": "CREMA FRUTILLA LEDEVIT X 4.7KG",
+    "sku": 106000044
+  },
+  {
+    "id": 9696,
+    "nombre": "CREMA FRUTILLA LEDEVIT X 500G",
+    "sku": 106000045
+  },
+  {
+    "id": 43483,
+    "nombre": "CREMA PARIS LEDEVIT 16 X 280G",
+    "sku": 106000140
+  },
+  {
+    "id": 9698,
+    "nombre": "CREMA PARIS LEDEVIT X 280G",
+    "sku": 106000047
+  },
+  {
+    "id": 43518,
+    "nombre": "CREMA PASTELERA KEUKEN 6 X 1KG",
+    "sku": 106000149
+  },
+  {
+    "id": 45371,
+    "nombre": "CREMA PASTELERA KEUKEN X 3KG",
+    "sku": 106000190
+  },
+  {
+    "id": 52435,
+    "nombre": "CREMA PASTELERA KEUKEN X KG",
+    "sku": 106000022
+  },
+  {
+    "id": 43484,
+    "nombre": "CREMA PASTELERA LEDEVIT CAJA",
+    "sku": 106000147
+  },
+  {
+    "id": 41676,
+    "nombre": "CREMA PASTELERA LEDEVIT X 1KG",
+    "sku": 118000055
+  },
+  {
+    "id": 9700,
+    "nombre": "CREMA PASTELERA LEDEVIT X 250G",
+    "sku": 106000049
+  },
+  {
+    "id": 52814,
+    "nombre": "CREMA PASTELERA LEDEVIT X KG",
+    "sku": 118000087
+  },
+  {
+    "id": 43485,
+    "nombre": "CREMA VAINILLA LEDEVIT 4 X 4.7KG",
+    "sku": 106000141
+  },
+  {
+    "id": 43488,
+    "nombre": "CREMA VAINILLA LEDEVIT 4 X 5KG",
+    "sku": 106000144
+  },
+  {
+    "id": 43486,
+    "nombre": "CREMA VAINILLA LEDEVIT 6 X 1KG",
+    "sku": 106000142
+  },
+  {
+    "id": 43487,
+    "nombre": "CREMA VAINILLA LEDEVIT 8 X 500G",
+    "sku": 106000143
+  },
+  {
+    "id": 9705,
+    "nombre": "CREMA VAINILLA LEDEVIT X 1KG",
+    "sku": 106000055
+  },
+  {
+    "id": 15998,
+    "nombre": "CREMA VAINILLA LEDEVIT X 4.7KG",
+    "sku": 106000056
+  },
+  {
+    "id": 9706,
+    "nombre": "CREMA VAINILLA LEDEVIT X 500G",
+    "sku": 106000057
+  },
+  {
+    "id": 9704,
+    "nombre": "CREMA VAINILLA LEDEVIT X 5KG",
+    "sku": 106000054
+  },
+  {
+    "id": 43792,
+    "nombre": "CREMA VEGETAL CHANTYPACK CAJA",
+    "sku": 106000173
+  },
+  {
+    "id": 43734,
+    "nombre": "CREMA VEGETAL ULTRA RICHS CAJA",
+    "sku": 106000172
+  },
+  {
+    "id": 51698,
+    "nombre": "CREMOR TARTARO ALZOL X 100G",
+    "sku": 105000014
+  },
+  {
+    "id": 43111,
+    "nombre": "CREMOR TARTARO ALZOL X 500G",
+    "sku": 105000057
+  },
+  {
+    "id": 52433,
+    "nombre": "CREMOR TARTARO ALZOL X KG",
+    "sku": 105000068
+  },
+  {
+    "id": 43725,
+    "nombre": "CROCANTE MANI ALMENDRAS CAVIWA CAJA",
+    "sku": 104000506
+  },
+  {
+    "id": 18531,
+    "nombre": "CROCANTE MANI ALMENDRAS CAVIWA X 1KG",
+    "sku": 104000338
+  },
+  {
+    "id": 52392,
+    "nombre": "CROCANTE MANI ALMENDRAS CAVIWA X KG",
+    "sku": 104000340
+  },
+  {
+    "id": 43723,
+    "nombre": "CROCANTE MANI CON CHOCOLATE CAVIWA CAJA",
+    "sku": 104000504
+  },
+  {
+    "id": 18526,
+    "nombre": "CROCANTE MANI CON CHOCOLATE CAVIWA X 1KG",
+    "sku": 104000333
+  },
+  {
+    "id": 52390,
+    "nombre": "CROCANTE MANI CON CHOCOLATE CAVIWA X KG",
+    "sku": 104000334
+  },
+  {
+    "id": 43724,
+    "nombre": "CROCANTE MANI NAT CAVIWA CAJA",
+    "sku": 104000505
+  },
+  {
+    "id": 18528,
+    "nombre": "CROCANTE MANI NAT CAVIWA X 1KG",
+    "sku": 104000335
+  },
+  {
+    "id": 52391,
+    "nombre": "CROCANTE MANI NAT CAVIWA X KG",
+    "sku": 104000336
+  },
+  {
+    "id": 47327,
+    "nombre": "CROCANTE MANI VAINILLA CAVIWA CAJA",
+    "sku": 104000493
+  },
+  {
+    "id": 47326,
+    "nombre": "CROCANTE MANI VAINILLA CAVIWA X 1KG",
+    "sku": 104000492
+  },
+  {
+    "id": 52405,
+    "nombre": "CROCANTE MANI VAINI CAVIWA X KG",
+    "sku": 104000494
+  },
+  {
+    "id": 47791,
+    "nombre": "CUCHARA ALTA TEMPERATURA 25CM CA",
+    "sku": 120000593
+  },
+  {
+    "id": 47792,
+    "nombre": "CUCHARA ALTA TEMPERATURA 45CM CA",
+    "sku": 120000594
+  },
+  {
+    "id": 16027,
+    "nombre": "CUCHARA BAMBOO 30CM LOW COST",
+    "sku": 120000298
+  },
+  {
+    "id": 41685,
+    "nombre": "CUCHARA MEDIDORA INOXIDABLE X MYM X 5",
+    "sku": 120000603
+  },
+  {
+    "id": 42983,
+    "nombre": "CUCHARA SILICONA MANGO MADERA LOW COST",
+    "sku": 120000622
+  },
+  {
+    "id": 44427,
+    "nombre": "CUCHARAS MEDIDORAS BOTICA",
+    "sku": 120000807
+  },
+  {
+    "id": 44037,
+    "nombre": "CUCHARAS MEDIDORAS DCL",
+    "sku": 120000649
+  },
+  {
+    "id": 16038,
+    "nombre": "CUCHILLO CORTA TORTA 37CM CHM",
+    "sku": 120000300
+  },
+  {
+    "id": 16039,
+    "nombre": "CUCHILLO CORTA TORTA 43CM CHM",
+    "sku": 120000301
+  },
+  {
+    "id": 43268,
+    "nombre": "CUCHILLO SERRUCHO 32CM LOW COST",
+    "sku": 120000631
+  },
+  {
+    "id": 44031,
+    "nombre": "REPOSTERIA CUPLA MARCA DCL",
+    "sku": 120000643
+  },
+  {
+    "id": 16050,
+    "nombre": "CUPLA PLAST CHICA PARPEN X 1",
+    "sku": 120000302
+  },
+  {
+    "id": 44299,
+    "nombre": "CUPLA PLAST CHICA PARPEN X 20",
+    "sku": 120000797
+  },
+  {
+    "id": 16052,
+    "nombre": "CUPLA PLAST GRANDE PARPEN X 1",
+    "sku": 120000304
+  },
+  {
+    "id": 44300,
+    "nombre": "CUPLA PLAST GRANDE PARPEN X 20",
+    "sku": 120000798
+  },
+  {
+    "id": 16054,
+    "nombre": "CUPLA TRICOLOR GRANDE PARPEN",
+    "sku": 120000306
+  },
+  {
+    "id": 27522,
+    "nombre": "CUPLA TRIPLE GRANDE LOW COST",
+    "sku": 120000535
+  },
+  {
+    "id": 16086,
+    "nombre": "DESTELLO NEUTRO LEDEVIT X 310G",
+    "sku": 107000003
+  },
+  {
+    "id": 16084,
+    "nombre": "DESTELLO NEUTRO LEDEVIT X 4.4KG",
+    "sku": 107000001
+  },
+  {
+    "id": 52464,
+    "nombre": "DESTELLO NEUTRO LEDEVIT X KG",
+    "sku": 107000004
+  },
+  {
+    "id": 43491,
+    "nombre": "DESTELLO NEUTRO LEDEVIT16 X 310G",
+    "sku": 107000061
+  },
+  {
+    "id": 42369,
+    "nombre": "DROPS CORONA ORO PASTELAR X 500G",
+    "sku": 104000448
+  },
+  {
+    "id": 16319,
+    "nombre": "DROPS CUPCAKES PASTELAR X 1KG",
+    "sku": 104000020
+  },
+  {
+    "id": 44334,
+    "nombre": "DROPS CUPCAKES PASTELAR X 30G",
+    "sku": 104000576
+  },
+  {
+    "id": 44335,
+    "nombre": "DROPS DIAMANTES PASTELAR X 30G",
+    "sku": 104000577
+  },
+  {
+    "id": 42370,
+    "nombre": "DROPS FLAMENCO PASTELAR X 500G",
+    "sku": 104000449
+  },
+  {
+    "id": 44339,
+    "nombre": "DROPS HELADITOS PASTELAR X 30G",
+    "sku": 104000581
+  },
+  {
+    "id": 42372,
+    "nombre": "DROPS HELADITOS PASTELAR X 500G",
+    "sku": 104000451
+  },
+  {
+    "id": 44340,
+    "nombre": "DROPS MIX CANDY PASTELAR X 30G",
+    "sku": 104000582
+  },
+  {
+    "id": 44341,
+    "nombre": "DROPS MIX NEON PASTELAR X 30G",
+    "sku": 104000583
+  },
+  {
+    "id": 42375,
+    "nombre": "DROPS NAVIDEÑO PASTELAR X 30G",
+    "sku": 104000456
+  },
+  {
+    "id": 44332,
+    "nombre": "DROPS OJITOS PASTELAR X 30G",
+    "sku": 104000574
+  },
+  {
+    "id": 42373,
+    "nombre": "DROPS OJITOS PASTELAR X 500G",
+    "sku": 104000452
+  },
+  {
+    "id": 42371,
+    "nombre": "DROPS PIÑAS PASTELAR X 500G",
+    "sku": 104000450
+  },
+  {
+    "id": 44333,
+    "nombre": "DROPS SIRENAS PASTELAR X 30G",
+    "sku": 104000575
+  },
+  {
+    "id": 53093,
+    "nombre": "DULCE ARRAYANES X 10KG",
+    "sku": 107000071
+  },
+  {
+    "id": 53094,
+    "nombre": "DULCE ARRAYANES X KG",
+    "sku": 107000072
+  },
+  {
+    "id": 52480,
+    "nombre": "DULCE BATATA BARRA ALCO X KG",
+    "sku": 107000062
+  },
+  {
+    "id": 16340,
+    "nombre": "DULCE BATATA BARRA BARI X 5KG",
+    "sku": 107000008
+  },
+  {
+    "id": 52466,
+    "nombre": "DULCE BATATA BARRA BARI X KG",
+    "sku": 107000007
+  },
+  {
+    "id": 16337,
+    "nombre": "DULCE BATATA BARRA DEWEY X 5KG",
+    "sku": 107000005
+  },
+  {
+    "id": 52465,
+    "nombre": "DULCE BATATA BARRA DEWEY X KG",
+    "sku": 107000006
+  },
+  {
+    "id": 52467,
+    "nombre": "DULCE DE LECHE EL MUNDO X KG",
+    "sku": 107000013
+  },
+  {
+    "id": 47415,
+    "nombre": "DULCE DE LECHE EUREKA X 10KG",
+    "sku": 107000064
+  },
+  {
+    "id": 47418,
+    "nombre": "DULCE DE LECHE EUREKA X 1KG",
+    "sku": 107000067
+  },
+  {
+    "id": 47417,
+    "nombre": "DULCE DE LECHE EUREKA X 3KG",
+    "sku": 107000066
+  },
+  {
+    "id": 47416,
+    "nombre": "DULCE DE LECHE EUREKA X 5KG",
+    "sku": 107000065
+  },
+  {
+    "id": 52482,
+    "nombre": "DULCE DE LECHE EUREKA X KG",
+    "sku": 107000068
+  },
+  {
+    "id": 6659,
+    "nombre": "DULCE DE LECHE LANFIELD X 10KG",
+    "sku": 107000014
+  },
+  {
+    "id": 42403,
+    "nombre": "DULCE DE LECHE LANFIELD X 1KG",
+    "sku": 107000047
+  },
+  {
+    "id": 6661,
+    "nombre": "DULCE DE LECHE LANFIELD X 3KG",
+    "sku": 107000015
+  },
+  {
+    "id": 6663,
+    "nombre": "DULCE DE LECHE LANFIELD X 5KG",
+    "sku": 107000016
+  },
+  {
+    "id": 52468,
+    "nombre": "DULCE DE LECHE LANFIELD X KG",
+    "sku": 107000017
+  },
+  {
+    "id": 6667,
+    "nombre": "DULCE DE LECHE LEDEVIT X 5KG",
+    "sku": 107000018
+  },
+  {
+    "id": 52469,
+    "nombre": "DULCE DE LECHE LEDEVIT X KG",
+    "sku": 107000019
+  },
+  {
+    "id": 43440,
+    "nombre": "DULCE DE LECHE LHERITIER 6 X 1KG",
+    "sku": 107000060
+  },
+  {
+    "id": 43439,
+    "nombre": "DULCE DE LECHE LHERITIER X 1KG",
+    "sku": 107000059
+  },
+  {
+    "id": 43437,
+    "nombre": "DULCE DE LECHE LHERITIER X 400G",
+    "sku": 107000057
+  },
+  {
+    "id": 43438,
+    "nombre": "DULCE DE LECHE LHERITIER12 X 400",
+    "sku": 107000058
+  },
+  {
+    "id": 52478,
+    "nombre": "DULCE DE LECHE PREM TANTO X KG",
+    "sku": 107000055
+  },
+  {
+    "id": 43332,
+    "nombre": "DULCE DE LECHE PREM TANTO X 10KG",
+    "sku": 107000053
+  },
+  {
+    "id": 43333,
+    "nombre": "DULCE DON BENITO X 10KG",
+    "sku": 107000054
+  },
+  {
+    "id": 52479,
+    "nombre": "DULCE DON BENITO X KG",
+    "sku": 107000056
+  },
+  {
+    "id": 16341,
+    "nombre": "DULCE MANJAR X 10KG",
+    "sku": 107000020
+  },
+  {
+    "id": 41622,
+    "nombre": "DULCE MANJAR X 1KG",
+    "sku": 107000048
+  },
+  {
+    "id": 16342,
+    "nombre": "DULCE MANJAR X 3KG",
+    "sku": 107000021
+  },
+  {
+    "id": 16343,
+    "nombre": "DULCE MANJAR X 5KG",
+    "sku": 107000022
+  },
+  {
+    "id": 52470,
+    "nombre": "DULCE MANJAR X KG",
+    "sku": 107000023
+  },
+  {
+    "id": 9774,
+    "nombre": "DURAZNO CUBO GENTLEMAN 6 X 3KG",
+    "sku": 109000027
+  }
+]

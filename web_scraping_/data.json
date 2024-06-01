@@ -1,0 +1,992 @@
+[
+  {
+    "id": 54085,
+    "nombre": "BATATA ESTUCHE ALCO CAJA",
+    "sku": 107000079
+  },
+  {
+    "id": 44277,
+    "nombre": "BATIDOR INOXIDABLE X 10\" CHM",
+    "sku": 120000791
+  },
+  {
+    "id": 21258,
+    "nombre": "BATIDOR INOXIDABLE X 12\" CHM",
+    "sku": 120000491
+  },
+  {
+    "id": 44278,
+    "nombre": "BATIDOR INOXIDABLE X 8\" CHM",
+    "sku": 120000792
+  },
+  {
+    "id": 11597,
+    "nombre": "BATIDOR PERA ACERO CHICO CA",
+    "sku": 120000020
+  },
+  {
+    "id": 11599,
+    "nombre": "BATIDOR PERA ACERO GRANDE CA",
+    "sku": 120000022
+  },
+  {
+    "id": 11598,
+    "nombre": "BATIDOR PERA ACERO MEDIANO CA",
+    "sku": 120000021
+  },
+  {
+    "id": 27515,
+    "nombre": "BATIDOR SILICONA 25CM LOW COST",
+    "sku": 120000528
+  },
+  {
+    "id": 27526,
+    "nombre": "BATIDOR SILICONA PREMIUM 25CM LOW COST",
+    "sku": 120000539
+  },
+  {
+    "id": 27527,
+    "nombre": "BATIDOR SILICONA PREMIUM 32CM LOW COST",
+    "sku": 120000540
+  },
+  {
+    "id": 41684,
+    "nombre": "BATIDOR SILICONA 30CM LOW COST",
+    "sku": 120000602
+  },
+  {
+    "id": 43727,
+    "nombre": "BETTERCREME CHANTILLY 12 X 453G",
+    "sku": 106000165
+  },
+  {
+    "id": 43728,
+    "nombre": "BETTERCREME CHANTILLY 12 X 907G",
+    "sku": 106000166
+  },
+  {
+    "id": 43729,
+    "nombre": "BETTERCREME CHANTILLY 4 X 4KG",
+    "sku": 106000167
+  },
+  {
+    "id": 43730,
+    "nombre": "BETTERCREME CHOCOLATE 12 X 453G",
+    "sku": 106000168
+  },
+  {
+    "id": 43731,
+    "nombre": "BETTERCREME CHOCOLATE 12 X 907G",
+    "sku": 106000169
+  },
+  {
+    "id": 43732,
+    "nombre": "BETTERCREME DULCE DE LECHE 12 X 907G",
+    "sku": 106000170
+  },
+  {
+    "id": 43733,
+    "nombre": "BETTERCREME VAINILLA 12 X 907G",
+    "sku": 106000171
+  },
+  {
+    "id": 52414,
+    "nombre": "BICARBONATO AMONIO ALZOL X 250G",
+    "sku": 105000008
+  },
+  {
+    "id": 47276,
+    "nombre": "BIZCOCHUELO CHOCOLATE X 450G BM",
+    "sku": 103000029
+  },
+  {
+    "id": 47274,
+    "nombre": "BIZCOCHUELO CHOCOLATE X 750G BM",
+    "sku": 103000027
+  },
+  {
+    "id": 43735,
+    "nombre": "BIZCOCHUELO RECTANGULAR CHOCOLATE CONDESA CAJ",
+    "sku": 103000020
+  },
+  {
+    "id": 43736,
+    "nombre": "BIZCOCHUELO RECTANGULAR VA CONDESA CAJ",
+    "sku": 103000021
+  },
+  {
+    "id": 43737,
+    "nombre": "BIZCOCHUELO REDONDO CHOCOLATE CONDESA CAJ",
+    "sku": 103000022
+  },
+  {
+    "id": 43738,
+    "nombre": "BIZCOCHUELO REDONDO VA CONDESA CAJ",
+    "sku": 103000023
+  },
+  {
+    "id": 27511,
+    "nombre": "BIZCOCHUELO SIN TACC CHOCO ARCOR",
+    "sku": 118000046
+  },
+  {
+    "id": 27510,
+    "nombre": "BIZCOCHUELO SIN TACC VAINILLA ARCOR",
+    "sku": 118000045
+  },
+  {
+    "id": 43530,
+    "nombre": "BIZCOCHUELO VAINILLA KEUKEN 6 X 1KG",
+    "sku": 118000058
+  },
+  {
+    "id": 30235,
+    "nombre": "BIZCOCHUELO VAINILLA ROYAL X 500G",
+    "sku": 118000049
+  },
+  {
+    "id": 51079,
+    "nombre": "BIZCOCHUELO VAINILLA BOCA BM",
+    "sku": 103000032
+  },
+  {
+    "id": 47780,
+    "nombre": "BIZCOCHUELO VAINILLA E X QUISITA",
+    "sku": 118000084
+  },
+  {
+    "id": 47277,
+    "nombre": "BIZCOCHUELO VAINILLA X 450G BM",
+    "sku": 103000030
+  },
+  {
+    "id": 47275,
+    "nombre": "BIZCOCHUELO VAINILLA X 750G BM",
+    "sku": 103000028
+  },
+  {
+    "id": 12271,
+    "nombre": "BOQUILLA CONFITERIA N3 MYM X 10",
+    "sku": 120000215
+  },
+  {
+    "id": 29413,
+    "nombre": "BOWL ACERO DORADO PASTELAR",
+    "sku": 120000576
+  },
+  {
+    "id": 27516,
+    "nombre": "BOWL ACERO INOXIDABLE X 18CM LOW COST",
+    "sku": 120000529
+  },
+  {
+    "id": 27218,
+    "nombre": "BRILLANTINA COMESTIBLE AMARILLO CA",
+    "sku": 104000384
+  },
+  {
+    "id": 27219,
+    "nombre": "BRILLANTINA COMESTIBLE AZUL CA",
+    "sku": 104000385
+  },
+  {
+    "id": 27230,
+    "nombre": "BRILLANTINA COMESTIBLE BLANCO CA",
+    "sku": 104000396
+  },
+  {
+    "id": 27220,
+    "nombre": "BRILLANTINA COMESTIBLE CELESTE CA",
+    "sku": 104000386
+  },
+  {
+    "id": 27221,
+    "nombre": "BRILLANTINA COMESTIBLE FUCSIA CA",
+    "sku": 104000387
+  },
+  {
+    "id": 27222,
+    "nombre": "BRILLANTINA COMESTIBLE LILA CL CA",
+    "sku": 104000388
+  },
+  {
+    "id": 27223,
+    "nombre": "BRILLANTINA COMESTIBLE NARANJA CA",
+    "sku": 104000389
+  },
+  {
+    "id": 27224,
+    "nombre": "BRILLANTINA COMESTIBLE NEGRO CA",
+    "sku": 104000390
+  },
+  {
+    "id": 27231,
+    "nombre": "BRILLANTINA COMESTIBLE ORO CA",
+    "sku": 104000397
+  },
+  {
+    "id": 27225,
+    "nombre": "BRILLANTINA COMESTIBLE PLATA CA",
+    "sku": 104000391
+  },
+  {
+    "id": 27226,
+    "nombre": "BRILLANTINA COMESTIBLE ROJO CA",
+    "sku": 104000392
+  },
+  {
+    "id": 27227,
+    "nombre": "BRILLANTINA COMESTIBLE ROSA CA",
+    "sku": 104000393
+  },
+  {
+    "id": 27228,
+    "nombre": "BRILLANTINA COMESTIBLE VERDE CA",
+    "sku": 104000394
+  },
+  {
+    "id": 27229,
+    "nombre": "BRILLANTINA COMESTIBLE VIOLETA CA",
+    "sku": 104000395
+  },
+  {
+    "id": 12360,
+    "nombre": "BUDINERA TEFLON 25 X 13CM MYM",
+    "sku": 114000021
+  },
+  {
+    "id": 52370,
+    "nombre": "CACAO AMARGO ALCALI ALZOL X KG",
+    "sku": 102000287
+  },
+  {
+    "id": 52348,
+    "nombre": "CACAO AMARGO ALCALI ALZOL X 250G",
+    "sku": 102000098
+  },
+  {
+    "id": 51007,
+    "nombre": "CACAO AMARGO ALCALIN FX 10 X 1KG",
+    "sku": 102000288
+  },
+  {
+    "id": 35303,
+    "nombre": "CACAO AMARGO ALCALIN FX X 1KG",
+    "sku": 102000201
+  },
+  {
+    "id": 52364,
+    "nombre": "CACAO AMARGO ALCALIN FX X 250G",
+    "sku": 102000214
+  },
+  {
+    "id": 52344,
+    "nombre": "CACAO AMARGO ALCALIN FX X KG",
+    "sku": 102000048
+  },
+  {
+    "id": 12390,
+    "nombre": "CACAO AMARGO ESP ALZOL X 1KG",
+    "sku": 102000099
+  },
+  {
+    "id": 52349,
+    "nombre": "CACAO AMARGO ESP ALZOL X KG",
+    "sku": 102000100
+  },
+  {
+    "id": 52351,
+    "nombre": "CACAO AMARGO KEUKEN X 250G",
+    "sku": 102000108
+  },
+  {
+    "id": 52352,
+    "nombre": "CACAO AMARGO MAPSA X 100G",
+    "sku": 102000111
+  },
+  {
+    "id": 9390,
+    "nombre": "CACAO AMARGO MAPSA X 1KG",
+    "sku": 102000112
+  },
+  {
+    "id": 54050,
+    "nombre": "CACAO AMARGO MAPSA X KG",
+    "sku": 102000296
+  },
+  {
+    "id": 52350,
+    "nombre": "CACAO DULCE ALZOL X KG",
+    "sku": 102000103
+  },
+  {
+    "id": 35302,
+    "nombre": "CACAO NEGRO ALZOL X 500G",
+    "sku": 102000200
+  },
+  {
+    "id": 52368,
+    "nombre": "CACAO NEGRO FX X 250G",
+    "sku": 102000220
+  },
+  {
+    "id": 52345,
+    "nombre": "CACAO NEGRO FX X KG",
+    "sku": 102000050
+  },
+  {
+    "id": 51008,
+    "nombre": "CACAO NEGRO NOIR FX 10 X 1KG",
+    "sku": 102000289
+  },
+  {
+    "id": 35305,
+    "nombre": "CACAO NEGRO NOIR FX X 1KG",
+    "sku": 102000203
+  },
+  {
+    "id": 47603,
+    "nombre": "CAMPANITAS PLASTICAS COOPER X 4",
+    "sku": 114000849
+  },
+  {
+    "id": 43689,
+    "nombre": "CARAMELO LIQUIDO CIRCE CAJA",
+    "sku": 115000250
+  },
+  {
+    "id": 41646,
+    "nombre": "CASCARA NARANJA GLASEADA X 1KG",
+    "sku": 110000073
+  },
+  {
+    "id": 12931,
+    "nombre": "CASCARA NARANJA GLASEADA X 2KG",
+    "sku": 110000008
+  },
+  {
+    "id": 52559,
+    "nombre": "CASCARA NARANJA GLASEADA X KG",
+    "sku": 110000007
+  },
+  {
+    "id": 27354,
+    "nombre": "CASTAÑA DE CAJU MKING X 10KG",
+    "sku": 110000058
+  },
+  {
+    "id": 52576,
+    "nombre": "CASTAÑA DE CAJU TOST MKING X KG",
+    "sku": 110000060
+  },
+  {
+    "id": 27355,
+    "nombre": "CASTAÑA DE CAJU TOST MKING X 10K",
+    "sku": 110000059
+  },
+  {
+    "id": 52560,
+    "nombre": "CASTAÑA DE CAJU X 100G",
+    "sku": 110000010
+  },
+  {
+    "id": 12939,
+    "nombre": "CASTAÑA DE CAJU X 22.68KG",
+    "sku": 110000009
+  },
+  {
+    "id": 41652,
+    "nombre": "CASTAÑA DE CAJU X 5KG",
+    "sku": 110000079
+  },
+  {
+    "id": 52595,
+    "nombre": "CASTAÑA DE CAJU X KG",
+    "sku": 110000101
+  },
+  {
+    "id": 12941,
+    "nombre": "CATALOGO BOQUILLAS PARPEN CHM",
+    "sku": 120000292
+  },
+  {
+    "id": 12942,
+    "nombre": "CAVA PETALOS Y HOJAS BOTICA",
+    "sku": 120000293
+  },
+  {
+    "id": 12963,
+    "nombre": "CEREAL CON CHOCO AMARILLO ARF X 200G",
+    "sku": 104000002
+  },
+  {
+    "id": 12964,
+    "nombre": "CEREAL CON CHOCO AZUL ARF X 200G",
+    "sku": 104000003
+  },
+  {
+    "id": 12965,
+    "nombre": "CEREAL CON CHOCO CELESTE ARF X 200G",
+    "sku": 104000004
+  },
+  {
+    "id": 12962,
+    "nombre": "CEREAL CON CHOCO MULTI ARF X 200G",
+    "sku": 104000001
+  },
+  {
+    "id": 12969,
+    "nombre": "CEREAL CON CHOCO PALM X 6KG",
+    "sku": 104000008
+  },
+  {
+    "id": 52239,
+    "nombre": "CEREAL CON CHOCO PALM X KG",
+    "sku": 104000009
+  },
+  {
+    "id": 12966,
+    "nombre": "CEREAL CON CHOCO ROJO ARF X 200G",
+    "sku": 104000005
+  },
+  {
+    "id": 12967,
+    "nombre": "CEREAL CON CHOCO ROSA ARF X 200G",
+    "sku": 104000006
+  },
+  {
+    "id": 12968,
+    "nombre": "CEREAL CON CHOCO VERDE ARF X 200G",
+    "sku": 104000007
+  },
+  {
+    "id": 12985,
+    "nombre": "CEREZA MASUEBE X 700G",
+    "sku": 109000025
+  },
+  {
+    "id": 43611,
+    "nombre": "CEREZA ROJA CON CABO ISUANI CAJA",
+    "sku": 109000102
+  },
+  {
+    "id": 12971,
+    "nombre": "CEREZA ROJA CON CABO ISUANI LATA",
+    "sku": 109000013
+  },
+  {
+    "id": 52553,
+    "nombre": "CEREZA ROJA CON CABO ISUANI X KG",
+    "sku": 109000096
+  },
+  {
+    "id": 29364,
+    "nombre": "CEREZA ROJA FILET ISUANI X 10KG",
+    "sku": 109000082
+  },
+  {
+    "id": 43613,
+    "nombre": "CEREZA ROJA FRASC ISUANI CAJA",
+    "sku": 109000104
+  },
+  {
+    "id": 12977,
+    "nombre": "CEREZA ROJA FRASC ISUANI X 210G",
+    "sku": 109000019
+  },
+  {
+    "id": 41643,
+    "nombre": "CEREZA ROJA GLASEADA X 1KG",
+    "sku": 110000070
+  },
+  {
+    "id": 12983,
+    "nombre": "CEREZA ROJA GLASEADA X 2KG",
+    "sku": 110000011
+  },
+  {
+    "id": 52561,
+    "nombre": "CEREZA ROJA GLASEADA X KG",
+    "sku": 110000012
+  },
+  {
+    "id": 43612,
+    "nombre": "CEREZA ROJA ISUANI 6 X 3.1KG",
+    "sku": 109000103
+  },
+  {
+    "id": 52542,
+    "nombre": "CEREZA ROJA ISUANI X 250G",
+    "sku": 109000015
+  },
+  {
+    "id": 12974,
+    "nombre": "CEREZA ROJA ISUANI X 3.1KG",
+    "sku": 109000016
+  },
+  {
+    "id": 52554,
+    "nombre": "CEREZA ROJA ISUANI X 400G",
+    "sku": 109000131
+  },
+  {
+    "id": 50968,
+    "nombre": "CEREZA ROJA ISUANI X KG",
+    "sku": 109000134
+  },
+  {
+    "id": 43615,
+    "nombre": "CEREZA VERDE FRASC ISUANI CAJA",
+    "sku": 109000106
+  },
+  {
+    "id": 12981,
+    "nombre": "CEREZA VERDE FRASC ISUANI X 210G",
+    "sku": 109000023
+  },
+  {
+    "id": 43614,
+    "nombre": "CEREZA VERDE ISUANI 6 X 3.1KG",
+    "sku": 109000105
+  },
+  {
+    "id": 52543,
+    "nombre": "CEREZA VERDE ISUANI X 250G",
+    "sku": 109000024
+  },
+  {
+    "id": 12978,
+    "nombre": "CEREZA VERDE ISUANI X 3.1KG",
+    "sku": 109000020
+  },
+  {
+    "id": 52555,
+    "nombre": "CEREZA VERDE ISUANI X 400G",
+    "sku": 109000132
+  },
+  {
+    "id": 52556,
+    "nombre": "CEREZA VERDE ISUANI X KG",
+    "sku": 109000135
+  },
+  {
+    "id": 29410,
+    "nombre": "CERNIDOR 32CM R GOLD PASTELAR",
+    "sku": 120000573
+  },
+  {
+    "id": 44432,
+    "nombre": "CERNIDOR BOTICA",
+    "sku": 120000812
+  },
+  {
+    "id": 43472,
+    "nombre": "CHANTILLY POLVO LEDEVIT CAJA",
+    "sku": 106000146
+  },
+  {
+    "id": 41674,
+    "nombre": "CHANTILLY POLVO LEDEVIT X 1KG",
+    "sku": 118000053
+  },
+  {
+    "id": 15966,
+    "nombre": "CHANTILLY POLVO LEDEVIT X 250G",
+    "sku": 106000020
+  },
+  {
+    "id": 52455,
+    "nombre": "CHANTILLY POLVO LEDEVIT X 250G",
+    "sku": 106000191
+  },
+  {
+    "id": 52436,
+    "nombre": "CHANTILLY POLVO LEDEVIT X KG",
+    "sku": 106000029
+  },
+  {
+    "id": 32633,
+    "nombre": "CHIP BANANA X 6.8KG SA",
+    "sku": 110000063
+  },
+  {
+    "id": 52299,
+    "nombre": "CHIP BANANA X KG SA",
+    "sku": 110000064
+  },
+  {
+    "id": 55144,
+    "nombre": "CHOCOLATE 80%CACAO AGUILA X 150G",
+    "sku": 102000297
+  },
+  {
+    "id": 52359,
+    "nombre": "CHOCOLITO BLANCO MAPRICOA X KG",
+    "sku": 102000137
+  },
+  {
+    "id": 43605,
+    "nombre": "CHOCOLITO CON LECHEECH MAPRICOA3 X 1KG",
+    "sku": 102000265
+  },
+  {
+    "id": 47265,
+    "nombre": "CHOCOLITO MINI MAPRICOA 3 X 1KG",
+    "sku": 102000286
+  },
+  {
+    "id": 52361,
+    "nombre": "CHOCOLITO MINI MAPRICOA X KG",
+    "sku": 102000147
+  },
+  {
+    "id": 52360,
+    "nombre": "CHOCOLITO SEMI AMARGO MAPRICOA X KG",
+    "sku": 102000142
+  },
+  {
+    "id": 43607,
+    "nombre": "CHOCOLITO SEMI AMARGO MAPRICOA20 X 150G",
+    "sku": 102000267
+  },
+  {
+    "id": 27407,
+    "nombre": "CINTURA CUADRADA LOW COST SET X 3",
+    "sku": 114000756
+  },
+  {
+    "id": 44043,
+    "nombre": "CINTURA CUADRADA REG DCL",
+    "sku": 114000877
+  },
+  {
+    "id": 44052,
+    "nombre": "CINTURA PERFORADA CUA 10CM DCL",
+    "sku": 114000886
+  },
+  {
+    "id": 44053,
+    "nombre": "CINTURA PERFORADA CUA 12CM DCL",
+    "sku": 114000887
+  },
+  {
+    "id": 44054,
+    "nombre": "CINTURA PERFORADA CUA 14CM DCL",
+    "sku": 114000888
+  },
+  {
+    "id": 44055,
+    "nombre": "CINTURA PERFORADA CUA 16CM DCL",
+    "sku": 114000889
+  },
+  {
+    "id": 44056,
+    "nombre": "CINTURA PERFORADA CUA 18CM DCL",
+    "sku": 114000890
+  },
+  {
+    "id": 44057,
+    "nombre": "CINTURA PERFORADA CUA 20CM DCL",
+    "sku": 114000891
+  },
+  {
+    "id": 44058,
+    "nombre": "CINTURA PERFORADA CUA 22CM DCL",
+    "sku": 114000892
+  },
+  {
+    "id": 44059,
+    "nombre": "CINTURA PERFORADA CUA 24CM DCL",
+    "sku": 114000893
+  },
+  {
+    "id": 44045,
+    "nombre": "CINTURA PERFORADA REDONDO 12CM DCL",
+    "sku": 114000879
+  },
+  {
+    "id": 44046,
+    "nombre": "CINTURA PERFORADA REDONDO 14CM DCL",
+    "sku": 114000880
+  },
+  {
+    "id": 44047,
+    "nombre": "CINTURA PERFORADA REDONDO 16CM DCL",
+    "sku": 114000881
+  },
+  {
+    "id": 44048,
+    "nombre": "CINTURA PERFORADA REDONDO 18CM DCL",
+    "sku": 114000882
+  },
+  {
+    "id": 44049,
+    "nombre": "CINTURA PERFORADA REDONDO 20CM DCL",
+    "sku": 114000883
+  },
+  {
+    "id": 44050,
+    "nombre": "CINTURA PERFORADA REDONDO 22CM DCL",
+    "sku": 114000884
+  },
+  {
+    "id": 44051,
+    "nombre": "CINTURA PERFORADA REDONDO 24CM DCL",
+    "sku": 114000885
+  },
+  {
+    "id": 44044,
+    "nombre": "CINTURA RECTANGULAR REG DCL",
+    "sku": 114000878
+  },
+  {
+    "id": 27408,
+    "nombre": "CINTURA REDONDA LOW COST SET X 3",
+    "sku": 114000757
+  },
+  {
+    "id": 13216,
+    "nombre": "CIRUELA PASA D'AGEN X 10KG",
+    "sku": 110000013
+  },
+  {
+    "id": 13226,
+    "nombre": "CLAVOS PARA ARMAR FLORES MYM",
+    "sku": 120000296
+  },
+  {
+    "id": 52358,
+    "nombre": "COBERTURA 54 % TRONADOR X 250G",
+    "sku": 102000134
+  },
+  {
+    "id": 52336,
+    "nombre": "COBERTURA 54 % TRONADOR X KG",
+    "sku": 102000009
+  },
+  {
+    "id": 52356,
+    "nombre": "COBERTURA 71 % TRONADOR X 250G",
+    "sku": 102000128
+  },
+  {
+    "id": 52337,
+    "nombre": "COBERTURA 71 % TRONADOR X KG",
+    "sku": 102000012
+  },
+  {
+    "id": 35298,
+    "nombre": "COBERTURA AMARGO 70 % CHART 500G",
+    "sku": 102000196
+  },
+  {
+    "id": 35297,
+    "nombre": "COBERTURA AMARGO 70 % CHART CAJA",
+    "sku": 102000195
+  },
+  {
+    "id": 51009,
+    "nombre": "COBERTURA AMARGO 70 % FX 10 X 1KG",
+    "sku": 102000290
+  },
+  {
+    "id": 35313,
+    "nombre": "COBERTURA AMARGO 70 % FX X 1KG",
+    "sku": 102000211
+  },
+  {
+    "id": 35277,
+    "nombre": "COBERTURA BLANCO CHART X 5KG",
+    "sku": 102000175
+  },
+  {
+    "id": 52307,
+    "nombre": "COBERTURA BLANCO CHART X KG",
+    "sku": 102000217
+  },
+  {
+    "id": 51010,
+    "nombre": "COBERTURA BLANCO FX 10 X 1KG",
+    "sku": 102000291
+  },
+  {
+    "id": 35307,
+    "nombre": "COBERTURA BLANCO FX X 1KG",
+    "sku": 102000205
+  },
+  {
+    "id": 43602,
+    "nombre": "COBERTURA BLANCO MAPRICOA 5 X 800G",
+    "sku": 102000262
+  },
+  {
+    "id": 13062,
+    "nombre": "COBERTURA BLANCO MAPRICOA X 800G",
+    "sku": 102000123
+  },
+  {
+    "id": 52357,
+    "nombre": "COBERTURA BLANCO TRONADOR X 250G",
+    "sku": 102000130
+  },
+  {
+    "id": 52335,
+    "nombre": "COBERTURA BLANCO TRONADOR X KG",
+    "sku": 102000005
+  },
+  {
+    "id": 51011,
+    "nombre": "COBERTURA CON LECHE FX 10 X 1KG",
+    "sku": 102000292
+  },
+  {
+    "id": 35309,
+    "nombre": "COBERTURA CON LECHE FX X 1KG",
+    "sku": 102000207
+  },
+  {
+    "id": 52369,
+    "nombre": "COBERTURA CON LECHE TRONADOR X KG",
+    "sku": 102000276
+  },
+  {
+    "id": 35275,
+    "nombre": "COBERTURA LECHE CHART 10 X 500G",
+    "sku": 102000173
+  },
+  {
+    "id": 35276,
+    "nombre": "COBERTURA LECHE CHART X 500G",
+    "sku": 102000174
+  },
+  {
+    "id": 51012,
+    "nombre": "COBERTURA SEMI AMARGO 60 % FX 10 X 1KG",
+    "sku": 102000293
+  },
+  {
+    "id": 35311,
+    "nombre": "COBERTURA SEMI AMARGO 60 % FX X 1KG",
+    "sku": 102000209
+  },
+  {
+    "id": 43603,
+    "nombre": "COBERTURA SEMI AMARGO MAPRICOA 5 X 800G",
+    "sku": 102000263
+  },
+  {
+    "id": 13064,
+    "nombre": "COBERTURA SEMI AMARGO MAPRICOA X 800G",
+    "sku": 102000125
+  },
+  {
+    "id": 15229,
+    "nombre": "COCO EN ESCAMAS X 10KG",
+    "sku": 110000015
+  },
+  {
+    "id": 52562,
+    "nombre": "COCO EN ESCAMAS X KG",
+    "sku": 110000016
+  },
+  {
+    "id": 15239,
+    "nombre": "COCO RALLADO AMARILLO ALZOL X 500G",
+    "sku": 110000020
+  },
+  {
+    "id": 15241,
+    "nombre": "COCO RALLADO AZUL ALZOL X 500G",
+    "sku": 110000021
+  },
+  {
+    "id": 15243,
+    "nombre": "COCO RALLADO CELESTE ALZOL X 500G",
+    "sku": 110000022
+  },
+  {
+    "id": 52563,
+    "nombre": "COCO RALLADO COLOR ALZOL X 100G",
+    "sku": 110000023
+  },
+  {
+    "id": 52592,
+    "nombre": "COCO RALLADO COLOR ALZOL X KG",
+    "sku": 110000098
+  },
+  {
+    "id": 41644,
+    "nombre": "COCO RALLADO HIGHT FAT X 1KG",
+    "sku": 110000071
+  },
+  {
+    "id": 15235,
+    "nombre": "COCO RALLADO HIGHT FAT X 25KG",
+    "sku": 110000018
+  },
+  {
+    "id": 52309,
+    "nombre": "COCO RALLADO HIGHT FAT X KG",
+    "sku": 110000069
+  },
+  {
+    "id": 41645,
+    "nombre": "COCO RALLADO MEDIUM FAT X 1KG",
+    "sku": 110000072
+  },
+  {
+    "id": 15237,
+    "nombre": "COCO RALLADO MEDIUM FAT X 25KG",
+    "sku": 110000019
+  },
+  {
+    "id": 52308,
+    "nombre": "COCO RALLADO MEDIUM FAT X KG",
+    "sku": 110000017
+  },
+  {
+    "id": 15247,
+    "nombre": "COCO RALLADO ROJO ALZOL X 1KG",
+    "sku": 110000024
+  },
+  {
+    "id": 15249,
+    "nombre": "COCO RALLADO ROJO ALZOL X 500G",
+    "sku": 110000025
+  },
+  {
+    "id": 15251,
+    "nombre": "COCO RALLADO ROSA ALZOL X 1KG",
+    "sku": 110000026
+  },
+  {
+    "id": 15253,
+    "nombre": "COCO RALLADO ROSA ALZOL X 500G",
+    "sku": 110000027
+  },
+  {
+    "id": 15255,
+    "nombre": "COCO RALLADO VERDE ALZOL X 1KG",
+    "sku": 110000028
+  },
+  {
+    "id": 15257,
+    "nombre": "COCO RALLADO VERDE ALZOL X 500G",
+    "sku": 110000029
+  },
+  {
+    "id": 47547,
+    "nombre": "COCTEL DE FRUTAS COPA DE ORO",
+    "sku": 109000097
+  },
+  {
+    "id": 27353,
+    "nombre": "COCTEL DE FRUTAS SAN REMO X 820G",
+    "sku": 109000056
+  },
+  {
+    "id": 27549,
+    "nombre": "COLADOR METAL 10CM LOW COST",
+    "sku": 120000562
+  }
+]
