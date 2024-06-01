@@ -35,206 +35,250 @@ for producto in json_combinado:
     productos_por_categoria_subcategoria[categoria_id][subcategoria_id].append(producto)
 
 # Generar contenido HTML
-html_content = """<!DOCTYPE html>
+html_content = """
+<!DOCTYPE html>
 <html>
 <head>
-<title>Productos</title>
-<style>
-    body {
-        font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 0;
-    }
-    header {
-        background-color: #333;
-        color: white;
-        padding: 10px 0;
-        position: fixed;
-        top: 0;
-        left: 0;
-        width: 100%;
-        z-index: 1000;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-    }
-    nav ul {
-        list-style-type: none;
-        padding: 0;
-        margin: 0;
-        display: flex;
-        justify-content: center;
-    }
-    nav ul li {
-        margin: 0 15px;
-    }
-    nav ul li select {
-        color: black;
-        background-color: white;
-        padding: 10px;
-        border: 2px solid #ccc;
-        border-radius: 5px;
-        cursor: pointer;
-        font-size: 16px;
-        transition: border-color 0.3s;
-    }
-    nav ul li select:hover {
-        border-color: #888;
-    }
-    .productos-container {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 20px;
-        padding: 20px;
-        padding-top: 60px;
-    }
-    .producto {
-        padding: 10px;
-        max-width: 200px;
-        position: relative;
-        cursor: pointer;
-    }
-    .producto img {
-        max-width: 100%;
-        height: auto;
-    }
-    .producto-checkbox {
-        position: absolute;
-        bottom: 10px;
-        left: 50%;
-        transform: translateX(-50%);
-        width: 30px;
-        height: 30px;
-        opacity: 0;
-        cursor: pointer;
-    }
-    .producto-selected .producto-checkbox {
-        opacity: 1;
-    }
-    section {
-        display: none;
-    }
-    section.active {
-        display: block;
-    }
-    button {
-        background-color: green;
-        color: white;
-        padding: 10px 20px;
-        border: none;
-        border-radius: 5px;
-        margin-right: 20px;
-        cursor: pointer;
-        font-size: 16px;
-        transition: background-color 0.3s;
-    }
-    button:hover {
-        background-color: darkgreen;
-    }
-    #buscador {
-      padding: 8px;
-      margin-bottom: 10px;
-      border: 1px solid #ccc;
-      border-radius: 5px;
-      width: 200px;
-      box-sizing: border-box;
-    }
-    @media only screen and (max-width: 600px) {
-      header {
-          flex-direction: column;
-          align-items: stretch;
-      }
-      nav {
-          margin-bottom: 10px;
-      }
-      #buscador {
-          width: 100%;
-      }
-      button {
-          margin-top: 10px;
-          width: 100%;
-      }
-    }
-</style>
-<script>
-function showCategory(categoryId) {
-  const sections = document.querySelectorAll("section");
-  sections.forEach((section) => {
-    section.classList.remove("active");
-  });
-  const activeSection = document.getElementById(categoryId);
-  if (activeSection) {
-    activeSection.classList.add("active");
-  }
-}
+    <title>Productos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 10px 0;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            z-index: 1000;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+        }
+        nav ul li {
+            margin: 0 15px;
+        }
+        nav ul li select {
+            color: black;
+            background-color: white;
+            padding: 10px;
+            border: 2px solid #ccc;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: border-color 0.3s;
+        }
+        nav ul li select:hover {
+            border-color: #888;
+        }
+        .productos-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            padding: 20px;
+            padding-top: 60px;
+        }
+        .producto {
+            padding: 10px;
+            max-width: 200px;
+            position: relative;
+            cursor: pointer;
+        }
+        .producto img {
+            max-width: 100%;
+            height: auto;
+        }
+        .producto-checkbox {
+            position: absolute;
+            bottom: 10px;
+            left: 80%;
+            transform: translateX(-50%);
+            width: 30px;
+            height: 30px;
+            opacity: 0;
+            cursor: pointer;
+        }
+        .producto-selected .producto-checkbox {
+            opacity: 1;
+        }
+        .producto-order {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background-color: #c9ab34;
+            color: white;
+            padding: 5px;
+            border-radius: 5px;
+            font-size: 18px;
+            display: none;
+        }
+        .producto-selected .producto-order {
+            display: block;
+        }
+        section {
+            display: none;
+        }
+        section.active {
+            display: block;
+        }
+        button {
+            background-color: green;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            margin-right: 20px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s;
+        }
+        button:hover {
+            background-color: darkgreen;
+        }
+        #buscador {
+            padding: 8px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            width: 200px;
+            box-sizing: border-box;
+        }
+        @media only screen and (max-width: 600px) {
+            header {
+                flex-direction: column;
+                align-items: stretch;
+            }
+            nav {
+                margin-bottom: 10px;
+            }
+            #buscador {
+                width: 100%;
+            }
+            button {
+                margin-top: 10px;
+                width: 100%;
+            }
+        }
+    </style>
+    <script>
+        let selectionOrder = {};
 
-function handleProductoClick(event) {
-  const producto = event.currentTarget;
-  const checkbox = producto.querySelector(".producto-checkbox");
-  checkbox.checked = !checkbox.checked;
-  producto.classList.toggle("producto-selected");
-}
+        function showCategory(categoryId) {
+            const sections = document.querySelectorAll("section");
+            sections.forEach((section) => {
+                section.classList.remove("active");
+            });
+            const activeSection = document.getElementById(categoryId);
+            if (activeSection) {
+                activeSection.classList.add("active");
+            }
+        }
 
-function filtrarProductos() {
-  const filtro = document.getElementById('buscador').value.toLowerCase();
-  const productos = document.querySelectorAll('.producto');
+        function handleProductoClick(event) {
+            const producto = event.currentTarget;
+            const checkbox = producto.querySelector(".producto-checkbox");
+            checkbox.checked = !checkbox.checked;
+            producto.classList.toggle("producto-selected");
 
-  productos.forEach(producto => {
-    const nombre = producto.querySelector('h3').textContent.toLowerCase();
-    const sku = producto.querySelector('p').textContent.toLowerCase();
+            const sku = producto.querySelector('p').textContent.split(' ')[1];
+            const imageUrl = producto.querySelector('img').src;
 
-    if (nombre.includes(filtro) || sku.includes(filtro)) {
-      producto.style.display = 'block';
-    } else {
-      producto.style.display = 'none';
-    }
-  });
-}
+            if (!selectionOrder[sku]) {
+                selectionOrder[sku] = [];
+            }
 
-function procesarProductos() {
-  const productosSeleccionados = [];
-  const productos = document.querySelectorAll('.producto');
-  productos.forEach(producto => {
-      const checkbox = producto.querySelector('.producto-checkbox');
-      if (checkbox.checked) {
-          const sku = producto.querySelector('p').textContent.split(' ')[1];
-          const nombre = producto.querySelector('h3').textContent;
-          const imageUrl = producto.querySelector('img').src;
-          productosSeleccionados.push({sku, nombre, imageUrl});
-      }
-  });
+            if (producto.classList.contains('producto-selected')) {
+                selectionOrder[sku].push(imageUrl);
+            } else {
+                const index = selectionOrder[sku].indexOf(imageUrl);
+                if (index > -1) {
+                    selectionOrder[sku].splice(index, 1);
+                }
+            }
 
-  if (productosSeleccionados.length === 0) {
-      alert('No hay productos seleccionados.');
-      return;
-  }
+            updateSelectionOrderDisplay(sku);
+        }
 
-  const confirmacion = confirm(`¿Deseas procesar ${productosSeleccionados.length} productos seleccionados?`);
-  if (confirmacion) {
-      const jsonProductos = JSON.stringify(productosSeleccionados, null, 2);
-      const blob = new Blob([jsonProductos], { type: 'application/json' });
-      const url = URL.createObjectURL(blob);
-      const a = document.createElement('a');
-      a.href = url;
-      a.download = 'productos_seleccionados.json';
-      document.body.appendChild(a);
-      a.click();
-      window.URL.revokeObjectURL(url);
-  }
-}
+        function updateSelectionOrderDisplay(sku) {
+            const productos = document.querySelectorAll(`.sku-${sku}`);
+            productos.forEach((producto) => {
+                const orderElement = producto.querySelector('.producto-order');
+                orderElement.textContent = selectionOrder[sku].indexOf(producto.querySelector('img').src) + 1;
+            });
+        }
 
-document.addEventListener('DOMContentLoaded', function() {
-  const select = document.querySelector('select');
-  if (select) {
-    const firstOption = select.querySelector('option');
-    if (firstOption) {
-      firstOption.selected = true;
-      showCategory(firstOption.value);
-    }
-  }
-});
+        function filtrarProductos() {
+            const filtro = document.getElementById('buscador').value.toLowerCase();
+            const productos = document.querySelectorAll('.producto');
 
-</script>
+            productos.forEach(producto => {
+                const nombre = producto.querySelector('h3').textContent.toLowerCase();
+                const sku = producto.querySelector('p').textContent.toLowerCase();
+
+                if (nombre.includes(filtro) || sku.includes(filtro)) {
+                    producto.style.display = 'block';
+                } else {
+                    producto.style.display = 'none';
+                }
+            });
+        }
+
+        function procesarProductos() {
+            const productosSeleccionados = [];
+            for (const sku in selectionOrder) {
+                if (selectionOrder[sku].length > 0) {
+                    const producto = document.querySelector(`.sku-${sku}`);
+                    const nombre = producto.querySelector('h3').textContent;
+                    productosSeleccionados.push({
+                        sku: sku,
+                        nombre: nombre,
+                        images: selectionOrder[sku]
+                    });
+                }
+            }
+
+            if (productosSeleccionados.length === 0) {
+                alert('No hay productos seleccionados.');
+                return;
+            }
+
+            const confirmacion = confirm(`¿Deseas procesar ${productosSeleccionados.length} productos seleccionados?`);
+            if (confirmacion) {
+                const jsonProductos = JSON.stringify(productosSeleccionados, null, 2);
+                const blob = new Blob([jsonProductos], { type: 'application/json' });
+                const url = URL.createObjectURL(blob);
+                const a = document.createElement('a');
+                a.href = url;
+                a.download = 'productos_seleccionados.json';
+                document.body.appendChild(a);
+                a.click();
+                window.URL.revokeObjectURL(url);
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', function() {
+            const select = document.querySelector('select');
+            if (select) {
+                const firstOption = select.querySelector('option:nth-child(2)'); // Omitir la primera opción
+                if (firstOption) {
+                    firstOption.selected = true;
+                    showCategory(firstOption.value);
+                }
+            }
+        });
+    </script>
+
 </head>
 <body>
 <header>
@@ -242,7 +286,8 @@ document.addEventListener('DOMContentLoaded', function() {
         <ul>
             <li>
                 <select onchange="showCategory(this.value)">
-                    <option value="">Seleccione una categoría</option>"""
+                    <option value="">Seleccione una categoría</option>
+"""
 
 # Añadir opciones de categoría y subcategoría
 for categoria_id, categoria in categorias.items():
@@ -251,13 +296,16 @@ for categoria_id, categoria in categorias.items():
             if subcategoria_id in productos_por_categoria_subcategoria[categoria_id]:
                 html_content += f"<option value='{categoria_id}{subcategoria_id}'>{categoria['name']} - {subcategoria['name']}</option>\n"
 
-html_content += """</select>
+html_content += """
+                </select>
             </li>
         </ul>
     </nav>
     <input type="text" id="buscador" placeholder="Buscar por nombre o SKU..." oninput="filtrarProductos()">
     <button onclick="procesarProductos()">Procesar</button>
 </header>
+
+<div class="productos-container">
 """
 
 # Generar estilos para cada producto
@@ -284,14 +332,17 @@ for categoria_id, subcategorias in productos_por_categoria_subcategoria.items():
             html_content += f"<img src='{producto['image_url']}' alt='Imagen del producto'>\n"
             html_content += f"<h3>{producto['nombre']}</h3>\n"
             html_content += f"<p>SKU: {producto['sku']}</p>\n"
-            html_content += "<input type='checkbox' class='producto-checkbox'>\n"
-            html_content += "</div>\n"
+            html_content += f"<input type='checkbox' class='producto-checkbox'>\n"
+            html_content += f"<div class='producto-order'></div>\n"  # Arreglado: comillas dobles a comillas simples
+            html_content += f"</div>\n"
         html_content += "</div>\n</section>\n"
 
 html_content += """
+</div>
 </body>
 </html>
 """
+
 
 # Guardar el contenido HTML en un archivo
 with open('productos.html', 'w', encoding='utf-8') as file:
