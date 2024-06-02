@@ -1,7 +1,7 @@
 import json
 
 # Lee el JSON desde un archivo
-with open('productos_categoria_90.json') as file:
+with open('imagen_data111111.json') as file:
     json_data = json.load(file)
 
 # Itera sobre cada elemento del JSON y modifica el SKU
