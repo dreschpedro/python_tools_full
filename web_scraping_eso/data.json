@@ -1,0 +1,712 @@
+[
+  {
+    "id": 43809,
+    "nombre": "PASTA ANASTASIA LHERITIER 12 X 750G",
+    "sku": 115000252
+  },
+  {
+    "id": 43810,
+    "nombre": "PASTA ANASTASIA LHERITIER 18 X 500G",
+    "sku": 115000253
+  },
+  {
+    "id": 43811,
+    "nombre": "PASTA ANASTASIA LHERITIER 6 X 3KG",
+    "sku": 115000254
+  },
+  {
+    "id": 19338,
+    "nombre": "PASTA ANASTASIA LHERITIER X 3KG",
+    "sku": 115000048
+  },
+  {
+    "id": 19339,
+    "nombre": "PASTA ANASTASIA LHERITIER X 500G",
+    "sku": 115000049
+  },
+  {
+    "id": 19340,
+    "nombre": "PASTA ANASTASIA LHERITIER X 750G",
+    "sku": 115000050
+  },
+  {
+    "id": 52611,
+    "nombre": "PASTA ANASTASIA LHERITIER X KG",
+    "sku": 115000047
+  },
+  {
+    "id": 44370,
+    "nombre": "PASTA MANI CRUNCHY MANI KING PACK",
+    "sku": 115000300
+  },
+  {
+    "id": 43353,
+    "nombre": "PASTA MANI CRUNCHY MANI KING X 350G",
+    "sku": 115000217
+  },
+  {
+    "id": 44369,
+    "nombre": "PASTA MANI NATURAL MANI KING 12 X 245G",
+    "sku": 115000299
+  },
+  {
+    "id": 44357,
+    "nombre": "PASTA MANI NATURAL MANI KING 12 X 485G",
+    "sku": 115000298
+  },
+  {
+    "id": 43351,
+    "nombre": "PASTA MANI NATURAL MANI KING 245G",
+    "sku": 115000215
+  },
+  {
+    "id": 27412,
+    "nombre": "PASTA MANI NATURAL MANI KING X 3KG",
+    "sku": 115000199
+  },
+  {
+    "id": 43912,
+    "nombre": "PASTA NUTELLA FROCHER 10 X 140G",
+    "sku": 115000292
+  },
+  {
+    "id": 43913,
+    "nombre": "PASTA NUTELLA FROCHER 12 X 350G",
+    "sku": 115000293
+  },
+  {
+    "id": 19343,
+    "nombre": "PASTA NUTELLA FROCHER X 140G",
+    "sku": 115000053
+  },
+  {
+    "id": 19344,
+    "nombre": "PASTA NUTELLA FROCHER X 350G",
+    "sku": 115000054
+  },
+  {
+    "id": 19345,
+    "nombre": "PASTA NUTELLA FROCHER X 3KG",
+    "sku": 115000055
+  },
+  {
+    "id": 43563,
+    "nombre": "PASTA RELLENO ALMENDRA MAPSA CAJA",
+    "sku": 115000241
+  },
+  {
+    "id": 42485,
+    "nombre": "PASTA RELLENO ALMENDRA TOP CLASS",
+    "sku": 115000132
+  },
+  {
+    "id": 43564,
+    "nombre": "PASTA RELLENO AVELLAN MAPSA CAJA",
+    "sku": 115000242
+  },
+  {
+    "id": 10109,
+    "nombre": "PASTA RELLENO AVELLAN MAPSA X 450G",
+    "sku": 115000116
+  },
+  {
+    "id": 43565,
+    "nombre": "PASTA RELLENO BANANA MAPSA CAJA",
+    "sku": 115000243
+  },
+  {
+    "id": 10110,
+    "nombre": "PASTA RELLENO BANANA MAPSA X 450G",
+    "sku": 115000118
+  },
+  {
+    "id": 43566,
+    "nombre": "PASTA RELLENO CHOCO MAPSA CAJA",
+    "sku": 115000244
+  },
+  {
+    "id": 7075,
+    "nombre": "PASTA RELLENO CHOCO MAPSA X 450G",
+    "sku": 115000120
+  },
+  {
+    "id": 43567,
+    "nombre": "PASTA RELLENO FRUTILLA MAPSA CAJA",
+    "sku": 115000245
+  },
+  {
+    "id": 10111,
+    "nombre": "PASTA RELLENO FRUTILLA MAPSA X 450G",
+    "sku": 115000122
+  },
+  {
+    "id": 19404,
+    "nombre": "PASTA RELLENO FRUTOS ROJOS TOP CLASS",
+    "sku": 115000141
+  },
+  {
+    "id": 43568,
+    "nombre": "PASTA RELLENO LIMON MAPSA CAJA",
+    "sku": 115000246
+  },
+  {
+    "id": 43569,
+    "nombre": "PASTA RELLENO MANI MAPSA CAJA",
+    "sku": 115000247
+  },
+  {
+    "id": 10113,
+    "nombre": "PASTA RELLENO MANI MAPSA X 450G",
+    "sku": 115000126
+  },
+  {
+    "id": 43570,
+    "nombre": "PASTA RELLENO MENTA MAPSA CAJA",
+    "sku": 115000248
+  },
+  {
+    "id": 10114,
+    "nombre": "PASTA RELLENO MENTA MAPSA X 450G",
+    "sku": 115000128
+  },
+  {
+    "id": 10115,
+    "nombre": "PASTA RELLENO TIRAMIS MAPSA X 450G",
+    "sku": 115000130
+  },
+  {
+    "id": 43571,
+    "nombre": "PASTA RELLENO TIRAMISU MAPSA CAJA",
+    "sku": 115000249
+  },
+  {
+    "id": 10516,
+    "nombre": "PASTA UNTABLE AVELLANA AGUILA X 290G",
+    "sku": 115000160
+  },
+  {
+    "id": 10518,
+    "nombre": "PASTA UNTABLE COFLER BLOCK X 290G",
+    "sku": 115000162
+  },
+  {
+    "id": 10515,
+    "nombre": "PASTA UNTABLE FONDUE AGUILA X 290G",
+    "sku": 115000159
+  },
+  {
+    "id": 10517,
+    "nombre": "PASTA UNTABLE MANI BON O BON X 290G",
+    "sku": 115000161
+  },
+  {
+    "id": 19022,
+    "nombre": "PASTAFROLA CUADRADA NUMERO 24 WEWE",
+    "sku": 114000653
+  },
+  {
+    "id": 19020,
+    "nombre": "PASTAFROLA DESM 10 X 30CM WEWE",
+    "sku": 114000651
+  },
+  {
+    "id": 19021,
+    "nombre": "PASTAFROLA DESM 20 X 30CM WEWE",
+    "sku": 114000652
+  },
+  {
+    "id": 19029,
+    "nombre": "PASTAFROLA FIJA 10 X 30CM WEWE",
+    "sku": 114000661
+  },
+  {
+    "id": 19030,
+    "nombre": "PASTAFROLA FIJA 20 X 30CM WEWE",
+    "sku": 114000662
+  },
+  {
+    "id": 19017,
+    "nombre": "PASTAFROLA FIJA NUMERO 10 WEWE",
+    "sku": 114000648
+  },
+  {
+    "id": 19018,
+    "nombre": "PASTAFROLA FIJA NUMERO 12 WEWE",
+    "sku": 114000649
+  },
+  {
+    "id": 19014,
+    "nombre": "PASTAFROLA FIJA NUMERO 24 WEWE",
+    "sku": 114000645
+  },
+  {
+    "id": 19015,
+    "nombre": "PASTAFROLA FIJA NUMERO 26 WEWE",
+    "sku": 114000646
+  },
+  {
+    "id": 19016,
+    "nombre": "PASTAFROLA FIJA NUMERO 30 WEWE",
+    "sku": 114000647
+  },
+  {
+    "id": 19013,
+    "nombre": "PASTAFROLA FIJA NUMERO 32 WEWE",
+    "sku": 114000644
+  },
+  {
+    "id": 19019,
+    "nombre": "PASTAFROLA FIJA NUMERO 8 WEWE",
+    "sku": 114000650
+  },
+  {
+    "id": 19423,
+    "nombre": "PECTINA ALZOL X 1KG",
+    "sku": 105000035
+  },
+  {
+    "id": 19422,
+    "nombre": "PECTINA ALZOL X 500G",
+    "sku": 105000034
+  },
+  {
+    "id": 52424,
+    "nombre": "PECTINA ALZOL X 50G",
+    "sku": 105000033
+  },
+  {
+    "id": 19431,
+    "nombre": "PELA FRUTAS-VIRUTAS MYM",
+    "sku": 120000455
+  },
+  {
+    "id": 42365,
+    "nombre": "PERLA MAXI BLANCO PASTELAR X 500G",
+    "sku": 104000444
+  },
+  {
+    "id": 42368,
+    "nombre": "PERLA MAXI CELESTE PASTELAR X 500G",
+    "sku": 104000447
+  },
+  {
+    "id": 42367,
+    "nombre": "PERLA MAXI DORAD PASTELAR X 500G",
+    "sku": 104000446
+  },
+  {
+    "id": 16320,
+    "nombre": "PERLA MAXI FUCSIA PASTELAR X 1KG",
+    "sku": 104000027
+  },
+  {
+    "id": 16321,
+    "nombre": "PERLA MAXI LAVAND PASTELAR X 1KG",
+    "sku": 104000029
+  },
+  {
+    "id": 16322,
+    "nombre": "PERLA MAXI ROSA GRANDE PASTELAR X 1KG",
+    "sku": 104000031
+  },
+  {
+    "id": 42366,
+    "nombre": "PERLA MAXI ROSA PASTELAR X 500G",
+    "sku": 104000445
+  },
+  {
+    "id": 44336,
+    "nombre": "PERLA MAXI RSIN AMA PASTELAR X 30G",
+    "sku": 104000578
+  },
+  {
+    "id": 16323,
+    "nombre": "PERLA MAXI TURQUESA PASTELAR X 1KG",
+    "sku": 104000033
+  },
+  {
+    "id": 16331,
+    "nombre": "PERLA MEDIANO BLANCO PASTELAR X 1KG",
+    "sku": 104000053
+  },
+  {
+    "id": 42363,
+    "nombre": "PERLA MEDIANO BLANCO PASTELAR X 500G",
+    "sku": 104000442
+  },
+  {
+    "id": 16332,
+    "nombre": "PERLA MEDIANO CELESTE PASTELAR X 1KG",
+    "sku": 104000054
+  },
+  {
+    "id": 42361,
+    "nombre": "PERLA MEDIANO CELEST PASTELAR X 500G",
+    "sku": 104000440
+  },
+  {
+    "id": 16333,
+    "nombre": "PERLA MEDIANO DORADO PASTELAR X 1KG",
+    "sku": 104000055
+  },
+  {
+    "id": 29336,
+    "nombre": "PERLA MEDIANO DORADO PASTELAR X 35G",
+    "sku": 104000425
+  },
+  {
+    "id": 42362,
+    "nombre": "PERLA MEDIANO DORADO PASTELAR X 500G",
+    "sku": 104000441
+  },
+  {
+    "id": 16334,
+    "nombre": "PERLA MEDIANO PURPURA PASTELAR X 1KG",
+    "sku": 104000056
+  },
+  {
+    "id": 16335,
+    "nombre": "PERLA MEDIANO ROSA BB PASTELAR X 1KG",
+    "sku": 104000057
+  },
+  {
+    "id": 29335,
+    "nombre": "PERLA MEDIANO ROSA PASTELAR X 35G",
+    "sku": 104000424
+  },
+  {
+    "id": 42364,
+    "nombre": "PERLA MEDIANO ROSA PASTELAR X 500G",
+    "sku": 104000443
+  },
+  {
+    "id": 16336,
+    "nombre": "PERLA MEDIANO VERDE A PASTELAR X 1KG",
+    "sku": 104000058
+  },
+  {
+    "id": 16324,
+    "nombre": "PERLA MINI AMARILLO PASTELAR X 1KG",
+    "sku": 104000035
+  },
+  {
+    "id": 16325,
+    "nombre": "PERLA MINI BLANCO PASTELAR X 1KG",
+    "sku": 104000038
+  },
+  {
+    "id": 16326,
+    "nombre": "PERLA MINI CELESTE PASTELAR X 1KG",
+    "sku": 104000040
+  },
+  {
+    "id": 16327,
+    "nombre": "PERLA MINI CORAL PASTELAR X 1KG",
+    "sku": 104000042
+  },
+  {
+    "id": 16328,
+    "nombre": "PERLA MINI DORADO PASTELAR X 1KG",
+    "sku": 104000044
+  },
+  {
+    "id": 16329,
+    "nombre": "PERLA MINI FUCSIA PASTELAR X 1KG",
+    "sku": 104000046
+  },
+  {
+    "id": 29337,
+    "nombre": "PERLA MINI MIX PASTEL PASTELAR",
+    "sku": 104000426
+  },
+  {
+    "id": 16330,
+    "nombre": "PERLA MINI PURPUR PASTELAR X 1KG",
+    "sku": 104000049
+  },
+  {
+    "id": 29334,
+    "nombre": "PERLA MINI ROSA PASTELAR X 35G",
+    "sku": 104000423
+  },
+  {
+    "id": 44337,
+    "nombre": "PERLA MIX METAL PASTELAR",
+    "sku": 104000579
+  },
+  {
+    "id": 42376,
+    "nombre": "PERLA MIX PASTEL MATE PASTELAR X 30",
+    "sku": 104000457
+  },
+  {
+    "id": 27198,
+    "nombre": "PERLAS AMARILLO LAUACU X 20G",
+    "sku": 104000364
+  },
+  {
+    "id": 27207,
+    "nombre": "PERLAS AMARILLO LAUACU X 50G",
+    "sku": 104000373
+  },
+  {
+    "id": 27199,
+    "nombre": "PERLAS AZUL LAUACU X 20G",
+    "sku": 104000365
+  },
+  {
+    "id": 27208,
+    "nombre": "PERLAS AZUL LAUACU X 50G",
+    "sku": 104000374
+  },
+  {
+    "id": 27202,
+    "nombre": "PERLAS BLANCO LAUACU X 20G",
+    "sku": 104000368
+  },
+  {
+    "id": 27211,
+    "nombre": "PERLAS BLANCO LAUACU X 50G",
+    "sku": 104000377
+  },
+  {
+    "id": 27200,
+    "nombre": "PERLAS CELESTE LAUACU X 20G",
+    "sku": 104000366
+  },
+  {
+    "id": 27209,
+    "nombre": "PERLAS CELESTE LAUACU X 50G",
+    "sku": 104000375
+  },
+  {
+    "id": 31841,
+    "nombre": "PERLAS CELESTE PASTEL LAUACU X 50G",
+    "sku": 104000418
+  },
+  {
+    "id": 44430,
+    "nombre": "PERLAS CERAMICA BOTICA",
+    "sku": 120000810
+  },
+  {
+    "id": 31837,
+    "nombre": "PERLAS DORADO LAUACU X 20G",
+    "sku": 104000414
+  },
+  {
+    "id": 31840,
+    "nombre": "PERLAS DORADO LAUACU X 50G",
+    "sku": 104000417
+  },
+  {
+    "id": 27201,
+    "nombre": "PERLAS FUCSIA LAUACU X 20G",
+    "sku": 104000367
+  },
+  {
+    "id": 27210,
+    "nombre": "PERLAS FUCSIA LAUACU X 50G",
+    "sku": 104000376
+  },
+  {
+    "id": 43311,
+    "nombre": "PERLAS GRANDES LOW COST X 1KG",
+    "sku": 104000497
+  },
+  {
+    "id": 52408,
+    "nombre": "PERLAS GRANDES LOW COST X 50G",
+    "sku": 104000499
+  },
+  {
+    "id": 31834,
+    "nombre": "PERLAS LILA LAUACU X 20G",
+    "sku": 104000411
+  },
+  {
+    "id": 44301,
+    "nombre": "PERLAS MAXI BLANCO LAUACU X 20G",
+    "sku": 104000545
+  },
+  {
+    "id": 42122,
+    "nombre": "PERLAS MAXI LOW COST X 1KG",
+    "sku": 104000482
+  },
+  {
+    "id": 52401,
+    "nombre": "PERLAS MAXI LOW COST X 50G",
+    "sku": 104000484
+  },
+  {
+    "id": 44302,
+    "nombre": "PERLAS MAXI ROSA LAUACU X 20G",
+    "sku": 104000546
+  },
+  {
+    "id": 43312,
+    "nombre": "PERLAS MEDIANAS LOW COST X 1KG",
+    "sku": 104000500
+  },
+  {
+    "id": 52409,
+    "nombre": "PERLAS MEDIANAS LOW COST X 50G",
+    "sku": 104000501
+  },
+  {
+    "id": 47309,
+    "nombre": "PERLAS MIX BLANCO LAUACU X 20G",
+    "sku": 104000337
+  },
+  {
+    "id": 43310,
+    "nombre": "PERLAS MIX DE TAM PASTEL LOW COST X 1K",
+    "sku": 104000495
+  },
+  {
+    "id": 52406,
+    "nombre": "PERLAS MIX DE TAM PASTEL LOW COST X 50G",
+    "sku": 104000496
+  },
+  {
+    "id": 42123,
+    "nombre": "PERLAS MIX DE TAMAÑOS LOW COST X 1KG",
+    "sku": 104000483
+  },
+  {
+    "id": 52407,
+    "nombre": "PERLAS MIX DE TAMAÑOS LOW COST X 50G",
+    "sku": 104000498
+  },
+  {
+    "id": 55299,
+    "nombre": "PERLAS MIX DORADO LAUACU X 20G",
+    "sku": 104000593
+  },
+  {
+    "id": 44303,
+    "nombre": "PERLAS MIX PASTEL LAUACU X 20G ",
+    "sku": 104000547
+  },
+  {
+    "id": 47337,
+    "nombre": "PERLAS NACIONAL PLA LAUACU X 20G",
+    "sku": 104000586
+  },
+  {
+    "id": 31836,
+    "nombre": "PERLAS NARANJA LAUACU X 20G",
+    "sku": 104000413
+  },
+  {
+    "id": 31838,
+    "nombre": "PERLAS NARANJA LAUACU X 50G",
+    "sku": 104000415
+  },
+  {
+    "id": 27203,
+    "nombre": "PERLAS NEGRO LAUACU X 20G",
+    "sku": 104000369
+  },
+  {
+    "id": 27212,
+    "nombre": "PERLAS NEGRO LAUACU X 50G",
+    "sku": 104000378
+  },
+  {
+    "id": 52400,
+    "nombre": "PERLAS PASTELAR X 50G",
+    "sku": 104000455
+  },
+  {
+    "id": 47310,
+    "nombre": "PERLAS ROJO LAUACU X 20G",
+    "sku": 104000339
+  },
+  {
+    "id": 27204,
+    "nombre": "PERLAS ROSA LAUACU X 20G",
+    "sku": 104000370
+  },
+  {
+    "id": 27213,
+    "nombre": "PERLAS ROSA LAUACU X 50G",
+    "sku": 104000379
+  },
+  {
+    "id": 31835,
+    "nombre": "PERLAS ROSA PASTEL LAUACU X 20G",
+    "sku": 104000412
+  },
+  {
+    "id": 31839,
+    "nombre": "PERLAS ROSA PASTEL LAUACU X 50G",
+    "sku": 104000416
+  },
+  {
+    "id": 42398,
+    "nombre": "PERLAS VERDE AGUA LAUACU X 20G",
+    "sku": 104000479
+  },
+  {
+    "id": 27205,
+    "nombre": "PERLAS VERDE LAUACU X 20G",
+    "sku": 104000371
+  },
+  {
+    "id": 27214,
+    "nombre": "PERLAS VERDE LAUACU X 50G",
+    "sku": 104000380
+  },
+  {
+    "id": 27206,
+    "nombre": "PERLAS VIOLETA LAUACU X 20G",
+    "sku": 104000372
+  },
+  {
+    "id": 27215,
+    "nombre": "PERLAS VIOLETA LAUACU X 50G",
+    "sku": 104000381
+  },
+  {
+    "id": 45489,
+    "nombre": "PINCEL SILICONA MANGO MADERA LOW COST",
+    "sku": 120000819
+  },
+  {
+    "id": 19546,
+    "nombre": "PINCEL SILICONA 21CM LOW COST",
+    "sku": 120000456
+  },
+  {
+    "id": 27530,
+    "nombre": "PINCEL SILICONA 26CM LOW COST",
+    "sku": 120000543
+  },
+  {
+    "id": 19547,
+    "nombre": "PINCELETA PREMIUM NUMERO 5 LOW COST",
+    "sku": 120000457
+  },
+  {
+    "id": 45490,
+    "nombre": "PINZA PRECISION PUNTA CURV LOW COST",
+    "sku": 120000820
+  },
+  {
+    "id": 43739,
+    "nombre": "PIONONO VAINI CONDESA 12 X 150G",
+    "sku": 103000024
+  },
+  {
+    "id": 20054,
+    "nombre": "PIONONO VAINILLA CONDESA X 150G",
+    "sku": 103000010
+  },
+  {
+    "id": 47278,
+    "nombre": "PIONONO X 200G BM",
+    "sku": 103000031
+  }
+]
