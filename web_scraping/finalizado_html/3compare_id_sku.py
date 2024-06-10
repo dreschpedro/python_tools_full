@@ -13,7 +13,7 @@ for line in id_sku_lines:
         id_sku_dict[sku] = id
 
 # Leer el archivo agrupado_por_sku.json
-with open('agrupado_por_sku.json', 'r') as f:
+with open('coincidencias2.json', 'r') as f:
     grouped_data = json.load(f)
 
 # Buscar coincidencias y crear el resultado
@@ -28,7 +28,7 @@ for item in grouped_data:
         })
 
 # Guardar el resultado en un nuevo archivo JSON
-with open('coincidencias.json', 'w') as f:
+with open('coincidencias22.json', 'w') as f:
     json.dump(result, f, indent=4)
 
 print("Las coincidencias han sido guardadas en coincidencias.json")
