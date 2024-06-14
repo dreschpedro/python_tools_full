@@ -1,0 +1,734 @@
+[
+    {
+        "sku": "0117000880",
+        "nombre": "PLACA MOLDEO CODIGO A 1873 PLASTICHOK HUEVO"
+    },
+    {
+        "sku": "0117000881",
+        "nombre": "PLACA MOLDEO CODIGO A 1737 PLASTICHOK"
+    },
+    {
+        "sku": "0117000882",
+        "nombre": "PLACA MOLDEO CODIGO A 576 PLASTICHOK CUADRADOS"
+    },
+    {
+        "sku": "0117000883",
+        "nombre": "PLACA MOLDEO CODIGO A 271 PLASTICHOK ESTRELLA"
+    },
+    {
+        "sku": "0117000884",
+        "nombre": "PLACA MOLDEO CODIGO C 1848 PLASTICHOK HUEVO CUCHARA"
+    },
+    {
+        "sku": "0117000885",
+        "nombre": "PLACA MOLDEO CODIGO A 027 PLASTICHOK"
+    },
+    {
+        "sku": "0117000886",
+        "nombre": "PLACA MOLDEO CODIGO A 1766 PLASTICHOK TABLETA F PASCUA"
+    },
+    {
+        "sku": "0117000887",
+        "nombre": "PLACA MOLDEO CODIGO C 1960 PLASTICHOK"
+    },
+    {
+        "sku": "0118000037",
+        "nombre": "PREM PAN DULCE ROSCA DEWEY X KG PESABLE"
+    },
+    {
+        "sku": "0118000038",
+        "nombre": "PREM PAN DULCE ROSCA DEWEY X 10KG"
+    },
+    {
+        "sku": "0118000046",
+        "nombre": "BIZCOCHUELO S/TACC CHOCO ARCOR X 500G"
+    },
+    {
+        "sku": "0118000050",
+        "nombre": "PREM PAN DULC ROSCA DEWEY X 5KG"
+    },
+    {
+        "sku": "0118000053",
+        "nombre": "CHANTILLY POLVO LEDEVIT X 1KG"
+    },
+    {
+        "sku": "0118000055",
+        "nombre": "CREMA PASTELERA LEDEVIT X 1KG"
+    },
+    {
+        "sku": "0118000087",
+        "nombre": "CREMA PASTELERA LEDEVIT X KG PESABLE"
+    },
+    {
+        "sku": "0118000088",
+        "nombre": "BIZCOCHUELO VAIN KEUKEN X 3KG"
+    },
+    {
+        "sku": "0118000089",
+        "nombre": "MIX CUPCAKE CHOCO KEUKEN X 3KG"
+    },
+    {
+        "sku": "0119000021",
+        "nombre": "AVENA TRAD INSTANTANEA X 5KG GRANEL"
+    },
+    {
+        "sku": "0120000005",
+        "nombre": "ALMOHADILLA PARA FLORES BOTICA SET X 2"
+    },
+    {
+        "sku": "0120000007",
+        "nombre": "BALANZA DE COCINA LOW COST HASTA 5KG"
+    },
+    {
+        "sku": "0120000204",
+        "nombre": "BOQUILLA GRANDE NUMERO 2A PARPEN X 5 RIZADO CURVO"
+    },
+    {
+        "sku": "0120000205",
+        "nombre": "BOQUILLA GRANDE NUMERO 2A PARPEN X 1 RIZADO CURVO"
+    },
+    {
+        "sku": "0120000206",
+        "nombre": "BOQUILLA GRANDE NUMERO 2C PARPEN X 5 RIZADO CURVO"
+    },
+    {
+        "sku": "0120000207",
+        "nombre": "BOQUILLA GRANDE NUMERO 2C PARPEN X 1 RIZADO CURVO"
+    },
+    {
+        "sku": "0120000210",
+        "nombre": "BOQUILLA GRANDE NUMERO 2E PARPEN X 5 RIZADO CURVO"
+    },
+    {
+        "sku": "0120000211",
+        "nombre": "BOQUILLA GRANDE NUMERO 2E PARPEN X 1 RIZADO CURVO"
+    },
+    {
+        "sku": "0120000212",
+        "nombre": "BOQUILLA GRANDE NUMERO 2F PARPEN X 5 RIZADO CURVO"
+    },
+    {
+        "sku": "0120000213",
+        "nombre": "BOQUILLA GRANDE NUMERO 2F PARPEN X 1 RIZADO CURVO"
+    },
+    {
+        "sku": "0120000218",
+        "nombre": "BOQUILLA GRANDE NUMERO 3B PARPEN X 5 RIZADO RECTO"
+    },
+    {
+        "sku": "0120000219",
+        "nombre": "BOQUILLA GRANDE NUMERO 3B PARPEN X 1 RIZADO RECTO"
+    },
+    {
+        "sku": "0120000220",
+        "nombre": "BOQUILLA CONFITERIA NUMERO 4 MULTY MARCAS X 1 METAL"
+    },
+    {
+        "sku": "0120000223",
+        "nombre": "BOQUILLA GRANDE NUMERO 4B PARPEN X 5 RIZADO RECTO"
+    },
+    {
+        "sku": "0120000224",
+        "nombre": "BOQUILLA GRANDE NUMERO 4B PARPEN X 1 RIZADO RECTO"
+    },
+    {
+        "sku": "0120000228",
+        "nombre": "BOQUILLA GRANDE NUMERO 5B PARPEN X 5 RIZADO RECTO"
+    },
+    {
+        "sku": "0120000229",
+        "nombre": "BOQUILLA GRANDE NUMERO 5B PARPEN X 1 RIZADO RECTO"
+    },
+    {
+        "sku": "0120000230",
+        "nombre": "BOQUILLA GRANDE NUMERO 5P PARPEN X 5 PENTAGRAMA"
+    },
+    {
+        "sku": "0120000231",
+        "nombre": "BOQUILLA GRANDE NUMERO 5P PARPEN X 1 PENTAGRAMA"
+    },
+    {
+        "sku": "0120000232",
+        "nombre": "BOQUILLA CONFITERIA NUMERO 6 MULTY MARCAS X 1 METAL"
+    },
+    {
+        "sku": "0120000234",
+        "nombre": "BOQUILLA CONFITERIA NUMERO 62 CASA ALBERTO RIZADO ECO"
+    },
+    {
+        "sku": "0120000236",
+        "nombre": "BOQUILLA GRANDE NUMERO 688 PARPEN X 5 RIZADO RECTO"
+    },
+    {
+        "sku": "0120000237",
+        "nombre": "BOQUILLA GRANDE NUMERO 688 PARPEN X 1 RIZADO RECTO"
+    },
+    {
+        "sku": "0120000238",
+        "nombre": "BOQUILLA GRANDE NUMERO 6B PARPEN X 5 RIZADO RECTO"
+    },
+    {
+        "sku": "0120000239",
+        "nombre": "BOQUILLA GRANDE NUMERO 6B PARPEN X 1 RIZADO RECTO"
+    },
+    {
+        "sku": "0120000245",
+        "nombre": "BOQUILLA GRANDE NUMERO 788 PARPEN X 5 RIZADO CURVO"
+    },
+    {
+        "sku": "0120000246",
+        "nombre": "BOQUILLA GRANDE NUMERO 788 PARPEN X 1 RIZADO CURVO"
+    },
+    {
+        "sku": "0120000250",
+        "nombre": "BOQUILLA GRANDE N B10 PARPEN X 5 VOLADOS"
+    },
+    {
+        "sku": "0120000251",
+        "nombre": "BOQUILLA GRANDE N B10 PARPEN X 1 VOLADOS"
+    },
+    {
+        "sku": "0120000254",
+        "nombre": "BOQUILLA GRANDE N C10 PARPEN X 5 REDONDO"
+    },
+    {
+        "sku": "0120000255",
+        "nombre": "BOQUILLA GRANDE N C10 PARPEN X 1 REDONDO"
+    },
+    {
+        "sku": "0120000256",
+        "nombre": "BOQUILLA GRANDE N C12 PARPEN X 5 REDONDO"
+    },
+    {
+        "sku": "0120000257",
+        "nombre": "BOQUILLA GRANDE N C12 PARPEN X 1 REDONDO"
+    },
+    {
+        "sku": "0120000258",
+        "nombre": "BOQUILLA GRANDE N C15 PARPEN X 5 REDONDO"
+    },
+    {
+        "sku": "0120000259",
+        "nombre": "BOQUILLA GRANDE N C15 PARPEN X 1 REDONDO"
+    },
+    {
+        "sku": "0120000260",
+        "nombre": "BOQUILLA GRANDE N C18 PARPEN X 5 REDONDO"
+    },
+    {
+        "sku": "0120000261",
+        "nombre": "BOQUILLA GRANDE N C18 PARPEN X 1 REDONDO"
+    },
+    {
+        "sku": "0120000262",
+        "nombre": "BOQUILLA GRANDE N C2 PARPEN X 5 REDONDO"
+    },
+    {
+        "sku": "0120000263",
+        "nombre": "BOQUILLA GRANDE N C2 PARPEN X 1 REDONDO"
+    },
+    {
+        "sku": "0120000264",
+        "nombre": "BOQUILLA GRANDE N C5 PARPEN X 5 REDONDO"
+    },
+    {
+        "sku": "0120000265",
+        "nombre": "BOQUILLA GRANDE N C5 PARPEN X 1 REDONDO"
+    },
+    {
+        "sku": "0120000268",
+        "nombre": "BOQUILLA GRANDE N SH1 PARPEN X 5 SAINT HONORE"
+    },
+    {
+        "sku": "0120000269",
+        "nombre": "BOQUILLA GRANDE N SH1 PARPEN X 1 SAINT HONORE"
+    },
+    {
+        "sku": "0120000270",
+        "nombre": "BOQUILLA GRANDE N SH2 PARPEN X 5 SAINT HONORE"
+    },
+    {
+        "sku": "0120000271",
+        "nombre": "BOQUILLA GRANDE N SH2 PARPEN X 1 SAINT HONORE"
+    },
+    {
+        "sku": "0120000272",
+        "nombre": "BOQUILLA GRANDE N T61 PARPEN X 5 TRIPLE"
+    },
+    {
+        "sku": "0120000273",
+        "nombre": "BOQUILLA GRANDE N T61 PARPEN X 1 TRIPLE"
+    },
+    {
+        "sku": "0120000274",
+        "nombre": "BOQUILLA GRANDE N T71 PARPEN X 5 TRIPLE"
+    },
+    {
+        "sku": "0120000275",
+        "nombre": "BOQUILLA GRANDE N T71 PARPEN X 1 TRIPLE"
+    },
+    {
+        "sku": "0120000278",
+        "nombre": "BOQUILLA ENMASCARAR PARPEN CON 6 MANGA DESCARTABLE"
+    },
+    {
+        "sku": "0120000293",
+        "nombre": "CAVA PETALOS Y HOJAS BOTICA"
+    },
+    {
+        "sku": "0120000297",
+        "nombre": "COOL PAD 12CM BOTICA"
+    },
+    {
+        "sku": "0120000300",
+        "nombre": "CUCHILLO CORTA TORTA 37CM CHOCO MISIO "
+    },
+    {
+        "sku": "0120000301",
+        "nombre": "CUCHILLO CORTA TORTA 43CM CHOCO MISIO "
+    },
+    {
+        "sku": "0120000306",
+        "nombre": "CUPLA TRICOLOR GRANDE PARPEN"
+    },
+    {
+        "sku": "0120000308",
+        "nombre": "ENCENDEDOR CANDELA FLAMEADOR"
+    },
+    {
+        "sku": "0120000315",
+        "nombre": "ESPATULA ESCALON INOXIDABLE X 30CM LOW COST"
+    },
+    {
+        "sku": "0120000317",
+        "nombre": "ESPATULA REPOSTERO ESCALONADA 20CM LOW COST"
+    },
+    {
+        "sku": "0120000318",
+        "nombre": "ESPATULA REPOSTERO ESCALONADA 25CM LOW COST"
+    },
+    {
+        "sku": "0120000319",
+        "nombre": "ESPATULA REPOSTERO ESCALONADA 30CM LOW COST"
+    },
+    {
+        "sku": "0120000332",
+        "nombre": "ESPATULA NIVELADOR ANGULAR LOW COST PLASTICO "
+    },
+    {
+        "sku": "0120000336",
+        "nombre": "ESPATULA REPOSTERO RECTA 15CM LOW COST"
+    },
+    {
+        "sku": "0120000338",
+        "nombre": "ESPATULA REPOSTERO RECTA 25CM LOW COST"
+    },
+    {
+        "sku": "0120000339",
+        "nombre": "ESPATULA REPOSTERO RECTA 30CM LOW COST"
+    },
+    {
+        "sku": "0120000340",
+        "nombre": "ESPATULA SILICONA MANGO CRISTAL CHOCO MISIO "
+    },
+    {
+        "sku": "0120000345",
+        "nombre": "ESPOLVOREADOR BOTICA AZUCAR/FECULA"
+    },
+    {
+        "sku": "0120000347",
+        "nombre": "ESTECA METAL PARAGUITA PARPEN"
+    },
+    {
+        "sku": "0120000348",
+        "nombre": "ESTECA PLANA VAINILLA PARPEN"
+    },
+    {
+        "sku": "0120000353",
+        "nombre": "FRATACHO ALISADOR CLASICO CHOCO MISIO "
+    },
+    {
+        "sku": "0120000354",
+        "nombre": "FRATACHO ALISADOR P CURVA CHOCO MISIO "
+    },
+    {
+        "sku": "0120000356",
+        "nombre": "FRATACHO BORDES PERFECT BOTICA"
+    },
+    {
+        "sku": "0120000357",
+        "nombre": "FRATACHO ALISADOR BOTICA"
+    },
+    {
+        "sku": "0120000463",
+        "nombre": "PLACA HUEVO NUMERO 10 LA REPOSTERA X 10 (110G)"
+    },
+    {
+        "sku": "0120000464",
+        "nombre": "PLACA MACARRONS SILICONA CHOCO MISIO "
+    },
+    {
+        "sku": "0120000465",
+        "nombre": "PLACA TRABAJO BOTICA"
+    },
+    {
+        "sku": "0120000474",
+        "nombre": "REJILLA METALICA 25 X 40CM LOW COST"
+    },
+    {
+        "sku": "0120000476",
+        "nombre": "RODILLO CORTANTE CINTA PARPEN INTERCAMBIABLES"
+    },
+    {
+        "sku": "0120000477",
+        "nombre": "RODILLO MINI PARPEN"
+    },
+    {
+        "sku": "0120000489",
+        "nombre": "SACABOCADO PARA CUPCAKE BOTICA"
+    },
+    {
+        "sku": "0120000490",
+        "nombre": "SELLO PARA GALLETITAS BOTICA"
+    },
+    {
+        "sku": "0120000491",
+        "nombre": "BATIDOR INOXIDABLE X 12\" CHOCO MISIO "
+    },
+    {
+        "sku": "0120000495",
+        "nombre": "SET CUCHARONES MEDIDORES CHOCO MISIO X 4"
+    },
+    {
+        "sku": "0120000496",
+        "nombre": "SET DECO/RELLEN CUPCAKE PARPEN"
+    },
+    {
+        "sku": "0120000501",
+        "nombre": "ESTECA PLASTICO LOW COST SET X 9 18 MODELOS"
+    },
+    {
+        "sku": "0120000502",
+        "nombre": "ESTECA PLASTICO LOW COST SET X 4 8 MODELOS"
+    },
+    {
+        "sku": "0120000503",
+        "nombre": "SET GRANDE 4 BOQUILLA + MANGA PARPEN"
+    },
+    {
+        "sku": "0120000504",
+        "nombre": "SET PASTELERO CON 6 PICOS LOW COST MANGA CUPLA"
+    },
+    {
+        "sku": "0120000506",
+        "nombre": "SET 4 PICOS METAL CON MANGA CHOCO MISIO "
+    },
+    {
+        "sku": "0120000514",
+        "nombre": "SET REPOSTERO PLASTICO 8 PICO LOW COST CUPLA Y MANGA"
+    },
+    {
+        "sku": "0120000516",
+        "nombre": "SIERRA CORTA BIZCOCHO CHOCO MISIO "
+    },
+    {
+        "sku": "0120000522",
+        "nombre": "TERMOMETRO DIGITAL LOW COST PARA REPOSTERIA"
+    },
+    {
+        "sku": "0120000535",
+        "nombre": "CUPLA TRIPLE GRANDE LOW COST"
+    },
+    {
+        "sku": "0120000537",
+        "nombre": "BASE GIRATORIA 14CM LOW COST"
+    },
+    {
+        "sku": "0120000544",
+        "nombre": "PINCELETA STANDARD NUMERO 1 LOW COST 12MM"
+    },
+    {
+        "sku": "0120000547",
+        "nombre": "PINCELETA STANDARD NUMERO 4 LOW COST 25MM"
+    },
+    {
+        "sku": "0120000552",
+        "nombre": "BOQUILLA CONFITERIA NUMERO 08 CASA ALBERTO LISO ECO"
+    },
+    {
+        "sku": "0120000564",
+        "nombre": "ESPATULA REPOSTERO ESCALONADA 15CM LOW COST"
+    },
+    {
+        "sku": "0120000567",
+        "nombre": "SET SILICONA 5 UTENSILIOS LOW COST"
+    },
+    {
+        "sku": "0120000570",
+        "nombre": "CORTANTES SET PARA PASTAS PARPEN"
+    },
+    {
+        "sku": "0120000571",
+        "nombre": "PLATO WILTON NUMERO  1 CASA ALBERTO X 2"
+    },
+    {
+        "sku": "0120000572",
+        "nombre": "SERVILLETERO CON RESORTE CHIPI"
+    },
+    {
+        "sku": "0120000576",
+        "nombre": "BOWL ACERO DORADO PASTELAR"
+    },
+    {
+        "sku": "0120000581",
+        "nombre": "ESPATULA SCRAPPER ACERO NUMERO 4 LOW COST TEXTURA DOBLE"
+    },
+    {
+        "sku": "0120000583",
+        "nombre": "ESPATULA SCRAPPER ACERO NUMERO 6 LOW COST TEXTURA DOBLE"
+    },
+    {
+        "sku": "0120000588",
+        "nombre": "ESPATULA SCRAPER NUMERO 1 BOTICA"
+    },
+    {
+        "sku": "0120000589",
+        "nombre": "ESPATULA SCRAPER NUMERO 2 BOTICA"
+    },
+    {
+        "sku": "0120000590",
+        "nombre": "ESPATULA SCRAPER NUMERO 3 BOTICA"
+    },
+    {
+        "sku": "0120000592",
+        "nombre": "RODILLO CORTANTE CINTA PARPEN"
+    },
+    {
+        "sku": "0120000603",
+        "nombre": "CUCHARA MEDIDORA INOXIDABLE X MULTY MARCAS X 5"
+    },
+    {
+        "sku": "0120000605",
+        "nombre": "AGARRADERA SILICONA CADENACI"
+    },
+    {
+        "sku": "0120000609",
+        "nombre": "ESPATULA SET MODELADORA LOW COST X 3 DORADO"
+    },
+    {
+        "sku": "0120000615",
+        "nombre": "ESPATULA ACERO SCRAPPER LOW COST 23 X 8CM LISA"
+    },
+    {
+        "sku": "0120000622",
+        "nombre": "CUCHARA SILICONA MANGO MADERA LOW COST 29CM"
+    },
+    {
+        "sku": "0120000625",
+        "nombre": "SET ESPATULAS REPOSTERIA LOW COST X 3 24CM SILICONA INOXIDABLE X "
+    },
+    {
+        "sku": "0120000626",
+        "nombre": "SET REPOSTERO MANGA TIJERA LOW COST CON ESPATULA INOXIDABLE X 23CM"
+    },
+    {
+        "sku": "0120000627",
+        "nombre": "SET UTENSILIOS DORADO LOW COST X 3"
+    },
+    {
+        "sku": "0120000628",
+        "nombre": "SET PINCELES REDONDOS LOW COST X 6"
+    },
+    {
+        "sku": "0120000630",
+        "nombre": "SET ESPATULAS CORNETE LOW COST X 3"
+    },
+    {
+        "sku": "0120000634",
+        "nombre": "SET 24 PICOS Y 3 CUPLAS LOW COST RESPOSTERO"
+    },
+    {
+        "sku": "0120000635",
+        "nombre": "SET PICOS GLOBO 9PZAS LOW COST CON MANGA Y CUPLA"
+    },
+    {
+        "sku": "0120000641",
+        "nombre": "SET CAKE DRUMS 2 PLATOS COOPER CON ESPATULA Y RASQUET"
+    },
+    {
+        "sku": "0120000642",
+        "nombre": "ESPATULA LEVANTATORTAS DOÑA CLARA INOXIDABLE X "
+    },
+    {
+        "sku": "0120000643",
+        "nombre": "CUPLA DOÑA CLARA"
+    },
+    {
+        "sku": "0120000644",
+        "nombre": "ESPATULA CORNETE DOÑA CLARA"
+    },
+    {
+        "sku": "0120000645",
+        "nombre": "BASE GIRATORIA BLANCO DOÑA CLARA"
+    },
+    {
+        "sku": "0120000646",
+        "nombre": "BASE GIRATORIA VERDE DOÑA CLARA"
+    },
+    {
+        "sku": "0120000647",
+        "nombre": "BASE GIRATORIA ROSA DOÑA CLARA"
+    },
+    {
+        "sku": "0120000648",
+        "nombre": "TAZAS MEDIDORAS DOÑA CLARA"
+    },
+    {
+        "sku": "0120000649",
+        "nombre": "CUCHARAS MEDIDORAS DOÑA CLARA"
+    },
+    {
+        "sku": "0120000650",
+        "nombre": "REJILLA REDONDO COBRE 33CM DOÑA CLARA"
+    },
+    {
+        "sku": "0120000651",
+        "nombre": "REJILLA REDONDO NEGRO 33CM DOÑA CLARA"
+    },
+    {
+        "sku": "0120000721",
+        "nombre": "BOQUILLA CHICA NUMERO 54 PARPEN X 6 BORDURA VOLADO"
+    },
+    {
+        "sku": "0120000723",
+        "nombre": "BOQUILLA CHICA NUMERO 56 PARPEN X 6 HOJA"
+    },
+    {
+        "sku": "0120000724",
+        "nombre": "BOQUILLA CHICA NUMERO 60 PARPEN X 6 REDONDO"
+    },
+    {
+        "sku": "0120000726",
+        "nombre": "BOQUILLA CHICA NUMERO 61 PARPEN X 6 RIZADO RECTO"
+    },
+    {
+        "sku": "0120000727",
+        "nombre": "BOQUILLA CHICA NUMERO 62 PARPEN X 6 RIZADO CURVO"
+    },
+    {
+        "sku": "0120000783",
+        "nombre": "BOQUILLA GRANDE NUMERO 1M PARPEN X 5 RIZADO RECTO"
+    },
+    {
+        "sku": "0120000791",
+        "nombre": "BATIDOR INOXIDABLE X 10\" CHOCO MISIO "
+    },
+    {
+        "sku": "0120000792",
+        "nombre": "BATIDOR INOXIDABLE X 8\" CHOCO MISIO "
+    },
+    {
+        "sku": "0120000794",
+        "nombre": "TUERCA PLASTICO ICA PARPEN REPUESTO"
+    },
+    {
+        "sku": "0120000796",
+        "nombre": "PINZA MARCADORA PARPEN"
+    },
+    {
+        "sku": "0120000801",
+        "nombre": "PLATO WILTON NUMERO 3 CASA ALBERTO X 2"
+    },
+    {
+        "sku": "0120000802",
+        "nombre": "PLATO WILTON NUMERO 4 CASA ALBERTO X 2"
+    },
+    {
+        "sku": "0120000803",
+        "nombre": "ABRE BALDES BOTICA"
+    },
+    {
+        "sku": "0120000807",
+        "nombre": "CUCHARAS MEDIDORAS BOTICA X 4"
+    },
+    {
+        "sku": "0120000808",
+        "nombre": "SELLO UNICORNIO BOTICA NUMEROS Y ESTAMPAS"
+    },
+    {
+        "sku": "0120000810",
+        "nombre": "PERLAS CERAMICA BOTICA PARA COCCION"
+    },
+    {
+        "sku": "0120000811",
+        "nombre": "TAZAS MEDIDORAS BOTICA X 4"
+    },
+    {
+        "sku": "0120000812",
+        "nombre": "CERNIDOR BOTICA"
+    },
+    {
+        "sku": "0120000813",
+        "nombre": "CORNET PLASTICO BOTICA 10 X 14CM"
+    },
+    {
+        "sku": "0120000814",
+        "nombre": "SELLO FANTASY MINUSCULA/MAYUSCULA BOTICA"
+    },
+    {
+        "sku": "0120000815",
+        "nombre": "SELLO LOLI POP MINUSCULA/MAYUSCULA BOTICA"
+    },
+    {
+        "sku": "0120000816",
+        "nombre": "TAZAS MEDIDORAS MULTY MARCAS"
+    },
+    {
+        "sku": "0120000818",
+        "nombre": "ESPATULA SILICONA MANGO MADER LOW COST 29CM"
+    },
+    {
+        "sku": "0120000819",
+        "nombre": "PINCEL SILICONA MANGO MADERA LOW COST 29CM"
+    },
+    {
+        "sku": "0120000820",
+        "nombre": "PINZA PRECISION PUNTA CURV LOW COST PARA REPOSTERIA   12CM"
+    },
+    {
+        "sku": "0120000821",
+        "nombre": "SET UTENSILIOS SILICONA LOW COST X 3 ESPAT PINCEL CUCHARA"
+    },
+    {
+        "sku": "0120000822",
+        "nombre": "TERMOMETRO PARA HORNO OVEN LOW COST"
+    },
+    {
+        "sku": "0120000823",
+        "nombre": "BALANZA DIGITAL 5KG VIDRIO LOW COST MODELOS SURTIDOS"
+    },
+    {
+        "sku": "0120000824",
+        "nombre": "BALANZA DIGITAL 5KG BAMBOO LOW COST"
+    },
+    {
+        "sku": "0120000825",
+        "nombre": "PLANCHA SILPAT 20CM LOW COST REDONDA"
+    },
+    {
+        "sku": "0120000826",
+        "nombre": "SET PARA MOLDEO FLORES LOW COST TIJERA   2 PICOS"
+    },
+    {
+        "sku": "0120000827",
+        "nombre": "SET PICOS RUSOS GRANDES LOW COST X 12"
+    },
+    {
+        "sku": "0120000832",
+        "nombre": "ESPATULA SILICONA 17CM LOW COST"
+    },
+    {
+        "sku": "0120000838",
+        "nombre": "ESPATULA SCRAPER NUMERO 4 BOTICA 24 X 7,5CM"
+    }
+]

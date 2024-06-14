@@ -1,0 +1,42 @@
+[
+  {
+    "nombre": "@ABANICO PLUMA SUD",
+    "sku": 202000002
+  },
+  {
+    "nombre": "@ABANICO TELA ESTAMPADA FV",
+    "sku": 202000001
+  },
+  {
+    "nombre": "@ABRE BALDES BOTICA",
+    "sku": 120000803
+  },
+  {
+    "nombre": "@ABRE BALDES PASTELAR",
+    "sku": 120000536
+  },
+  {
+    "nombre": "@ABRILLANTADOR GLOBO CLAV",
+    "sku": 204001056
+  },
+  {
+    "nombre": "@AD ABANICOS LUJO SET CHM X6",
+    "sku": 201000305
+  },
+  {
+    "nombre": "@AD ARBOL BLANCO 120CM LWC",
+    "sku": 304000184
+  },
+  {
+    "nombre": "@AD ARBOL NEVADO 120CM LWC",
+    "sku": 304000171
+  },
+  {
+    "nombre": "@AD ARBOL NEVADO 180CM LWC",
+    "sku": 304000185
+  },
+  {
+    "nombre": "@AD ARBOL NEVADO 90CM X1 LWC",
+    "sku": 304000172
+  }
+]

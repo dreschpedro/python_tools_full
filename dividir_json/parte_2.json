@@ -1,0 +1,754 @@
+[
+    {
+        "sku": "0108000271",
+        "nombre": "ESENCIA CHANTILLY CIRCE X 70CC PESABLE"
+    },
+    {
+        "sku": "0108000291",
+        "nombre": "ESENCIA MANZANA CIRCE X 70CC PESABLE"
+    },
+    {
+        "sku": "0108000314",
+        "nombre": "ESENCIA AROMA M DEWEY X 70CC PESABLE"
+    },
+    {
+        "sku": "0108000373",
+        "nombre": "COLORANTE LIPOSOLUBLE S CARAMEL TOP CLASS POLVO X 15G"
+    },
+    {
+        "sku": "0108000375",
+        "nombre": "COLORANTE LIPOSOLUBLE S ROSA PIEL TOP CLASS POLVO X 15G"
+    },
+    {
+        "sku": "0108000377",
+        "nombre": "COLORANTE LIPOSOLUBLE S CORAL TOP CLASS POLVO X 15G"
+    },
+    {
+        "sku": "0108000378",
+        "nombre": "COLORANTE LIPOSOLUBLE S PISTACHO TOP CLASS POLVO X 15G"
+    },
+    {
+        "sku": "0108000379",
+        "nombre": "COLORANTE LIPOSOLUBLE S TURQUES TOP CLASS POLVO X 15G"
+    },
+    {
+        "sku": "0108000380",
+        "nombre": "COLORANTE LIPOSOLUBLE S CHOCO TOP CLASS POLVO X 15G"
+    },
+    {
+        "sku": "0108000381",
+        "nombre": "COLORANTE LIPOSOLUBLE S MIEL DELI FOOD EN POLVO X 10CC"
+    },
+    {
+        "sku": "0108000382",
+        "nombre": "COLORANTE NACAR FRAMBUESA DELI FOOD EN POLVO X 10CC"
+    },
+    {
+        "sku": "0108000383",
+        "nombre": "COLORANTE NACAR UVA DELI FOOD EN POLVO X 10CC"
+    },
+    {
+        "sku": "0108000400",
+        "nombre": "COLORANTE DORADO CIRCE X 15G EN PASTA"
+    },
+    {
+        "sku": "0108000401",
+        "nombre": "COLORANTE LIPOSOLUBLE S AMAPOLA DELI FOOD POLVO X 10CC"
+    },
+    {
+        "sku": "0108000402",
+        "nombre": "COLORANTE LIPOSOLUBLE S AMARILLO AZTE DELI FOOD POLVO X 10CC"
+    },
+    {
+        "sku": "0108000403",
+        "nombre": "COLORANTE LIPOSOLUBLE S AMARILLO PAST DELI FOOD POLVO X 10CC"
+    },
+    {
+        "sku": "0108000404",
+        "nombre": "COLORANTE LIPOSOLUBLE S MANGO DELI FOOD MANGO X 1"
+    },
+    {
+        "sku": "0108000405",
+        "nombre": "COLORANTE LIPOSOLUBLE S NARCISO DELI FOOD POLVO X 10CC"
+    },
+    {
+        "sku": "0108000406",
+        "nombre": "COLORANTE LIPOSOLUBLE S NEGRO AZUL DELI FOOD POLVO X 10CC"
+    },
+    {
+        "sku": "0108000407",
+        "nombre": "COLORANTE LIPOSOLUBLE S NUDE DELI FOOD POLVO X 10CC"
+    },
+    {
+        "sku": "0108000410",
+        "nombre": "COLORANTE LIPOSOLUBLE S TIZA DELI FOOD POLVO X 10CC"
+    },
+    {
+        "sku": "0108000418",
+        "nombre": "COLORANTE LIPOSOLUBLE S MARFIL TOP CLASS POLVO X 15G"
+    },
+    {
+        "sku": "0108000419",
+        "nombre": "COLORANTE LIPOSOLUBLE S MOSTAZA TOP CLASS POLVO X 15G"
+    },
+    {
+        "sku": "0108000420",
+        "nombre": "COLORANTE LIPOSOLUBLE S OCRE TOP CLASS POLVO X 15G"
+    },
+    {
+        "sku": "0108000464",
+        "nombre": "COLORANTE NEGRO FLEIBOR X 15G EN PASTA"
+    },
+    {
+        "sku": "0108000465",
+        "nombre": "COLORANTE PLATA FLEIBOR X 15G EN PASTA"
+    },
+    {
+        "sku": "0108000466",
+        "nombre": "COLORANTE ROJO M FLEIBOR X 15G EN PASTA"
+    },
+    {
+        "sku": "0108000467",
+        "nombre": "COLORANTE ROJO ROSA FLEIBOR X 15G EN PASTA"
+    },
+    {
+        "sku": "0108000468",
+        "nombre": "COLORANTE ROSA N FLEIBOR X 15G EN PASTA"
+    },
+    {
+        "sku": "0108000469",
+        "nombre": "COLORANTE VIOLETA FLEIBOR X 15G EN PASTA"
+    },
+    {
+        "sku": "0108000482",
+        "nombre": "COLORANTE ROSA FLEIBOR X 15G EN PASTA"
+    },
+    {
+        "sku": "0108000483",
+        "nombre": "COLORANTE VERDE FLEIBOR X 15G EN PASTA"
+    },
+    {
+        "sku": "0108000501",
+        "nombre": "COLORANTE ROJO BORDO FLEIBOR X 15G"
+    },
+    {
+        "sku": "0108000503",
+        "nombre": "COLORANTE ROSA BEBE FLEIBOR X 15G"
+    },
+    {
+        "sku": "0108000505",
+        "nombre": "COLORANTE VERDE W FLEIBOR X 15G"
+    },
+    {
+        "sku": "0108000509",
+        "nombre": "COLORANTE VERDE HOJA FLEIBOR X 15G"
+    },
+    {
+        "sku": "0108000513",
+        "nombre": "COLORANTE NEGRO FLEIBOR DISPLAY EN PASTA 4 X 15G"
+    },
+    {
+        "sku": "0108000514",
+        "nombre": "COLORANTE PLATA FLEIBOR DISPLAY EN PASTA 4 X 15G"
+    },
+    {
+        "sku": "0108000515",
+        "nombre": "COLORANTE ROJO M FLEIBOR DISPLAY EN PASTA 4 X 15G"
+    },
+    {
+        "sku": "0108000516",
+        "nombre": "COLORANTE ROJO ROSA FLEIBOR DISPLAY EN PASTA 4 X 15G"
+    },
+    {
+        "sku": "0108000517",
+        "nombre": "COLORANTE ROSA N FLEIBOR DISPLAY EN PASTA 4 X 15G"
+    },
+    {
+        "sku": "0108000518",
+        "nombre": "COLORANTE VIOLETA FLEIBOR DISPLAY EN PASTA 4 X 15G"
+    },
+    {
+        "sku": "0108000524",
+        "nombre": "COLORANTE ROSA FLEIBOR DISPLAY EN PASTA 4 X 15G"
+    },
+    {
+        "sku": "0108000525",
+        "nombre": "COLORANTE VERDE FLEIBOR DISPLAY EN PASTA 4 X 15G"
+    },
+    {
+        "sku": "0108000528",
+        "nombre": "COLORANTE ROJO B FLEIBOR DISPLAY EN PASTA 4 X 15G"
+    },
+    {
+        "sku": "0108000529",
+        "nombre": "COLORANTE ROSA BEBE FLEIBOR DISPLAY EN PASTA 4 X 15G"
+    },
+    {
+        "sku": "0108000530",
+        "nombre": "COLORANTE VERDE W FLEIBOR DISPLAY EN PASTA 4 X 15G"
+    },
+    {
+        "sku": "0108000532",
+        "nombre": "COLORANTE VERDE HOJA FLEIBOR DISPLAY EN PASTA 4 X 15G"
+    },
+    {
+        "sku": "0108000554",
+        "nombre": "COLORANTE CELESTE CIRCE 12 X 15G EN PASTA CAJA"
+    },
+    {
+        "sku": "0108000555",
+        "nombre": "COLORANTE DORADO CIRCE 12 X 15G EN PASTA CAJA"
+    },
+    {
+        "sku": "0108000556",
+        "nombre": "COLORANTE LILA CIRCE 12 X 15G EN PASTA CAJA"
+    },
+    {
+        "sku": "0108000557",
+        "nombre": "COLORANTE MARRON CIRCE 12 X 15G EN PASTA CAJA"
+    },
+    {
+        "sku": "0108000558",
+        "nombre": "COLORANTE NARANJA CIRCE 12 X 15G EN PASTA CAJA"
+    },
+    {
+        "sku": "0108000559",
+        "nombre": "COLORANTE NEGRO CIRCE 12 X 15G EN PASTA CAJA"
+    },
+    {
+        "sku": "0108000560",
+        "nombre": "COLORANTE PLATA CIRCE 12 X 15G EN PASTA CAJA"
+    },
+    {
+        "sku": "0108000562",
+        "nombre": "COLORANTE ROJO BORD CIRCE12 X 15 EN PASTA CAJA"
+    },
+    {
+        "sku": "0108000563",
+        "nombre": "COLORANTE ROJO ROSA CIRCE 12 X 15G EN PASTA CAJA"
+    },
+    {
+        "sku": "0108000564",
+        "nombre": "COLORANTE ROSA BEBE CIRCE 12 X 15G EN PASTA CAJA"
+    },
+    {
+        "sku": "0108000565",
+        "nombre": "COLORANTE ROSA PIEL CIRCE 12 X 15G EN PASTA CAJA"
+    },
+    {
+        "sku": "0108000566",
+        "nombre": "COLORANTE SALMON CIRCE 12 X 15G EN PASTA CAJA"
+    },
+    {
+        "sku": "0108000567",
+        "nombre": "COLORANTE TURQUESA CIRCE 12 X 15 EN PASTA CAJA"
+    },
+    {
+        "sku": "0108000569",
+        "nombre": "COLORANTE VERDE AGUA CIRCE 12 X 15G EN PASTA CAJA"
+    },
+    {
+        "sku": "0108000570",
+        "nombre": "COLORANTE VERDE HOJA CIRCE 12 X 15G EN PASTA CAJA"
+    },
+    {
+        "sku": "0108000581",
+        "nombre": "ESENCIA MENTA CIRCE 8 X 1L CAJA"
+    },
+    {
+        "sku": "0108000594",
+        "nombre": "COLORANTE MARRON BLOCH 4 X 15G EN PASTA CAJA"
+    },
+    {
+        "sku": "0108000595",
+        "nombre": "COLORANTE NARANJA BLOCH 4 X 15G EN PASTA CAJA"
+    },
+    {
+        "sku": "0108000596",
+        "nombre": "COLORANTE NEGRO BLOCH 4 X 15G EN PASTA CAJA"
+    },
+    {
+        "sku": "0108000597",
+        "nombre": "COLORANTE ROJO BLOCH 4 X 15G EN PASTA CAJA"
+    },
+    {
+        "sku": "0108000598",
+        "nombre": "COLORANTE ROSA BLOCH 4 X 15G EN PASTA CAJA"
+    },
+    {
+        "sku": "0108000599",
+        "nombre": "COLORANTE SALMON BLOCH 4 X 15G EN PASTA CAJA"
+    },
+    {
+        "sku": "0108000600",
+        "nombre": "COLORANTE TURQUESA BLOCH 4 X 15G EN PASTA CAJA"
+    },
+    {
+        "sku": "0108000601",
+        "nombre": "COLORANTE VERDE HOJA BLOCH 4 X 15G EN PASTA CAJA"
+    },
+    {
+        "sku": "0108000603",
+        "nombre": "COLORANTE VERDE BLOCH 4 X 15G EN PASTA CAJA"
+    },
+    {
+        "sku": "0108000665",
+        "nombre": "COLORANTE LIQUIDO AZUL ZAFIRO DELI FOOD CON ATOMIZADOR X 60ML"
+    },
+    {
+        "sku": "0108000666",
+        "nombre": "COLORANTE LIQUIDO ROJO MA DELI FOOD CON ATOMIZADOR X 60ML"
+    },
+    {
+        "sku": "0108000667",
+        "nombre": "COLORANTE LIQUIDO GIRASOL DELI FOOD CON ATOMIZADOR X 60ML"
+    },
+    {
+        "sku": "0108000689",
+        "nombre": "COLORANTE COBRE RADHA X 4G METALIZADO"
+    },
+    {
+        "sku": "0108000702",
+        "nombre": "COLORANTE ORO FINO X 75G DELI FOOD EN POLVO"
+    },
+    {
+        "sku": "0108000703",
+        "nombre": "COLORANTE ORO MEDIO X 85G DELI FOOD EN POLVO"
+    },
+    {
+        "sku": "0109000013",
+        "nombre": "CEREZA ROJA CON CABO ISUANI LATA X 3.1KG"
+    },
+    {
+        "sku": "0109000016",
+        "nombre": "CEREZA ROJA ISUANI X 3.1KG LATA"
+    },
+    {
+        "sku": "0109000019",
+        "nombre": "CEREZA ROJA FRASC ISUANI X 210G"
+    },
+    {
+        "sku": "0109000026",
+        "nombre": "DURAZNO CUBO GENTLEMAN X 3KG LATA"
+    },
+    {
+        "sku": "0109000037",
+        "nombre": "FRAMBUESAS CONGELADO BIOMACMAC X KG PESABLE"
+    },
+    {
+        "sku": "0109000041",
+        "nombre": "FRUTILLA ENTERA MENDOCOR X 4.3KG LATA"
+    },
+    {
+        "sku": "0109000043",
+        "nombre": "FRUTILLA ENTERA MENDOCOR X 940G"
+    },
+    {
+        "sku": "0109000056",
+        "nombre": "COCTEL DE FRUTAS SAN REMO X 820G"
+    },
+    {
+        "sku": "0109000058",
+        "nombre": "ARANDANO CONGELADO BIOMAC X 1KG PAQ"
+    },
+    {
+        "sku": "0109000059",
+        "nombre": "ARANDANO CONGELADO BIOMAC X KG PESABLE"
+    },
+    {
+        "sku": "0109000061",
+        "nombre": "FRUTILLA CONGELADO BIOMAC X 1KG PAQ"
+    },
+    {
+        "sku": "0109000062",
+        "nombre": "FRUTILLA CONGELADO BIOMAC X KG PESABLE"
+    },
+    {
+        "sku": "0109000078",
+        "nombre": "DURAZNO MITADES SILVIA X 2,9KG"
+    },
+    {
+        "sku": "0109000080",
+        "nombre": "TOMATE TRITURADO SILVIA X 4KG"
+    },
+    {
+        "sku": "0109000097",
+        "nombre": "COCTEL DE FRUTAS COPA DE ORO X 820G"
+    },
+    {
+        "sku": "0109000098",
+        "nombre": "DURAZNO MITADES COPA DE ORO X 3KG"
+    },
+    {
+        "sku": "0109000099",
+        "nombre": "DURAZNO TROZOS SILVIA X 2,9KG"
+    },
+    {
+        "sku": "0109000100",
+        "nombre": "DURAZNO MITADES COPA DE ORO CAJ 6 X 3KG"
+    },
+    {
+        "sku": "0109000101",
+        "nombre": "DURAZNO TROZOS SILVIA 6 X 2,9KG CAJA"
+    },
+    {
+        "sku": "0109000102",
+        "nombre": "CEREZA ROJA CON CABO ISUANI CAJA 6 X 3.1KG"
+    },
+    {
+        "sku": "0109000103",
+        "nombre": "CEREZA ROJA ISUANI 6 X 3.1KG CAJA"
+    },
+    {
+        "sku": "0109000104",
+        "nombre": "CEREZA ROJA FRASC ISUANI CAJA 24 X 210G"
+    },
+    {
+        "sku": "0109000107",
+        "nombre": "FRUTILLA ENTERA MENDOCOR 4 X 4.3KG CAJA"
+    },
+    {
+        "sku": "0109000108",
+        "nombre": "FRUTILLA ENTERA MENDOCOR18 X 940G CAJA"
+    },
+    {
+        "sku": "0109000109",
+        "nombre": "DURAZNO MITADES SILVIA 12 X 820G CAJA"
+    },
+    {
+        "sku": "0109000110",
+        "nombre": "DURAZNO MITADES SILVIA 6 X 2,9KG CAJA"
+    },
+    {
+        "sku": "0109000111",
+        "nombre": "TOMATE TRITURADO SILVIA 2 X 4KG CAJA"
+    },
+    {
+        "sku": "0109000114",
+        "nombre": "SMOOTHIE FRUTI DURAZ 10 X 750G CAJA"
+    },
+    {
+        "sku": "0109000115",
+        "nombre": "SMOOTHIE ARAN FRUT BIOMAC 10 X 750G CAJA"
+    },
+    {
+        "sku": "0109000117",
+        "nombre": "FRUTILLA CONGELADO BIOMAC 10 X 1KG CAJA"
+    },
+    {
+        "sku": "0109000124",
+        "nombre": "SMOOTHIE FRUTILLA DURAZNO BIOMAC X 750G PAQ"
+    },
+    {
+        "sku": "0109000125",
+        "nombre": "SMOOTHIE ARANDANO FRUTILLA BIOMAC X 750G PAQ"
+    },
+    {
+        "sku": "0109000128",
+        "nombre": "ANANA TROZOS SYP X 565G"
+    },
+    {
+        "sku": "0109000130",
+        "nombre": "ANANA RODAJA SYP X 565G"
+    },
+    {
+        "sku": "0109000134",
+        "nombre": "CEREZA ROJA ISUANI X KG PESABLE"
+    },
+    {
+        "sku": "0109000135",
+        "nombre": "CEREZA VERDE ISUANI X KG PESABLE"
+    },
+    {
+        "sku": "0110000009",
+        "nombre": "CASTAÑA DE CAJU X 22.68KG GRANEL"
+    },
+    {
+        "sku": "0110000013",
+        "nombre": "CIRUELA PASA D'AGEN X 10KG S/CAROZO"
+    },
+    {
+        "sku": "0110000018",
+        "nombre": "COCO RALLADO HIGHT FAT X 25KG BOLSON"
+    },
+    {
+        "sku": "0110000020",
+        "nombre": "COCO RALLADO AMARILLO ALZOL X 500G PAQ"
+    },
+    {
+        "sku": "0110000021",
+        "nombre": "COCO RALLADO AZUL ALZOL X 500G PAQ"
+    },
+    {
+        "sku": "0110000022",
+        "nombre": "COCO RALLADO CELESTE ALZOL X 500G PAQ"
+    },
+    {
+        "sku": "0110000032",
+        "nombre": "FRUTA ESCURRIDA FRUCOR X 10KG CAJA"
+    },
+    {
+        "sku": "0110000033",
+        "nombre": "FRUTA ESCURRIDA FRUCOR X KG PESABLE"
+    },
+    {
+        "sku": "0110000057",
+        "nombre": "PASAS UVA NEGRA EJARQUE X 10KG S/SEMILLA GRANEL"
+    },
+    {
+        "sku": "0110000061",
+        "nombre": "FRUTA GLASEADA DOLCE FRUTA X 5KG"
+    },
+    {
+        "sku": "0110000062",
+        "nombre": "FRUTA GLASEADA X KG PESABLE"
+    },
+    {
+        "sku": "0110000063",
+        "nombre": "CHIP BANANA X 6.8KG SA DESHIDRATADA GRANEL"
+    },
+    {
+        "sku": "0110000069",
+        "nombre": "COCO RALLADO HIGHT FAT X KG PESABLE"
+    },
+    {
+        "sku": "0110000071",
+        "nombre": "COCO RALLADO HIGHT FAT X 1KG"
+    },
+    {
+        "sku": "0110000073",
+        "nombre": "CASCARA NARANJA GLASEADA X 1KG"
+    },
+    {
+        "sku": "0110000085",
+        "nombre": "FRUTA GLASEADA X 1KG"
+    },
+    {
+        "sku": "0110000098",
+        "nombre": "COCO RALLADO COLOR ALZOL X KG PESABLE"
+    },
+    {
+        "sku": "0110000100",
+        "nombre": "ALMENDRA X KG PESABLE"
+    },
+    {
+        "sku": "0110000101",
+        "nombre": "CASTAÑA DE CAJU X KG PESABLE"
+    },
+    {
+        "sku": "0112000001",
+        "nombre": "FECULA MAIZ GLUCOVIL X 25KG BOLSON"
+    },
+    {
+        "sku": "0112000002",
+        "nombre": "FECULA MAIZ GLUCOVIL X KG PESABLE"
+    },
+    {
+        "sku": "0112000006",
+        "nombre": "FECULA MANDIOCA CODIPSA X 25KG BOLSON"
+    },
+    {
+        "sku": "0112000007",
+        "nombre": "FECULA MANDIOCA X KG PESABLE"
+    },
+    {
+        "sku": "0112000021",
+        "nombre": "FECULA MAIZ BUFFALO X 10KG"
+    },
+    {
+        "sku": "0112000025",
+        "nombre": "FECULA MAIZ BUFFALO X KG PESABLE"
+    },
+    {
+        "sku": "0114000071",
+        "nombre": "CORTANTE 4 PETALOS MULTY MOLDES "
+    },
+    {
+        "sku": "0114000072",
+        "nombre": "CORTANTE 5 PETALOS MULTY MOLDES "
+    },
+    {
+        "sku": "0114000073",
+        "nombre": "CORTANTE SET ABC MARCADOR CHOCO MISIO "
+    },
+    {
+        "sku": "0114000077",
+        "nombre": "CORTANTE ALVERJILLA MULTY MOLDES "
+    },
+    {
+        "sku": "0114000078",
+        "nombre": "CORTANTE ANGEL CHICO MULTY MOLDES "
+    },
+    {
+        "sku": "0114000079",
+        "nombre": "CORTANTE ANGEL COMUNION MULTY MOLDES "
+    },
+    {
+        "sku": "0114000080",
+        "nombre": "CORTANTE ANGEL GRANDE MULTY MOLDES "
+    },
+    {
+        "sku": "0114000081",
+        "nombre": "CORTANTE ARBOLITO MULTY MOLDES "
+    },
+    {
+        "sku": "0114000085",
+        "nombre": "CORTANTE AZAHAR MULTY MOLDES "
+    },
+    {
+        "sku": "0114000086",
+        "nombre": "CORTANTE BABERO MULTY MOLDES "
+    },
+    {
+        "sku": "0114000087",
+        "nombre": "CORTANTE BAILARINA MULTY MOLDES "
+    },
+    {
+        "sku": "0114000090",
+        "nombre": "CORTANTE BATITA MULTY MOLDES "
+    },
+    {
+        "sku": "0114000092",
+        "nombre": "CORTANTE BOTE MULTY MOLDES "
+    },
+    {
+        "sku": "0114000098",
+        "nombre": "CORTANTE CALA MINI MULTY MOLDES "
+    },
+    {
+        "sku": "0114000100",
+        "nombre": "CORTANTE CALIZ MULTY MOLDES "
+    },
+    {
+        "sku": "0114000104",
+        "nombre": "CORTANTE CAPILLA MULTY MOLDES "
+    },
+    {
+        "sku": "0114000108",
+        "nombre": "CORTANTE CARA PAYASO MULTY MOLDES "
+    },
+    {
+        "sku": "0114000110",
+        "nombre": "CORTANTE CASITA DUENDE MULTY MOLDES "
+    },
+    {
+        "sku": "0114000116",
+        "nombre": "CORTANTE COCHECITO BB MULTY MOLDES "
+    },
+    {
+        "sku": "0114000121",
+        "nombre": "CORTANTE COPO NIEVE MULTY MOLDES "
+    },
+    {
+        "sku": "0114000122",
+        "nombre": "CORTANTE CORAZON INTER MULTY MOLDES "
+    },
+    {
+        "sku": "0114000129",
+        "nombre": "CORTANTE DIAMANTE BOTICA GEOMETRICO X 2"
+    },
+    {
+        "sku": "0114000131",
+        "nombre": "CORTANTE ESCARPIN MULTY MOLDES "
+    },
+    {
+        "sku": "0114000132",
+        "nombre": "CORTANTE ESFINGE HOMBR MULTY MOLDES "
+    },
+    {
+        "sku": "0114000133",
+        "nombre": "CORTANTE ESFINGE MUJER MULTY MOLDES "
+    },
+    {
+        "sku": "0114000134",
+        "nombre": "CORTANTE ESTRELLA MULTY MOLDES MOLDESSET X 3"
+    },
+    {
+        "sku": "0114000138",
+        "nombre": "CORTANTE FA001 ESTRELLAS FLOGUS CHICA SET X 4"
+    },
+    {
+        "sku": "0114000139",
+        "nombre": "CORTANTE FA002 CORAZON FLOGUS CHICO SET X 4"
+    },
+    {
+        "sku": "0114000143",
+        "nombre": "CORTANTE FA010 MINI SURTIDO FLOGUS ANIMALES/FRUTAS X 7"
+    },
+    {
+        "sku": "0114000144",
+        "nombre": "CORTANTE FA012 JUEGO NAV FLOGUS MINI"
+    },
+    {
+        "sku": "0114000148",
+        "nombre": "CORTANTE FA018 CRUZ FLOGUS GRANDE"
+    },
+    {
+        "sku": "0114000151",
+        "nombre": "CORTANTE FA027 NUBE CHICA FLOGUS LETRERO X 3"
+    },
+    {
+        "sku": "0114000154",
+        "nombre": "CORTANTE FA030 NUBES CHICA FLOGUS SET X 3"
+    },
+    {
+        "sku": "0114000158",
+        "nombre": "CORTANTE FA040 MARIP CHICA FLOGUS"
+    },
+    {
+        "sku": "0114000159",
+        "nombre": "CORTANTE FA041 MARIP MINI FLOGUS SET X 3"
+    },
+    {
+        "sku": "0114000161",
+        "nombre": "CORTANTE FA052 BARCO FLOGUS"
+    },
+    {
+        "sku": "0114000167",
+        "nombre": "CORTANTE FA059 VOLADO FLOGUS"
+    },
+    {
+        "sku": "0114000168",
+        "nombre": "CORTANTE FA062 VOLADO GRANDE FLOGUS ZIGZAG X 3"
+    },
+    {
+        "sku": "0114000172",
+        "nombre": "CORTANTE FA077 BABERO GRANDE FLOGUS"
+    },
+    {
+        "sku": "0114000174",
+        "nombre": "CORTANTE FA083 HOJA MEDIANO FLOGUS MUERDAGO X 4"
+    },
+    {
+        "sku": "0114000175",
+        "nombre": "CORTANTE FA085 ALA FLOGUS"
+    },
+    {
+        "sku": "0114000176",
+        "nombre": "CORTANTE FA087 MOÑO GRANDE FLOGUS"
+    },
+    {
+        "sku": "0114000177",
+        "nombre": "CORTANTE FA088 MOÑO CHICO FLOGUS"
+    },
+    {
+        "sku": "0114000180",
+        "nombre": "CORTANTE FA101 MUÑECO CHIC FLOGUS"
+    },
+    {
+        "sku": "0114000181",
+        "nombre": "CORTANTE FA102 BASTON FLOGUS NAVIDEÑO"
+    },
+    {
+        "sku": "0114000182",
+        "nombre": "CORTANTE FA103 BASTON FLOGUS NAVIDEÑO"
+    },
+    {
+        "sku": "0114000188",
+        "nombre": "CORTANTE FA110 CAMPANA CHI FLOGUS NAVIDEÑA"
+    },
+    {
+        "sku": "0114000189",
+        "nombre": "CORTANTE FA111 CAMPANA FLOGUS DOBLE"
+    }
+]

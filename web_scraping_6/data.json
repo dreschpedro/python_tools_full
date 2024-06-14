@@ -1,0 +1,1392 @@
+[
+  {
+    "id": 44093,
+    "nombre": "MOLDE PAN DCL",
+    "sku": 114000927
+  },
+  {
+    "id": 18972,
+    "nombre": "MOLDE PAN LACT CON TAPA NUMERO 1 WEWE",
+    "sku": 114000613
+  },
+  {
+    "id": 18973,
+    "nombre": "MOLDE PAN LACT CON TAPA NUMERO 2 WEWE",
+    "sku": 114000614
+  },
+  {
+    "id": 18974,
+    "nombre": "MOLDE PAN LACTAL NUMERO 1 WEWE",
+    "sku": 114000615
+  },
+  {
+    "id": 18975,
+    "nombre": "MOLDE PAN LACTAL NUMERO 2 WEWE",
+    "sku": 114000616
+  },
+  {
+    "id": 44018,
+    "nombre": "MOLDE PAN LACTAL NUMERO 1 DCL",
+    "sku": 114000861
+  },
+  {
+    "id": 44019,
+    "nombre": "MOLDE PAN LACTAL NUMERO 2 DCL",
+    "sku": 114000862
+  },
+  {
+    "id": 44017,
+    "nombre": "MOLDE PASTAFROLA 10CM DCL",
+    "sku": 114000860
+  },
+  {
+    "id": 47609,
+    "nombre": "MOLDE PERFORADO RECTANGULAR ALTO DCL ",
+    "sku": 114000952
+  },
+  {
+    "id": 47608,
+    "nombre": "MOLDE PERFORADO RECTANGULAR BAJO DCL ",
+    "sku": 114000951
+  },
+  {
+    "id": 47610,
+    "nombre": "MOLDE PERFORADO REDONDO ALTO DCL",
+    "sku": 114000953
+  },
+  {
+    "id": 18944,
+    "nombre": "MOLDE PERICO NUMERO 1 WEWE",
+    "sku": 114000594
+  },
+  {
+    "id": 18945,
+    "nombre": "MOLDE PERICO NUMERO 2 WEWE",
+    "sku": 114000595
+  },
+  {
+    "id": 44074,
+    "nombre": "MOLDE PERICO NUMERO 1 DCL X 12",
+    "sku": 114000908
+  },
+  {
+    "id": 19023,
+    "nombre": "MOLDE PLACA 12 MUFFINS WEWE",
+    "sku": 114000654
+  },
+  {
+    "id": 19024,
+    "nombre": "MOLDE PLACA 12 VAINILLA WEWE",
+    "sku": 114000655
+  },
+  {
+    "id": 19025,
+    "nombre": "MOLDE PLACA 6 MUFFINS WEWE",
+    "sku": 114000656
+  },
+  {
+    "id": 44020,
+    "nombre": "MOLDE PLACA MASA NUMERO 1 DCL",
+    "sku": 114000863
+  },
+  {
+    "id": 44021,
+    "nombre": "MOLDE PLACA MASA NUMERO 2 DCL",
+    "sku": 114000864
+  },
+  {
+    "id": 44022,
+    "nombre": "MOLDE PLACA MASA NUMERO 3 DCL",
+    "sku": 114000865
+  },
+  {
+    "id": 44023,
+    "nombre": "MOLDE PLACA MASA NUMERO 4 DCL",
+    "sku": 114000866
+  },
+  {
+    "id": 44024,
+    "nombre": "MOLDE PLACA MASA NUMERO 5 DCL",
+    "sku": 114000867
+  },
+  {
+    "id": 19026,
+    "nombre": "MOLDE PLACA PIONONO NUMERO 4 WEWE",
+    "sku": 114000657
+  },
+  {
+    "id": 19027,
+    "nombre": "MOLDE PLACA PIONONO NUMERO 5 WEWE",
+    "sku": 114000658
+  },
+  {
+    "id": 19028,
+    "nombre": "MOLDE PLACA PIONONO NUMERO 6 WEWE",
+    "sku": 114000659
+  },
+  {
+    "id": 18946,
+    "nombre": "MOLDE RECTANGULAR ALTO NUMERO 1 WEWE",
+    "sku": 114000596
+  },
+  {
+    "id": 18947,
+    "nombre": "MOLDE RECTANGULAR ALTO NUMERO 2 WEWE",
+    "sku": 114000597
+  },
+  {
+    "id": 18948,
+    "nombre": "MOLDE RECTANGULAR ALTO NUMERO 3 WEWE",
+    "sku": 114000598
+  },
+  {
+    "id": 18949,
+    "nombre": "MOLDE RECTANGULAR ALTO NUMERO 4 WEWE",
+    "sku": 114000599
+  },
+  {
+    "id": 18950,
+    "nombre": "MOLDE RECTANGULAR ALTO NUMERO 5 WEWE",
+    "sku": 114000600
+  },
+  {
+    "id": 18951,
+    "nombre": "MOLDE RECTANGULAR ALTO NUMERO 6 WEWE",
+    "sku": 114000601
+  },
+  {
+    "id": 18952,
+    "nombre": "MOLDE RECTANGULAR BAJO NUMERO 22 WEWE",
+    "sku": 114000602
+  },
+  {
+    "id": 18953,
+    "nombre": "MOLDE RECTANGULAR BAJO NUMERO 24 WEWE",
+    "sku": 114000603
+  },
+  {
+    "id": 18954,
+    "nombre": "MOLDE RECTANGULAR BAJO NUMERO 26 WEWE",
+    "sku": 114000604
+  },
+  {
+    "id": 18955,
+    "nombre": "MOLDE RECTANGULAR BAJO NUMERO 28 WEWE",
+    "sku": 114000605
+  },
+  {
+    "id": 18956,
+    "nombre": "MOLDE RECTANGULAR BAJO NUMERO 30 WEWE",
+    "sku": 114000606
+  },
+  {
+    "id": 18957,
+    "nombre": "MOLDE RECTANGULAR BAJO NUMERO 32 WEWE",
+    "sku": 114000607
+  },
+  {
+    "id": 18958,
+    "nombre": "MOLDE RECTANGULAR BAJO NUMERO 34 WEWE",
+    "sku": 114000608
+  },
+  {
+    "id": 18959,
+    "nombre": "MOLDE RECTANGULAR BAJO NUMERO 36 WEWE",
+    "sku": 114000609
+  },
+  {
+    "id": 18960,
+    "nombre": "MOLDE RECTANGULAR BAJO NUMERO 38 WEWE",
+    "sku": 114000610
+  },
+  {
+    "id": 18961,
+    "nombre": "MOLDE RECTANGULAR BAJO NUMERO 40 WEWE",
+    "sku": 114000611
+  },
+  {
+    "id": 18962,
+    "nombre": "MOLDE RECTANGULAR BAJO NUMERO 42 WEWE",
+    "sku": 114000612
+  },
+  {
+    "id": 27409,
+    "nombre": "MOLDE REDONDO DESMONTABLE LOW COST SET X 3",
+    "sku": 114000758
+  },
+  {
+    "id": 42453,
+    "nombre": "MOLDE REDONDO DESMONTABLE MINI CAKE LOW COST",
+    "sku": 114000783
+  },
+  {
+    "id": 19060,
+    "nombre": "MOLDE SALADITOS SURT WEWE X 12",
+    "sku": 114000693
+  },
+  {
+    "id": 19042,
+    "nombre": "MOLDE SILICONA 12 CUPCAKES CHOCOMISIO",
+    "sku": 114000675
+  },
+  {
+    "id": 42482,
+    "nombre": "MOLDE SILICONA 12 HOJAS ARBOL LOW COST",
+    "sku": 114000824
+  },
+  {
+    "id": 47604,
+    "nombre": "MOLDE SILICONA 2 CORAZONES LOW COST",
+    "sku": 114000947
+  },
+  {
+    "id": 42484,
+    "nombre": "MOLDE SILICONA 2 OBSEQUIOS LOW COST",
+    "sku": 114000826
+  },
+  {
+    "id": 42465,
+    "nombre": "MOLDE SILICONA 2 PALETA CORAZON LOW COST",
+    "sku": 114000807
+  },
+  {
+    "id": 33507,
+    "nombre": "MOLDE SILICONA 22CM NUMEROS MYM",
+    "sku": 114000759
+  },
+  {
+    "id": 42457,
+    "nombre": "MOLDE SILICONA 3 ANIMALES ZOO LOW COST",
+    "sku": 114000799
+  },
+  {
+    "id": 41665,
+    "nombre": "MOLDE SILICONA 3 HOJAS LOW COST",
+    "sku": 114000791
+  },
+  {
+    "id": 42478,
+    "nombre": "MOLDE SILICONA 3 HOJAS PALMAS LOW COST",
+    "sku": 114000820
+  },
+  {
+    "id": 27388,
+    "nombre": "MOLDE SILICONA 3 PALETA RAYAS LOW COST",
+    "sku": 114000737
+  },
+  {
+    "id": 47605,
+    "nombre": "MOLDE SILICONA 4 MEDIA ESFERA LOW COST",
+    "sku": 114000948
+  },
+  {
+    "id": 42466,
+    "nombre": "MOLDE SILICONA 4 PALETA CORAZON LOW COST",
+    "sku": 114000808
+  },
+  {
+    "id": 27390,
+    "nombre": "MOLDE SILICONA 4 PALETA HE X AG LOW COST",
+    "sku": 114000739
+  },
+  {
+    "id": 27384,
+    "nombre": "MOLDE SILICONA 4 PALETA HUEVO LOW COST",
+    "sku": 114000733
+  },
+  {
+    "id": 27382,
+    "nombre": "MOLDE SILICONA 4 PALETA LOW COST",
+    "sku": 114000731
+  },
+  {
+    "id": 27391,
+    "nombre": "MOLDE SILICONA 4 PALETA LOW COST",
+    "sku": 114000740
+  },
+  {
+    "id": 27392,
+    "nombre": "MOLDE SILICONA 4 PALETA LOW COST",
+    "sku": 114000741
+  },
+  {
+    "id": 27383,
+    "nombre": "MOLDE SILICONA 4 PALETA RAYAS LOW COST",
+    "sku": 114000732
+  },
+  {
+    "id": 27389,
+    "nombre": "MOLDE SILICONA 4 PALETA TRIAN LOW COST",
+    "sku": 114000738
+  },
+  {
+    "id": 42467,
+    "nombre": "MOLDE SILICONA 4 PALETA FACETADO CHICO LOW COST",
+    "sku": 114000809
+  },
+  {
+    "id": 42468,
+    "nombre": "MOLDE SILICONA 4 PALETA FACETADO GRANDE LOW COST",
+    "sku": 114000810
+  },
+  {
+    "id": 42479,
+    "nombre": "MOLDE SILICONA 5 FLORES LOW COST",
+    "sku": 114000821
+  },
+  {
+    "id": 27387,
+    "nombre": "MOLDE SILICONA 5 HUEVOS LOW COST",
+    "sku": 114000736
+  },
+  {
+    "id": 19045,
+    "nombre": "MOLDE SILICONA 6 CUPCAKE REDONDO MYM",
+    "sku": 114000678
+  },
+  {
+    "id": 19044,
+    "nombre": "MOLDE SILICONA 6 CUPCAKE ROSA MYM",
+    "sku": 114000677
+  },
+  {
+    "id": 19043,
+    "nombre": "MOLDE SILICONA 6 CUPCAKES MYM",
+    "sku": 114000676
+  },
+  {
+    "id": 19046,
+    "nombre": "MOLDE SILICONA 6 CUPCAKES MYM",
+    "sku": 114000679
+  },
+  {
+    "id": 19047,
+    "nombre": "MOLDE SILICONA 6 HELADOS MYM",
+    "sku": 114000680
+  },
+  {
+    "id": 42989,
+    "nombre": "MOLDE SILICONA 6 HUEVOS DECO LOW COST",
+    "sku": 114000827
+  },
+  {
+    "id": 27386,
+    "nombre": "MOLDE SILICONA 6 HUEVOS LOW COST",
+    "sku": 114000735
+  },
+  {
+    "id": 41668,
+    "nombre": "MOLDE SILICONA 6 RECTANGULOS LOW COST",
+    "sku": 114000794
+  },
+  {
+    "id": 19048,
+    "nombre": "MOLDE SILICONA 8 CORAZON MYM",
+    "sku": 114000681
+  },
+  {
+    "id": 19049,
+    "nombre": "MOLDE SILICONA 8 DONUTS MYM",
+    "sku": 114000682
+  },
+  {
+    "id": 27385,
+    "nombre": "MOLDE SILICONA 8 HUEVOS LOW COST",
+    "sku": 114000734
+  },
+  {
+    "id": 45488,
+    "nombre": "MOLDE SILICONA ABC CON CORAZON LOW COST",
+    "sku": 114000942
+  },
+  {
+    "id": 42480,
+    "nombre": "MOLDE SILICONA ABC CIRCO LOW COST",
+    "sku": 114000822
+  },
+  {
+    "id": 42446,
+    "nombre": "MOLDE SILICONA ABC CUBO LOW COST",
+    "sku": 114000777
+  },
+  {
+    "id": 41663,
+    "nombre": "MOLDE SILICONA ABC DECORADO LOW COST",
+    "sku": 114000789
+  },
+  {
+    "id": 42445,
+    "nombre": "MOLDE SILICONA ABC DOBLE LOW COST",
+    "sku": 114000776
+  },
+  {
+    "id": 27393,
+    "nombre": "MOLDE SILICONA ABC LOW COST",
+    "sku": 114000742
+  },
+  {
+    "id": 41664,
+    "nombre": "MOLDE SILICONA ABC VINTAGE LOW COST",
+    "sku": 114000790
+  },
+  {
+    "id": 27399,
+    "nombre": "MOLDE SILICONA ABC NUMEROS SIMBOLOS LOW COST",
+    "sku": 114000748
+  },
+  {
+    "id": 41666,
+    "nombre": "MOLDE SILICONA ALGAS 15CM LOW COST",
+    "sku": 114000792
+  },
+  {
+    "id": 45527,
+    "nombre": "MOLDE SILICONA ANIMALES GRANJ LOW COST",
+    "sku": 114000943
+  },
+  {
+    "id": 42447,
+    "nombre": "MOLDE SILICONA ANIMALES MAR LOW COST",
+    "sku": 114000778
+  },
+  {
+    "id": 42459,
+    "nombre": "MOLDE SILICONA ANIMALES-CARAS LOW COST",
+    "sku": 114000801
+  },
+  {
+    "id": 19055,
+    "nombre": "MOLDE SILICONA BOMBON 2 CORAZON CHOCOMISIO",
+    "sku": 114000688
+  },
+  {
+    "id": 19057,
+    "nombre": "MOLDE SILICONA BOMBON CAJA CHOCOMISIO",
+    "sku": 114000690
+  },
+  {
+    "id": 19053,
+    "nombre": "MOLDE SILICONA BOMBON CORAZON CHOCOMISIO",
+    "sku": 114000686
+  },
+  {
+    "id": 19054,
+    "nombre": "MOLDE SILICONA BOMBON CUBOS CHOCOMISIO",
+    "sku": 114000687
+  },
+  {
+    "id": 19056,
+    "nombre": "MOLDE SILICONA BOMBON ESTRELL CHOCOMISIO",
+    "sku": 114000689
+  },
+  {
+    "id": 41661,
+    "nombre": "MOLDE SILICONA BOMBON NAVIDAD CAD",
+    "sku": 114000787
+  },
+  {
+    "id": 19050,
+    "nombre": "MOLDE SILICONA BUDIN 24CM MYM",
+    "sku": 114000683
+  },
+  {
+    "id": 19051,
+    "nombre": "MOLDE SILICONA BUHO MYM",
+    "sku": 114000684
+  },
+  {
+    "id": 42469,
+    "nombre": "MOLDE SILICONA BURBUJAS LOW COST",
+    "sku": 114000811
+  },
+  {
+    "id": 42448,
+    "nombre": "MOLDE SILICONA CEREZAS LOW COST",
+    "sku": 114000779
+  },
+  {
+    "id": 43307,
+    "nombre": "MOLDE SILICONA CHUPETIN 2 PIEZAS LOW COST",
+    "sku": 114000843
+  },
+  {
+    "id": 45528,
+    "nombre": "MOLDE SILICONA CHUPETIN NUMEROS LOW COST",
+    "sku": 114000944
+  },
+  {
+    "id": 47606,
+    "nombre": "MOLDE SILICONA COLA SIRENA CH LOW COST",
+    "sku": 114000949
+  },
+  {
+    "id": 47607,
+    "nombre": "MOLDE SILICONA COLA SIRENA GD LOW COST",
+    "sku": 114000950
+  },
+  {
+    "id": 42481,
+    "nombre": "MOLDE SILICONA CORAZON ALADO LOW COST",
+    "sku": 114000823
+  },
+  {
+    "id": 42464,
+    "nombre": "MOLDE SILICONA CORAZONES LOW COST",
+    "sku": 114000806
+  },
+  {
+    "id": 27406,
+    "nombre": "MOLDE SILICONA CUCHARITAS LOW COST",
+    "sku": 114000755
+  },
+  {
+    "id": 41662,
+    "nombre": "MOLDE SILICONA CUERNOS UNICOR LOW COST",
+    "sku": 114000788
+  },
+  {
+    "id": 42444,
+    "nombre": "MOLDE SILICONA CUPCAKE CARITA LOW COST",
+    "sku": 114000775
+  },
+  {
+    "id": 19052,
+    "nombre": "MOLDE SILICONA CUPCAKES CUAD CHOCOMISIO",
+    "sku": 114000685
+  },
+  {
+    "id": 42449,
+    "nombre": "MOLDE SILICONA DINOSAURIOS LOW COST",
+    "sku": 114000780
+  },
+  {
+    "id": 45529,
+    "nombre": "MOLDE SILICONA DONA X 6 LOW COST",
+    "sku": 114000945
+  },
+  {
+    "id": 42458,
+    "nombre": "MOLDE SILICONA FRUTAS LOW COST",
+    "sku": 114000800
+  },
+  {
+    "id": 33457,
+    "nombre": "MOLDE SILICONA GALLETA ESPIR LOW COST",
+    "sku": 114000764
+  },
+  {
+    "id": 27380,
+    "nombre": "MOLDE SILICONA GALLETAS OREO LOW COST",
+    "sku": 114000729
+  },
+  {
+    "id": 42483,
+    "nombre": "MOLDE SILICONA HUESOS LOW COST",
+    "sku": 114000825
+  },
+  {
+    "id": 42473,
+    "nombre": "MOLDE SILICONA LABERINTO LOW COST",
+    "sku": 114000815
+  },
+  {
+    "id": 41669,
+    "nombre": "MOLDE SILICONA LETRAS CORAZON LOW COST",
+    "sku": 114000795
+  },
+  {
+    "id": 42460,
+    "nombre": "MOLDE SILICONA MEDIA ESFE ECO LOW COST",
+    "sku": 114000802
+  },
+  {
+    "id": 42982,
+    "nombre": "MOLDE SILICONA MEDIA ESFE VAR LOW COST",
+    "sku": 114000831
+  },
+  {
+    "id": 27404,
+    "nombre": "MOLDE SILICONA MEDIA ESFERA LOW COST",
+    "sku": 114000753
+  },
+  {
+    "id": 43308,
+    "nombre": "MOLDE SILICONA MINI MACETA LOW COST",
+    "sku": 114000842
+  },
+  {
+    "id": 27401,
+    "nombre": "MOLDE SILICONA MINI TORTITAS LOW COST",
+    "sku": 114000750
+  },
+  {
+    "id": 42451,
+    "nombre": "MOLDE SILICONA MUSICA LOW COST",
+    "sku": 114000782
+  },
+  {
+    "id": 27402,
+    "nombre": "MOLDE SILICONA NUMEROS LOW COST",
+    "sku": 114000751
+  },
+  {
+    "id": 42461,
+    "nombre": "MOLDE SILICONA PATITO CONEJO LOW COST",
+    "sku": 114000803
+  },
+  {
+    "id": 51703,
+    "nombre": "MOLDE SILICONA PIROTIN 7CM LOW COST",
+    "sku": 120000833
+  },
+  {
+    "id": 42450,
+    "nombre": "MOLDE SILICONA PRIMAVERA LOW COST",
+    "sku": 114000781
+  },
+  {
+    "id": 41659,
+    "nombre": "MOLDE SILICONA RECTANGULAR CAD",
+    "sku": 114000785
+  },
+  {
+    "id": 19058,
+    "nombre": "MOLDE SILICONA REDONDO 28CM CHOCOMISIO",
+    "sku": 114000691
+  },
+  {
+    "id": 41660,
+    "nombre": "MOLDE SILICONA REDONDO CAD",
+    "sku": 114000786
+  },
+  {
+    "id": 42462,
+    "nombre": "MOLDE SILICONA ROBOTS LOW COST",
+    "sku": 114000804
+  },
+  {
+    "id": 27394,
+    "nombre": "MOLDE SILICONA SET ARCOIRIS LOW COST",
+    "sku": 114000743
+  },
+  {
+    "id": 27400,
+    "nombre": "MOLDE SILICONA SET FLORES LOW COST",
+    "sku": 114000749
+  },
+  {
+    "id": 27405,
+    "nombre": "MOLDE SILICONA SET MARINO LOW COST",
+    "sku": 114000754
+  },
+  {
+    "id": 27395,
+    "nombre": "MOLDE SILICONA SET MICKEY LOW COST",
+    "sku": 114000744
+  },
+  {
+    "id": 27396,
+    "nombre": "MOLDE SILICONA SET OSITO LOW COST",
+    "sku": 114000745
+  },
+  {
+    "id": 27403,
+    "nombre": "MOLDE SILICONA SET REGALOS LOW COST",
+    "sku": 114000752
+  },
+  {
+    "id": 27397,
+    "nombre": "MOLDE SILICONA SET SNOOPY LOW COST",
+    "sku": 114000746
+  },
+  {
+    "id": 27398,
+    "nombre": "MOLDE SILICONA SET VIÑETAS LOW COST",
+    "sku": 114000747
+  },
+  {
+    "id": 42474,
+    "nombre": "MOLDE SILICONA TABLETA CORAZONES LOW COST",
+    "sku": 114000816
+  },
+  {
+    "id": 42990,
+    "nombre": "MOLDE SILICONA TABLETA LOVE LOW COST",
+    "sku": 114000828
+  },
+  {
+    "id": 45530,
+    "nombre": "MOLDE SILICONA TABLETA TETRIS LOW COST",
+    "sku": 114000946
+  },
+  {
+    "id": 42471,
+    "nombre": "MOLDE SILICONA TABLETA CH-GDE LOW COST",
+    "sku": 114000813
+  },
+  {
+    "id": 41667,
+    "nombre": "MOLDE SILICONA TABLETA CHOCO LOW COST",
+    "sku": 114000793
+  },
+  {
+    "id": 42470,
+    "nombre": "MOLDE SILICONA TABLETA CUBOS LOW COST",
+    "sku": 114000812
+  },
+  {
+    "id": 42472,
+    "nombre": "MOLDE SILICONA TABLETA LAJA LOW COST",
+    "sku": 114000814
+  },
+  {
+    "id": 43411,
+    "nombre": "MOLDE SILICONA TARTERA RIZ BOTICA",
+    "sku": 114000844
+  },
+  {
+    "id": 43048,
+    "nombre": "MOLDE SILICONA TIRA DE PERLAS LOW COST",
+    "sku": 114000830
+  },
+  {
+    "id": 47811,
+    "nombre": "MOLDE SILICONA PAJARITOS LOW COST",
+    "sku": 120000828
+  },
+  {
+    "id": 18935,
+    "nombre": "MOLDE TARTA DESMONTABLE NUMERO 1 WEWE",
+    "sku": 114000584
+  },
+  {
+    "id": 18936,
+    "nombre": "MOLDE TARTA DESMONTABLE NUMERO 2 WEWE",
+    "sku": 114000585
+  },
+  {
+    "id": 18937,
+    "nombre": "MOLDE TARTA DESMONTABLE NUMERO 3 WEWE",
+    "sku": 114000586
+  },
+  {
+    "id": 18938,
+    "nombre": "MOLDE TARTA DESMONTABLE NUMERO 4 WEWE",
+    "sku": 114000587
+  },
+  {
+    "id": 18939,
+    "nombre": "MOLDE TARTA DESMONTABLE NUMERO 5 WEWE",
+    "sku": 114000588
+  },
+  {
+    "id": 18940,
+    "nombre": "MOLDE TARTA FIJA NUMERO 1 WEWE",
+    "sku": 114000589
+  },
+  {
+    "id": 18941,
+    "nombre": "MOLDE TARTA FIJA NUMERO 2 WEWE",
+    "sku": 114000590
+  },
+  {
+    "id": 18942,
+    "nombre": "MOLDE TARTA FIJA NUMERO 3 WEWE",
+    "sku": 114000591
+  },
+  {
+    "id": 18943,
+    "nombre": "MOLDE TARTA FIJA NUMERO 5 WEWE",
+    "sku": 114000592
+  },
+  {
+    "id": 42476,
+    "nombre": "MOLDE TARTA TEFLON 28CM LOW COST",
+    "sku": 114000818
+  },
+  {
+    "id": 19061,
+    "nombre": "MOLDE TARTELETAS WEWE X 12",
+    "sku": 114000694
+  },
+  {
+    "id": 19062,
+    "nombre": "MOLDE TEFLON 12 CUPCAKES CHOCOMISIO",
+    "sku": 114000695
+  },
+  {
+    "id": 19063,
+    "nombre": "MOLDE TEFLON 6 CUPCAKES CHOCOMISIO",
+    "sku": 114000696
+  },
+  {
+    "id": 33453,
+    "nombre": "MOLDE TEFLON BUDIN 15 X 8CM LOW COST",
+    "sku": 114000762
+  },
+  {
+    "id": 33449,
+    "nombre": "MOLDE TEFLON BUDIN 25 X 13CM LOW COST",
+    "sku": 114000760
+  },
+  {
+    "id": 33451,
+    "nombre": "MOLDE TEFLON BUDIN 29 X 13CM LOW COST",
+    "sku": 114000761
+  },
+  {
+    "id": 42456,
+    "nombre": "MOLDE TEFLON RECTANGULAR 22 X 35CM LOW COST",
+    "sku": 114000798
+  },
+  {
+    "id": 42455,
+    "nombre": "MOLDE TEFLON RECTANGULAR 34 X 24CM LOW COST",
+    "sku": 114000797
+  },
+  {
+    "id": 42463,
+    "nombre": "MOLDE TEFLON SAVARIN FLAN LOW COST",
+    "sku": 114000805
+  },
+  {
+    "id": 19064,
+    "nombre": "MOLDE TEFLON SET CUPCAKES CHOCOMISIO",
+    "sku": 114000697
+  },
+  {
+    "id": 19065,
+    "nombre": "MOLDE TORTA CON CIERRE CHOCOMISIO SET X 3",
+    "sku": 114000698
+  },
+  {
+    "id": 19066,
+    "nombre": "MOLDE TORTERA NUMERO 20 WEWE",
+    "sku": 114000699
+  },
+  {
+    "id": 19067,
+    "nombre": "MOLDE TORTERA NUMERO 22 WEWE",
+    "sku": 114000700
+  },
+  {
+    "id": 19068,
+    "nombre": "MOLDE TORTERA NUMERO 24 WEWE",
+    "sku": 114000701
+  },
+  {
+    "id": 19071,
+    "nombre": "MOLDE TORTERA NUMERO 26 WEWE",
+    "sku": 114000702
+  },
+  {
+    "id": 19072,
+    "nombre": "MOLDE TORTERA NUMERO 28 WEWE",
+    "sku": 114000703
+  },
+  {
+    "id": 19073,
+    "nombre": "MOLDE TORTERA NUMERO 30 WEWE",
+    "sku": 114000704
+  },
+  {
+    "id": 47526,
+    "nombre": "MORA CONGELADO BIO X 1KG",
+    "sku": 109000040
+  },
+  {
+    "id": 45370,
+    "nombre": "MOUSSE CHOCO KEUKEN X 3KG",
+    "sku": 106000189
+  },
+  {
+    "id": 41675,
+    "nombre": "MOUSSE CHOCO POLVO LEDEVIT X 1KG",
+    "sku": 118000054
+  },
+  {
+    "id": 52457,
+    "nombre": "MOUSSE CHOCOLATE ALZOL X KG",
+    "sku": 106000194
+  },
+  {
+    "id": 44113,
+    "nombre": "MOUSSE CHOCOLATE KEUKEN 12 X 500",
+    "sku": 106000179
+  },
+  {
+    "id": 43522,
+    "nombre": "MOUSSE CHOCOLATE KEUKEN 6 X 800G",
+    "sku": 106000153
+  },
+  {
+    "id": 52442,
+    "nombre": "MOUSSE CHOCOLATE KEUKEN X 250G",
+    "sku": 106000081
+  },
+  {
+    "id": 44107,
+    "nombre": "MOUSSE CHOCOLATE KEUKEN X 500G",
+    "sku": 106000175
+  },
+  {
+    "id": 10063,
+    "nombre": "MOUSSE CHOCOLATE KEUKEN X 800G",
+    "sku": 106000083
+  },
+  {
+    "id": 43521,
+    "nombre": "MOUSSE CHOCOLATE KEUKEN12 X 250G",
+    "sku": 106000152
+  },
+  {
+    "id": 43490,
+    "nombre": "MOUSSE CHOCOLATE LEDEVIT CAJA",
+    "sku": 106000145
+  },
+  {
+    "id": 19093,
+    "nombre": "MOUSSE CHOCOLATE LEDEVIT X 250G",
+    "sku": 106000080
+  },
+  {
+    "id": 54814,
+    "nombre": "MOUSSE CHOCOLATE LEDEVIT X KG",
+    "sku": 106000202
+  },
+  {
+    "id": 50852,
+    "nombre": "MOUSSE CHOCOLATE X KG",
+    "sku": 106000085
+  },
+  {
+    "id": 52458,
+    "nombre": "MOUSSE DULCE DE LECHE ALZOL X KG",
+    "sku": 106000195
+  },
+  {
+    "id": 52445,
+    "nombre": "MOUSSE DULCE DE LECHE CIRCE X KG",
+    "sku": 106000088
+  },
+  {
+    "id": 44114,
+    "nombre": "MOUSSE DULCE DE LECHE KEUKEN 12 X 500G",
+    "sku": 106000180
+  },
+  {
+    "id": 43523,
+    "nombre": "MOUSSE DULCE DE LECHE KEUKEN 6 X 800G",
+    "sku": 106000154
+  },
+  {
+    "id": 52446,
+    "nombre": "MOUSSE DULCE DE LECHE KEUKEN X 250G",
+    "sku": 106000089
+  },
+  {
+    "id": 44108,
+    "nombre": "MOUSSE DULCE DE LECHE KEUKEN X 500G",
+    "sku": 106000176
+  },
+  {
+    "id": 10067,
+    "nombre": "MOUSSE DULCE DE LECHE KEUKEN X 800G",
+    "sku": 106000090
+  },
+  {
+    "id": 52447,
+    "nombre": "MOUSSE DULCE DE LECHE KEUKEN X KG",
+    "sku": 106000091
+  },
+  {
+    "id": 44115,
+    "nombre": "MOUSSE FRUTOS ROJOS KEUKEN 12 X 500G",
+    "sku": 106000181
+  },
+  {
+    "id": 44109,
+    "nombre": "MOUSSE FRUTOS ROJOS KEUKEN X 500G",
+    "sku": 106000177
+  },
+  {
+    "id": 52448,
+    "nombre": "MOUSSE FRUTILLA ALZOL X 250G",
+    "sku": 106000092
+  },
+  {
+    "id": 52459,
+    "nombre": "MOUSSE FRUTILLA ALZOL X KG",
+    "sku": 106000196
+  },
+  {
+    "id": 45349,
+    "nombre": "MOUSSE FRUTILLA KEUKEN 12 X 500G",
+    "sku": 106000185
+  },
+  {
+    "id": 43524,
+    "nombre": "MOUSSE FRUTILLA KEUKEN 6 X 800G",
+    "sku": 106000155
+  },
+  {
+    "id": 52449,
+    "nombre": "MOUSSE FRUTILLA KEUKEN X 250G",
+    "sku": 106000093
+  },
+  {
+    "id": 45351,
+    "nombre": "MOUSSE FRUTILLA KEUKEN X 500G",
+    "sku": 106000186
+  },
+  {
+    "id": 10069,
+    "nombre": "MOUSSE FRUTILLA KEUKEN X 800G",
+    "sku": 106000094
+  },
+  {
+    "id": 52443,
+    "nombre": "MOUSSE FRUTILLA KEUKEN X KG",
+    "sku": 106000084
+  },
+  {
+    "id": 52460,
+    "nombre": "MOUSSE LIMON ALZOL X KG",
+    "sku": 106000197
+  },
+  {
+    "id": 43525,
+    "nombre": "MOUSSE LIMON KEUKEN 6 X 800G",
+    "sku": 106000156
+  },
+  {
+    "id": 52451,
+    "nombre": "MOUSSE LIMON KEUKEN X 250G",
+    "sku": 106000098
+  },
+  {
+    "id": 10071,
+    "nombre": "MOUSSE LIMON KEUKEN X 800G",
+    "sku": 106000099
+  },
+  {
+    "id": 52463,
+    "nombre": "MOUSSE LIMON KEUKEN X KG",
+    "sku": 106000200
+  },
+  {
+    "id": 52452,
+    "nombre": "MOUSSE VAINILLA ALZOL X 250G",
+    "sku": 106000101
+  },
+  {
+    "id": 52461,
+    "nombre": "MOUSSE VAINILLA ALZOL X KG",
+    "sku": 106000198
+  },
+  {
+    "id": 43543,
+    "nombre": "MOUSSE VAINILLA KEUKEN 12 X 500G",
+    "sku": 106000162
+  },
+  {
+    "id": 43526,
+    "nombre": "MOUSSE VAINILLA KEUKEN 6 X 800G",
+    "sku": 106000157
+  },
+  {
+    "id": 52453,
+    "nombre": "MOUSSE VAINILLA KEUKEN X 250G",
+    "sku": 106000103
+  },
+  {
+    "id": 43542,
+    "nombre": "MOUSSE VAINILLA KEUKEN X 500G",
+    "sku": 106000161
+  },
+  {
+    "id": 10073,
+    "nombre": "MOUSSE VAINILLA KEUKEN X 800G",
+    "sku": 106000104
+  },
+  {
+    "id": 52454,
+    "nombre": "MOUSSE VAINILLA KEUKEN X KG",
+    "sku": 106000105
+  },
+  {
+    "id": 19171,
+    "nombre": "NUEZ CUARTA E X TRA LIGHT X 10KG",
+    "sku": 110000049
+  },
+  {
+    "id": 19172,
+    "nombre": "NUEZ CUARTA E X TRA LIGHT X 12KG",
+    "sku": 110000050
+  },
+  {
+    "id": 52572,
+    "nombre": "NUEZ CUARTA E X TRA LIGHT X KG",
+    "sku": 110000051
+  },
+  {
+    "id": 52593,
+    "nombre": "NUEZ MARIPOSA E X TRA LIGHT X KG",
+    "sku": 110000099
+  },
+  {
+    "id": 52566,
+    "nombre": "NUEZ MARIPOSA E X TRA LIGHT X 100G",
+    "sku": 110000035
+  },
+  {
+    "id": 19174,
+    "nombre": "NUEZ MARIPOSA E X TRA LIGHT X 10KG",
+    "sku": 110000052
+  },
+  {
+    "id": 52578,
+    "nombre": "NUEZ MARIPOSA E X TRA LIGHT X 250G",
+    "sku": 110000065
+  },
+  {
+    "id": 52573,
+    "nombre": "NUEZ MARIPOSA E X TRA LIGHT X 500G",
+    "sku": 110000053
+  },
+  {
+    "id": 32641,
+    "nombre": "NUEZ MARIPOSA E X TRA LIGHT X 5KG",
+    "sku": 110000066
+  },
+  {
+    "id": 19184,
+    "nombre": "OBLEA PLANCHA AMARILLO JCT",
+    "sku": 116000225
+  },
+  {
+    "id": 19185,
+    "nombre": "OBLEA PLANCHA AZUL JCT",
+    "sku": 116000226
+  },
+  {
+    "id": 19186,
+    "nombre": "OBLEA PLANCHA BLANCO JCT",
+    "sku": 116000227
+  },
+  {
+    "id": 19187,
+    "nombre": "OBLEA PLANCHA CELESTE JCT",
+    "sku": 116000228
+  },
+  {
+    "id": 19188,
+    "nombre": "OBLEA PLANCHA FUCSIA JCT",
+    "sku": 116000229
+  },
+  {
+    "id": 19189,
+    "nombre": "OBLEA PLANCHA MARRON JCT",
+    "sku": 116000230
+  },
+  {
+    "id": 19190,
+    "nombre": "OBLEA PLANCHA NARANJA JCT",
+    "sku": 116000231
+  },
+  {
+    "id": 19191,
+    "nombre": "OBLEA PLANCHA NATURAL JCT",
+    "sku": 116000232
+  },
+  {
+    "id": 19192,
+    "nombre": "OBLEA PLANCHA NEGRO JCT",
+    "sku": 116000233
+  },
+  {
+    "id": 19193,
+    "nombre": "OBLEA PLANCHA ROJO JCT",
+    "sku": 116000234
+  },
+  {
+    "id": 19194,
+    "nombre": "OBLEA PLANCHA ROSA JCT",
+    "sku": 116000235
+  },
+  {
+    "id": 19195,
+    "nombre": "OBLEA PLANCHA VERDE JCT",
+    "sku": 116000236
+  },
+  {
+    "id": 19196,
+    "nombre": "OBLEA PLANCHA VIOLETA JCT",
+    "sku": 116000237
+  },
+  {
+    "id": 27555,
+    "nombre": "PALITO PARA CHUPETIN 10CM LOW COST X 50",
+    "sku": 120000568
+  },
+  {
+    "id": 19249,
+    "nombre": "PALO AMASAR 30CM CA",
+    "sku": 120000440
+  },
+  {
+    "id": 19255,
+    "nombre": "PALO AMASAR 38CM LOW COST",
+    "sku": 120000446
+  },
+  {
+    "id": 19250,
+    "nombre": "PALO AMASAR 40CM CA",
+    "sku": 120000441
+  },
+  {
+    "id": 19251,
+    "nombre": "PALO AMASAR 50CM CA",
+    "sku": 120000442
+  },
+  {
+    "id": 19252,
+    "nombre": "PALO AMASAR BAMBOO 40CM LOW COST",
+    "sku": 120000443
+  },
+  {
+    "id": 19253,
+    "nombre": "PALO AMASAR BAMBOO 41CM LOW COST",
+    "sku": 120000444
+  },
+  {
+    "id": 19254,
+    "nombre": "PALO AMASAR BAMBOO 42CM LOW COST",
+    "sku": 120000445
+  },
+  {
+    "id": 43309,
+    "nombre": "PALO AMASAR BAMBOO 47CM LOW COST",
+    "sku": 120000636
+  },
+  {
+    "id": 47793,
+    "nombre": "PALO AMASAR CON ORING MYM",
+    "sku": 120000606
+  },
+  {
+    "id": 41677,
+    "nombre": "PALO AMASAR GIRATORIO 25CM LOW COST",
+    "sku": 120000595
+  },
+  {
+    "id": 19248,
+    "nombre": "PALO AMASAR INOXIDABLE X 25CM MYM",
+    "sku": 120000439
+  },
+  {
+    "id": 27553,
+    "nombre": "PALO AMASAR PREMIUM 25CM LOW COST",
+    "sku": 120000566
+  },
+  {
+    "id": 19256,
+    "nombre": "PALO ANTIADHERENTE 20CM BOTICA",
+    "sku": 120000447
+  },
+  {
+    "id": 19257,
+    "nombre": "PALO ANTIADHERENTE 25CM BOTICA",
+    "sku": 120000448
+  },
+  {
+    "id": 19258,
+    "nombre": "PALO ANTIADHERENTE 33CM BOTICA",
+    "sku": 120000449
+  },
+  {
+    "id": 19259,
+    "nombre": "PALO ANTIADHERENTE 50CM BOTICA",
+    "sku": 120000450
+  },
+  {
+    "id": 43907,
+    "nombre": "PALTA CONGELADO BIO 20 X 500G",
+    "sku": 109000121
+  },
+  {
+    "id": 38592,
+    "nombre": "PALTA CONGELADO BIO X 500G",
+    "sku": 109000084
+  },
+  {
+    "id": 43539,
+    "nombre": "PAN DE QUESO KEUKEN 10 X 1KG",
+    "sku": 118000065
+  },
+  {
+    "id": 43710,
+    "nombre": "PAN DE QUESO KEUKEN 9 X 500G",
+    "sku": 118000072
+  },
+  {
+    "id": 10086,
+    "nombre": "PAN DE QUESO KEUKEN X 1KG",
+    "sku": 118000035
+  },
+  {
+    "id": 27509,
+    "nombre": "PAN DE QUESO KEUKEN X 3KG",
+    "sku": 118000044
+  },
+  {
+    "id": 43709,
+    "nombre": "PAN DE QUESO KEUKEN X 500G",
+    "sku": 118000071
+  },
+  {
+    "id": 52620,
+    "nombre": "PAN DE QUESO KEUKEN X KG",
+    "sku": 118000036
+  },
+  {
+    "id": 43711,
+    "nombre": "PAPEL ARROZ JCT PACK X 100",
+    "sku": 113000019
+  },
+  {
+    "id": 19275,
+    "nombre": "PAPEL ARROZ JCT X 1",
+    "sku": 113000010
+  },
+  {
+    "id": 44424,
+    "nombre": "PAPEL GUITARRA BOTICA X 5",
+    "sku": 120000804
+  },
+  {
+    "id": 19310,
+    "nombre": "PAPEL MANTECA REUTILIZABLE LOW COST",
+    "sku": 120000454
+  },
+  {
+    "id": 19333,
+    "nombre": "PASAS UVA NEGRA EJARQUE X 10KG",
+    "sku": 110000057
+  },
+  {
+    "id": 52575,
+    "nombre": "PASAS UVA NEGRA EJARQUE X KG",
+    "sku": 110000056
+  },
+  {
+    "id": 19330,
+    "nombre": "PASAS UVA RUBIA X 10KG",
+    "sku": 110000054
+  },
+  {
+    "id": 52574,
+    "nombre": "PASAS UVA RUBIA X KG",
+    "sku": 110000055
+  }
+]

@@ -3,7 +3,7 @@ import json
 
 
 # nombre_archivo = input('Nombre del archivo (sin extensión): ')
-nombre_archivo = 'productos_reposteria'
+nombre_archivo = 'prodcutos_reposteria_sin_imagen'
 nombre_hoja = input('Nombre de la hoja del excel: ')
 
 # Read excel document
