@@ -1,176 +1,754 @@
-[{
-    "id": 43830,
-    "nombre": "PASTA AMERICANA AMARILLO DECOR 20 X 500G",
-    "sku": 115000269
-  },
-{
-    "id": 43831,
-    "nombre": "PASTA AMERICANA AZUL DECOR 20 X 500G",
-    "sku": 115000270
-  },
-{
-    "id": 43832,
-    "nombre": "PASTA AMERICANA BLANCO DECOR 10 X 1KG",
-    "sku": 115000271
-  },
-{
-    "id": 43833,
-    "nombre": "PASTA AMERICANA BLANCO DECOR 20 X 500G",
-    "sku": 115000272
-  },
-{
-    "id": 47644,
-    "nombre": "PASTA AMERICANA BLANCO DECOR X 5KG",
-    "sku": 115000074
-  },
-{
-    "id": 43834,
-    "nombre": "PASTA AMERICANA CELESTE DECOR 20 X 500G",
-    "sku": 115000273
-  },
-{
-    "id": 43842,
-    "nombre": "PASTA AMERICANA CESPED DECOR 20 X 500G",
-    "sku": 115000281
-  },
-{
-    "id": 43835,
-    "nombre": "PASTA AMERICANA FUCSIA DECOR 20 X 500G",
-    "sku": 115000274
-  },
-{
-    "id": 43836,
-    "nombre": "PASTA AMERICANA MARRON DECOR 20 X 500G",
-    "sku": 115000275
-  },
-{
-    "id": 43837,
-    "nombre": "PASTA AMERICANA NARAN DECOR 20 X 500G",
-    "sku": 115000276
-  },
-{
-    "id": 43838,
-    "nombre": "PASTA AMERICANA NEGRO DECOR 20 X 500G",
-    "sku": 115000277
-  },
-{
-    "id": 43839,
-    "nombre": "PASTA AMERICANA ROJO DECOR 20 X 500G",
-    "sku": 115000278
-  },
-{
-    "id": 43840,
-    "nombre": "PASTA AMERICANA ROSA DECOR 20 X 500G",
-    "sku": 115000279
-  },
-{
-    "id": 27413,
-    "nombre": "PASTA AMERICANA ROSA DECOR X 500G",
-    "sku": 115000200
-  },
-{
-    "id": 43841,
-    "nombre": "PASTA AMERICANA VERDE DECOR 20 X 500G",
-    "sku": 115000280
-  },
-{
-    "id": 19334,
-    "nombre": "PASTA AMERICANA VERDE DECOR X 500G",
-    "sku": 115000042
-  },
-{
-    "id": 43843,
-    "nombre": "PASTA AMERICANA VIOLETA DECOR 20 X 500G",
-    "sku": 115000282
-  },
-{
-    "id": 43844,
-    "nombre": "PASTA GOMA AMAR DECOR 20 X 500G",
-    "sku": 115000283
-  },
-{
-    "id": 10089,
-    "nombre": "PASTA GOMA AMAR DECOR X 500G",
-    "sku": 115000059
-  },
-{
-    "id": 43845,
-    "nombre": "PASTA GOMA AZUL DECOR 20 X 500G",
-    "sku": 115000284
-  },
-{
-    "id": 10091,
-    "nombre": "PASTA GOMA AZUL DECOR X 500G",
-    "sku": 115000061
-  },
-{
-    "id": 43846,
-    "nombre": "PASTA GOMA BLANCO DECOR 20 X 500G",
-    "sku": 115000285
-  },
-{
-    "id": 10093,
-    "nombre": "PASTA GOMA BLANCO DECOR X 500G",
-    "sku": 115000063
-  },
-{
-    "id": 43847,
-    "nombre": "PASTA GOMA BORDO DECOR 20 X 500G",
-    "sku": 115000286
-  },
-{
-    "id": 10095,
-    "nombre": "PASTA GOMA BORDO DECOR X 500G",
-    "sku": 115000065
-  },
-{
-    "id": 43851,
-    "nombre": "PASTA GOMA LIMON DECOR 20 X 500G",
-    "sku": 115000290
-  },
-{
-    "id": 10103,
-    "nombre": "PASTA GOMA LIMON DECOR X 500G",
-    "sku": 115000073
-  },
-{
-    "id": 43848,
-    "nombre": "PASTA GOMA NEGRO DECOR 20 X 500G",
-    "sku": 115000287
-  },
-{
-    "id": 10097,
-    "nombre": "PASTA GOMA NEGRO DECOR X 500G",
-    "sku": 115000067
-  },
-{
-    "id": 43849,
-    "nombre": "PASTA GOMA PIEL DECOR 20 X 500G",
-    "sku": 115000288
-  },
-{
-    "id": 10099,
-    "nombre": "PASTA GOMA PIEL DECOR X 500G",
-    "sku": 115000069
-  },
-{
-    "id": 43850,
-    "nombre": "PASTA GOMA ROJO DECOR 20 X 500G",
-    "sku": 115000289
-  },
-{
-    "id": 10101,
-    "nombre": "PASTA GOMA ROJO DECOR X 500G",
-    "sku": 115000071
-  },
-{
-    "id": 43852,
-    "nombre": "PASTA GOMA VIOLETA DECOR 20 X 500G",
-    "sku": 115000291
-  },
-{
-    "id": 10105,
-    "nombre": "PASTA GOMA VIOLETA DECOR X 500G",
-    "sku": 115000075
-  }
+[
+    {
+        "sku": "0115000126",
+        "nombre": "PASTA RELLENO MANI MAPSA X 450G"
+    },
+    {
+        "sku": "0115000128",
+        "nombre": "PASTA RELLENO MENTA MAPSA X 450G"
+    },
+    {
+        "sku": "0115000132",
+        "nombre": "PASTA RELLENO ALMENDRA TOP CLASS X 250G"
+    },
+    {
+        "sku": "0115000141",
+        "nombre": "PASTA RELLENO FRUTOS ROJOS TOP CLASS X 250G"
+    },
+    {
+        "sku": "0115000158",
+        "nombre": "POSTRE MANI LHERITIER X KG PESABLE"
+    },
+    {
+        "sku": "0115000159",
+        "nombre": "PASTA UNTABLE FONDUE AGUILA X 290G 3 EN 1"
+    },
+    {
+        "sku": "0115000160",
+        "nombre": "PASTA UNTABLE AVELLANA AGUILA X 290G"
+    },
+    {
+        "sku": "0115000161",
+        "nombre": "PASTA UNTABLE MANI BON O BON X 290G"
+    },
+    {
+        "sku": "0115000162",
+        "nombre": "PASTA UNTABLE COFLER BLOCK X 290G"
+    },
+    {
+        "sku": "0115000188",
+        "nombre": "VARIEGATO FRUTOS ROJO KEUKEN X KG PESABLE"
+    },
+    {
+        "sku": "0115000189",
+        "nombre": "VARIEGATO FRUTOS ROJOS KEUKEN X 2.5KG"
+    },
+    {
+        "sku": "0115000192",
+        "nombre": "VARIEGATO MARACUYA KEUKEN X KG PESABLE"
+    },
+    {
+        "sku": "0115000193",
+        "nombre": "VARIEGATO MARACUY KEUKEN X 2.5KG CON SEMILLAS"
+    },
+    {
+        "sku": "0115000195",
+        "nombre": "VARIEGATO FRUTOS ROJOS TOP CLASS X 250G"
+    },
+    {
+        "sku": "0115000197",
+        "nombre": "VARIEGATO FRAMB KEUKEN X 2.5KG"
+    },
+    {
+        "sku": "0115000199",
+        "nombre": "PASTA MANI NATURAL MKING X 3KG BALDE"
+    },
+    {
+        "sku": "0115000200",
+        "nombre": "PASTA AMERICANA ROSA DECOR X 500G"
+    },
+    {
+        "sku": "0115000201",
+        "nombre": "VARIEGATO FRAMBUESA KEUKEN X 250 PESABLE"
+    },
+    {
+        "sku": "0115000203",
+        "nombre": "SALSA FRUTOS ROJOS LHERITIER X 500G"
+    },
+    {
+        "sku": "0115000205",
+        "nombre": "SALSA PAN DULCE LHERITIER X 500G"
+    },
+    {
+        "sku": "0115000207",
+        "nombre": "SALSA AVELLANA LHERITIER X 500G"
+    },
+    {
+        "sku": "0115000209",
+        "nombre": "SALSA AVELLANA LHERITIER X 200G"
+    },
+    {
+        "sku": "0115000215",
+        "nombre": "PASTA MANI NATURAL MKING 245G"
+    },
+    {
+        "sku": "0115000217",
+        "nombre": "PASTA MANI CRUNCHY MKING X 350G"
+    },
+    {
+        "sku": "0115000218",
+        "nombre": "POSTRE MANI LHERITIER X 100G"
+    },
+    {
+        "sku": "0115000219",
+        "nombre": "POSTRE MANI LHERITIER 40 X 100G CAJA"
+    },
+    {
+        "sku": "0115000241",
+        "nombre": "PASTA RELLENO ALMENDRA MAPSA CAJA 6 X 500G"
+    },
+    {
+        "sku": "0115000242",
+        "nombre": "PASTA RELLENO AVELLAN MAPSA CAJA 6 X 500G"
+    },
+    {
+        "sku": "0115000243",
+        "nombre": "PASTA RELLENO BANANA MAPSA CAJA 6 X 500G"
+    },
+    {
+        "sku": "0115000244",
+        "nombre": "PASTA RELLENO CHOCO MAPSA CAJA 6 X 500G"
+    },
+    {
+        "sku": "0115000245",
+        "nombre": "PASTA RELLENO FRUTILLA MAPSA CAJA 6 X 500G"
+    },
+    {
+        "sku": "0115000246",
+        "nombre": "PASTA RELLENO LIMON MAPSA CAJA 6 X 500G"
+    },
+    {
+        "sku": "0115000248",
+        "nombre": "PASTA RELLENO MENTA MAPSA CAJA 6 X 500G"
+    },
+    {
+        "sku": "0115000254",
+        "nombre": "PASTA ANAST LHERITIER 6 X 3KG CAJA"
+    },
+    {
+        "sku": "0115000255",
+        "nombre": "POSTRE MANI LHERITIER 6 X 1KG CAJA"
+    },
+    {
+        "sku": "0115000256",
+        "nombre": "SALSA CARAMEL LHERITIER 6 X 200G CAJA"
+    },
+    {
+        "sku": "0115000257",
+        "nombre": "SALSA CARAMEL LHERITIER 6 X 500G CAJA"
+    },
+    {
+        "sku": "0115000258",
+        "nombre": "SALSA CHOCO LHERITIER 6 X 500G CAJA"
+    },
+    {
+        "sku": "0115000259",
+        "nombre": "SALSA CHOCO LHERITIER 6 X 200G CAJA"
+    },
+    {
+        "sku": "0115000260",
+        "nombre": "SALSA DULCE DE LECHE LHERITIER 6 X 500G CAJA"
+    },
+    {
+        "sku": "0115000261",
+        "nombre": "SALSA DULCE DE LECHE LHERITIER 6 X 200G CAJA"
+    },
+    {
+        "sku": "0115000262",
+        "nombre": "SALSA FRUTILL LHERITIER 6 X 200G CAJA"
+    },
+    {
+        "sku": "0115000263",
+        "nombre": "SALSA FRUTILL LHERITIER 6 X 500G CAJA"
+    },
+    {
+        "sku": "0115000264",
+        "nombre": "SALSA PAN DULCE LHERITIER 6 X 200G CAJA"
+    },
+    {
+        "sku": "0115000265",
+        "nombre": "SALSA FRUTOS ROJOS LHERITIER 6 X 500G CAJA"
+    },
+    {
+        "sku": "0115000266",
+        "nombre": "SALSA PAN DULCE LHERITIER 6 X 500G CAJA"
+    },
+    {
+        "sku": "0115000267",
+        "nombre": "SALSA AVELLANA LHERITIER 6 X 500 CAJA"
+    },
+    {
+        "sku": "0115000268",
+        "nombre": "SALSA AVELLANA LHERITIER 6 X 200 CAJA"
+    },
+    {
+        "sku": "0115000269",
+        "nombre": "PASTA AMERICANA AMARILLO DECOR 20 X 500G PACK"
+    },
+    {
+        "sku": "0115000270",
+        "nombre": "PASTA AMERICANA AZUL DECOR 20 X 500G PACK"
+    },
+    {
+        "sku": "0115000271",
+        "nombre": "PASTA AMERICANA BLANCO DECOR 10 X 1KG PACK"
+    },
+    {
+        "sku": "0115000272",
+        "nombre": "PASTA AMERICANA BLANCO DECOR 20 X 500G PACK"
+    },
+    {
+        "sku": "0115000273",
+        "nombre": "PASTA AMERICANA CELESTE DECOR 20 X 500G PACK"
+    },
+    {
+        "sku": "0115000274",
+        "nombre": "PASTA AMERICANA FUCSIA DECOR 20 X 500G PACK"
+    },
+    {
+        "sku": "0115000277",
+        "nombre": "PASTA AMERICANA NEGRO DECOR 20 X 500G PACK"
+    },
+    {
+        "sku": "0115000278",
+        "nombre": "PASTA AMERICANA ROJO DECOR 20 X 500G PACK"
+    },
+    {
+        "sku": "0115000279",
+        "nombre": "PASTA AMERICANA ROSA DECOR 20 X 500G PACK"
+    },
+    {
+        "sku": "0115000280",
+        "nombre": "PASTA AMERICANA VERDE DECOR 20 X 500G PACK"
+    },
+    {
+        "sku": "0115000281",
+        "nombre": "PASTA AMERICANA CESPED DECOR20 X 500G PACK"
+    },
+    {
+        "sku": "0115000283",
+        "nombre": "PASTA GOMA AMARILLO DECOR 20 X 500G PACK"
+    },
+    {
+        "sku": "0115000284",
+        "nombre": "PASTA GOMA AZUL DECOR 20 X 500G PACK"
+    },
+    {
+        "sku": "0115000285",
+        "nombre": "PASTA GOMA BLANCO DECOR 20 X 500G PACK"
+    },
+    {
+        "sku": "0115000287",
+        "nombre": "PASTA GOMA NEGRO DECOR 20 X 500G PACK"
+    },
+    {
+        "sku": "0115000289",
+        "nombre": "PASTA GOMA ROJO DECOR 20 X 500G PACK"
+    },
+    {
+        "sku": "0115000292",
+        "nombre": "PASTA NUTELLA FROCHER 10 X 140G PACK"
+    },
+    {
+        "sku": "0115000293",
+        "nombre": "PASTA NUTELLA FROCHER 12 X 350G PACK"
+    },
+    {
+        "sku": "0115000295",
+        "nombre": "SALSA FRUTOS ROJOS LHERITIER 6 X 200G CAJA"
+    },
+    {
+        "sku": "0115000299",
+        "nombre": "PASTA MANI NATURAL MKING 12 X 245G PACK"
+    },
+    {
+        "sku": "0115000301",
+        "nombre": "VARIEGATO FRUTILLA KEUKEN X 5KG"
+    },
+    {
+        "sku": "0116000017",
+        "nombre": "FLOR DURAZNO GRANDE AMARILLO JARDIN DE AZUCAR  X 60"
+    },
+    {
+        "sku": "0116000020",
+        "nombre": "FLOR DURAZNO GRANDE CELESTE JARDIN DE AZUCAR  X 60"
+    },
+    {
+        "sku": "0116000022",
+        "nombre": "FLOR DURAZNO GRANDE LILA JARDIN DE AZUCAR  X 60"
+    },
+    {
+        "sku": "0116000058",
+        "nombre": "FLOR DURAZNO MEGA CELESTE JARDIN DE AZUCAR  X 20"
+    },
+    {
+        "sku": "0116000059",
+        "nombre": "FLOR DURAZNO MEGA FUCSIA JARDIN DE AZUCAR  X 20"
+    },
+    {
+        "sku": "0116000061",
+        "nombre": "FLOR DURAZNO MEGA MULTICOLOR JARDIN DE AZUCAR  X 20"
+    },
+    {
+        "sku": "0116000064",
+        "nombre": "FLOR DURAZNO MEGA ROSA JARDIN DE AZUCAR  X 20"
+    },
+    {
+        "sku": "0116000070",
+        "nombre": "FLOR DURAZNO MINI CELEST JARDIN DE AZUCAR  X 200"
+    },
+    {
+        "sku": "0116000101",
+        "nombre": "FLOR PRIMAVERA ROSA JARDIN DE AZUCAR  X 25"
+    },
+    {
+        "sku": "0116000107",
+        "nombre": "FLOR ROSA ESPECIAL BLANCO JARDIN DE AZUCAR  X 5"
+    },
+    {
+        "sku": "0116000120",
+        "nombre": "FLOR ROSA ESPECIAL FUCSIA JARDIN DE AZUCAR  X 5"
+    },
+    {
+        "sku": "0116000125",
+        "nombre": "FLOR ROSA ESPECIAL ROSA JARDIN DE AZUCAR  X 5"
+    },
+    {
+        "sku": "0116000147",
+        "nombre": "FLOR ROSA GRANDE MULTICOLOR JARDIN DE AZUCAR  X 15"
+    },
+    {
+        "sku": "0116000191",
+        "nombre": "FLOR ROSA MINI AMARILLO JARDIN DE AZUCAR  X 50"
+    },
+    {
+        "sku": "0116000193",
+        "nombre": "FLOR ROSA MINI BLANCO JARDIN DE AZUCAR  X 50"
+    },
+    {
+        "sku": "0116000206",
+        "nombre": "FLOR ROSA MINI CELESTE JARDIN DE AZUCAR  X 50"
+    },
+    {
+        "sku": "0116000208",
+        "nombre": "FLOR ROSA MINI LILA JARDIN DE AZUCAR  X 50"
+    },
+    {
+        "sku": "0116000209",
+        "nombre": "FLOR ROSA MINI MULTICOLOR JARDIN DE AZUCAR  X 50"
+    },
+    {
+        "sku": "0116000210",
+        "nombre": "FLOR ROSA MINI NARANJA JARDIN DE AZUCAR  X 50"
+    },
+    {
+        "sku": "0116000211",
+        "nombre": "FLOR ROSA MINI ROJO JARDIN DE AZUCAR  X 50"
+    },
+    {
+        "sku": "0116000212",
+        "nombre": "FLOR ROSA MINI ROSA JARDIN DE AZUCAR  X 50"
+    },
+    {
+        "sku": "0116000228",
+        "nombre": "OBLEA PLANCHA CELESTE JORGE C TAVAROZZI"
+    },
+    {
+        "sku": "0116000250",
+        "nombre": "FLOR ROSA ESPECIAL ROSA GOLD JARDIN DE AZUCAR  X 5 PERLADO"
+    },
+    {
+        "sku": "0116000251",
+        "nombre": "FLOR ROSA ESPECIAL ROJO RUBI JARDIN DE AZUCAR  X 5 PERLADO"
+    },
+    {
+        "sku": "0116000252",
+        "nombre": "FLOR ROSA ESPECIAL AZUL BRILLANTE JARDIN DE AZUCAR  X 5 PERLADO"
+    },
+    {
+        "sku": "0116000253",
+        "nombre": "FLOR ROSA ESPECIAL TURQUESA JARDIN DE AZUCAR  X 5 PERLADO "
+    },
+    {
+        "sku": "0116000254",
+        "nombre": "FLOR ROSA ESPECIAL PLATEADO JARDIN DE AZUCAR  X 5 PERLADO"
+    },
+    {
+        "sku": "0116000255",
+        "nombre": "FLOR ROSA ESPECIAL DORADO JARDIN DE AZUCAR  X 5 PERLADO"
+    },
+    {
+        "sku": "0117000008",
+        "nombre": "PLACA 137 PARPEN ESCENA PAREJA"
+    },
+    {
+        "sku": "0117000011",
+        "nombre": "PLACA 171 PARPEN ANIMALES PEQ"
+    },
+    {
+        "sku": "0117000027",
+        "nombre": "PLACA 374 PARPEN AJEDREZ X 1"
+    },
+    {
+        "sku": "0117000029",
+        "nombre": "PLACA 381 PARPEN ANIMALES GRANJA"
+    },
+    {
+        "sku": "0117000055",
+        "nombre": "PLACA CHUPETIN 652 PARPEN UNICORNIO"
+    },
+    {
+        "sku": "0117000062",
+        "nombre": "PLACA ALAMBRADO BOTICA PARA PETALO Y HOJA"
+    },
+    {
+        "sku": "0117000063",
+        "nombre": "PLACA BOMBON B100 LA REPOSTERA X 6"
+    },
+    {
+        "sku": "0117000064",
+        "nombre": "PLACA BOMBON B100 LA REPOSTERA X 1"
+    },
+    {
+        "sku": "0117000067",
+        "nombre": "PLACA BOMBON B102 LA REPOSTERA X 6"
+    },
+    {
+        "sku": "0117000068",
+        "nombre": "PLACA BOMBON B102 LA REPOSTERA X 1"
+    },
+    {
+        "sku": "0117000084",
+        "nombre": "PLACA BOMBON B110 LA REPOSTERA X 1"
+    },
+    {
+        "sku": "0117000093",
+        "nombre": "PLACA BOMBON F201 LA REPOSTERA X 6"
+    },
+    {
+        "sku": "0117000094",
+        "nombre": "PLACA BOMBON F201 LA REPOSTERA X 1"
+    },
+    {
+        "sku": "0117000096",
+        "nombre": "PLACA BOMBON F202 LA REPOSTERA X 1"
+    },
+    {
+        "sku": "0117000097",
+        "nombre": "PLACA BOMBON F203 LA REPOSTERA X 6"
+    },
+    {
+        "sku": "0117000098",
+        "nombre": "PLACA BOMBON F203 LA REPOSTERA X 1"
+    },
+    {
+        "sku": "0117000099",
+        "nombre": "PLACA BOMBON F204 LA REPOSTERA X 6"
+    },
+    {
+        "sku": "0117000100",
+        "nombre": "PLACA BOMBON F204 LA REPOSTERA X 1"
+    },
+    {
+        "sku": "0117000101",
+        "nombre": "PLACA BOMBON F206 LA REPOSTERA X 6"
+    },
+    {
+        "sku": "0117000102",
+        "nombre": "PLACA BOMBON F206 LA REPOSTERA X 1"
+    },
+    {
+        "sku": "0117000107",
+        "nombre": "PLACA BOMBON P200 LA REPOSTERA X 6"
+    },
+    {
+        "sku": "0117000108",
+        "nombre": "PLACA BOMBON P200 LA REPOSTERA X 1"
+    },
+    {
+        "sku": "0117000113",
+        "nombre": "PLACA BOMBON P205 LA REPOSTERA X 6"
+    },
+    {
+        "sku": "0117000114",
+        "nombre": "PLACA BOMBON P205 LA REPOSTERA X 1"
+    },
+    {
+        "sku": "0117000115",
+        "nombre": "PLACA BOMBON P206 LA REPOSTERA X 6"
+    },
+    {
+        "sku": "0117000116",
+        "nombre": "PLACA BOMBON P206 LA REPOSTERA X 1"
+    },
+    {
+        "sku": "0117000118",
+        "nombre": "PLACA BOMBON P207 LA REPOSTERA X 1"
+    },
+    {
+        "sku": "0117000120",
+        "nombre": "PLACA BOMBON P208 LA REPOSTERA X 1"
+    },
+    {
+        "sku": "0117000123",
+        "nombre": "PLACA BOMBON P210 LA REPOSTERA X 6"
+    },
+    {
+        "sku": "0117000124",
+        "nombre": "PLACA BOMBON P210 LA REPOSTERA X 1"
+    },
+    {
+        "sku": "0117000129",
+        "nombre": "PLACA BOMBON P213 LA REPOSTERA X 6"
+    },
+    {
+        "sku": "0117000130",
+        "nombre": "PLACA BOMBON P213 LA REPOSTERA X 1"
+    },
+    {
+        "sku": "0117000136",
+        "nombre": "PLACA CHUPETIN 440 PARPEN PAREJAS"
+    },
+    {
+        "sku": "0117000144",
+        "nombre": "PLACA CHUPETIN 557 PARPEN ANGRY BIRDS"
+    },
+    {
+        "sku": "0117000147",
+        "nombre": "PLACA CHUPETIN 639 PARPEN MUSICALES"
+    },
+    {
+        "sku": "0117000151",
+        "nombre": "PLACA CHUPETIN C302 LA REPOSTERA X 6"
+    },
+    {
+        "sku": "0117000152",
+        "nombre": "PLACA CHUPETIN C302 LA REPOSTERA X 1"
+    },
+    {
+        "sku": "0117000153",
+        "nombre": "PLACA CHUPETIN C303 LA REPOSTERA X 6"
+    },
+    {
+        "sku": "0117000154",
+        "nombre": "PLACA CHUPETIN C303 LA REPOSTERA X 1"
+    },
+    {
+        "sku": "0117000157",
+        "nombre": "PLACA CHUPETIN C305 LA REPOSTERA X 6"
+    },
+    {
+        "sku": "0117000158",
+        "nombre": "PLACA CHUPETIN C305 LA REPOSTERA X 1"
+    },
+    {
+        "sku": "0117000160",
+        "nombre": "PLACA CHUPETIN C306 LA REPOSTERA X 1"
+    },
+    {
+        "sku": "0117000161",
+        "nombre": "PLACA CHUPETIN C307 LA REPOSTERA X 6"
+    },
+    {
+        "sku": "0117000162",
+        "nombre": "PLACA CHUPETIN C307 LA REPOSTERA X 1"
+    },
+    {
+        "sku": "0117000165",
+        "nombre": "PLACA CHUPETIN C310 LA REPOSTERA X 6"
+    },
+    {
+        "sku": "0117000166",
+        "nombre": "PLACA CHUPETIN C310 LA REPOSTERA X 1"
+    },
+    {
+        "sku": "0117000167",
+        "nombre": "PLACA CHUPETIN C311 LA REPOSTERA X 6"
+    },
+    {
+        "sku": "0117000168",
+        "nombre": "PLACA CHUPETIN C311 LA REPOSTERA X 1"
+    },
+    {
+        "sku": "0117000279",
+        "nombre": "PLACA MOLDEO CODIGO A 636 PLASTICHOK TABLETA"
+    },
+    {
+        "sku": "0117000372",
+        "nombre": "PLACA FIGURA PASCUA CODIGO A FB/1 PLASTICHOK BOCA"
+    },
+    {
+        "sku": "0117000414",
+        "nombre": "PLACA FIGURA PASCUA CODIGO C FB PLASTICHOK BOCA"
+    },
+    {
+        "sku": "0117000419",
+        "nombre": "PLACA FIGURA PASCUA P1 LA REPOSTERA X 10"
+    },
+    {
+        "sku": "0117000420",
+        "nombre": "PLACA FIGURA PASCUA P1 LA REPOSTERA X 1"
+    },
+    {
+        "sku": "0117000421",
+        "nombre": "PLACA FIGURA PASCUA P10 REPOST X 10"
+    },
+    {
+        "sku": "0117000425",
+        "nombre": "PLACA FIGURA PASCUA P3 LA REPOSTERA X 10"
+    },
+    {
+        "sku": "0117000426",
+        "nombre": "PLACA FIGURA PASCUA P3 LA REPOSTERA X 1"
+    },
+    {
+        "sku": "0117000429",
+        "nombre": "PLACA FIGURA PASCUA P5 LA REPOSTERA X 10"
+    },
+    {
+        "sku": "0117000433",
+        "nombre": "PLACA FIGURA PASCUA P7 LA REPOSTERA X 10"
+    },
+    {
+        "sku": "0117000434",
+        "nombre": "PLACA FIGURA PASCUA P7 LA REPOSTERA X 1"
+    },
+    {
+        "sku": "0117000437",
+        "nombre": "PLACA FIGURA PASCUA P9 LA REPOSTERA X 10"
+    },
+    {
+        "sku": "0117000438",
+        "nombre": "PLACA FIGURA PASCUA P9 LA REPOSTERA X 1"
+    },
+    {
+        "sku": "0117000440",
+        "nombre": "PLACA HUEVO 3D PARPEN"
+    },
+    {
+        "sku": "0117000461",
+        "nombre": "PLACA CHUPETIN CODIGO A 1514 PLASTICHOK ELEGANTE"
+    },
+    {
+        "sku": "0117000467",
+        "nombre": "PLACA MOLDEO CODIGO A 2169 PLASTICHOK"
+    },
+    {
+        "sku": "0117000469",
+        "nombre": "PLACA MOLDEO CODIGO E 027 PLASTICHOK"
+    },
+    {
+        "sku": "0117000471",
+        "nombre": "PLACA MOLDEO CODIGO A 1852 PLASTICHOK"
+    },
+    {
+        "sku": "0117000473",
+        "nombre": "PLACA MOLDEO CODIGO B 923 PLASTICHOK"
+    },
+    {
+        "sku": "0117000475",
+        "nombre": "PLACA CHUPETIN CODIGO A 1278 PLASTICHOK"
+    },
+    {
+        "sku": "0117000493",
+        "nombre": "PLACA MOLDEO CODIGO C 1510 PLASTICHOK"
+    },
+    {
+        "sku": "0117000512",
+        "nombre": "PLACA HUEVO NUMERO 11 FLOR REPOST X 10"
+    },
+    {
+        "sku": "0117000513",
+        "nombre": "PLACA HUEVO NUMERO 11 FLOR LA REPOSTERA X 1"
+    },
+    {
+        "sku": "0117000514",
+        "nombre": "PLACA HUEVO NUMERO 11 MOÑO REPOST X 10"
+    },
+    {
+        "sku": "0117000515",
+        "nombre": "PLACA HUEVO NUMERO 11 MOÑO LA REPOSTERA X 1"
+    },
+    {
+        "sku": "0117000516",
+        "nombre": "PLACA HUEVO NUMERO 11 LA REPOSTERA X 10"
+    },
+    {
+        "sku": "0117000517",
+        "nombre": "PLACA HUEVO NUMERO 11 LA REPOSTERA X 1"
+    },
+    {
+        "sku": "0117000518",
+        "nombre": "PLACA HUEVO NUMERO 12 LA REPOSTERA X 10 (200G)"
+    },
+    {
+        "sku": "0117000519",
+        "nombre": "PLACA HUEVO NUMERO 12 LA REPOSTERA X 1"
+    },
+    {
+        "sku": "0117000520",
+        "nombre": "PLACA HUEVO NUMERO 12 ROSA REPOST X 10"
+    },
+    {
+        "sku": "0117000521",
+        "nombre": "PLACA HUEVO NUMERO 12 ROSA LA REPOSTERA X 1"
+    },
+    {
+        "sku": "0117000522",
+        "nombre": "PLACA HUEVO NUMERO 12TR LA REPOSTERA X 10 RAYAS"
+    },
+    {
+        "sku": "0117000523",
+        "nombre": "PLACA HUEVO NUMERO 12TR LA REPOSTERA X 1 RAYAS"
+    },
+    {
+        "sku": "0117000524",
+        "nombre": "PLACA HUEVO NUMERO 12TE LA REPOSTERA X 10 ESPIRAL"
+    },
+    {
+        "sku": "0117000525",
+        "nombre": "PLACA HUEVO NUMERO 12TE LA REPOSTERA X 1 ESPIRAL"
+    },
+    {
+        "sku": "0117000526",
+        "nombre": "PLACA HUEVO NUMERO 12TP LA REPOSTERA X 10 PUNTOS"
+    },
+    {
+        "sku": "0117000527",
+        "nombre": "PLACA HUEVO NUMERO 12TP LA REPOSTERA X 1 PUNTOS"
+    },
+    {
+        "sku": "0117000528",
+        "nombre": "PLACA HUEVO NUMERO 12TF LA REPOSTERA X 10 FUTBOL"
+    },
+    {
+        "sku": "0117000529",
+        "nombre": "PLACA HUEVO NUMERO 12TF LA REPOSTERA X 1 FUTBOL"
+    },
+    {
+        "sku": "0117000531",
+        "nombre": "PLACA HUEVO NUMERO 15 LA REPOSTERA X 1"
+    },
+    {
+        "sku": "0117000532",
+        "nombre": "PLACA HUEVO NUMERO 18 LA REPOSTERA X 10 (400G)"
+    },
+    {
+        "sku": "0117000534",
+        "nombre": "PLACA HUEVO NUMERO 20 MOÑO REPOST X 10"
+    },
+    {
+        "sku": "0117000536",
+        "nombre": "PLACA HUEVO NUMERO 20 LA REPOSTERA X 10 (500G)"
+    }
 ]
