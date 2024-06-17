@@ -1,712 +1,754 @@
 [
-  {
-    "id": 43809,
-    "nombre": "PASTA ANASTASIA LHERITIER 12 X 750G",
-    "sku": 115000252
-  },
-  {
-    "id": 43810,
-    "nombre": "PASTA ANASTASIA LHERITIER 18 X 500G",
-    "sku": 115000253
-  },
-  {
-    "id": 43811,
-    "nombre": "PASTA ANASTASIA LHERITIER 6 X 3KG",
-    "sku": 115000254
-  },
-  {
-    "id": 19338,
-    "nombre": "PASTA ANASTASIA LHERITIER X 3KG",
-    "sku": 115000048
-  },
-  {
-    "id": 19339,
-    "nombre": "PASTA ANASTASIA LHERITIER X 500G",
-    "sku": 115000049
-  },
-  {
-    "id": 19340,
-    "nombre": "PASTA ANASTASIA LHERITIER X 750G",
-    "sku": 115000050
-  },
-  {
-    "id": 52611,
-    "nombre": "PASTA ANASTASIA LHERITIER X KG",
-    "sku": 115000047
-  },
-  {
-    "id": 44370,
-    "nombre": "PASTA MANI CRUNCHY MANI KING PACK",
-    "sku": 115000300
-  },
-  {
-    "id": 43353,
-    "nombre": "PASTA MANI CRUNCHY MANI KING X 350G",
-    "sku": 115000217
-  },
-  {
-    "id": 44369,
-    "nombre": "PASTA MANI NATURAL MANI KING 12 X 245G",
-    "sku": 115000299
-  },
-  {
-    "id": 44357,
-    "nombre": "PASTA MANI NATURAL MANI KING 12 X 485G",
-    "sku": 115000298
-  },
-  {
-    "id": 43351,
-    "nombre": "PASTA MANI NATURAL MANI KING 245G",
-    "sku": 115000215
-  },
-  {
-    "id": 27412,
-    "nombre": "PASTA MANI NATURAL MANI KING X 3KG",
-    "sku": 115000199
-  },
-  {
-    "id": 43912,
-    "nombre": "PASTA NUTELLA FROCHER 10 X 140G",
-    "sku": 115000292
-  },
-  {
-    "id": 43913,
-    "nombre": "PASTA NUTELLA FROCHER 12 X 350G",
-    "sku": 115000293
-  },
-  {
-    "id": 19343,
-    "nombre": "PASTA NUTELLA FROCHER X 140G",
-    "sku": 115000053
-  },
-  {
-    "id": 19344,
-    "nombre": "PASTA NUTELLA FROCHER X 350G",
-    "sku": 115000054
-  },
-  {
-    "id": 19345,
-    "nombre": "PASTA NUTELLA FROCHER X 3KG",
-    "sku": 115000055
-  },
-  {
-    "id": 43563,
-    "nombre": "PASTA RELLENO ALMENDRA MAPSA CAJA",
-    "sku": 115000241
-  },
-  {
-    "id": 42485,
-    "nombre": "PASTA RELLENO ALMENDRA TOP CLASS",
-    "sku": 115000132
-  },
-  {
-    "id": 43564,
-    "nombre": "PASTA RELLENO AVELLAN MAPSA CAJA",
-    "sku": 115000242
-  },
-  {
-    "id": 10109,
-    "nombre": "PASTA RELLENO AVELLAN MAPSA X 450G",
-    "sku": 115000116
-  },
-  {
-    "id": 43565,
-    "nombre": "PASTA RELLENO BANANA MAPSA CAJA",
-    "sku": 115000243
-  },
-  {
-    "id": 10110,
-    "nombre": "PASTA RELLENO BANANA MAPSA X 450G",
-    "sku": 115000118
-  },
-  {
-    "id": 43566,
-    "nombre": "PASTA RELLENO CHOCO MAPSA CAJA",
-    "sku": 115000244
-  },
-  {
-    "id": 7075,
-    "nombre": "PASTA RELLENO CHOCO MAPSA X 450G",
-    "sku": 115000120
-  },
-  {
-    "id": 43567,
-    "nombre": "PASTA RELLENO FRUTILLA MAPSA CAJA",
-    "sku": 115000245
-  },
-  {
-    "id": 10111,
-    "nombre": "PASTA RELLENO FRUTILLA MAPSA X 450G",
-    "sku": 115000122
-  },
-  {
-    "id": 19404,
-    "nombre": "PASTA RELLENO FRUTOS ROJOS TOP CLASS",
-    "sku": 115000141
-  },
-  {
-    "id": 43568,
-    "nombre": "PASTA RELLENO LIMON MAPSA CAJA",
-    "sku": 115000246
-  },
-  {
-    "id": 43569,
-    "nombre": "PASTA RELLENO MANI MAPSA CAJA",
-    "sku": 115000247
-  },
-  {
-    "id": 10113,
-    "nombre": "PASTA RELLENO MANI MAPSA X 450G",
-    "sku": 115000126
-  },
-  {
-    "id": 43570,
-    "nombre": "PASTA RELLENO MENTA MAPSA CAJA",
-    "sku": 115000248
-  },
-  {
-    "id": 10114,
-    "nombre": "PASTA RELLENO MENTA MAPSA X 450G",
-    "sku": 115000128
-  },
-  {
-    "id": 10115,
-    "nombre": "PASTA RELLENO TIRAMIS MAPSA X 450G",
-    "sku": 115000130
-  },
-  {
-    "id": 43571,
-    "nombre": "PASTA RELLENO TIRAMISU MAPSA CAJA",
-    "sku": 115000249
-  },
-  {
-    "id": 10516,
-    "nombre": "PASTA UNTABLE AVELLANA AGUILA X 290G",
-    "sku": 115000160
-  },
-  {
-    "id": 10518,
-    "nombre": "PASTA UNTABLE COFLER BLOCK X 290G",
-    "sku": 115000162
-  },
-  {
-    "id": 10515,
-    "nombre": "PASTA UNTABLE FONDUE AGUILA X 290G",
-    "sku": 115000159
-  },
-  {
-    "id": 10517,
-    "nombre": "PASTA UNTABLE MANI BON O BON X 290G",
-    "sku": 115000161
-  },
-  {
-    "id": 19022,
-    "nombre": "PASTAFROLA CUADRADA NUMERO 24 WEWE",
-    "sku": 114000653
-  },
-  {
-    "id": 19020,
-    "nombre": "PASTAFROLA DESM 10 X 30CM WEWE",
-    "sku": 114000651
-  },
-  {
-    "id": 19021,
-    "nombre": "PASTAFROLA DESM 20 X 30CM WEWE",
-    "sku": 114000652
-  },
-  {
-    "id": 19029,
-    "nombre": "PASTAFROLA FIJA 10 X 30CM WEWE",
-    "sku": 114000661
-  },
-  {
-    "id": 19030,
-    "nombre": "PASTAFROLA FIJA 20 X 30CM WEWE",
-    "sku": 114000662
-  },
-  {
-    "id": 19017,
-    "nombre": "PASTAFROLA FIJA NUMERO 10 WEWE",
-    "sku": 114000648
-  },
-  {
-    "id": 19018,
-    "nombre": "PASTAFROLA FIJA NUMERO 12 WEWE",
-    "sku": 114000649
-  },
-  {
-    "id": 19014,
-    "nombre": "PASTAFROLA FIJA NUMERO 24 WEWE",
-    "sku": 114000645
-  },
-  {
-    "id": 19015,
-    "nombre": "PASTAFROLA FIJA NUMERO 26 WEWE",
-    "sku": 114000646
-  },
-  {
-    "id": 19016,
-    "nombre": "PASTAFROLA FIJA NUMERO 30 WEWE",
-    "sku": 114000647
-  },
-  {
-    "id": 19013,
-    "nombre": "PASTAFROLA FIJA NUMERO 32 WEWE",
-    "sku": 114000644
-  },
-  {
-    "id": 19019,
-    "nombre": "PASTAFROLA FIJA NUMERO 8 WEWE",
-    "sku": 114000650
-  },
-  {
-    "id": 19423,
-    "nombre": "PECTINA ALZOL X 1KG",
-    "sku": 105000035
-  },
-  {
-    "id": 19422,
-    "nombre": "PECTINA ALZOL X 500G",
-    "sku": 105000034
-  },
-  {
-    "id": 52424,
-    "nombre": "PECTINA ALZOL X 50G",
-    "sku": 105000033
-  },
-  {
-    "id": 19431,
-    "nombre": "PELA FRUTAS-VIRUTAS MYM",
-    "sku": 120000455
-  },
-  {
-    "id": 42365,
-    "nombre": "PERLA MAXI BLANCO PASTELAR X 500G",
-    "sku": 104000444
-  },
-  {
-    "id": 42368,
-    "nombre": "PERLA MAXI CELESTE PASTELAR X 500G",
-    "sku": 104000447
-  },
-  {
-    "id": 42367,
-    "nombre": "PERLA MAXI DORAD PASTELAR X 500G",
-    "sku": 104000446
-  },
-  {
-    "id": 16320,
-    "nombre": "PERLA MAXI FUCSIA PASTELAR X 1KG",
-    "sku": 104000027
-  },
-  {
-    "id": 16321,
-    "nombre": "PERLA MAXI LAVAND PASTELAR X 1KG",
-    "sku": 104000029
-  },
-  {
-    "id": 16322,
-    "nombre": "PERLA MAXI ROSA GRANDE PASTELAR X 1KG",
-    "sku": 104000031
-  },
-  {
-    "id": 42366,
-    "nombre": "PERLA MAXI ROSA PASTELAR X 500G",
-    "sku": 104000445
-  },
-  {
-    "id": 44336,
-    "nombre": "PERLA MAXI RSIN AMA PASTELAR X 30G",
-    "sku": 104000578
-  },
-  {
-    "id": 16323,
-    "nombre": "PERLA MAXI TURQUESA PASTELAR X 1KG",
-    "sku": 104000033
-  },
-  {
-    "id": 16331,
-    "nombre": "PERLA MEDIANO BLANCO PASTELAR X 1KG",
-    "sku": 104000053
-  },
-  {
-    "id": 42363,
-    "nombre": "PERLA MEDIANO BLANCO PASTELAR X 500G",
-    "sku": 104000442
-  },
-  {
-    "id": 16332,
-    "nombre": "PERLA MEDIANO CELESTE PASTELAR X 1KG",
-    "sku": 104000054
-  },
-  {
-    "id": 42361,
-    "nombre": "PERLA MEDIANO CELEST PASTELAR X 500G",
-    "sku": 104000440
-  },
-  {
-    "id": 16333,
-    "nombre": "PERLA MEDIANO DORADO PASTELAR X 1KG",
-    "sku": 104000055
-  },
-  {
-    "id": 29336,
-    "nombre": "PERLA MEDIANO DORADO PASTELAR X 35G",
-    "sku": 104000425
-  },
-  {
-    "id": 42362,
-    "nombre": "PERLA MEDIANO DORADO PASTELAR X 500G",
-    "sku": 104000441
-  },
-  {
-    "id": 16334,
-    "nombre": "PERLA MEDIANO PURPURA PASTELAR X 1KG",
-    "sku": 104000056
-  },
-  {
-    "id": 16335,
-    "nombre": "PERLA MEDIANO ROSA BB PASTELAR X 1KG",
-    "sku": 104000057
-  },
-  {
-    "id": 29335,
-    "nombre": "PERLA MEDIANO ROSA PASTELAR X 35G",
-    "sku": 104000424
-  },
-  {
-    "id": 42364,
-    "nombre": "PERLA MEDIANO ROSA PASTELAR X 500G",
-    "sku": 104000443
-  },
-  {
-    "id": 16336,
-    "nombre": "PERLA MEDIANO VERDE A PASTELAR X 1KG",
-    "sku": 104000058
-  },
-  {
-    "id": 16324,
-    "nombre": "PERLA MINI AMARILLO PASTELAR X 1KG",
-    "sku": 104000035
-  },
-  {
-    "id": 16325,
-    "nombre": "PERLA MINI BLANCO PASTELAR X 1KG",
-    "sku": 104000038
-  },
-  {
-    "id": 16326,
-    "nombre": "PERLA MINI CELESTE PASTELAR X 1KG",
-    "sku": 104000040
-  },
-  {
-    "id": 16327,
-    "nombre": "PERLA MINI CORAL PASTELAR X 1KG",
-    "sku": 104000042
-  },
-  {
-    "id": 16328,
-    "nombre": "PERLA MINI DORADO PASTELAR X 1KG",
-    "sku": 104000044
-  },
-  {
-    "id": 16329,
-    "nombre": "PERLA MINI FUCSIA PASTELAR X 1KG",
-    "sku": 104000046
-  },
-  {
-    "id": 29337,
-    "nombre": "PERLA MINI MIX PASTEL PASTELAR",
-    "sku": 104000426
-  },
-  {
-    "id": 16330,
-    "nombre": "PERLA MINI PURPUR PASTELAR X 1KG",
-    "sku": 104000049
-  },
-  {
-    "id": 29334,
-    "nombre": "PERLA MINI ROSA PASTELAR X 35G",
-    "sku": 104000423
-  },
-  {
-    "id": 44337,
-    "nombre": "PERLA MIX METAL PASTELAR",
-    "sku": 104000579
-  },
-  {
-    "id": 42376,
-    "nombre": "PERLA MIX PASTEL MATE PASTELAR X 30",
-    "sku": 104000457
-  },
-  {
-    "id": 27198,
-    "nombre": "PERLAS AMARILLO LAUACU X 20G",
-    "sku": 104000364
-  },
-  {
-    "id": 27207,
-    "nombre": "PERLAS AMARILLO LAUACU X 50G",
-    "sku": 104000373
-  },
-  {
-    "id": 27199,
-    "nombre": "PERLAS AZUL LAUACU X 20G",
-    "sku": 104000365
-  },
-  {
-    "id": 27208,
-    "nombre": "PERLAS AZUL LAUACU X 50G",
-    "sku": 104000374
-  },
-  {
-    "id": 27202,
-    "nombre": "PERLAS BLANCO LAUACU X 20G",
-    "sku": 104000368
-  },
-  {
-    "id": 27211,
-    "nombre": "PERLAS BLANCO LAUACU X 50G",
-    "sku": 104000377
-  },
-  {
-    "id": 27200,
-    "nombre": "PERLAS CELESTE LAUACU X 20G",
-    "sku": 104000366
-  },
-  {
-    "id": 27209,
-    "nombre": "PERLAS CELESTE LAUACU X 50G",
-    "sku": 104000375
-  },
-  {
-    "id": 31841,
-    "nombre": "PERLAS CELESTE PASTEL LAUACU X 50G",
-    "sku": 104000418
-  },
-  {
-    "id": 44430,
-    "nombre": "PERLAS CERAMICA BOTICA",
-    "sku": 120000810
-  },
-  {
-    "id": 31837,
-    "nombre": "PERLAS DORADO LAUACU X 20G",
-    "sku": 104000414
-  },
-  {
-    "id": 31840,
-    "nombre": "PERLAS DORADO LAUACU X 50G",
-    "sku": 104000417
-  },
-  {
-    "id": 27201,
-    "nombre": "PERLAS FUCSIA LAUACU X 20G",
-    "sku": 104000367
-  },
-  {
-    "id": 27210,
-    "nombre": "PERLAS FUCSIA LAUACU X 50G",
-    "sku": 104000376
-  },
-  {
-    "id": 43311,
-    "nombre": "PERLAS GRANDES LOW COST X 1KG",
-    "sku": 104000497
-  },
-  {
-    "id": 52408,
-    "nombre": "PERLAS GRANDES LOW COST X 50G",
-    "sku": 104000499
-  },
-  {
-    "id": 31834,
-    "nombre": "PERLAS LILA LAUACU X 20G",
-    "sku": 104000411
-  },
-  {
-    "id": 44301,
-    "nombre": "PERLAS MAXI BLANCO LAUACU X 20G",
-    "sku": 104000545
-  },
-  {
-    "id": 42122,
-    "nombre": "PERLAS MAXI LOW COST X 1KG",
-    "sku": 104000482
-  },
-  {
-    "id": 52401,
-    "nombre": "PERLAS MAXI LOW COST X 50G",
-    "sku": 104000484
-  },
-  {
-    "id": 44302,
-    "nombre": "PERLAS MAXI ROSA LAUACU X 20G",
-    "sku": 104000546
-  },
-  {
-    "id": 43312,
-    "nombre": "PERLAS MEDIANAS LOW COST X 1KG",
-    "sku": 104000500
-  },
-  {
-    "id": 52409,
-    "nombre": "PERLAS MEDIANAS LOW COST X 50G",
-    "sku": 104000501
-  },
-  {
-    "id": 47309,
-    "nombre": "PERLAS MIX BLANCO LAUACU X 20G",
-    "sku": 104000337
-  },
-  {
-    "id": 43310,
-    "nombre": "PERLAS MIX DE TAM PASTEL LOW COST X 1K",
-    "sku": 104000495
-  },
-  {
-    "id": 52406,
-    "nombre": "PERLAS MIX DE TAM PASTEL LOW COST X 50G",
-    "sku": 104000496
-  },
-  {
-    "id": 42123,
-    "nombre": "PERLAS MIX DE TAMAÑOS LOW COST X 1KG",
-    "sku": 104000483
-  },
-  {
-    "id": 52407,
-    "nombre": "PERLAS MIX DE TAMAÑOS LOW COST X 50G",
-    "sku": 104000498
-  },
-  {
-    "id": 55299,
-    "nombre": "PERLAS MIX DORADO LAUACU X 20G",
-    "sku": 104000593
-  },
-  {
-    "id": 44303,
-    "nombre": "PERLAS MIX PASTEL LAUACU X 20G ",
-    "sku": 104000547
-  },
-  {
-    "id": 47337,
-    "nombre": "PERLAS NACIONAL PLA LAUACU X 20G",
-    "sku": 104000586
-  },
-  {
-    "id": 31836,
-    "nombre": "PERLAS NARANJA LAUACU X 20G",
-    "sku": 104000413
-  },
-  {
-    "id": 31838,
-    "nombre": "PERLAS NARANJA LAUACU X 50G",
-    "sku": 104000415
-  },
-  {
-    "id": 27203,
-    "nombre": "PERLAS NEGRO LAUACU X 20G",
-    "sku": 104000369
-  },
-  {
-    "id": 27212,
-    "nombre": "PERLAS NEGRO LAUACU X 50G",
-    "sku": 104000378
-  },
-  {
-    "id": 52400,
-    "nombre": "PERLAS PASTELAR X 50G",
-    "sku": 104000455
-  },
-  {
-    "id": 47310,
-    "nombre": "PERLAS ROJO LAUACU X 20G",
-    "sku": 104000339
-  },
-  {
-    "id": 27204,
-    "nombre": "PERLAS ROSA LAUACU X 20G",
-    "sku": 104000370
-  },
-  {
-    "id": 27213,
-    "nombre": "PERLAS ROSA LAUACU X 50G",
-    "sku": 104000379
-  },
-  {
-    "id": 31835,
-    "nombre": "PERLAS ROSA PASTEL LAUACU X 20G",
-    "sku": 104000412
-  },
-  {
-    "id": 31839,
-    "nombre": "PERLAS ROSA PASTEL LAUACU X 50G",
-    "sku": 104000416
-  },
-  {
-    "id": 42398,
-    "nombre": "PERLAS VERDE AGUA LAUACU X 20G",
-    "sku": 104000479
-  },
-  {
-    "id": 27205,
-    "nombre": "PERLAS VERDE LAUACU X 20G",
-    "sku": 104000371
-  },
-  {
-    "id": 27214,
-    "nombre": "PERLAS VERDE LAUACU X 50G",
-    "sku": 104000380
-  },
-  {
-    "id": 27206,
-    "nombre": "PERLAS VIOLETA LAUACU X 20G",
-    "sku": 104000372
-  },
-  {
-    "id": 27215,
-    "nombre": "PERLAS VIOLETA LAUACU X 50G",
-    "sku": 104000381
-  },
-  {
-    "id": 45489,
-    "nombre": "PINCEL SILICONA MANGO MADERA LOW COST",
-    "sku": 120000819
-  },
-  {
-    "id": 19546,
-    "nombre": "PINCEL SILICONA 21CM LOW COST",
-    "sku": 120000456
-  },
-  {
-    "id": 27530,
-    "nombre": "PINCEL SILICONA 26CM LOW COST",
-    "sku": 120000543
-  },
-  {
-    "id": 19547,
-    "nombre": "PINCELETA PREMIUM NUMERO 5 LOW COST",
-    "sku": 120000457
-  },
-  {
-    "id": 45490,
-    "nombre": "PINZA PRECISION PUNTA CURV LOW COST",
-    "sku": 120000820
-  },
-  {
-    "id": 43739,
-    "nombre": "PIONONO VAINI CONDESA 12 X 150G",
-    "sku": 103000024
-  },
-  {
-    "id": 20054,
-    "nombre": "PIONONO VAINILLA CONDESA X 150G",
-    "sku": 103000010
-  },
-  {
-    "id": 47278,
-    "nombre": "PIONONO X 200G BM",
-    "sku": 103000031
-  }
+    {
+        "sku": "0117000537",
+        "nombre": "PLACA HUEVO NUMERO 20 LA REPOSTERA X 1 (500G)"
+    },
+    {
+        "sku": "0117000539",
+        "nombre": "PLACA HUEVO NUMERO 3 LA REPOSTERA X 10 (15 20G)"
+    },
+    {
+        "sku": "0117000540",
+        "nombre": "PLACA HUEVO NUMERO 3 LA REPOSTERA X 1 (15 20G)"
+    },
+    {
+        "sku": "0117000542",
+        "nombre": "PLACA HUEVO NUMERO 35 LA REPOSTERA X 1 (1.5KG)"
+    },
+    {
+        "sku": "0117000543",
+        "nombre": "PLACA HUEVO NUMERO 40 LA REPOSTERA X 1 (2KG)"
+    },
+    {
+        "sku": "0117000548",
+        "nombre": "PLACA HUEVO NUMERO 6 LA REPOSTERA X 1"
+    },
+    {
+        "sku": "0117000549",
+        "nombre": "PLACA HUEVO NUMERO 6 LA REPOSTERA X 10 (30G)"
+    },
+    {
+        "sku": "0117000550",
+        "nombre": "PLACA HUEVO NUMERO 7 LA REPOSTERA X 1"
+    },
+    {
+        "sku": "0117000552",
+        "nombre": "PLACA HUEVO NUMERO 8 LA REPOSTERA X 1"
+    },
+    {
+        "sku": "0117000553",
+        "nombre": "PLACA HUEVO NUMERO 8 LA REPOSTERA X 10 (70G)"
+    },
+    {
+        "sku": "0117000554",
+        "nombre": "PLACA HUEVO NUMERO 9 LA REPOSTERA X 1"
+    },
+    {
+        "sku": "0117000560",
+        "nombre": "PLACA POLICARB BOCADITO CHOCO MISIO "
+    },
+    {
+        "sku": "0117000561",
+        "nombre": "PLACA POLICARB CORAZON CHOCO MISIO "
+    },
+    {
+        "sku": "0117000562",
+        "nombre": "PLACA POLICARB RECT CHOCO MISIO "
+    },
+    {
+        "sku": "0117000564",
+        "nombre": "PLACA SEMIPROFESIONAL NUMERO 2 PLASTICHOK"
+    },
+    {
+        "sku": "0117000565",
+        "nombre": "PLACA SEMIPROFESIONAL NUMERO 3 PLASTICHOK"
+    },
+    {
+        "sku": "0117000568",
+        "nombre": "SET CAKE SORPRESA MINI PARPEN 10 X 14CM"
+    },
+    {
+        "sku": "0117000569",
+        "nombre": "SET CAKE SORPRESA GRANDE PARPEN 19 X 24CM"
+    },
+    {
+        "sku": "0117000570",
+        "nombre": "SET CAKE SORPRESA MEDIANO PARPEN 15 X 20CM"
+    },
+    {
+        "sku": "0117000572",
+        "nombre": "SET PLACA CORAZ DIAMANTE PARPEN"
+    },
+    {
+        "sku": "0117000573",
+        "nombre": "PLACA GEMAS Y DIAMANTES PARPEN SET  X 2 SPBD"
+    },
+    {
+        "sku": "0117000575",
+        "nombre": "SET PLACA HUEMOJIS NUMERO 1 PARPEN 10CM SPE101"
+    },
+    {
+        "sku": "0117000576",
+        "nombre": "SET PLACA HUEMOJIS NUMERO 2 PARPEN 10CM SPE102"
+    },
+    {
+        "sku": "0117000581",
+        "nombre": "SET PLACA HUEVO DIAMANTE PARPEN 10CM SPD10"
+    },
+    {
+        "sku": "0117000582",
+        "nombre": "SET PLACA HUEVO DIAMANTE PARPEN 14CM SPD14"
+    },
+    {
+        "sku": "0117000585",
+        "nombre": "SET PLACA LLAMITA PARPEN X 2"
+    },
+    {
+        "sku": "0117000586",
+        "nombre": "SET PLACA MINI HUEVITOS PARPEN SPMH"
+    },
+    {
+        "sku": "0117000587",
+        "nombre": "SET PLACA NUMEROS DEL 0 AL 9 PARPEN SP1N"
+    },
+    {
+        "sku": "0117000588",
+        "nombre": "SET PLACA PALETA CONEJO PARPEN SPPC"
+    },
+    {
+        "sku": "0117000590",
+        "nombre": "SET PLACA PALETA MAGICO PARPEN SPP03"
+    },
+    {
+        "sku": "0117000594",
+        "nombre": "PLACA HUEVO NUMERO 12TO LA REPOSTERA X 10 ONDAS X 10"
+    },
+    {
+        "sku": "0117000595",
+        "nombre": "PLACA HUEVO NUMERO 12TO LA REPOSTERA X 1 ONDAS X 1"
+    },
+    {
+        "sku": "0117000598",
+        "nombre": "PLACA HUEVO NUMERO 12TC LA REPOSTERA X 10 CONEJO X 10"
+    },
+    {
+        "sku": "0117000599",
+        "nombre": "PLACA HUEVO NUMERO 12TC LA REPOSTERA X 1 CONEJO X 1"
+    },
+    {
+        "sku": "0117000600",
+        "nombre": "PLACA HUEVO CODIGO A 14 PLASTICHOK X 1"
+    },
+    {
+        "sku": "0117000602",
+        "nombre": "PLACA HUEVO CODIGO L NUMERO  35 PLASTICHOK"
+    },
+    {
+        "sku": "0117000603",
+        "nombre": "PLACA HUEVO CODIGO L NUMERO  40 PLASTICHOK"
+    },
+    {
+        "sku": "0117000604",
+        "nombre": "PLACA CHUPETIN CODIGO C 1617 PLASTICHOK 3 HUEVO POLLITO"
+    },
+    {
+        "sku": "0117000605",
+        "nombre": "PLACA FIGURA PASCUA CODIGO C 149 PLASTICHOK CONEJO"
+    },
+    {
+        "sku": "0117000606",
+        "nombre": "PLACA FIGURA PASCUA CODIGO C 362 PLASTICHOK 2 CONEJOS"
+    },
+    {
+        "sku": "0117000607",
+        "nombre": "PLACA FIGURA PASCUA CODIGO C 377 PLASTICHOK"
+    },
+    {
+        "sku": "0117000608",
+        "nombre": "PLACA FIGURA PASCUA CODIGO A 343 PLASTICHOK"
+    },
+    {
+        "sku": "0117000609",
+        "nombre": "PLACA FIGURA PASCUA CODIGO A 1186 PLASTICHOK HUEVOS"
+    },
+    {
+        "sku": "0117000611",
+        "nombre": "PLACA CHUPETIN CODIGO A 1552 PLASTICHOK CARAMELO BASTON"
+    },
+    {
+        "sku": "0117000612",
+        "nombre": "SET PLACA OREJAS CONEJO PARPEN SPOC"
+    },
+    {
+        "sku": "0117000613",
+        "nombre": "SET PLACA FORMA POP IT PARPEN SPPI"
+    },
+    {
+        "sku": "0117000614",
+        "nombre": "SET PLACA TAB CORAZON PARPEN SPTC"
+    },
+    {
+        "sku": "0117000615",
+        "nombre": "SET PLACA TAB CONEJO PARPEN CON ZANAHORIAS SPTCZ"
+    },
+    {
+        "sku": "0117000616",
+        "nombre": "SET PLACA TAB GEOMETRIC PARPEN SPTG"
+    },
+    {
+        "sku": "0117000617",
+        "nombre": "SET PLACA BIG CANDY PARPEN SPBC"
+    },
+    {
+        "sku": "0117000618",
+        "nombre": "SET PLACA BLOQUE MUÑECO PARPEN SPBM"
+    },
+    {
+        "sku": "0117000619",
+        "nombre": "SET PLACA BARRA TABLEAD PARPEN TOBLERONE SPBT"
+    },
+    {
+        "sku": "0117000620",
+        "nombre": "SET PLACA CONEJO GALLET PARPEN SPCC"
+    },
+    {
+        "sku": "0117000623",
+        "nombre": "SET PLACA CHOCOGALLETA PARPEN SPCG"
+    },
+    {
+        "sku": "0117000624",
+        "nombre": "SET PLACA HUEVO FLAMENC PARPEN SPF10"
+    },
+    {
+        "sku": "0117000625",
+        "nombre": "SET PLACA HUEVO ESCAMAD PARPEN 15CM SPHLE"
+    },
+    {
+        "sku": "0117000626",
+        "nombre": "SET PLACA HUEVO OSTRA PARPEN 15CM SPHLO"
+    },
+    {
+        "sku": "0117000627",
+        "nombre": "SET PLACA MINI CANDY PARPEN SPMC"
+    },
+    {
+        "sku": "0117000629",
+        "nombre": "PLACA MOLDEO CODIGO A 142 PLASTICHOK CABALLITO MAR"
+    },
+    {
+        "sku": "0117000630",
+        "nombre": "PLACA MOLDEO CODIGO A 1798 PLASTICHOK CORAZON DIAMANTE"
+    },
+    {
+        "sku": "0117000631",
+        "nombre": "PLACA CHUPETIN CODIGO A 1745 PLASTICHOK HUELLAS"
+    },
+    {
+        "sku": "0117000632",
+        "nombre": "PLACA MOLDEO CODIGO A 1590 PLASTICHOK CHOCOLINAS"
+    },
+    {
+        "sku": "0117000633",
+        "nombre": "PLACA CHUPETIN CODIGO A 1751 PLASTICHOK CORAZONES"
+    },
+    {
+        "sku": "0117000634",
+        "nombre": "PLACA MOLDEO CODIGO A 810 PLASTICHOK"
+    },
+    {
+        "sku": "0117000635",
+        "nombre": "PLACA MOLDEO CODIGO A 1308 PLASTICHOK DIAMANTES"
+    },
+    {
+        "sku": "0117000636",
+        "nombre": "PLACA MOLDEO CODIGO A 928 PLASTICHOK CHOCOLATIN"
+    },
+    {
+        "sku": "0117000637",
+        "nombre": "PLACA CHUPETIN CODIGO A 1385 PLASTICHOK BONETE GLOBO"
+    },
+    {
+        "sku": "0117000638",
+        "nombre": "PLACA MOLDEO CODIGO A 1716 PLASTICHOK PALETA HELADO"
+    },
+    {
+        "sku": "0117000639",
+        "nombre": "PLACA MOLDEO CODIGO A 642 PLASTICHOK TABLETA"
+    },
+    {
+        "sku": "0117000640",
+        "nombre": "PLACA MOLDEO CODIGO A 926 PLASTICHOK CHOCOLATIN"
+    },
+    {
+        "sku": "0117000641",
+        "nombre": "PLACA CHUPETIN CODIGO A 1255 PLASTICHOK CORAZON TE QUIERO"
+    },
+    {
+        "sku": "0117000642",
+        "nombre": "PLACA MOLDEO CODIGO C 1762 PLASTICHOK"
+    },
+    {
+        "sku": "0117000643",
+        "nombre": "PLACA MOLDEO CODIGO A 866 PLASTICHOK CUADRADOS"
+    },
+    {
+        "sku": "0117000644",
+        "nombre": "PLACA MOLDEO CODIGO A 638 PLASTICHOK TRONCOS"
+    },
+    {
+        "sku": "0117000645",
+        "nombre": "PLACA MOLDEO CODIGO A 908 PLASTICHOK TABLETA"
+    },
+    {
+        "sku": "0117000646",
+        "nombre": "PLACA CHUPETIN CODIGO A 1452 PLASTICHOK CORAZONES"
+    },
+    {
+        "sku": "0117000647",
+        "nombre": "PLACA MOLDEO CODIGO A 1739 PLASTICHOK CORAZONES"
+    },
+    {
+        "sku": "0117000648",
+        "nombre": "PLACA CHUPETIN CODIGO A 1257 PLASTICHOK LABIOS"
+    },
+    {
+        "sku": "0117000649",
+        "nombre": "PLACA MOLDEO CODIGO A 1314 PLASTICHOK DIAMANTES"
+    },
+    {
+        "sku": "0117000650",
+        "nombre": "PLACA CHUPETIN CODIGO A 1279 PLASTICHOK MARIPOSAS"
+    },
+    {
+        "sku": "0117000651",
+        "nombre": "PLACA CHUPETIN CODIGO A 1489 PLASTICHOK PALETAS REDONDAS"
+    },
+    {
+        "sku": "0117000652",
+        "nombre": "PLACA MOLDEO CODIGO A 1820 PLASTICHOK DIAMANTES"
+    },
+    {
+        "sku": "0117000653",
+        "nombre": "PLACA MOLDEO CODIGO A 1292 PLASTICHOK HERRAMIENTAS"
+    },
+    {
+        "sku": "0117000654",
+        "nombre": "PLACA MOLDEO CODIGO A 906 PLASTICHOK TABLETA"
+    },
+    {
+        "sku": "0117000655",
+        "nombre": "PLACA GAUDI 1790H PLASTICHOK"
+    },
+    {
+        "sku": "0117000656",
+        "nombre": "PLACA GAUDI 1849H PLASTICHOK"
+    },
+    {
+        "sku": "0117000658",
+        "nombre": "PLACA GAUDI 1827H PLASTICHOK"
+    },
+    {
+        "sku": "0117000659",
+        "nombre": "PLACA GAUDI 1837H PLASTICHOK"
+    },
+    {
+        "sku": "0117000660",
+        "nombre": "PLACA GAUDI 1703H PLASTICHOK"
+    },
+    {
+        "sku": "0117000668",
+        "nombre": "PLACA TRIPLE OSO PORT GEOMETRICO"
+    },
+    {
+        "sku": "0117000669",
+        "nombre": "PLACA TRIPLE ESFERA PORT GEOMETRICO"
+    },
+    {
+        "sku": "0117000672",
+        "nombre": "PLACA TRIPLE CORAZON ROSA PORT"
+    },
+    {
+        "sku": "0117000681",
+        "nombre": "PLACA TRIPLE DIAMANTE BWB"
+    },
+    {
+        "sku": "0117000682",
+        "nombre": "PLACA TRIPLE CACAO GOURMET BWB"
+    },
+    {
+        "sku": "0117000683",
+        "nombre": "PLACA TRIPLE OSTRA GRANDE CRYST"
+    },
+    {
+        "sku": "0117000691",
+        "nombre": "PLACA TRIPLE GLOBO PORTO FACETEADO"
+    },
+    {
+        "sku": "0117000693",
+        "nombre": "PLACA TRIPLE VAQUITA BWB"
+    },
+    {
+        "sku": "0117000700",
+        "nombre": "PLACA TRIPLE HUEVO DIAMANTE BWB PLANO"
+    },
+    {
+        "sku": "0117000711",
+        "nombre": "PLACA TRIPLE PAN DE MIEL CRYST CORAZÓN"
+    },
+    {
+        "sku": "0117000717",
+        "nombre": "PLACA GAUDI 1838H PLASTICHOK PAQ"
+    },
+    {
+        "sku": "0117000721",
+        "nombre": "PLACA MOLDEO CODIGO A 1389 PLASTICHOK CUCHARA PLATO TAZA"
+    },
+    {
+        "sku": "0117000722",
+        "nombre": "PLACA CHUPETIN CODIGO A 1207 PLASTICHOK"
+    },
+    {
+        "sku": "0117000723",
+        "nombre": "PLACA FIGURA PASCUA CODIGO A 1143 PLASTICHOK CONEJO"
+    },
+    {
+        "sku": "0117000724",
+        "nombre": "PLACA CHUPETIN CODIGO A 1555 PLASTICHOK CONEJITAS"
+    },
+    {
+        "sku": "0117000725",
+        "nombre": "PLACA MOLDEO CODIGO A 3002 PLASTICHOK EROTICO"
+    },
+    {
+        "sku": "0117000726",
+        "nombre": "PLACA MOLDEO CODIGO A 3001 PLASTICHOK EROTICO"
+    },
+    {
+        "sku": "0117000727",
+        "nombre": "PLACA MOLDEO CODIGO A 3006 PLASTICHOK EROTICO"
+    },
+    {
+        "sku": "0117000728",
+        "nombre": "PLACA CHUPETIN CODIGO C 1679 PLASTICHOK 4 CUPCAKES"
+    },
+    {
+        "sku": "0117000730",
+        "nombre": "PLACA MOLDEO CODIGO A 1541 PLASTICHOK CUCHARAS"
+    },
+    {
+        "sku": "0117000731",
+        "nombre": "PLACA FIGURA PASCUA CODIGO C 352 PLASTICHOK"
+    },
+    {
+        "sku": "0117000732",
+        "nombre": "PLACA MOLDEO CODIGO A 124 PLASTICHOK ZANAHORIA"
+    },
+    {
+        "sku": "0117000733",
+        "nombre": "PLACA CHUPETIN CODIGO A 1605 PLASTICHOK HUEVO CONEJO"
+    },
+    {
+        "sku": "0117000734",
+        "nombre": "PLACA CHUPETIN CODIGO C 1719 PLASTICHOK 4 UNICORNIOS"
+    },
+    {
+        "sku": "0117000737",
+        "nombre": "PLACA MOLDEO CODIGO A 3012 PLASTICHOK EROTICO"
+    },
+    {
+        "sku": "0117000738",
+        "nombre": "PLACA FIGURA PASCUA CODIGO K 237 PLASTICHOK CONEJO"
+    },
+    {
+        "sku": "0117000739",
+        "nombre": "PLACA HUEVO NUMERO 12TA LA REPOSTERA X 1 AHUECADO"
+    },
+    {
+        "sku": "0117000740",
+        "nombre": "PLACA HUEVO NUMERO 12TA LA REPOSTERA X 10 AHUECADO"
+    },
+    {
+        "sku": "0117000741",
+        "nombre": "PLACA MOLDEO CODIGO A 1546 PLASTICHOK CORAZON"
+    },
+    {
+        "sku": "0117000743",
+        "nombre": "PLACA VINTAGE PARPEN"
+    },
+    {
+        "sku": "0117000744",
+        "nombre": "PLACA HUEVO CODIGO A 01 PLASTICHOK X 10"
+    },
+    {
+        "sku": "0117000746",
+        "nombre": "PLACA HUEVO CODIGO A 03 PLASTICHOK X 10"
+    },
+    {
+        "sku": "0117000748",
+        "nombre": "PLACA HUEVO CODIGO A 05 PLASTICHOK X 10"
+    },
+    {
+        "sku": "0117000749",
+        "nombre": "PLACA HUEVO CODIGO A 06 PLASTICHOK X 10"
+    },
+    {
+        "sku": "0117000750",
+        "nombre": "PLACA HUEVO CODIGO A 07 PLASTICHOK X 10"
+    },
+    {
+        "sku": "0117000751",
+        "nombre": "PLACA HUEVO CODIGO A 08 PLASTICHOK X 10"
+    },
+    {
+        "sku": "0117000753",
+        "nombre": "PLACA HUEVO CODIGO A 10 PLASTICHOK X 10"
+    },
+    {
+        "sku": "0117000754",
+        "nombre": "PLACA HUEVO CODIGO A 11 PLASTICHOK X 10"
+    },
+    {
+        "sku": "0117000755",
+        "nombre": "PLACA HUEVO CODIGO A 12 PLASTICHOK X 10"
+    },
+    {
+        "sku": "0117000756",
+        "nombre": "PLACA HUEVO CODIGO A 13 PLASTICHOK X 10"
+    },
+    {
+        "sku": "0117000758",
+        "nombre": "PLACA HUEVO CODIGO A 16 PLASTICHOK X 10"
+    },
+    {
+        "sku": "0117000760",
+        "nombre": "PLACA HUEVO CODIGO A 18 PLASTICHOK X 10"
+    },
+    {
+        "sku": "0117000761",
+        "nombre": "PLACA HUEVO CODIGO A 20 PLASTICHOK X 10"
+    },
+    {
+        "sku": "0117000762",
+        "nombre": "PLACA HUEVO CODIGO A 14 PLASTICHOK X 10"
+    },
+    {
+        "sku": "0117000763",
+        "nombre": "PLACA HUEVO NUMERO 15 LA REPOSTERA X 10 (300G)"
+    },
+    {
+        "sku": "0117000764",
+        "nombre": "PLACA HUEVO NUMERO 7 LA REPOSTERA X 10 (45G)"
+    },
+    {
+        "sku": "0117000765",
+        "nombre": "PLACA HUEVO NUMERO 9 LA REPOSTERA X 10 (100G)"
+    },
+    {
+        "sku": "0117000766",
+        "nombre": "PLACA MOLDEO CODIGO A 057 PLASTICHOK DEPORTE"
+    },
+    {
+        "sku": "0117000768",
+        "nombre": "PLACA MOLDEO CODIGO A 061 PLASTICHOK RACING"
+    },
+    {
+        "sku": "0117000774",
+        "nombre": "PLACA MOLDEO CODIGO A 1179 PLASTICHOK PAPA NOEL"
+    },
+    {
+        "sku": "0117000775",
+        "nombre": "PLACA MOLDEO CODIGO A 1180 PLASTICHOK PAPA NOEL"
+    },
+    {
+        "sku": "0117000777",
+        "nombre": "PLACA MOLDEO CODIGO A 1250 PLASTICHOK"
+    },
+    {
+        "sku": "0117000778",
+        "nombre": "PLACA MOLDEO CODIGO A 1251 PLASTICHOK"
+    },
+    {
+        "sku": "0117000779",
+        "nombre": "PLACA MOLDEO CODIGO A 1252 PLASTICHOK"
+    },
+    {
+        "sku": "0117000780",
+        "nombre": "PLACA MOLDEO CODIGO A 1260 PLASTICHOK"
+    },
+    {
+        "sku": "0117000781",
+        "nombre": "PLACA MOLDEO CODIGO A 1261 PLASTICHOK"
+    },
+    {
+        "sku": "0117000782",
+        "nombre": "PLACA MOLDEO CODIGO A 1262 PLASTICHOK"
+    },
+    {
+        "sku": "0117000783",
+        "nombre": "PLACA MOLDEO CODIGO A 1272 PLASTICHOK"
+    },
+    {
+        "sku": "0117000786",
+        "nombre": "PLACA MOLDEO CODIGO A 1285 PLASTICHOK"
+    },
+    {
+        "sku": "0117000787",
+        "nombre": "PLACA MOLDEO CODIGO A 1290 PLASTICHOK"
+    },
+    {
+        "sku": "0117000788",
+        "nombre": "PLACA MOLDEO CODIGO A 1405 PLASTICHOK"
+    },
+    {
+        "sku": "0117000789",
+        "nombre": "PLACA MOLDEO CODIGO A 1429 PLASTICHOK"
+    },
+    {
+        "sku": "0117000790",
+        "nombre": "PLACA MOLDEO CODIGO A 1434 PLASTICHOK"
+    },
+    {
+        "sku": "0117000791",
+        "nombre": "PLACA MOLDEO CODIGO A 1436 PLASTICHOK"
+    },
+    {
+        "sku": "0117000793",
+        "nombre": "PLACA MOLDEO CODIGO A 1500 PLASTICHOK"
+    },
+    {
+        "sku": "0117000794",
+        "nombre": "PLACA MOLDEO CODIGO A 1513 PLASTICHOK"
+    },
+    {
+        "sku": "0117000795",
+        "nombre": "PLACA MOLDEO CODIGO A 1565 PLASTICHOK"
+    },
+    {
+        "sku": "0117000796",
+        "nombre": "PLACA MOLDEO CODIGO A 1637 PLASTICHOK"
+    },
+    {
+        "sku": "0117000797",
+        "nombre": "PLACA MOLDEO CODIGO A 1641 PLASTICHOK"
+    },
+    {
+        "sku": "0117000801",
+        "nombre": "PLACA MOLDEO CODIGO A 3004 PLASTICHOK EROTICO"
+    },
+    {
+        "sku": "0117000803",
+        "nombre": "PLACA MOLDEO CODIGO A 3010 PLASTICHOK"
+    },
+    {
+        "sku": "0117000805",
+        "nombre": "PLACA MOLDEO CODIGO A 448 PLASTICHOK FARAON"
+    },
+    {
+        "sku": "0117000812",
+        "nombre": "PLACA MOLDEO CODIGO A 649 PLASTICHOK"
+    },
+    {
+        "sku": "0117000813",
+        "nombre": "PLACA MOLDEO CODIGO A 763 PLASTICHOK CUADROS"
+    },
+    {
+        "sku": "0117000814",
+        "nombre": "PLACA MOLDEO CODIGO A 836 PLASTICHOK PARAGUAS LUNA"
+    },
+    {
+        "sku": "0117000817",
+        "nombre": "PLACA MOLDEO CODIGO B 165 PLASTICHOK"
+    },
+    {
+        "sku": "0117000818",
+        "nombre": "PLACA MOLDEO CODIGO B 412 PLASTICHOK 2 SOLES"
+    },
+    {
+        "sku": "0117000820",
+        "nombre": "PLACA MOLDEO CODIGO C 114 PLASTICHOK FLOR"
+    },
+    {
+        "sku": "0117000821",
+        "nombre": "PLACA MOLDEO CODIGO C 265 PLASTICHOK PAPA NOEL"
+    },
+    {
+        "sku": "0117000822",
+        "nombre": "PLACA MOLDEO CODIGO C 313 PLASTICHOK BOTAS"
+    },
+    {
+        "sku": "0117000827",
+        "nombre": "PLACA MOLDEO CODIGO E 527 PLASTICHOK MARCO"
+    },
+    {
+        "sku": "0117000829",
+        "nombre": "PLACA MOLDEO CODIGO E 980 PLASTICHOK CARA"
+    },
+    {
+        "sku": "0117000830",
+        "nombre": "PLACA MOLDEO CODIGO H 1899 PLASTICHOK"
+    },
+    {
+        "sku": "0117000831",
+        "nombre": "PLACA MOLDEO CODIGO H 985 PLASTICHOK"
+    },
+    {
+        "sku": "0117000832",
+        "nombre": "PLACA MOLDEO CODIGO H 1692 PLASTICHOK"
+    },
+    {
+        "sku": "0117000833",
+        "nombre": "PLACA VINTAGE PLASTICHOK"
+    },
+    {
+        "sku": "0117000840",
+        "nombre": "SET PLACA BOMBA SORPRE PARPEN PIÑATA   10 X 14CM"
+    },
+    {
+        "sku": "0117000851",
+        "nombre": "PLACA HUEVO CODIGO A 11 PLASTICHOK X 10"
+    },
+    {
+        "sku": "0117000855",
+        "nombre": "PLACA HUEVO CODIGO A 16 PLASTICHOK X 10"
+    },
+    {
+        "sku": "0117000856",
+        "nombre": "POSA HUEVO 95MM LA REPOSTERA X 50"
+    },
+    {
+        "sku": "0117000858",
+        "nombre": "POSA HUEVO 50MM LA REPOSTERA X 100"
+    },
+    {
+        "sku": "0117000859",
+        "nombre": "POSA HUEVO 70MM LA REPOSTERA X 100"
+    },
+    {
+        "sku": "0117000861",
+        "nombre": "PLACA TRIPLE COLA CONEJO BWB 10516"
+    },
+    {
+        "sku": "0117000872",
+        "nombre": "PLACA CABEZA CONEJO BWB"
+    },
+    {
+        "sku": "0117000873",
+        "nombre": "PLACA TRIPLE CONEJITO BWB"
+    },
+    {
+        "sku": "0117000875",
+        "nombre": "PLACA TRIPLE CONEJO SALTAR BWB"
+    },
+    {
+        "sku": "0117000876",
+        "nombre": "PLACA CHUPETIN CODIGO A 1788 PLASTICHOK"
+    },
+    {
+        "sku": "0117000877",
+        "nombre": "PLACA CHUPETIN CODIGO C 1793 PLASTICHOK BUGS BUNNY"
+    },
+    {
+        "sku": "0117000879",
+        "nombre": "PLACA MOLDEO CODIGO A 1449 PLASTICHOK CORAZONES"
+    }
 ]
