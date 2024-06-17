@@ -1,1292 +1,754 @@
 [
     {
-    "id": 27256,
-    "nombre": "GLASE REAL VERDE DELI X 210G",
-    "sku": 106000109
-  },
-  {
-    "id": 52419,
-    "nombre": "GLICERINA ALZOL X 100CC",
-    "sku": 105000021
-  },
-  {
-    "id": 27312,
-    "nombre": "GLITTER COMESTIBLE AZUL OSCURO DELI",
-    "sku": 108000386
-  },
-  {
-    "id": 27318,
-    "nombre": "GLITTER COMESTIBLE BLANCO DELI",
-    "sku": 108000392
-  },
-  {
-    "id": 27313,
-    "nombre": "GLITTER COMESTIBLE BRONCE DELI",
-    "sku": 108000387
-  },
-  {
-    "id": 27315,
-    "nombre": "GLITTER COMESTIBLE CELESTE DELI",
-    "sku": 108000389
-  },
-  {
-    "id": 38682,
-    "nombre": "GLITTER COMESTIBLE METAL DELI",
-    "sku": 108000434
-  },
-  {
-    "id": 27317,
-    "nombre": "GLITTER COMESTIBLE ORO DELI",
-    "sku": 108000391
-  },
-  {
-    "id": 27314,
-    "nombre": "GLITTER COMESTIBLE PLATA DELI",
-    "sku": 108000388
-  },
-  {
-    "id": 27311,
-    "nombre": "GLITTER COMESTIBLE PURPURA DELI",
-    "sku": 108000385
-  },
-  {
-    "id": 27316,
-    "nombre": "GLITTER COMESTIBLE ROJO DELI",
-    "sku": 108000390
-  },
-  {
-    "id": 27319,
-    "nombre": "GLITTER COMESTIBLE ROSA DELI",
-    "sku": 108000393
-  },
-  {
-    "id": 38688,
-    "nombre": "GLITTER COMESTIBLE TURQUESA DELI",
-    "sku": 108000435
-  },
-  {
-    "id": 27310,
-    "nombre": "GLITTER COMESTIBLE VERDE DELI",
-    "sku": 108000384
-  },
-  {
-    "id": 52420,
-    "nombre": "GLUCOSA CIRCE X KG",
-    "sku": 105000023
-  },
-  {
-    "id": 52982,
-    "nombre": "GLUCOSA DEWEY 9 X 350G",
-    "sku": 105000074
-  },
-  {
-    "id": 52981,
-    "nombre": "GLUCOSA DEWEY X 350G",
-    "sku": 105000073
-  },
-  {
-    "id": 17347,
-    "nombre": "GLUCOSA DEWEY X 5.6KG",
-    "sku": 105000024
-  },
-  {
-    "id": 52421,
-    "nombre": "GLUCOSA DEWEY X KG",
-    "sku": 105000025
-  },
-  {
-    "id": 17349,
-    "nombre": "GOMA TRAGACANTO ALZOL X 500G",
-    "sku": 105000026
-  },
-  {
-    "id": 52422,
-    "nombre": "GOMA TRAGACANTO ALZOL X 50G",
-    "sku": 105000028
-  },
-  {
-    "id": 43510,
-    "nombre": "GOTAS BLANCO ALPINO 6 X 1KG",
-    "sku": 102000235
-  },
-  {
-    "id": 9394,
-    "nombre": "GOTAS BLANCO ALPINO X 1KG",
-    "sku": 102000114
-  },
-  {
-    "id": 52353,
-    "nombre": "GOTAS BLANCO ALPINO X KG",
-    "sku": 102000115
-  },
-  {
-    "id": 43511,
-    "nombre": "GOTAS DULCE DE LECHE ALPINO 6 X 1KG",
-    "sku": 102000236
-  },
-  {
-    "id": 9397,
-    "nombre": "GOTAS DULCE DE LECHE ALPINO X 1KG",
-    "sku": 102000117
-  },
-  {
-    "id": 52354,
-    "nombre": "GOTAS DULCE DE LECHE ALPINO X KG",
-    "sku": 102000118
-  },
-  {
-    "id": 43558,
-    "nombre": "GOTAS MICRO BLANCO MAPSA 3 X 1KG",
-    "sku": 102000250
-  },
-  {
-    "id": 43559,
-    "nombre": "GOTAS MICRO SEMIAM MAPSA 3 X 1KG",
-    "sku": 102000251
-  },
-  {
-    "id": 43560,
-    "nombre": "GOTAS MINI BLANCO MAPSA 3 X 1KG",
-    "sku": 102000252
-  },
-  {
-    "id": 52362,
-    "nombre": "GOTAS MINI BLANCO MAPSA X KG",
-    "sku": 102000156
-  },
-  {
-    "id": 47263,
-    "nombre": "GOTAS MINI MAPSA 6 X 500G",
-    "sku": 102000284
-  },
-  {
-    "id": 47262,
-    "nombre": "GOTAS MINI MAPSA X 500G",
-    "sku": 102000283
-  },
-  {
-    "id": 43561,
-    "nombre": "GOTAS MINI SEMIAM MAPSA 3 X 1KG",
-    "sku": 102000253
-  },
-  {
-    "id": 52363,
-    "nombre": "GOTAS MINI SEMIAM MAPSA X KG",
-    "sku": 102000159
-  },
-  {
-    "id": 43512,
-    "nombre": "GOTAS SEMIAMARGO ALPINO 6 X 1KG",
-    "sku": 102000237
-  },
-  {
-    "id": 9401,
-    "nombre": "GOTAS SEMIAMARGO ALPINO X 1KG",
-    "sku": 102000121
-  },
-  {
-    "id": 52355,
-    "nombre": "GOTAS SEMIAMARGO ALPINO X KG",
-    "sku": 102000119
-  },
-  {
-    "id": 35279,
-    "nombre": "GOTITA SEMIAM CHART 10 X 500G",
-    "sku": 102000177
-  },
-  {
-    "id": 35280,
-    "nombre": "GOTITA SEMIAM CHART X 500G",
-    "sku": 102000178
-  },
-  {
-    "id": 17681,
-    "nombre": "GRAGEA DORADO PROIN 24 X 350G",
-    "sku": 104000116
-  },
-  {
-    "id": 17682,
-    "nombre": "GRAGEA DORADO PROIN X 350G",
-    "sku": 104000117
-  },
-  {
-    "id": 17683,
-    "nombre": "GRAGEA FRUTAL PROIN 10 X 1KG",
-    "sku": 104000118
-  },
-  {
-    "id": 17684,
-    "nombre": "GRAGEA FRUTAL PROIN X 1KG",
-    "sku": 104000119
-  },
-  {
-    "id": 52374,
-    "nombre": "GRAGEA FRUTAL PROIN X KG",
-    "sku": 104000120
-  },
-  {
-    "id": 52403,
-    "nombre": "GRAGEA MULTI DECORM X KG",
-    "sku": 104000489
-  },
-  {
-    "id": 9905,
-    "nombre": "GRAGEA NUMERO 2 MULTI DECORM X 50G",
-    "sku": 104000079
-  },
-  {
-    "id": 9906,
-    "nombre": "GRAGEA NUMERO 2 ROSA DECORM X 50G",
-    "sku": 104000085
-  },
-  {
-    "id": 9907,
-    "nombre": "GRAGEA NUMERO 3 CELESTE DECORM X 50G",
-    "sku": 104000093
-  },
-  {
-    "id": 9908,
-    "nombre": "GRAGEA NUMERO 3 MARRON DECORM X 50G",
-    "sku": 104000095
-  },
-  {
-    "id": 9909,
-    "nombre": "GRAGEA NUMERO 3 MULTICOLOR DECORM X 50G",
-    "sku": 104000097
-  },
-  {
-    "id": 9910,
-    "nombre": "GRAGEA NUMERO 3 NEGRO DECORM X 50G",
-    "sku": 104000099
-  },
-  {
-    "id": 9911,
-    "nombre": "GRAGEA NUMERO 3 ROSA DECORM X 50G",
-    "sku": 104000103
-  },
-  {
-    "id": 9912,
-    "nombre": "GRAGEA NUMERO 3 TURQUESA DECORM X 50G",
-    "sku": 104000104
-  },
-  {
-    "id": 9913,
-    "nombre": "GRAGEA NUMERO 4 AMARILL DECORM X 50G",
-    "sku": 104000108
-  },
-  {
-    "id": 52375,
-    "nombre": "GRANA CHOCOLATE X KG",
-    "sku": 104000121
-  },
-  {
-    "id": 17707,
-    "nombre": "GRANA COMB LILA/ROSA ALZOL X 1KG",
-    "sku": 104000151
-  },
-  {
-    "id": 17708,
-    "nombre": "GRANA COMB NEGRO/BLANCO ALZOL X 1KG",
-    "sku": 104000152
-  },
-  {
-    "id": 17709,
-    "nombre": "GRANA COMB NGO/FUCS ALZOL X 1KG",
-    "sku": 104000153
-  },
-  {
-    "id": 17710,
-    "nombre": "GRANA COMB ROJO/BLANCO ALZOL X 1KG",
-    "sku": 104000154
-  },
-  {
-    "id": 17712,
-    "nombre": "GRANA COMB ROSA/FUCS ALZOL X 1KG",
-    "sku": 104000156
-  },
-  {
-    "id": 17714,
-    "nombre": "GRANA COMB VERDES ALZOL X 1KG",
-    "sku": 104000158
-  },
-  {
-    "id": 17715,
-    "nombre": "GRANA CORAZON AMARI DECORM X 50G",
-    "sku": 104000159
-  },
-  {
-    "id": 17716,
-    "nombre": "GRANA CORAZON AZUL DECORM X 50G",
-    "sku": 104000160
-  },
-  {
-    "id": 17717,
-    "nombre": "GRANA CORAZON BLANCO DECORM X 50G",
-    "sku": 104000161
-  },
-  {
-    "id": 17718,
-    "nombre": "GRANA CORAZON CELES DECORM X 50G",
-    "sku": 104000162
-  },
-  {
-    "id": 17719,
-    "nombre": "GRANA CORAZON FUCS DECORM X 50G",
-    "sku": 104000163
-  },
-  {
-    "id": 17720,
-    "nombre": "GRANA CORAZON LILA DECORM X 50G",
-    "sku": 104000164
-  },
-  {
-    "id": 17721,
-    "nombre": "GRANA CORAZON LOVE DECORM X 50G",
-    "sku": 104000165
-  },
-  {
-    "id": 17722,
-    "nombre": "GRANA CORAZON M AME DECORM X 50G",
-    "sku": 104000166
-  },
-  {
-    "id": 17723,
-    "nombre": "GRANA CORAZON MULTI DECORM X 50G",
-    "sku": 104000167
-  },
-  {
-    "id": 17724,
-    "nombre": "GRANA CORAZON NARANJA DECORM X 50G",
-    "sku": 104000168
-  },
-  {
-    "id": 17725,
-    "nombre": "GRANA CORAZON NEGRO DECORM X 50G",
-    "sku": 104000169
-  },
-  {
-    "id": 17726,
-    "nombre": "GRANA CORAZON PLATA DECORM X 50G",
-    "sku": 104000170
-  },
-  {
-    "id": 9926,
-    "nombre": "GRANA CORAZON ROSA DECORM X 50G",
-    "sku": 104000172
-  },
-  {
-    "id": 17729,
-    "nombre": "GRANA CORAZON VERDE DECORM X 50G",
-    "sku": 104000173
-  },
-  {
-    "id": 17730,
-    "nombre": "GRANA CORAZON VIOLE DECORM X 50G",
-    "sku": 104000174
-  },
-  {
-    "id": 17756,
-    "nombre": "GRANA DORADO PROIN CAJA",
-    "sku": 104000236
-  },
-  {
-    "id": 17757,
-    "nombre": "GRANA DORADO PROIN X 300G",
-    "sku": 104000237
-  },
-  {
-    "id": 52379,
-    "nombre": "GRANA DORADO PROIN X KG",
-    "sku": 104000235
-  },
-  {
-    "id": 17738,
-    "nombre": "GRANA ESTRELLA AMARILLO DECORM",
-    "sku": 104000218
-  },
-  {
-    "id": 17739,
-    "nombre": "GRANA ESTRELLA AZUL DECORM",
-    "sku": 104000219
-  },
-  {
-    "id": 17740,
-    "nombre": "GRANA ESTRELLA BLANCO DECORM",
-    "sku": 104000220
-  },
-  {
-    "id": 17741,
-    "nombre": "GRANA ESTRELLA CELESTE DECORM",
-    "sku": 104000221
-  },
-  {
-    "id": 17742,
-    "nombre": "GRANA ESTRELLA FUCSIA DECORM",
-    "sku": 104000222
-  },
-  {
-    "id": 17743,
-    "nombre": "GRANA ESTRELLA LILA DECORM",
-    "sku": 104000223
-  },
-  {
-    "id": 17744,
-    "nombre": "GRANA ESTRELLA MULTI AM DECORM",
-    "sku": 104000224
-  },
-  {
-    "id": 17745,
-    "nombre": "GRANA ESTRELLA MULTI DECORM",
-    "sku": 104000225
-  },
-  {
-    "id": 17746,
-    "nombre": "GRANA ESTRELLA NARANJA DECORM",
-    "sku": 104000226
-  },
-  {
-    "id": 17747,
-    "nombre": "GRANA ESTRELLA NEGRO DECORM",
-    "sku": 104000227
-  },
-  {
-    "id": 17748,
-    "nombre": "GRANA ESTRELLA PLATA DECORM",
-    "sku": 104000228
-  },
-  {
-    "id": 17749,
-    "nombre": "GRANA ESTRELLA ROJO DECORM",
-    "sku": 104000229
-  },
-  {
-    "id": 17750,
-    "nombre": "GRANA ESTRELLA ROSA DECORM",
-    "sku": 104000230
-  },
-  {
-    "id": 17751,
-    "nombre": "GRANA ESTRELLA ROSA P DECORM",
-    "sku": 104000231
-  },
-  {
-    "id": 17752,
-    "nombre": "GRANA ESTRELLA VERDE CL DECORM",
-    "sku": 104000232
-  },
-  {
-    "id": 17753,
-    "nombre": "GRANA ESTRELLA VERDE OS DECORM",
-    "sku": 104000233
-  },
-  {
-    "id": 17754,
-    "nombre": "GRANA ESTRELLA VIOLETA DECORM",
-    "sku": 104000234
-  },
-  {
-    "id": 17735,
-    "nombre": "GRANA FUCSIA DECORM X 1KG",
-    "sku": 104000189
-  },
-  {
-    "id": 17734,
-    "nombre": "GRANA FUCSIA DECORM X 50G",
-    "sku": 104000188
-  },
-  {
-    "id": 17736,
-    "nombre": "GRANA M AMERICAN DECORM X 1KG",
-    "sku": 104000194
-  },
-  {
-    "id": 17737,
-    "nombre": "GRANA M AMERICAN DECORM X 50G",
-    "sku": 104000195
-  },
-  {
-    "id": 43722,
-    "nombre": "GRANA MANI CAVIWA CAJA",
-    "sku": 104000503
-  },
-  {
-    "id": 17732,
-    "nombre": "GRANA MANI CAVIWA X 1KG",
-    "sku": 104000176
-  },
-  {
-    "id": 52378,
-    "nombre": "GRANA MANI CAVIWA X KG",
-    "sku": 104000177
-  },
-  {
-    "id": 52376,
-    "nombre": "GRANA MULTICOLOR ALZOL X KG",
-    "sku": 104000122
-  },
-  {
-    "id": 29798,
-    "nombre": "GRANA NEGRO CIRCE X 1KG",
-    "sku": 104000422
-  },
-  {
-    "id": 52377,
-    "nombre": "GRANA PLATA X KG",
-    "sku": 104000123
-  },
-  {
-    "id": 27250,
-    "nombre": "GRANA ROSA CIRCE X 1KG",
-    "sku": 104000410
-  },
-  {
-    "id": 17758,
-    "nombre": "GRANA STICK AMARIL DECORM X 45G",
-    "sku": 104000238
-  },
-  {
-    "id": 17759,
-    "nombre": "GRANA STICK AZUL DECORM X 45G",
-    "sku": 104000239
-  },
-  {
-    "id": 17760,
-    "nombre": "GRANA STICK BLANCO DECORM X 45G",
-    "sku": 104000240
-  },
-  {
-    "id": 17761,
-    "nombre": "GRANA STICK CELESTE DECORM X 45G",
-    "sku": 104000241
-  },
-  {
-    "id": 17762,
-    "nombre": "GRANA STICK LILA DECORM X 45G",
-    "sku": 104000242
-  },
-  {
-    "id": 17763,
-    "nombre": "GRANA STICK MARRON DECORM X 45G",
-    "sku": 104000243
-  },
-  {
-    "id": 17764,
-    "nombre": "GRANA STICK MULTI A DECORM X 45G",
-    "sku": 104000244
-  },
-  {
-    "id": 17765,
-    "nombre": "GRANA STICK MULTI DECORM X 45G",
-    "sku": 104000245
-  },
-  {
-    "id": 17766,
-    "nombre": "GRANA STICK NARANJA DECORM X 45G",
-    "sku": 104000246
-  },
-  {
-    "id": 17767,
-    "nombre": "GRANA STICK NEGRO DECORM X 45G",
-    "sku": 104000247
-  },
-  {
-    "id": 17768,
-    "nombre": "GRANA STICK PLATA DECORM X 45G",
-    "sku": 104000248
-  },
-  {
-    "id": 17769,
-    "nombre": "GRANA STICK ROJO DECORM X 45G",
-    "sku": 104000249
-  },
-  {
-    "id": 17771,
-    "nombre": "GRANA STICK ROSA DECORM X 45G",
-    "sku": 104000251
-  },
-  {
-    "id": 17770,
-    "nombre": "GRANA STICK ROSA P DECORM X 45G",
-    "sku": 104000250
-  },
-  {
-    "id": 17772,
-    "nombre": "GRANA STICK TURQUES DECORM X 45G",
-    "sku": 104000252
-  },
-  {
-    "id": 17773,
-    "nombre": "GRANA STICK VERD CL DECORM X 45G",
-    "sku": 104000253
-  },
-  {
-    "id": 17774,
-    "nombre": "GRANA STICK VERD OS DECORM X 45G",
-    "sku": 104000254
-  },
-  {
-    "id": 17775,
-    "nombre": "GRANA STICK VIOLETA DECORM X 45G",
-    "sku": 104000255
-  },
-  {
-    "id": 27248,
-    "nombre": "GRANA VERDE OSCURO DECORM X 1KG",
-    "sku": 104000409
-  },
-  {
-    "id": 17777,
-    "nombre": "GRANELLA LODISER X 5KG",
-    "sku": 101000036
-  },
-  {
-    "id": 52332,
-    "nombre": "GRANELLA LODISER X KG",
-    "sku": 101000035
-  },
-  {
-    "id": 30236,
-    "nombre": "GRANOLA CROCANTE X 5KG SA",
-    "sku": 119000017
-  },
-  {
-    "id": 52626,
-    "nombre": "GRANOLA CROCANTE X KG SA",
-    "sku": 119000018
-  },
-  {
-    "id": 44118,
-    "nombre": "GUINDA ROJO BARI 5 X 1KG",
-    "sku": 109000126
-  },
-  {
-    "id": 32577,
-    "nombre": "GUINDA ROJO BARI X 1KG",
-    "sku": 109000073
-  },
-  {
-    "id": 17780,
-    "nombre": "GUINDA ROJO BARI X 5KG",
-    "sku": 109000045
-  },
-  {
-    "id": 52545,
-    "nombre": "GUINDA ROJO BARI X KG",
-    "sku": 109000046
-  },
-  {
-    "id": 44119,
-    "nombre": "GUINDA VERDE BARI 5 X 1KG",
-    "sku": 109000127
-  },
-  {
-    "id": 32580,
-    "nombre": "GUINDA VERDE BARI X 1KG",
-    "sku": 109000075
-  },
-  {
-    "id": 17782,
-    "nombre": "GUINDA VERDE BARI X 5KG",
-    "sku": 109000047
-  },
-  {
-    "id": 52546,
-    "nombre": "GUINDA VERDE BARI X KG",
-    "sku": 109000048
-  },
-  {
-    "id": 32692,
-    "nombre": "HARINA 0000 LA FAVORITA X 1KG",
-    "sku": 112000015
-  },
-  {
-    "id": 17985,
-    "nombre": "HARINA DE ALMENDRA TCLASS",
-    "sku": 110000039
-  },
-  {
-    "id": 17984,
-    "nombre": "HARINA DE ALMENDRA X 10KG",
-    "sku": 110000038
-  },
-  {
-    "id": 17982,
-    "nombre": "HARINA DE ALMENDRA X 11.34KG",
-    "sku": 110000036
-  },
-  {
-    "id": 52567,
-    "nombre": "HARINA DE ALMENDRA X KG",
-    "sku": 110000037
-  },
-  {
-    "id": 30192,
-    "nombre": "HARINA GARBANZO X 5KG SA",
-    "sku": 119000023
-  },
-  {
-    "id": 52628,
-    "nombre": "HARINA GARBANZO X KG SA",
-    "sku": 119000024
-  },
-  {
-    "id": 42435,
-    "nombre": "HIGO CONGELADO BIO X 500G",
-    "sku": 109000088
-  },
-  {
-    "id": 50764,
-    "nombre": "HIGO CONGELADO BIO X KG",
-    "sku": 109000133
-  },
-  {
-    "id": 17995,
-    "nombre": "HIGOS EN ALMIBAR FRUCOR X 3.1KG",
-    "sku": 109000049
-  },
-  {
-    "id": 17992,
-    "nombre": "HIGOS GLASEADOS X 2KG",
-    "sku": 110000041
-  },
-  {
-    "id": 52568,
-    "nombre": "HIGOS GLASEADOS X KG",
-    "sku": 110000040
-  },
-  {
-    "id": 43920,
-    "nombre": "HUESITO PALMESANO 10 X 1KG",
-    "sku": 104000513
-  },
-  {
-    "id": 52380,
-    "nombre": "HUESITO PALMESANO X KG",
-    "sku": 104000259
-  },
-  {
-    "id": 47781,
-    "nombre": "HUEVO MAPLE JUMBO X 20",
-    "sku": 119000025
-  },
-  {
-    "id": 18000,
-    "nombre": "HUEVO MAPLE X 30",
-    "sku": 119000011
-  },
-  {
-    "id": 27321,
-    "nombre": "ILUMINADOR AZUL FLEIBOR X 3G",
-    "sku": 108000395
-  },
-  {
-    "id": 27322,
-    "nombre": "ILUMINADOR DORADO FLEIBOR X 3G",
-    "sku": 108000396
-  },
-  {
-    "id": 27320,
-    "nombre": "ILUMINADOR NACAR FLEIBOR X 3G",
-    "sku": 108000394
-  },
-  {
-    "id": 27323,
-    "nombre": "ILUMINADOR ROJO FLEIBOR X 3G",
-    "sku": 108000397
-  },
-  {
-    "id": 27324,
-    "nombre": "ILUMINADOR VERDE FLEIBOR X 3G",
-    "sku": 108000398
-  },
-  {
-    "id": 27325,
-    "nombre": "ILUMINADOR VIOLETA FLEIBOR X 3G",
-    "sku": 108000399
-  },
-  {
-    "id": 42360,
-    "nombre": "INVERTOSA PASTELAR X 250G",
-    "sku": 101000042
-  },
-  {
-    "id": 52471,
-    "nombre": "JALEA EN FRIO KEUKEN X KG",
-    "sku": 107000024
-  },
-  {
-    "id": 18104,
-    "nombre": "JALEA FANTASIA DEWEY X 10KG",
-    "sku": 107000027
-  },
-  {
-    "id": 52472,
-    "nombre": "JALEA FANTASIA DEWEY X KG",
-    "sku": 107000026
-  },
-  {
-    "id": 18105,
-    "nombre": "JARRA CRISTAL GRADUADA BO",
-    "sku": 120000362
-  },
-  {
-    "id": 18106,
-    "nombre": "JARRA PLAST MEDIDORA LOW COST",
-    "sku": 120000363
-  },
-  {
-    "id": 42984,
-    "nombre": "JERINGA INOXIDABLE X DECORADORA LOW COST",
-    "sku": 120000623
-  },
-  {
-    "id": 18109,
-    "nombre": "JERINGA PLAST DECORADORA CHOCOMISIO",
-    "sku": 120000364
-  },
-  {
-    "id": 42434,
-    "nombre": "KIWI CONGELADO BIO X 500G",
-    "sku": 109000087
-  },
-  {
-    "id": 41642,
-    "nombre": "KIWIS EN ALMIBAR CAJA ",
-    "sku": 109000090
-  },
-  {
-    "id": 41641,
-    "nombre": "KIWIS EN ALMIBAR X 3.1KG",
-    "sku": 109000089
-  },
-  {
-    "id": 47589,
-    "nombre": "LAMINA COMESTIBLE IMPRESA CHOCOMISIO",
-    "sku": 113000016
-  },
-  {
-    "id": 43550,
-    "nombre": "LAMINA COMESTIBLE PERSONAJE CHOCOMISIO",
-    "sku": 113000017
-  },
-  {
-    "id": 43551,
-    "nombre": "LAMINA COMESTIBLE PERSONALIZAD CHOCOMISIO",
-    "sku": 113000018
-  },
-  {
-    "id": 18275,
-    "nombre": "LAMINA TE X T A PRINT PARPEN X 1",
-    "sku": 120000366
-  },
-  {
-    "id": 18276,
-    "nombre": "LAMINA TE X T DECORAT PARPEN X 1",
-    "sku": 120000367
-  },
-  {
-    "id": 18277,
-    "nombre": "LAMINA TE X T FLORAL PARPEN X 1",
-    "sku": 120000368
-  },
-  {
-    "id": 47694,
-    "nombre": "LAPIZ DECORA PIEL PASTELAR",
-    "sku": 116000244
-  },
-  {
-    "id": 47794,
-    "nombre": "LAPIZ ESTAMPADOR PARPEN",
-    "sku": 120000614
-  },
-  {
-    "id": 47786,
-    "nombre": "LAPIZ SILICONA REPOSTERO FV",
-    "sku": 120000569
-  },
-  {
-    "id": 18320,
-    "nombre": "LECHE COCO COCO DO VALLE X 200ML",
-    "sku": 119000012
-  },
-  {
-    "id": 18321,
-    "nombre": "LECHE COCO MAIS COCO X 200CC",
-    "sku": 119000013
-  },
-  {
-    "id": 18322,
-    "nombre": "LECHE COCO MAIS COCO X 500CC",
-    "sku": 119000014
-  },
-  {
-    "id": 27411,
-    "nombre": "LECHE CONDENSADA LIGHT NESTLE",
-    "sku": 115000198
-  },
-  {
-    "id": 44281,
-    "nombre": "LECHE CONDENSADA NESTLE CAJA",
-    "sku": 115000294
-  },
-  {
-    "id": 18324,
-    "nombre": "LECHE CONDENSADA NESTLE X 395G",
-    "sku": 115000010
-  },
-  {
-    "id": 27513,
-    "nombre": "LECHE ENTERA MILKAUT X 1L",
-    "sku": 119000016
-  },
-  {
-    "id": 43930,
-    "nombre": "LENTEJA AMARILLO CHOOK 18 X 500G",
-    "sku": 104000526
-  },
-  {
-    "id": 43931,
-    "nombre": "LENTEJA AZUL CHOOK 18 X 500G",
-    "sku": 104000527
-  },
-  {
-    "id": 43932,
-    "nombre": "LENTEJA BLANCO CHOOK 18 X 500G",
-    "sku": 104000528
-  },
-  {
-    "id": 37670,
-    "nombre": "LENTEJA CON CHOCO CHART CAJA",
-    "sku": 104000436
-  },
-  {
-    "id": 37674,
-    "nombre": "LENTEJA CON CHOCO CHART PAQ",
-    "sku": 104000437
-  },
-  {
-    "id": 43933,
-    "nombre": "LENTEJA CELESTE CHOOK 18 X 500G",
-    "sku": 104000529
-  },
-  {
-    "id": 52385,
-    "nombre": "LENTEJA FRUTAL PALMESANO X KG",
-    "sku": 104000314
-  },
-  {
-    "id": 43942,
-    "nombre": "LENTEJA FRUTAL PALMESANO10 X 1KG",
-    "sku": 104000538
-  },
-  {
-    "id": 43936,
-    "nombre": "LENTEJA MARRON CHOOK 18 X 500G",
-    "sku": 104000532
-  },
-  {
-    "id": 43934,
-    "nombre": "LENTEJA MULTI CHOOK 10 X 1KG",
-    "sku": 104000530
-  },
-  {
-    "id": 43935,
-    "nombre": "LENTEJA MULTI CHOOK 18 X 500G",
-    "sku": 104000531
-  },
-  {
-    "id": 43948,
-    "nombre": "LENTEJA MULTI CHOOK 24 X 150G",
-    "sku": 104000542
-  },
-  {
-    "id": 41619,
-    "nombre": "LENTEJA MULTI CHOOK X 150G",
-    "sku": 104000480
-  },
-  {
-    "id": 52410,
-    "nombre": "LENTEJA MULTICOLOR CHOOK X 100G",
-    "sku": 104000588
-  },
-  {
-    "id": 9982,
-    "nombre": "LENTEJA MULTICOLOR CHOOK X 1KG",
-    "sku": 104000296
-  },
-  {
-    "id": 52384,
-    "nombre": "LENTEJA MULTICOLOR CHOOK X 250G",
-    "sku": 104000299
-  },
-  {
-    "id": 52383,
-    "nombre": "LENTEJA MULTICOLOR CHOOK X KG",
-    "sku": 104000298
-  },
-  {
-    "id": 43937,
-    "nombre": "LENTEJA NARANJA CHOOK 18 X 500G",
-    "sku": 104000533
-  },
-  {
-    "id": 43938,
-    "nombre": "LENTEJA ROJO CHOOK 18 X 500G",
-    "sku": 104000534
-  },
-  {
-    "id": 47301,
-    "nombre": "LENTEJA ROJO CHOOK 18 X 500G",
-    "sku": 104000306
-  },
-  {
-    "id": 43939,
-    "nombre": "LENTEJA ROSA CHOOK 18 X 500G",
-    "sku": 104000535
-  },
-  {
-    "id": 43940,
-    "nombre": "LENTEJA VERDE CHOOK 18 X 500G",
-    "sku": 104000536
-  },
-  {
-    "id": 43941,
-    "nombre": "LENTEJA VIOLETA CHOOK 18 X 500G",
-    "sku": 104000537
-  },
-  {
-    "id": 43921,
-    "nombre": "LENTEJITA AZUL CHOOK 18 X 500G",
-    "sku": 104000515
-  },
-  {
-    "id": 52386,
-    "nombre": "LENTEJITA FRUTAL PALMESANO X KG",
-    "sku": 104000320
-  },
-  {
-    "id": 43943,
-    "nombre": "LENTEJITA FRUTAL PALMESANO10 X 1",
-    "sku": 104000539
-  },
-  {
-    "id": 43924,
-    "nombre": "LENTEJITA MARRON CHOOK 18 X 500G",
-    "sku": 104000520
-  },
-  {
-    "id": 43922,
-    "nombre": "LENTEJITA MULTI CHOOK 10 X 1KG",
-    "sku": 104000518
-  },
-  {
-    "id": 43923,
-    "nombre": "LENTEJITA MULTI CHOOK 18 X 500G",
-    "sku": 104000519
-  },
-  {
-    "id": 52381,
-    "nombre": "LENTEJITA MULTICO CHOOK X 250G",
-    "sku": 104000270
-  },
-  {
-    "id": 52411,
-    "nombre": "LENTEJITA MULTICOL CHOOK X 100G",
-    "sku": 104000589
-  },
-  {
-    "id": 52382,
-    "nombre": "LENTEJITA MULTICOL CHOOK X KG",
-    "sku": 104000271
-  },
-  {
-    "id": 43925,
-    "nombre": "LENTEJITA NARANJA CHOOK 18 X 500G",
-    "sku": 104000521
-  },
-  {
-    "id": 43926,
-    "nombre": "LENTEJITA ROJO CHOOK 18 X 500G",
-    "sku": 104000522
-  },
-  {
-    "id": 43927,
-    "nombre": "LENTEJITA ROSA CHOOK 18 X 500G",
-    "sku": 104000523
-  },
-  {
-    "id": 43928,
-    "nombre": "LENTEJITA VERDE CHOOK 18 X 500G",
-    "sku": 104000524
-  },
-  {
-    "id": 43929,
-    "nombre": "LENTEJITA VIOLETA CHOOK 18 X 500G",
-    "sku": 104000525
-  },
-  {
-    "id": 18347,
-    "nombre": "LEVADURA LA CORDOBESA 20 X 500G",
-    "sku": 105000029
-  },
-  {
-    "id": 18348,
-    "nombre": "LEVADURA LA CORDOBESA X 500G",
-    "sku": 105000030
-  },
-  {
-    "id": 47343,
-    "nombre": "LEVADURA MASA MADRE LEVE X X 13G",
-    "sku": 105000050
-  },
-  {
-    "id": 47345,
-    "nombre": "LEVADURA MI PAN X 10G",
-    "sku": 105000052
-  },
-  {
-    "id": 47344,
-    "nombre": "LEVADURA ORIG LEVE X X 10G",
-    "sku": 105000051
-  },
-  {
-    "id": 18352,
-    "nombre": "LLUVIA EN BOTELLA BOTICA",
-    "sku": 120000369
-  },
-  {
-    "id": 47799,
-    "nombre": "MANGA BB SELLADA N 0-1 CA",
-    "sku": 120000640
-  },
-  {
-    "id": 18491,
-    "nombre": "MANGA CON CUPLA NUMERO 2 PARPEN",
-    "sku": 120000370
-  },
-  {
-    "id": 18492,
-    "nombre": "MANGA CON CUPLA NUMERO 3 PARPEN",
-    "sku": 120000371
-  },
-  {
-    "id": 18493,
-    "nombre": "MANGA CON CUPLA NUMERO 4 PARPEN",
-    "sku": 120000372
-  },
-  {
-    "id": 43441,
-    "nombre": "MANGA COSIDA NUMERO 1 COOPER",
-    "sku": 120000637
-  },
-  {
-    "id": 43442,
-    "nombre": "MANGA COSIDA NUMERO 2 COOPER",
-    "sku": 120000638
-  },
-  {
-    "id": 43443,
-    "nombre": "MANGA COSIDA NUMERO 3 COOPER",
-    "sku": 120000639
-  },
-  {
-    "id": 10013,
-    "nombre": "MANGA DESCARTABLE 20CM PARPEN ROLLO",
-    "sku": 120000384
-  },
-  {
-    "id": 44426,
-    "nombre": "MANGA DESCARTABLE 25CM BOTICA",
-    "sku": 120000806
-  },
-  {
-    "id": 44425,
-    "nombre": "MANGA DESCARTABLE 30CM BOTICA",
-    "sku": 120000805
-  },
-  {
-    "id": 10014,
-    "nombre": "MANGA DESCARTABLE 30CM PARPEN ROLLO",
-    "sku": 120000385
-  },
-  {
-    "id": 10015,
-    "nombre": "MANGA DESCARTABLE 45CM PARPEN ROLLO X 100",
-    "sku": 120000386
-  },
-  {
-    "id": 10011,
-    "nombre": "MANGA DESCARTABLE 58CM PARPEN ROLLO X 100",
-    "sku": 120000382
-  },
-  {
-    "id": 10012,
-    "nombre": "MANGA DESCARTABLE 58CM PARPEN X 12",
-    "sku": 120000383
-  },
-  {
-    "id": 18494,
-    "nombre": "MANGA DESCARTABLE NUMERO 0 IMAGEN X 10",
-    "sku": 120000373
-  },
-  {
-    "id": 27548,
-    "nombre": "MANGA DESCARTABLE NUMERO 1 TEP X 10",
-    "sku": 120000561
-  },
-  {
-    "id": 18495,
-    "nombre": "MANGA DESCARTABLE NUMERO 1 IMAGEN X 10",
-    "sku": 120000374
-  },
-  {
-    "id": 10009,
-    "nombre": "MANGA DESCARTABLE NUMERO 12 30CM PARPEN X 12",
-    "sku": 120000380
-  },
-  {
-    "id": 10010,
-    "nombre": "MANGA DESCARTABLE NUMERO 18 45CM PARPEN X 12",
-    "sku": 120000381
-  },
-  {
-    "id": 27541,
-    "nombre": "MANGA DESCARTABLE NUMERO 2 TEP X 10",
-    "sku": 120000554
-  },
-  {
-    "id": 18496,
-    "nombre": "MANGA DESCARTABLE NUMERO 2 IMAGEN X 10",
-    "sku": 120000375
-  },
-  {
-    "id": 27542,
-    "nombre": "MANGA DESCARTABLE NUMERO 3 TEP X 10",
-    "sku": 120000555
-  },
-  {
-    "id": 18497,
-    "nombre": "MANGA DESCARTABLE NUMERO 3 IMAGEN X 10",
-    "sku": 120000376
-  },
-  {
-    "id": 27543,
-    "nombre": "MANGA DESCARTABLE NUMERO 4 TEP X 10",
-    "sku": 120000556
-  },
-  {
-    "id": 18498,
-    "nombre": "MANGA DESCARTABLE NUMERO 4 IMAGEN X 10",
-    "sku": 120000377
-  },
-  {
-    "id": 18499,
-    "nombre": "MANGA DESCARTABLE NUMERO 5 IMAGEN X 10",
-    "sku": 120000378
-  },
-  {
-    "id": 10008,
-    "nombre": "MANGA DESCARTABLE NUMERO 8 20CM PARPEN X 12",
-    "sku": 120000379
-  }
+        "sku": "0101000002",
+        "nombre": "AZUCAR COMUN CHANGO X 1KG PAQ"
+    },
+    {
+        "sku": "0101000003",
+        "nombre": "AZUCAR COMUN LEDESMA X 1KG PAQ"
+    },
+    {
+        "sku": "0101000018",
+        "nombre": "AZUCAR IMPALPABLE TALCO X 1KG PAQ"
+    },
+    {
+        "sku": "0101000026",
+        "nombre": "AZUCAR NEGRA LODISER X KG PESABLE"
+    },
+    {
+        "sku": "0101000038",
+        "nombre": "AZUCAR IMPALPABLE REFINADA KEUKEN X KG PESABLE"
+    },
+    {
+        "sku": "0101000040",
+        "nombre": "AZUCAR IMPALPABLE TALCO X KG PESABLE"
+    },
+    {
+        "sku": "0101000043",
+        "nombre": "AZUCAR COMUN AZUCEL X 1KG PAQ"
+    },
+    {
+        "sku": "0101000045",
+        "nombre": "AZUCAR IMPALPABLE TALCO 10 X 1KG BOLSON"
+    },
+    {
+        "sku": "0101000050",
+        "nombre": "AZUCAR SOBRE CHANGO X 100U"
+    },
+    {
+        "sku": "0101000051",
+        "nombre": "AZUCAR LIGTH CHANGO X 500G"
+    },
+    {
+        "sku": "0101000052",
+        "nombre": "AZUCAR LIGTH LEDESMA X 500G"
+    },
+    {
+        "sku": "0101000053",
+        "nombre": "AZUCAR MASCABO RUBIO LEDESMA X 800GR"
+    },
+    {
+        "sku": "0102000004",
+        "nombre": "BAÑO MOLDEO BLANCO MAPSA X 500G BOTON"
+    },
+    {
+        "sku": "0102000007",
+        "nombre": "BAÑO MOLDEO LECHE MAPSA X 500G BOTON"
+    },
+    {
+        "sku": "0102000010",
+        "nombre": "BAÑO MOLDEO SEMIAMA MAPSA X 500 BOTON"
+    },
+    {
+        "sku": "0102000012",
+        "nombre": "COBERTURA 71% TRONADOR X KG PESABLE"
+    },
+    {
+        "sku": "0102000022",
+        "nombre": "BAÑO MOLDEO CON LECHE MAPRICOA X KG PESABLE"
+    },
+    {
+        "sku": "0102000050",
+        "nombre": "CACAO NEGRO FENIX X KG PESABLE"
+    },
+    {
+        "sku": "0102000076",
+        "nombre": "BAÑO REPOSTERO BLANCO AGUILA X 150G"
+    },
+    {
+        "sku": "0102000078",
+        "nombre": "BAÑO REPOSTERO CON LECHE AGUILA X 150G"
+    },
+    {
+        "sku": "0102000080",
+        "nombre": "BAÑO REPOSTERO SEMIAMARGO  AGUILA X 150G"
+    },
+    {
+        "sku": "0102000082",
+        "nombre": "BAÑO REPOSTERO BLANCO BOMBONITO X 1KG PAQ"
+    },
+    {
+        "sku": "0102000084",
+        "nombre": "BAÑO REPOSTERO SEMIAMARGO BOMBONITO X 1KG PAQ"
+    },
+    {
+        "sku": "0102000085",
+        "nombre": "BAÑO REPOSTERO BLANCO EASY CHOC X 150G"
+    },
+    {
+        "sku": "0102000087",
+        "nombre": "BAÑO REPOSTERO CON LECHE EASY CHOC X 150G"
+    },
+    {
+        "sku": "0102000095",
+        "nombre": "BAÑO REPOSTERO BLANCO ALPINO X KG PINS PESABLE"
+    },
+    {
+        "sku": "0102000096",
+        "nombre": "BAÑO REPOSTERO SEMIAMARGO ALPINO X KG PINS PESABLE"
+    },
+    {
+        "sku": "0102000099",
+        "nombre": "CACAO AMARGO ESPECIAL ALZOL X 1KG PAQ"
+    },
+    {
+        "sku": "0102000100",
+        "nombre": "CACAO AMARGO ESPECIAL ALZOL X KG PESABLE"
+    },
+    {
+        "sku": "0102000137",
+        "nombre": "CHOCOLITO BLANCO MAPRICOA X KG PESABLE"
+    },
+    {
+        "sku": "0102000142",
+        "nombre": "CHOCOLITO SEMIAMARGO MAPRICOA X KG PESABLE"
+    },
+    {
+        "sku": "0102000175",
+        "nombre": "COBERTURA BLANCO CHART X 5KG GRANEL"
+    },
+    {
+        "sku": "0102000198",
+        "nombre": "BAÑO REPOSTERO CELESTE AGUILA X 150G PAQ"
+    },
+    {
+        "sku": "0102000199",
+        "nombre": "BAÑO REPOSTERO ROSA AGUILA X 150G PAQ"
+    },
+    {
+        "sku": "0102000200",
+        "nombre": "CACAO NEGRO ALZOL X 500G PAQ"
+    },
+    {
+        "sku": "0102000201",
+        "nombre": "CACAO AMARGO ALCALINO FENIX X 1KG PAQ"
+    },
+    {
+        "sku": "0102000203",
+        "nombre": "CACAO NEGRO NOIR FENIX X 1KG PAQ"
+    },
+    {
+        "sku": "0102000207",
+        "nombre": "COBERTURA FENIX X 1KG PAQ"
+    },
+    {
+        "sku": "0102000211",
+        "nombre": "COBERTURA AMARGO 70% FENIX X 1KG PAQ"
+    },
+    {
+        "sku": "0102000243",
+        "nombre": "BAÑO MOLDEO BLANCO MAPSA CAJA BOTON 10 X 500G"
+    },
+    {
+        "sku": "0102000244",
+        "nombre": "BAÑO MOLDEO LECHE MAPSA CAJA BOTON 10 X 500G"
+    },
+    {
+        "sku": "0102000245",
+        "nombre": "BAÑO MOLDEO SEMIAMARGO MAPSA CAJA BOTON 10 X 500G"
+    },
+    {
+        "sku": "0102000246",
+        "nombre": "BAÑO REPOSTERO BLANCO BOMBONITO 3 X 1KG CAJA"
+    },
+    {
+        "sku": "0102000247",
+        "nombre": "BAÑO REPOSTERO SEMIAMARGO BOMBONITO 3 X 1K CAJA"
+    },
+    {
+        "sku": "0102000277",
+        "nombre": "BAÑO REPOSTERO BLANCO AGUILA 12 X 150G CAJA"
+    },
+    {
+        "sku": "0102000278",
+        "nombre": "BAÑO REPOSTERO CON LECHE AGUILA 12 X 150G CAJA"
+    },
+    {
+        "sku": "0102000279",
+        "nombre": "BAÑO REPOSTERO SEMIAMARGO AGUILA 12 X 150G CAJA"
+    },
+    {
+        "sku": "0102000286",
+        "nombre": "CHOCOLITO MINI MAPRICOA 3 X 1KG CAJA"
+    },
+    {
+        "sku": "0102000287",
+        "nombre": "CACAO AMARGO ALCALINO ALZOL X KG PESABLE"
+    },
+    {
+        "sku": "0102000296",
+        "nombre": "CACAO AMARGO MAPSA X KG   PESABLE"
+    },
+    {
+        "sku": "0102000297",
+        "nombre": "CHOCOLATE 80% CACAO AGUILA X 150G"
+    },
+    {
+        "sku": "0102000298",
+        "nombre": "BAÑO REPOSTERO DULCE DE LECHE MAPRICOA X 250"
+    },
+    {
+        "sku": "0102000299",
+        "nombre": "BAÑO REPOSTERO SEMIAMARGO MAPRICOA X 150G"
+    },
+    {
+        "sku": "0102000302",
+        "nombre": "BAÑO ALFAJORERO BLANCO MAPRICOA X 1KG"
+    },
+    {
+        "sku": "0103000027",
+        "nombre": "BIZCOCHUELO CHOCOLATE X 750G BM 3 CAPAS"
+    },
+    {
+        "sku": "0103000028",
+        "nombre": "BIZCOCHUELO VAINILLA X 750G BM 3 CAPAS"
+    },
+    {
+        "sku": "0103000029",
+        "nombre": "BIZCOCHUELO CHOCOLATE X 450G BM 3 CAPAS"
+    },
+    {
+        "sku": "0103000030",
+        "nombre": "BIZCOCHUELO VAINILLA X 450G BM 3 CAPAS"
+    },
+    {
+        "sku": "0103000031",
+        "nombre": "PIONONO X 200G BM"
+    },
+    {
+        "sku": "0103000032",
+        "nombre": "BIZCOCHUELO VAINILLA BOCA BM X 750G"
+    },
+    {
+        "sku": "0104000010",
+        "nombre": "CONFITE PLATA CIRCE X KG PESABLE"
+    },
+    {
+        "sku": "0104000123",
+        "nombre": "GRANA PLATA X KG PESABLE"
+    },
+    {
+        "sku": "0104000337",
+        "nombre": "PERLAS MIX BLANCO LAUACU X 20G"
+    },
+    {
+        "sku": "0104000339",
+        "nombre": "PERLAS ROJO LAUACU X 20G"
+    },
+    {
+        "sku": "0104000365",
+        "nombre": "PERLAS AZUL LAUACU X 20G"
+    },
+    {
+        "sku": "0104000366",
+        "nombre": "PERLAS CELESTE LAUACU X 20G"
+    },
+    {
+        "sku": "0104000368",
+        "nombre": "PERLAS BLANCO LAUACU X 20G"
+    },
+    {
+        "sku": "0104000369",
+        "nombre": "PERLAS NEGRO LAUACU X 20G"
+    },
+    {
+        "sku": "0104000371",
+        "nombre": "PERLAS VERDE LAUACU X 20G"
+    },
+    {
+        "sku": "0104000372",
+        "nombre": "PERLAS VIOLETA LAUACU X 20G"
+    },
+    {
+        "sku": "0104000382",
+        "nombre": "SPRINKLES PRIMAVERA LAUACU X 20G"
+    },
+    {
+        "sku": "0104000383",
+        "nombre": "SPRINKLES JARDIN LAUACU X 20G"
+    },
+    {
+        "sku": "0104000411",
+        "nombre": "PERLAS LILA LAUACU X 20G"
+    },
+    {
+        "sku": "0104000413",
+        "nombre": "PERLAS NARANJA LAUACU X 20G"
+    },
+    {
+        "sku": "0104000414",
+        "nombre": "PERLAS DORADO LAUACU X 20G"
+    },
+    {
+        "sku": "0104000419",
+        "nombre": "SPRINKLES MISTER LAUACU X 20G"
+    },
+    {
+        "sku": "0104000420",
+        "nombre": "SPRINKLES LADY LAUACU X 20G"
+    },
+    {
+        "sku": "0104000421",
+        "nombre": "SPRINKLES WHITE LAUACU X 20G"
+    },
+    {
+        "sku": "0104000427",
+        "nombre": "RODS MIX METAL PASTELAR X 30G"
+    },
+    {
+        "sku": "0104000462",
+        "nombre": "SPRINKLES UNICORNIO LAUACU X 20G"
+    },
+    {
+        "sku": "0104000463",
+        "nombre": "SPRINKLES CORAZONES LAUACU X 20G"
+    },
+    {
+        "sku": "0104000464",
+        "nombre": "SPRINKLES ESTRELLAS LAUACU X 20G ECO"
+    },
+    {
+        "sku": "0104000465",
+        "nombre": "SPRINKLES GLAMOUR LAUACU X 20G"
+    },
+    {
+        "sku": "0104000466",
+        "nombre": "SPRINKLES CANDY LAUACU X 20G"
+    },
+    {
+        "sku": "0104000467",
+        "nombre": "SPRINKLES COMUNION LAUACU X 20G"
+    },
+    {
+        "sku": "0104000468",
+        "nombre": "SPRINKLES BOSQUE LAUACU X 20G"
+    },
+    {
+        "sku": "0104000469",
+        "nombre": "SPRINKLES CORAZ MULTICOLOR LAUACU X 20G ECO"
+    },
+    {
+        "sku": "0104000470",
+        "nombre": "SPRINKLES TIK TOK LAUACU X 20G"
+    },
+    {
+        "sku": "0104000471",
+        "nombre": "SPRINKLES NAVIDAD LAUACU X 20G"
+    },
+    {
+        "sku": "0104000472",
+        "nombre": "SPRINKLES MIX GOLD LAUACU X 20G"
+    },
+    {
+        "sku": "0104000473",
+        "nombre": "SPRINKLES BOCA LAUACU X 20G"
+    },
+    {
+        "sku": "0104000475",
+        "nombre": "SPRINKLES MIX MAR LAUACU X 20G"
+    },
+    {
+        "sku": "0104000476",
+        "nombre": "SPRINKLES MIX ARGENTINA LAUACU X 20G"
+    },
+    {
+        "sku": "0104000477",
+        "nombre": "SPRINKLES NAVIDEÑO LAUACU X 20G"
+    },
+    {
+        "sku": "0104000478",
+        "nombre": "SPRINKLES RIVER LAUACU X 20G"
+    },
+    {
+        "sku": "0104000484",
+        "nombre": "PERLAS MAX I LOW COST X 50G PESABLE"
+    },
+    {
+        "sku": "0104000545",
+        "nombre": "PERLAS MAX I BLANCO LAUACU X 20G"
+    },
+    {
+        "sku": "0104000547",
+        "nombre": "PERLAS MIX PASTEL LAUACU X 20G"
+    },
+    {
+        "sku": "0104000564",
+        "nombre": "SPRINKLES PASTEL LAUACU X 20G ECO"
+    },
+    {
+        "sku": "0104000565",
+        "nombre": "SPRINKLES VERANO LAUACU X 20G ECO"
+    },
+    {
+        "sku": "0104000566",
+        "nombre": "SPRINKLES BAST RS LAUACU X 20G FORMITAS"
+    },
+    {
+        "sku": "0104000569",
+        "nombre": "SPRINKLES HELADITOS LAUACU X 20G FORMITAS"
+    },
+    {
+        "sku": "0104000574",
+        "nombre": "DROPS OJITOS PASTELAR X 30G"
+    },
+    {
+        "sku": "0104000575",
+        "nombre": "DROPS SIRENAS PASTELAR X 30G"
+    },
+    {
+        "sku": "0104000577",
+        "nombre": "DROPS DIAMANTES PASTELAR X 30G"
+    },
+    {
+        "sku": "0104000582",
+        "nombre": "DROPS MIX CANDY PASTELAR X 30G"
+    },
+    {
+        "sku": "0104000583",
+        "nombre": "DROPS MIX NEON PASTELAR X 30G"
+    },
+    {
+        "sku": "0104000584",
+        "nombre": "SPRINKLES BARBIE LAUACU X 20G ECO"
+    },
+    {
+        "sku": "0104000585",
+        "nombre": "SPRINKLES ULTRA B LAUACU X 20G"
+    },
+    {
+        "sku": "0104000586",
+        "nombre": "PERLAS NACIONAL PLA LAUACU X 20G"
+    },
+    {
+        "sku": "0104000591",
+        "nombre": "SPRINKLES LAUACU X KG PESABLE"
+    },
+    {
+        "sku": "0104000593",
+        "nombre": "PERLAS MIX DORADO LAUACU X 20G"
+    },
+    {
+        "sku": "0104000594",
+        "nombre": "SPRINKLES ORO BLANCO PLATA X 20G"
+    },
+    {
+        "sku": "0105000003",
+        "nombre": "AGAR AGAR ALZOL X 50G PESABLE"
+    },
+    {
+        "sku": "0105000018",
+        "nombre": "GELATINA SIN SABOR ALZOL X 50G PESABLE"
+    },
+    {
+        "sku": "0105000036",
+        "nombre": "POLVO HORNEAR ALZOL X KG PESABLE"
+    },
+    {
+        "sku": "0105000039",
+        "nombre": "POLVO HORNEAR CIRCE X KG PESABLE"
+    },
+    {
+        "sku": "0105000042",
+        "nombre": "POLVO HORNEAR KEUKEN X KG PESABLE"
+    },
+    {
+        "sku": "0105000044",
+        "nombre": "PROPIONATO CALCIO ALZOL X KG PESABLE"
+    },
+    {
+        "sku": "0105000046",
+        "nombre": "SOLUCION ENZIMATICA DEWEY X KG PESABLE"
+    },
+    {
+        "sku": "0105000047",
+        "nombre": "SORBATO POTASIO ALZOL X 70CC PESABLE"
+    },
+    {
+        "sku": "0105000048",
+        "nombre": "SORBATO POTASIO ALZOL X 1L"
+    },
+    {
+        "sku": "0105000061",
+        "nombre": "POLVO HORNEAR KEUKEN 12 X 500G CAJA"
+    },
+    {
+        "sku": "0105000062",
+        "nombre": "POLVO HORNEAR KEUKEN X 500G PAQ"
+    },
+    {
+        "sku": "0105000063",
+        "nombre": "EXTRACTO DE MALTA CIRCE X 1L"
+    },
+    {
+        "sku": "0105000064",
+        "nombre": "EXTRACTO DE MALTA CIRCE X 170CC"
+    },
+    {
+        "sku": "0105000068",
+        "nombre": "CREMOR TARTARO ALZOL X KG PESABLE"
+    },
+    {
+        "sku": "0105000069",
+        "nombre": "GELATINA SIN SABOR ALZOL X KG PESABLE"
+    },
+    {
+        "sku": "0106000020",
+        "nombre": "CHANTILLY POLVO LEDEVIT X 250G"
+    },
+    {
+        "sku": "0106000021",
+        "nombre": "CREMA DE LECHE LA PAULINA X 350CC"
+    },
+    {
+        "sku": "0106000029",
+        "nombre": "CHANTILLY POLVO LEDEVIT X KG PESABLE"
+    },
+    {
+        "sku": "0106000030",
+        "nombre": "CREMA CHANTILLY LEDEVIT X 5KG SACHET"
+    },
+    {
+        "sku": "0106000031",
+        "nombre": "CREMA CHANTILLY LEDEVIT X 1KG"
+    },
+    {
+        "sku": "0106000032",
+        "nombre": "CREMA CHANTILLY LEDEVIT X 4.7KG BIDON"
+    },
+    {
+        "sku": "0106000033",
+        "nombre": "CREMA CHANTILLY LEDEVIT X 500G"
+    },
+    {
+        "sku": "0106000037",
+        "nombre": "CREMA CHOCOLATE LEDEVIT X 1KG"
+    },
+    {
+        "sku": "0106000039",
+        "nombre": "CREMA CHOCOLATE LEDEVIT X 500G"
+    },
+    {
+        "sku": "0106000043",
+        "nombre": "CREMA FRUTILLA LEDEVIT X 1KG"
+    },
+    {
+        "sku": "0106000045",
+        "nombre": "CREMA FRUTILLA LEDEVIT X 500G"
+    },
+    {
+        "sku": "0106000047",
+        "nombre": "CREMA PARIS LEDEVIT X 280G"
+    },
+    {
+        "sku": "0106000049",
+        "nombre": "CREMA PASTELERA LEDEVIT X 250G"
+    },
+    {
+        "sku": "0106000054",
+        "nombre": "CREMA VAINILLA LEDEVIT X 5KG SACHET"
+    },
+    {
+        "sku": "0106000055",
+        "nombre": "CREMA VAINILLA LEDEVIT X 1KG"
+    },
+    {
+        "sku": "0106000056",
+        "nombre": "CREMA VAINILLA LEDEVIT X 4.7KG BIDON"
+    },
+    {
+        "sku": "0106000057",
+        "nombre": "CREMA VAINILLA LEDEVIT X 500G"
+    },
+    {
+        "sku": "0106000067",
+        "nombre": "GANACHE MANI ALPINO X 2.5KG BALDE"
+    },
+    {
+        "sku": "0106000068",
+        "nombre": "GANACHE MANI ALPINO X KG PESABLE"
+    },
+    {
+        "sku": "0106000071",
+        "nombre": "GANACHE SEMIAMARGO ALPINO X KG PESABLE"
+    },
+    {
+        "sku": "0106000106",
+        "nombre": "QUESO CREMA LA PAULINA X 290G"
+    },
+    {
+        "sku": "0106000112",
+        "nombre": "GLASE REAL AZUL DELI FOOD FOOD X 210G EN POLVO"
+    },
+    {
+        "sku": "0106000122",
+        "nombre": "BASE HELADO NEUTRA TOP CLASS X 300G"
+    },
+    {
+        "sku": "0106000125",
+        "nombre": "BASE HELADO CHOCOLATE TOP CLASS X 300G"
+    },
+    {
+        "sku": "0106000132",
+        "nombre": "CREMA CHANTILLY LEDEVIT 8 X 500G CAJA"
+    },
+    {
+        "sku": "0106000135",
+        "nombre": "CREMA CHOCOLATE LEDEVIT 6 X 1KG CAJA"
+    },
+    {
+        "sku": "0106000136",
+        "nombre": "CREMA CHOCOLATE LEDEVIT 8 X 500G CAJA"
+    },
+    {
+        "sku": "0106000138",
+        "nombre": "CREMA FRUTILLA LEDEVIT 6 X 1KG CAJA"
+    },
+    {
+        "sku": "0106000140",
+        "nombre": "CREMA PARIS LEDEVIT 16 X 280G CAJA"
+    },
+    {
+        "sku": "0106000142",
+        "nombre": "CREMA VAINILLA LEDEVIT 6 X 1KG CAJA"
+    },
+    {
+        "sku": "0106000143",
+        "nombre": "CREMA VAINILLA LEDEVIT 8 X 500G CAJA"
+    },
+    {
+        "sku": "0106000144",
+        "nombre": "CREMA VAINILLA LEDEVIT 4 X 5KG CAJA SACHET"
+    },
+    {
+        "sku": "0106000146",
+        "nombre": "CHANTILLY POLVO LEDEVIT CAJA 12 X 250G"
+    },
+    {
+        "sku": "0106000147",
+        "nombre": "CREMA PASTELERA LEDEVIT CAJA 12 X 250G"
+    },
+    {
+        "sku": "0106000166",
+        "nombre": "BETTERCREME CHANTILLY 12 X 907G CAJA"
+    },
+    {
+        "sku": "0106000172",
+        "nombre": "CREMA VEGETAL ULTRA RICHS CAJA CHANTILLY 12 X 1L"
+    },
+    {
+        "sku": "0106000173",
+        "nombre": "CREMA VEGETAL CHANTYPACK CAJA 12 X 1L"
+    },
+    {
+        "sku": "0106000190",
+        "nombre": "CREMA PASTELERA KEUKEN X 3KG PAQ"
+    },
+    {
+        "sku": "0106000193",
+        "nombre": "GANACHE BLANCO ALPINO X KG PESABLE"
+    },
+    {
+        "sku": "0107000003",
+        "nombre": "DESTELLO NEUTRO LEDEVIT X 310G"
+    },
+    {
+        "sku": "0107000004",
+        "nombre": "DESTELLO NEUTRO LEDEVIT X KG PESABLE"
+    },
+    {
+        "sku": "0107000007",
+        "nombre": "DULCE BATATA BARRA BARI X KG PESABLE"
+    },
+    {
+        "sku": "0107000013",
+        "nombre": "DULCE DE LECHE EL MUNDO X KG PESABLE"
+    },
+    {
+        "sku": "0107000054",
+        "nombre": "DULCE DON BENITO X 10KG"
+    },
+    {
+        "sku": "0107000056",
+        "nombre": "DULCE DON BENITO X KG PESABLE"
+    },
+    {
+        "sku": "0107000060",
+        "nombre": "DULCE DE LECHE LHERITIER 6 X 1KG CAJA"
+    },
+    {
+        "sku": "0107000061",
+        "nombre": "DESTELLO NEUTRO LEDEVIT 16 X 310G CAJA"
+    },
+    {
+        "sku": "0107000063",
+        "nombre": "MEMBRILLO BARRA ALCO X KG PESABLE"
+    },
+    {
+        "sku": "0107000064",
+        "nombre": "DULCE DE LECHE EUREKA X 10KG"
+    },
+    {
+        "sku": "0107000065",
+        "nombre": "DULCE DE LECHE EUREKA X 5KG"
+    },
+    {
+        "sku": "0107000066",
+        "nombre": "DULCE DE LECHE EUREKA X 3KG"
+    },
+    {
+        "sku": "0107000067",
+        "nombre": "DULCE DE LECHE EUREKA X 1KG"
+    },
+    {
+        "sku": "0107000068",
+        "nombre": "DULCE DE LECHE EUREKA X KG PESABLE"
+    },
+    {
+        "sku": "0107000071",
+        "nombre": "DULCE ARRAYANES X 10KG"
+    },
+    {
+        "sku": "0107000072",
+        "nombre": "DULCE LAGO ESPEJO X KG PESABLE  ARRAYANES"
+    },
+    {
+        "sku": "0107000079",
+        "nombre": "BATATA ESTUCHE ALCO CAJA 12 X 500G"
+    },
+    {
+        "sku": "0108000050",
+        "nombre": "COLORANTE LIQUIDO AMARILLO CIRCE X CC PESABLE"
+    },
+    {
+        "sku": "0108000055",
+        "nombre": "COLORANTE LIQUIDO CARAM CIRCE X 70CC PESABLE"
+    },
+    {
+        "sku": "0108000254",
+        "nombre": "ESENCIA ANIS CIRCE X 70CC PESABLE"
+    },
+    {
+        "sku": "0108000268",
+        "nombre": "ESENCIA BUDIN CIRCE X 70CC PESABLE"
+    }
 ]
