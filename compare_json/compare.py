@@ -1,37 +1,32 @@
 import json
 
-def agregar_cero(sku):
-    return str(sku).zfill(10)  # Asegura que el SKU tenga 10 dígitos, incluyendo ceros al inicio si es necesario
+# Cargar los archivos JSON
+with open('data.json', 'r') as file:
+    data = json.load(file)
 
-def comparar_json(archivo_pm_sku, archivo_data, archivo_salida):
-    # Leer el archivo pm_sku.json
-    with open(archivo_pm_sku, 'r', encoding='utf-8') as file:
-        pm_sku_data = json.load(file)
-    
-    # Leer el archivo data.json
-    with open(archivo_data, 'r', encoding='utf-8') as file:
-        data_data = json.load(file)
-    
-    # Crear un conjunto de SKUs desde pm_sku_data para comparación rápida
-    pm_skus = {item['sku'] for item in pm_sku_data}
-    
-    # Encontrar los elementos en data_data cuyos SKUs no están en pm_skus
-    no_coinciden = [
-        {'sku': agregar_cero(item['sku']), 'nombre': item['nombre']}
-        for item in data_data
-        if agregar_cero(item['sku']) not in pm_skus
-    ]
-    
-    # Escribir los resultados en un nuevo archivo JSON
-    with open(archivo_salida, 'w', encoding='utf-8') as file:
-        json.dump(no_coinciden, file, ensure_ascii=False, indent=4)
+with open('productos_categoria_01.json', 'r') as file:
+    productos_categoria = json.load(file)
 
-# Archivos JSON
-archivo_pm_sku = 'pm_sku.json'
-archivo_data = 'data.json'
-archivo_salida = 'resultado_no_coinciden.json'
+# Crear un diccionario para almacenar los resultados
+resultados = []
 
-# Comparar los archivos y guardar los resultados
-comparar_json(archivo_pm_sku, archivo_data, archivo_salida)
+# Crear un diccionario de productos con el SKU como clave para una búsqueda rápida
+productos_dict = {producto['sku']: producto for producto in data}
 
-print(f'Resultados guardados en {archivo_salida}')
+# Recorrer los productos de la categoría y buscar coincidencias por SKU
+for producto in productos_categoria:
+    sku = producto['sku']
+    if sku in productos_dict:
+        # Añadir la coincidencia al resultado
+        resultado = {
+            'sku': sku,
+            'nombre': productos_dict[sku]['nombre'],
+            'image_url': producto['image_url']
+        }
+        resultados.append(resultado)
+
+# Guardar los resultados en un nuevo archivo JSON
+with open('resultados.json', 'w') as file:
+    json.dump(resultados, file, indent=4)
+
+print("Archivo 'resultados.json' creado con éxito.")
