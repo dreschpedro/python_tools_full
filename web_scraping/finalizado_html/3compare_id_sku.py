@@ -1,34 +1,35 @@
 import json
 
-# Leer el archivo id_sku.txt
-with open('id_sku.txt', 'r') as f:
-    id_sku_lines = f.readlines()
+# Leer el archivo de texto y cargar los datos en una lista de diccionarios
+id_sku_list = []
+with open('id_sku.txt', 'r') as file:
+    for line in file:
+        id, sku = line.strip().split(',')
+        id_sku_list.append({"id": id, "sku": sku})
 
-# Procesar el archivo id_sku.txt en un diccionario
-id_sku_dict = {}
-for line in id_sku_lines:
-    line = line.strip()
-    if line:
-        id, sku = line.split(',')
-        id_sku_dict[sku] = id
+# Leer el archivo JSON
+with open('imagenes.json', 'r') as file:
+    imagenes_data = json.load(file)
 
-# Leer el archivo agrupado_por_sku.json
-with open('coincidencias2.json', 'r') as f:
-    grouped_data = json.load(f)
+# Crear una lista para almacenar los resultados
+resultados = []
 
-# Buscar coincidencias y crear el resultado
-result = []
-for item in grouped_data:
+# Crear un diccionario de imágenes con el SKU como clave para una búsqueda rápida
+imagenes_dict = {producto['sku']: producto['images'] for producto in imagenes_data}
+
+# Comparar los SKUs y generar el resultado
+for item in id_sku_list:
     sku = item['sku']
-    if sku in id_sku_dict:
-        result.append({
-            'id': id_sku_dict[sku],
+    if sku in imagenes_dict:
+        resultado = {
             'sku': sku,
-            'image_urls': item['image_urls']
-        })
+            'id': item['id'],
+            'images': imagenes_dict[sku]
+        }
+        resultados.append(resultado)
 
-# Guardar el resultado en un nuevo archivo JSON
-with open('coincidencias22.json', 'w') as f:
-    json.dump(result, f, indent=4)
+# Guardar los resultados en un nuevo archivo JSON
+with open('resultados.json', 'w') as file:
+    json.dump(resultados, file, indent=4)
 
-print("Las coincidencias han sido guardadas en coincidencias.json")
+print("Archivo 'resultados.json' creado con éxito.")
