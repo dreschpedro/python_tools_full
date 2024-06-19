@@ -16,7 +16,7 @@ def generate_color(sku):
 
 
 # Carga de productos y categorías
-with open('registros_coincidentes.json', 'r', encoding='utf-8') as file:
+with open('registros_no_coincidentes.json', 'r', encoding='utf-8') as file:
     json_combinado = json.load(file)
 
 with open('categorias.json', 'r', encoding='utf-8') as file:
