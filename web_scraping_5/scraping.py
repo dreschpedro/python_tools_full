@@ -54,8 +54,8 @@ for product in products:
     if containers:
         print(f"Contenedores encontrados para {query}, procesando...")
 
-        # Limitar a las primeras 4 imágenes por producto
-        for i, container in enumerate(containers[:4]):
+        # Limitar a las imágenes de la 4 a la 11 (8 imágenes)
+        for i, container in enumerate(containers[3:11]):
             try:
                 # Hacer clic en el contenedor de la imagen
                 container.click()
