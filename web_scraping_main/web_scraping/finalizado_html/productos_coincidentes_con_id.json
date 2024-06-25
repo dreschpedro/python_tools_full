@@ -1,0 +1,35 @@
+[
+  {
+    "id": "9690",
+    "sku": "0106000037",
+    "nombre": "CREMA CHOCOLATE LEDEVIT X 1KG",
+    "images": [
+      "https://tienda.elnuevoemporio.com.ar/digistore/pictures/Articulo/webp/6767-173683-medium.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_969059-MLA75294323393_032024-O.webp"
+    ]
+  },
+  {
+    "id": "9695",
+    "sku": "0106000043",
+    "nombre": "CREMA FRUTILLA LEDEVIT X 1KG",
+    "images": [
+      "https://http2.mlstatic.com/D_NQ_NP_629435-MLU75766228056_042024-O.webp"
+    ]
+  },
+  {
+    "id": "27260",
+    "sku": "0106000112",
+    "nombre": "GLASE REAL AZUL DELI FOOD FOOD X 210G EN POLVO",
+    "images": [
+      "https://http2.mlstatic.com/D_615401-MLA43309906142_082020-C.jpg"
+    ]
+  },
+  {
+    "id": "43472",
+    "sku": "0106000146",
+    "nombre": "CHANTILLY POLVO LEDEVIT CAJA 12 X 250G",
+    "images": [
+      "https://http2.mlstatic.com/D_703848-MLA51775118212_092022-C.jpg"
+    ]
+  }
+]
