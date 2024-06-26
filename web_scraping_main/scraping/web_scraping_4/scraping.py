@@ -30,7 +30,8 @@ products = [{'nombre': item['nombre'], 'sku': item['sku']} for item in data]
 
 # Configuración de Selenium y ChromeDriver
 # chromePath = r'C:\Users\taller\Documents\chromedriver-win64\chromedriver.exe'
-chromePath = r'C:\Users\taller 2\Documents\chromedriver-win64\chromedriver.exe'
+# chromePath = r'C:\Users\taller 2\Documents\chromedriver-win64\chromedriver.exe'
+chromePath = r'C:\Users\taller3\Documents\chromedriver-win64\chromedriver.exe'
 chrome_options = Options()
 chrome_service = Service(chromePath)
 driver = webdriver.Chrome(service=chrome_service, options=chrome_options)
