@@ -1,0 +1,1256 @@
+[
+    {
+        "SKU": "0104000493",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0104000492",
+                "Quantity": 6.0
+            }
+        ]
+    },
+    {
+        "SKU": "0105000061",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0105000062",
+                "Quantity": 12.0
+            }
+        ]
+    },
+    {
+        "SKU": "0106000130",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0106000032",
+                "Quantity": 4.0
+            }
+        ]
+    },
+    {
+        "SKU": "0106000131",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0106000031",
+                "Quantity": 6.0
+            }
+        ]
+    },
+    {
+        "SKU": "0106000132",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0106000033",
+                "Quantity": 8.0
+            }
+        ]
+    },
+    {
+        "SKU": "0106000133",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0106000030",
+                "Quantity": 4.0
+            }
+        ]
+    },
+    {
+        "SKU": "0106000134",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0106000038",
+                "Quantity": 4.0
+            }
+        ]
+    },
+    {
+        "SKU": "0106000136",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0106000039",
+                "Quantity": 8.0
+            }
+        ]
+    },
+    {
+        "SKU": "0106000137",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0106000044",
+                "Quantity": 4.0
+            }
+        ]
+    },
+    {
+        "SKU": "0106000138",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0106000043",
+                "Quantity": 6.0
+            }
+        ]
+    },
+    {
+        "SKU": "0106000139",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0106000045",
+                "Quantity": 8.0
+            }
+        ]
+    },
+    {
+        "SKU": "0106000140",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0106000047",
+                "Quantity": 16.0
+            }
+        ]
+    },
+    {
+        "SKU": "0106000141",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0106000056",
+                "Quantity": 4.0
+            }
+        ]
+    },
+    {
+        "SKU": "0106000142",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0106000055",
+                "Quantity": 6.0
+            }
+        ]
+    },
+    {
+        "SKU": "0106000143",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0106000057",
+                "Quantity": 8.0
+            }
+        ]
+    },
+    {
+        "SKU": "0106000144",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0106000054",
+                "Quantity": 4.0
+            }
+        ]
+    },
+    {
+        "SKU": "0106000145",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0106000080",
+                "Quantity": 12.0
+            }
+        ]
+    },
+    {
+        "SKU": "0106000146",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0106000020",
+                "Quantity": 12.0
+            }
+        ]
+    },
+    {
+        "SKU": "0106000148",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0106000073",
+                "Quantity": 12.0
+            }
+        ]
+    },
+    {
+        "SKU": "0106000152",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0106000082",
+                "Quantity": 12.0
+            }
+        ]
+    },
+    {
+        "SKU": "0106000160",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0118000025",
+                "Quantity": 12.0
+            }
+        ]
+    },
+    {
+        "SKU": "0107000058",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0107000057",
+                "Quantity": 12.0
+            }
+        ]
+    },
+    {
+        "SKU": "0107000060",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0107000059",
+                "Quantity": 6.0
+            }
+        ]
+    },
+    {
+        "SKU": "0107000061",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0107000003",
+                "Quantity": 16.0
+            }
+        ]
+    },
+    {
+        "SKU": "0109000100",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0109000098",
+                "Quantity": 6.0
+            }
+        ]
+    },
+    {
+        "SKU": "0109000101",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0109000099",
+                "Quantity": 6.0
+            }
+        ]
+    },
+    {
+        "SKU": "0109000102",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0109000013",
+                "Quantity": 6.0
+            }
+        ]
+    },
+    {
+        "SKU": "0115000220",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0115000005",
+                "Quantity": 20.0
+            }
+        ]
+    },
+    {
+        "SKU": "0115000221",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0115000056",
+                "Quantity": 20.0
+            }
+        ]
+    },
+    {
+        "SKU": "0115000222",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0115000079",
+                "Quantity": 20.0
+            }
+        ]
+    },
+    {
+        "SKU": "0115000223",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0115000080",
+                "Quantity": 20.0
+            }
+        ]
+    },
+    {
+        "SKU": "0115000224",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0115000082",
+                "Quantity": 20.0
+            }
+        ]
+    },
+    {
+        "SKU": "0115000225",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0115000084",
+                "Quantity": 20.0
+            }
+        ]
+    },
+    {
+        "SKU": "0115000230",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0115000094",
+                "Quantity": 4.0
+            }
+        ]
+    },
+    {
+        "SKU": "0115000231",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0115000096",
+                "Quantity": 20.0
+            }
+        ]
+    },
+    {
+        "SKU": "0115000232",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0115000098",
+                "Quantity": 20.0
+            }
+        ]
+    },
+    {
+        "SKU": "0115000233",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0115000086",
+                "Quantity": 20.0
+            }
+        ]
+    },
+    {
+        "SKU": "0115000234",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0115000103",
+                "Quantity": 20.0
+            }
+        ]
+    },
+    {
+        "SKU": "0115000236",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0115000107",
+                "Quantity": 4.0
+            }
+        ]
+    },
+    {
+        "SKU": "0115000237",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0115000108",
+                "Quantity": 20.0
+            }
+        ]
+    },
+    {
+        "SKU": "0115000238",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0115000111",
+                "Quantity": 20.0
+            }
+        ]
+    },
+    {
+        "SKU": "0115000239",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0115000154",
+                "Quantity": 20.0
+            }
+        ]
+    },
+    {
+        "SKU": "0115000240",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0115000211",
+                "Quantity": 20.0
+            }
+        ]
+    },
+    {
+        "SKU": "0115000296",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0115000012",
+                "Quantity": 12.0
+            }
+        ]
+    },
+    {
+        "SKU": "0115000297",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0115000014",
+                "Quantity": 12.0
+            }
+        ]
+    },
+    {
+        "SKU": "0115000298",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0115000077",
+                "Quantity": 12.0
+            }
+        ]
+    },
+    {
+        "SKU": "0115000300",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0115000217",
+                "Quantity": 12.0
+            }
+        ]
+    },
+    {
+        "SKU": "0118000065",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0118000035",
+                "Quantity": 10.0
+            }
+        ]
+    },
+    {
+        "SKU": "0118000072",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0118000071",
+                "Quantity": 9.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000204",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000205",
+                "Quantity": 5.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000206",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000207",
+                "Quantity": 5.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000208",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000209",
+                "Quantity": 5.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000210",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000211",
+                "Quantity": 5.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000212",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000213",
+                "Quantity": 5.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000218",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000219",
+                "Quantity": 5.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000223",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000224",
+                "Quantity": 5.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000228",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000229",
+                "Quantity": 5.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000230",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000231",
+                "Quantity": 5.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000236",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000237",
+                "Quantity": 5.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000238",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000239",
+                "Quantity": 5.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000245",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000246",
+                "Quantity": 5.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000266",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000267",
+                "Quantity": 5.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000268",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000269",
+                "Quantity": 5.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000270",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000271",
+                "Quantity": 5.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000272",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000273",
+                "Quantity": 5.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000274",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000275",
+                "Quantity": 5.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000276",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000277",
+                "Quantity": 5.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000291",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000478",
+                "Quantity": 5.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000479",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000480",
+                "Quantity": 5.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000481",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000482",
+                "Quantity": 5.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000483",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000484",
+                "Quantity": 5.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000485",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000486",
+                "Quantity": 5.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000723",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000099",
+                "Quantity": 6.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000724",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000100",
+                "Quantity": 6.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000726",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000102",
+                "Quantity": 6.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000727",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000103",
+                "Quantity": 6.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000771",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000147",
+                "Quantity": 6.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000773",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000149",
+                "Quantity": 6.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000774",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000150",
+                "Quantity": 6.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000779",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000283",
+                "Quantity": 6.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000780",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000284",
+                "Quantity": 6.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000781",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000285",
+                "Quantity": 6.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000782",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000286",
+                "Quantity": 6.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000785",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000652",
+                "Quantity": 5.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000786",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000653",
+                "Quantity": 5.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000787",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000654",
+                "Quantity": 5.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000788",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000655",
+                "Quantity": 5.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000789",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000656",
+                "Quantity": 5.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000790",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000620",
+                "Quantity": 4.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000795",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000031",
+                "Quantity": 6.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000797",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000302",
+                "Quantity": 20.0
+            }
+        ]
+    },
+    {
+        "SKU": "0120000798",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0120000304",
+                "Quantity": 20.0
+            }
+        ]
+    },
+    {
+        "SKU": "0202001210",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0202001207",
+                "Quantity": 24.0
+            }
+        ]
+    },
+    {
+        "SKU": "0202001211",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0202001207",
+                "Quantity": 2.0
+            },
+            {
+                "ComponentSKUCode": "0202001208",
+                "Quantity": 2.0
+            }
+        ]
+    },
+    {
+        "SKU": "0202001212",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0202001207",
+                "Quantity": 3.0
+            },
+            {
+                "ComponentSKUCode": "0202001208",
+                "Quantity": 3.0
+            },
+            {
+                "ComponentSKUCode": "0202001209",
+                "Quantity": 3.0
+            }
+        ]
+    },
+    {
+        "SKU": "0601000024",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0601000012",
+                "Quantity": 20.0
+            }
+        ]
+    },
+    {
+        "SKU": "0602000064",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0602000004",
+                "Quantity": 8.0
+            }
+        ]
+    },
+    {
+        "SKU": "0602000065",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0602000005",
+                "Quantity": 12.0
+            }
+        ]
+    },
+    {
+        "SKU": "0602000066",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0602000008",
+                "Quantity": 9.0
+            }
+        ]
+    },
+    {
+        "SKU": "0602000067",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0602000011",
+                "Quantity": 12.0
+            }
+        ]
+    },
+    {
+        "SKU": "0602000068",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0602000013",
+                "Quantity": 10.0
+            }
+        ]
+    },
+    {
+        "SKU": "0602000070",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0602000047",
+                "Quantity": 15.0
+            }
+        ]
+    },
+    {
+        "SKU": "0602000071",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0602000049",
+                "Quantity": 15.0
+            }
+        ]
+    },
+    {
+        "SKU": "0602000072",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0602000051",
+                "Quantity": 15.0
+            }
+        ]
+    },
+    {
+        "SKU": "0602000074",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0602000073",
+                "Quantity": 15.0
+            }
+        ]
+    },
+    {
+        "SKU": "0602000076",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0602000075",
+                "Quantity": 15.0
+            }
+        ]
+    },
+    {
+        "SKU": "0602000083",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0602000082",
+                "Quantity": 12.0
+            }
+        ]
+    },
+    {
+        "SKU": "0802000286",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0802000149",
+                "Quantity": 15.0
+            }
+        ]
+    },
+    {
+        "SKU": "0802000362",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0802000360",
+                "Quantity": 60.0
+            }
+        ]
+    },
+    {
+        "SKU": "0802000363",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0802000358",
+                "Quantity": 60.0
+            }
+        ]
+    },
+    {
+        "SKU": "0802000364",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0802000359",
+                "Quantity": 60.0
+            }
+        ]
+    },
+    {
+        "SKU": "0804000049",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0804000016",
+                "Quantity": 10.0
+            }
+        ]
+    },
+    {
+        "SKU": "0902000530",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0902000239",
+                "Quantity": 600.0
+            }
+        ]
+    },
+    {
+        "SKU": "0902000531",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0902000239",
+                "Quantity": 100.0
+            }
+        ]
+    },
+    {
+        "SKU": "0902000532",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0902000242",
+                "Quantity": 600.0
+            }
+        ]
+    },
+    {
+        "SKU": "0902000533",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0902000242",
+                "Quantity": 100.0
+            }
+        ]
+    },
+    {
+        "SKU": "0902000534",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0902000245",
+                "Quantity": 100.0
+            }
+        ]
+    },
+    {
+        "SKU": "0902000535",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0902000245",
+                "Quantity": 400.0
+            }
+        ]
+    },
+    {
+        "SKU": "0902000536",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0902000248",
+                "Quantity": 100.0
+            }
+        ]
+    },
+    {
+        "SKU": "0902000537",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0902000248",
+                "Quantity": 600.0
+            }
+        ]
+    },
+    {
+        "SKU": "0902000538",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0902000251",
+                "Quantity": 100.0
+            }
+        ]
+    },
+    {
+        "SKU": "0902000539",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0902000251",
+                "Quantity": 200.0
+            }
+        ]
+    },
+    {
+        "SKU": "0902000541",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0902000254",
+                "Quantity": 100.0
+            }
+        ]
+    },
+    {
+        "SKU": "0902000542",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0902000242",
+                "Quantity": 400.0
+            }
+        ]
+    },
+    {
+        "SKU": "0902000543",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0902000239",
+                "Quantity": 400.0
+            }
+        ]
+    },
+    {
+        "SKU": "0910000402",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0910000267",
+                "Quantity": 100.0
+            }
+        ]
+    },
+    {
+        "SKU": "0910000404",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0910000270",
+                "Quantity": 100.0
+            }
+        ]
+    },
+    {
+        "SKU": "0910000406",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0910000273",
+                "Quantity": 100.0
+            }
+        ]
+    },
+    {
+        "SKU": "0910000409",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0910000010",
+                "Quantity": 156.0
+            }
+        ]
+    },
+    {
+        "SKU": "0910000410",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0910000013",
+                "Quantity": 48.0
+            }
+        ]
+    },
+    {
+        "SKU": "0910000411",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0910000014",
+                "Quantity": 100.0
+            }
+        ]
+    },
+    {
+        "SKU": "0910000412",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0910000017",
+                "Quantity": 200.0
+            }
+        ]
+    },
+    {
+        "SKU": "0910000415",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0910000058",
+                "Quantity": 150.0
+            }
+        ]
+    },
+    {
+        "SKU": "0910000416",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0910000060",
+                "Quantity": 150.0
+            }
+        ]
+    },
+    {
+        "SKU": "0910000417",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0910000063",
+                "Quantity": 216.0
+            }
+        ]
+    },
+    {
+        "SKU": "0910000418",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0910000065",
+                "Quantity": 288.0
+            }
+        ]
+    },
+    {
+        "SKU": "0910000419",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0910000284",
+                "Quantity": 60.0
+            }
+        ]
+    },
+    {
+        "SKU": "0910000420",
+        "ProductComposition": [
+            {
+                "ComponentSKUCode": "0910000286",
+                "Quantity": 180.0
+            }
+        ]
+    }
+]
