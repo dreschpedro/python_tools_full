@@ -11,8 +11,8 @@ image_array = np.array(image)
 # Definir las coordenadas de los recortes (aquí tendrás que ajustar manualmente)
 # Estas coordenadas son (left, upper, right, lower)
 coords = [
-    (208, 130, 2105, 1730),   # Coordenadas de la primera imagen
-    (208, 1775, 2105, 3375)   # Coordenadas de la segunda imagen
+    (390, 130, 2280, 1730),   # Coordenadas de la primera imagen
+    (390, 1775, 2280, 3375)   # Coordenadas de la segunda imagen
 ]
 
 # Recortar y guardar las imágenes individuales
