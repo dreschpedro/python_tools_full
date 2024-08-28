@@ -1,0 +1,5110 @@
+[
+  {
+    "sku": "0110000067",
+    "nombre": "MIX FRUTOS SECOS CON PASAS X 10KG PREMIUM"
+  },
+  {
+    "sku": "0110000087",
+    "nombre": "MIX FRUTOS SECOS PREMIUM X KG PESABLE"
+  },
+  {
+    "sku": "0110000094",
+    "nombre": "MIX FRUTOS SECOS PREMIUM X 250G PESABLE"
+  },
+  {
+    "sku": "0110000095",
+    "nombre": "MIX FRUTOS SECOS PREMIUM X 500G"
+  },
+  {
+    "sku": "0110000096",
+    "nombre": "MIX FRUTOS SECOS PREMIUM X 100G PESABLE"
+  },
+  {
+    "sku": "0110000097",
+    "nombre": "MIX FRUTOS SECOS CON PASAS X KG PESABLE PREMIUM"
+  },
+  {
+    "sku": "0117000681",
+    "nombre": "PLACA TRIPLE DIAMANTE BWB"
+  },
+  {
+    "sku": "0117000682",
+    "nombre": "PLACA TRIPLE CACAO GOURMET BWB"
+  },
+  {
+    "sku": "0117000693",
+    "nombre": "PLACA TRIPLE VAQUITA BWB"
+  },
+  {
+    "sku": "0117000700",
+    "nombre": "PLACA TRIPLE HUEVO DIAMANTE BWB PLANO"
+  },
+  {
+    "sku": "0117000861",
+    "nombre": "PLACA TRIPLE COLA CONEJO BWB 10516"
+  },
+  {
+    "sku": "0117000872",
+    "nombre": "PLACA CABEZA CONEJO BWB"
+  },
+  {
+    "sku": "0117000873",
+    "nombre": "PLACA TRIPLE CONEJITO BWB"
+  },
+  {
+    "sku": "0117000875",
+    "nombre": "PLACA TRIPLE CONEJO SALTAR BWB"
+  },
+  {
+    "sku": "0117000421",
+    "nombre": "PLACA FIGURA PASCUA P10 REPOST X 10"
+  },
+  {
+    "sku": "0117000512",
+    "nombre": "PLACA HUEVO NUMERO 11 FLOR REPOST X 10"
+  },
+  {
+    "sku": "0117000514",
+    "nombre": "PLACA HUEVO NUMERO 11 MOÑO REPOST X 10"
+  },
+  {
+    "sku": "0117000520",
+    "nombre": "PLACA HUEVO NUMERO 12 ROSA REPOST X 10"
+  },
+  {
+    "sku": "0117000534",
+    "nombre": "PLACA HUEVO NUMERO 20 MOÑO REPOST X 10"
+  },
+  {
+    "sku": "0109000128",
+    "nombre": "ANANA TROZOS SYP X 565G"
+  },
+  {
+    "sku": "0109000130",
+    "nombre": "ANANA RODAJA SYP X 565G"
+  },
+  {
+    "sku": "0113000010",
+    "nombre": "PAPEL ARROZ JTC C X 1"
+  },
+  {
+    "sku": "0113000019",
+    "nombre": "PAPEL ARROZ JTC  PACK X 100 PAQ"
+  },
+  {
+    "sku": "0116000227",
+    "nombre": "OBLEA PLANCHA BLANCO JTC "
+  },
+  {
+    "sku": "0116000228",
+    "nombre": "OBLEA PLANCHA CELESTE JTC "
+  },
+  {
+    "sku": "0116000229",
+    "nombre": "OBLEA PLANCHA FUCSIA JTC "
+  },
+  {
+    "sku": "0116000231",
+    "nombre": "OBLEA PLANCHA NARANJA JTC "
+  },
+  {
+    "sku": "0116000233",
+    "nombre": "OBLEA PLANCHA NEGRO JTC "
+  },
+  {
+    "sku": "0115000199",
+    "nombre": "PASTA MANI NATURAL MKING X 3KG BALDE"
+  },
+  {
+    "sku": "0115000215",
+    "nombre": "PASTA MANI NATURAL MKING 245G"
+  },
+  {
+    "sku": "0115000217",
+    "nombre": "PASTA MANI CRUNCHY MKING X 350G"
+  },
+  {
+    "sku": "0115000296",
+    "nombre": "MANTECA MANI CON CHOC MKING CAJA 12 X 350G"
+  },
+  {
+    "sku": "0115000297",
+    "nombre": "MANTECA MANI ORIG MKING CAJA 12 X 350G"
+  },
+  {
+    "sku": "0115000299",
+    "nombre": "PASTA MANI NATURAL MKING 12 X 245G PACK"
+  },
+  {
+    "sku": "0117000063",
+    "nombre": "PLACA BOMBON B100 REPOST X 6"
+  },
+  {
+    "sku": "0117000064",
+    "nombre": "PLACA BOMBON B100 REPOST X 1"
+  },
+  {
+    "sku": "0117000067",
+    "nombre": "PLACA BOMBON B102 REPOST X 6"
+  },
+  {
+    "sku": "0117000068",
+    "nombre": "PLACA BOMBON B102 REPOST X 1"
+  },
+  {
+    "sku": "0117000084",
+    "nombre": "PLACA BOMBON B110 REPOST X 1"
+  },
+  {
+    "sku": "0117000093",
+    "nombre": "PLACA BOMBON F201 REPOST X 6"
+  },
+  {
+    "sku": "0117000094",
+    "nombre": "PLACA BOMBON F201 REPOST X 1"
+  },
+  {
+    "sku": "0117000096",
+    "nombre": "PLACA BOMBON F202 REPOST X 1"
+  },
+  {
+    "sku": "0117000097",
+    "nombre": "PLACA BOMBON F203 REPOST X 6"
+  },
+  {
+    "sku": "0117000098",
+    "nombre": "PLACA BOMBON F203 REPOST X 1"
+  },
+  {
+    "sku": "0117000099",
+    "nombre": "PLACA BOMBON F204 REPOST X 6"
+  },
+  {
+    "sku": "0117000100",
+    "nombre": "PLACA BOMBON F204 REPOST X 1"
+  },
+  {
+    "sku": "0117000101",
+    "nombre": "PLACA BOMBON F206 REPOST X 6"
+  },
+  {
+    "sku": "0117000102",
+    "nombre": "PLACA BOMBON F206 REPOST X 1"
+  },
+  {
+    "sku": "0117000107",
+    "nombre": "PLACA BOMBON P200 REPOST X 6"
+  },
+  {
+    "sku": "0117000108",
+    "nombre": "PLACA BOMBON P200 REPOST X 1"
+  },
+  {
+    "sku": "0117000113",
+    "nombre": "PLACA BOMBON P205 REPOST X 6"
+  },
+  {
+    "sku": "0117000114",
+    "nombre": "PLACA BOMBON P205 REPOST X 1"
+  },
+  {
+    "sku": "0117000115",
+    "nombre": "PLACA BOMBON P206 REPOST X 6"
+  },
+  {
+    "sku": "0117000116",
+    "nombre": "PLACA BOMBON P206 REPOST X 1"
+  },
+  {
+    "sku": "0117000118",
+    "nombre": "PLACA BOMBON P207 REPOST X 1"
+  },
+  {
+    "sku": "0117000120",
+    "nombre": "PLACA BOMBON P208 REPOST X 1"
+  },
+  {
+    "sku": "0117000123",
+    "nombre": "PLACA BOMBON P210 REPOST X 6"
+  },
+  {
+    "sku": "0117000124",
+    "nombre": "PLACA BOMBON P210 REPOST X 1"
+  },
+  {
+    "sku": "0117000129",
+    "nombre": "PLACA BOMBON P213 REPOST X 6"
+  },
+  {
+    "sku": "0117000130",
+    "nombre": "PLACA BOMBON P213 REPOST X 1"
+  },
+  {
+    "sku": "0117000151",
+    "nombre": "PLACA CHUPETIN C302 REPOST X 6"
+  },
+  {
+    "sku": "0117000152",
+    "nombre": "PLACA CHUPETIN C302 REPOST X 1"
+  },
+  {
+    "sku": "0117000153",
+    "nombre": "PLACA CHUPETIN C303 REPOST X 6"
+  },
+  {
+    "sku": "0117000154",
+    "nombre": "PLACA CHUPETIN C303 REPOST X 1"
+  },
+  {
+    "sku": "0117000157",
+    "nombre": "PLACA CHUPETIN C305 REPOST X 6"
+  },
+  {
+    "sku": "0117000158",
+    "nombre": "PLACA CHUPETIN C305 REPOST X 1"
+  },
+  {
+    "sku": "0117000160",
+    "nombre": "PLACA CHUPETIN C306 REPOST X 1"
+  },
+  {
+    "sku": "0117000161",
+    "nombre": "PLACA CHUPETIN C307 REPOST X 6"
+  },
+  {
+    "sku": "0117000162",
+    "nombre": "PLACA CHUPETIN C307 REPOST X 1"
+  },
+  {
+    "sku": "0117000165",
+    "nombre": "PLACA CHUPETIN C310 REPOST X 6"
+  },
+  {
+    "sku": "0117000166",
+    "nombre": "PLACA CHUPETIN C310 REPOST X 1"
+  },
+  {
+    "sku": "0117000167",
+    "nombre": "PLACA CHUPETIN C311 REPOST X 6"
+  },
+  {
+    "sku": "0117000168",
+    "nombre": "PLACA CHUPETIN C311 REPOST X 1"
+  },
+  {
+    "sku": "0117000419",
+    "nombre": "PLACA FIGURA PASCUA P1 REPOST X 10"
+  },
+  {
+    "sku": "0117000420",
+    "nombre": "PLACA FIGURA PASCUA P1 REPOST X 1"
+  },
+  {
+    "sku": "0117000425",
+    "nombre": "PLACA FIGURA PASCUA P3 REPOST X 10"
+  },
+  {
+    "sku": "0117000426",
+    "nombre": "PLACA FIGURA PASCUA P3 REPOST X 1"
+  },
+  {
+    "sku": "0117000429",
+    "nombre": "PLACA FIGURA PASCUA P5 REPOST X 10"
+  },
+  {
+    "sku": "0117000433",
+    "nombre": "PLACA FIGURA PASCUA P7 REPOST X 10"
+  },
+  {
+    "sku": "0117000434",
+    "nombre": "PLACA FIGURA PASCUA P7 REPOST X 1"
+  },
+  {
+    "sku": "0117000437",
+    "nombre": "PLACA FIGURA PASCUA P9 REPOST X 10"
+  },
+  {
+    "sku": "0117000438",
+    "nombre": "PLACA FIGURA PASCUA P9 REPOST X 1"
+  },
+  {
+    "sku": "0117000513",
+    "nombre": "PLACA HUEVO NUMERO 11 FLOR REPOST X 1"
+  },
+  {
+    "sku": "0117000515",
+    "nombre": "PLACA HUEVO NUMERO 11 MOÑO REPOST X 1"
+  },
+  {
+    "sku": "0117000516",
+    "nombre": "PLACA HUEVO NUMERO 11 REPOST X 10"
+  },
+  {
+    "sku": "0117000517",
+    "nombre": "PLACA HUEVO NUMERO 11 REPOST X 1"
+  },
+  {
+    "sku": "0117000518",
+    "nombre": "PLACA HUEVO NUMERO 12 REPOST X 10 (200G)"
+  },
+  {
+    "sku": "0117000519",
+    "nombre": "PLACA HUEVO NUMERO 12 REPOST X 1"
+  },
+  {
+    "sku": "0117000521",
+    "nombre": "PLACA HUEVO NUMERO 12 ROSA REPOST X 1"
+  },
+  {
+    "sku": "0117000522",
+    "nombre": "PLACA HUEVO NUMERO 12TR REPOST X 10 RAYAS"
+  },
+  {
+    "sku": "0117000523",
+    "nombre": "PLACA HUEVO NUMERO 12TR REPOST X 1 RAYAS"
+  },
+  {
+    "sku": "0117000524",
+    "nombre": "PLACA HUEVO NUMERO 12TE REPOST X 10 ESPIRAL"
+  },
+  {
+    "sku": "0117000525",
+    "nombre": "PLACA HUEVO NUMERO 12TE REPOST X 1 ESPIRAL"
+  },
+  {
+    "sku": "0117000526",
+    "nombre": "PLACA HUEVO NUMERO 12TP REPOST X 10 PUNTOS"
+  },
+  {
+    "sku": "0117000527",
+    "nombre": "PLACA HUEVO NUMERO 12TP REPOST X 1 PUNTOS"
+  },
+  {
+    "sku": "0117000528",
+    "nombre": "PLACA HUEVO NUMERO 12TF REPOST X 10 FUTBOL"
+  },
+  {
+    "sku": "0117000529",
+    "nombre": "PLACA HUEVO NUMERO 12TF REPOST X 1 FUTBOL"
+  },
+  {
+    "sku": "0117000531",
+    "nombre": "PLACA HUEVO NUMERO 15 REPOST X 1"
+  },
+  {
+    "sku": "0117000532",
+    "nombre": "PLACA HUEVO NUMERO 18 REPOST X 10 (400G)"
+  },
+  {
+    "sku": "0117000536",
+    "nombre": "PLACA HUEVO NUMERO 20 REPOST X 10 (500G)"
+  },
+  {
+    "sku": "0117000537",
+    "nombre": "PLACA HUEVO NUMERO 20 REPOST X 1 (500G)"
+  },
+  {
+    "sku": "0117000539",
+    "nombre": "PLACA HUEVO NUMERO 3 REPOST X 10 (15 20G)"
+  },
+  {
+    "sku": "0117000540",
+    "nombre": "PLACA HUEVO NUMERO 3 REPOST X 1 (15 20G)"
+  },
+  {
+    "sku": "0117000542",
+    "nombre": "PLACA HUEVO NUMERO 35 REPOST X 1 (1.5KG)"
+  },
+  {
+    "sku": "0117000543",
+    "nombre": "PLACA HUEVO NUMERO 40 REPOST X 1 (2KG)"
+  },
+  {
+    "sku": "0117000548",
+    "nombre": "PLACA HUEVO NUMERO 6 REPOST X 1"
+  },
+  {
+    "sku": "0117000549",
+    "nombre": "PLACA HUEVO NUMERO 6 REPOST X 10 (30G)"
+  },
+  {
+    "sku": "0117000550",
+    "nombre": "PLACA HUEVO NUMERO 7 REPOST X 1"
+  },
+  {
+    "sku": "0117000552",
+    "nombre": "PLACA HUEVO NUMERO 8 REPOST X 1"
+  },
+  {
+    "sku": "0117000553",
+    "nombre": "PLACA HUEVO NUMERO 8 REPOST X 10 (70G)"
+  },
+  {
+    "sku": "0117000554",
+    "nombre": "PLACA HUEVO NUMERO 9 REPOST X 1"
+  },
+  {
+    "sku": "0117000594",
+    "nombre": "PLACA HUEVO NUMERO 12TO REPOST X 10 ONDAS X 10"
+  },
+  {
+    "sku": "0117000595",
+    "nombre": "PLACA HUEVO NUMERO 12TO REPOST X 1 ONDAS X 1"
+  },
+  {
+    "sku": "0117000598",
+    "nombre": "PLACA HUEVO NUMERO 12TC REPOST X 10 CONEJO X 10"
+  },
+  {
+    "sku": "0117000599",
+    "nombre": "PLACA HUEVO NUMERO 12TC REPOST X 1 CONEJO X 1"
+  },
+  {
+    "sku": "0117000739",
+    "nombre": "PLACA HUEVO NUMERO 12TA REPOST X 1 AHUECADO"
+  },
+  {
+    "sku": "0117000740",
+    "nombre": "PLACA HUEVO NUMERO 12TA REPOST X 10 AHUECADO"
+  },
+  {
+    "sku": "0117000763",
+    "nombre": "PLACA HUEVO NUMERO 15 REPOST X 10 (300G)"
+  },
+  {
+    "sku": "0117000764",
+    "nombre": "PLACA HUEVO NUMERO 7 REPOST X 10 (45G)"
+  },
+  {
+    "sku": "0117000765",
+    "nombre": "PLACA HUEVO NUMERO 9 REPOST X 10 (100G)"
+  },
+  {
+    "sku": "0117000856",
+    "nombre": "POSA HUEVO 95MM REPOST X 50"
+  },
+  {
+    "sku": "0117000858",
+    "nombre": "POSA HUEVO 50MM REPOST X 100"
+  },
+  {
+    "sku": "0117000859",
+    "nombre": "POSA HUEVO 70MM REPOST X 100"
+  },
+  {
+    "sku": "0120000463",
+    "nombre": "PLACA HUEVO NUMERO 10 REPOST X 10 (110G)"
+  },
+  {
+    "sku": "0110000044",
+    "nombre": "MIX FRUTOS SECOS ECO X 100G PESABLE"
+  },
+  {
+    "sku": "0110000048",
+    "nombre": "MIX FRUTOS SECOS CON PASAS X KG PESABLE ECO"
+  },
+  {
+    "sku": "0110000091",
+    "nombre": "MIX FRUTOS SECOS ECO X 250G PESABLE"
+  },
+  {
+    "sku": "0110000092",
+    "nombre": "MIX FRUTOS SECOS ECO X 500G PESABLE"
+  },
+  {
+    "sku": "0109000013",
+    "nombre": "CEREZA ROJA CON CABO ISUANI LATA X 3.1KG"
+  },
+  {
+    "sku": "0109000016",
+    "nombre": "CEREZA ROJA ISUANI X 3.1KG LATA"
+  },
+  {
+    "sku": "0109000019",
+    "nombre": "CEREZA ROJA FRASC ISUANI X 210G"
+  },
+  {
+    "sku": "0109000102",
+    "nombre": "CEREZA ROJA CON CABO ISUANI CAJA 6 X 3.1KG"
+  },
+  {
+    "sku": "0109000103",
+    "nombre": "CEREZA ROJA ISUANI 6 X 3.1KG CAJA"
+  },
+  {
+    "sku": "0109000104",
+    "nombre": "CEREZA ROJA FRASC ISUANI CAJA 24 X 210G"
+  },
+  {
+    "sku": "0109000134",
+    "nombre": "CEREZA ROJA ISUANI X KG PESABLE"
+  },
+  {
+    "sku": "0109000135",
+    "nombre": "CEREZA VERDE ISUANI X KG PESABLE"
+  },
+  {
+    "sku": "0115000053",
+    "nombre": "PASTA NUTELLA ROCHER X 140G"
+  },
+  {
+    "sku": "0115000054",
+    "nombre": "PASTA NUTELLA ROCHER X 350G"
+  },
+  {
+    "sku": "0115000055",
+    "nombre": "PASTA NUTELLA ROCHER X 3KG BALDE"
+  },
+  {
+    "sku": "0115000292",
+    "nombre": "PASTA NUTELLA ROCHER 10 X 140G PACK"
+  },
+  {
+    "sku": "0115000293",
+    "nombre": "PASTA NUTELLA ROCHER 12 X 350G PACK"
+  },
+  {
+    "sku": "0109000041",
+    "nombre": "FRUTILLA ENTERA MENDOCOR X 4.3KG LATA"
+  },
+  {
+    "sku": "0109000043",
+    "nombre": "FRUTILLA ENTERA MENDOCOR X 940G"
+  },
+  {
+    "sku": "0109000107",
+    "nombre": "FRUTILLA ENTERA MENDOCOR 4 X 4.3KG CAJA"
+  },
+  {
+    "sku": "0109000108",
+    "nombre": "FRUTILLA ENTERA MENDOCOR18 X 940G CAJA"
+  },
+  {
+    "sku": "0107000007",
+    "nombre": "DULCE BATATA BARRA BARI X KG PESABLE"
+  },
+  {
+    "sku": "0107000032",
+    "nombre": "MERMELADA BATATA BARI X 10KG POTE"
+  },
+  {
+    "sku": "0107000034",
+    "nombre": "MERMELADA FRUTILLA BARI X KG PESABLE"
+  },
+  {
+    "sku": "0107000035",
+    "nombre": "MERMELADA FRUTILLA BARI X 10KG POTE"
+  },
+  {
+    "sku": "0109000046",
+    "nombre": "GUINDA ROJO BARI X KG PESABLE"
+  },
+  {
+    "sku": "0109000048",
+    "nombre": "GUINDA VERDE BARI X KG PESABLE"
+  },
+  {
+    "sku": "0109000073",
+    "nombre": "GUINDA ROJO BARI X 1KG"
+  },
+  {
+    "sku": "0109000075",
+    "nombre": "GUINDA VERDE BARI X 1KG"
+  },
+  {
+    "sku": "0109000126",
+    "nombre": "GUINDA ROJO BARI 5 X 1KG CAJA"
+  },
+  {
+    "sku": "0109000127",
+    "nombre": "GUINDA VERDE BARI 5 X 1KG CAJA"
+  },
+  {
+    "sku": "0108000591",
+    "nombre": "COLORANTE CELESTE BLOCH 4 X 15G EN PASTA CAJA"
+  },
+  {
+    "sku": "0108000592",
+    "nombre": "COLORANTE FUCSIA BLOCH 4 X 15G EN PASTA CAJA"
+  },
+  {
+    "sku": "0108000594",
+    "nombre": "COLORANTE MARRON BLOCH 4 X 15G EN PASTA CAJA"
+  },
+  {
+    "sku": "0108000595",
+    "nombre": "COLORANTE NARANJA BLOCH 4 X 15G EN PASTA CAJA"
+  },
+  {
+    "sku": "0108000596",
+    "nombre": "COLORANTE NEGRO BLOCH 4 X 15G EN PASTA CAJA"
+  },
+  {
+    "sku": "0108000597",
+    "nombre": "COLORANTE ROJO BLOCH 4 X 15G EN PASTA CAJA"
+  },
+  {
+    "sku": "0108000598",
+    "nombre": "COLORANTE ROSA BLOCH 4 X 15G EN PASTA CAJA"
+  },
+  {
+    "sku": "0108000599",
+    "nombre": "COLORANTE SALMON BLOCH 4 X 15G EN PASTA CAJA"
+  },
+  {
+    "sku": "0108000600",
+    "nombre": "COLORANTE TURQUESA BLOCH 4 X 15G EN PASTA CAJA"
+  },
+  {
+    "sku": "0108000601",
+    "nombre": "COLORANTE VERDE HOJA BLOCH 4 X 15G EN PASTA CAJA"
+  },
+  {
+    "sku": "0108000603",
+    "nombre": "COLORANTE VERDE BLOCH 4 X 15G EN PASTA CAJA"
+  },
+  {
+    "sku": "0104000163",
+    "nombre": "GRANA CORAZON FUCSIA   DECOR M X 50G"
+  },
+  {
+    "sku": "0104000489",
+    "nombre": "GRAGEA MULTICOLOR  DECOR M  X KG PESABLE"
+  },
+  {
+    "sku": "0115000042",
+    "nombre": "PASTA AMERICANA VERDE  DECOR MX 500G"
+  },
+  {
+    "sku": "0115000059",
+    "nombre": "PASTA GOMA AMARILLO  DECOR MX 500G"
+  },
+  {
+    "sku": "0115000061",
+    "nombre": "PASTA GOMA AZUL  DECOR MX 500G"
+  },
+  {
+    "sku": "0115000063",
+    "nombre": "PASTA GOMA BLANCO  DECOR MX 500G"
+  },
+  {
+    "sku": "0115000067",
+    "nombre": "PASTA GOMA NEGRO  DECOR MX 500G"
+  },
+  {
+    "sku": "0115000071",
+    "nombre": "PASTA GOMA ROJO  DECOR MX 500G"
+  },
+  {
+    "sku": "0115000074",
+    "nombre": "PASTA AMERICANA BLANCO DECOR  X 5KG BALDE NUEVA FORMULA"
+  },
+  {
+    "sku": "0115000200",
+    "nombre": "PASTA AMERICANA ROSA  DECOR MX 500G"
+  },
+  {
+    "sku": "0115000269",
+    "nombre": "PASTA AMERICANA AMARILLO  DECOR M20 X 500G PACK"
+  },
+  {
+    "sku": "0115000270",
+    "nombre": "PASTA AMERICANA AZUL  DECOR M20 X 500G PACK"
+  },
+  {
+    "sku": "0115000271",
+    "nombre": "PASTA AMERICANA BLANCO  DECOR M10 X 1KG PACK"
+  },
+  {
+    "sku": "0115000272",
+    "nombre": "PASTA AMERICANA BLANCO  DECOR M20 X 500G PACK"
+  },
+  {
+    "sku": "0115000273",
+    "nombre": "PASTA AMERICANA CELESTE  DECOR M20 X 500G PACK"
+  },
+  {
+    "sku": "0115000274",
+    "nombre": "PASTA AMERICANA FUCSIA  DECOR M20 X 500G PACK"
+  },
+  {
+    "sku": "0115000277",
+    "nombre": "PASTA AMERICANA NEGRO  DECOR M20 X 500G PACK"
+  },
+  {
+    "sku": "0115000278",
+    "nombre": "PASTA AMERICANA ROJO  DECOR M20 X 500G PACK"
+  },
+  {
+    "sku": "0115000279",
+    "nombre": "PASTA AMERICANA ROSA  DECOR M20 X 500G PACK"
+  },
+  {
+    "sku": "0115000280",
+    "nombre": "PASTA AMERICANA VERDE  DECOR M20 X 500G PACK"
+  },
+  {
+    "sku": "0115000281",
+    "nombre": "PASTA AMERICANA CESPED DECOR20 X 500G PACK"
+  },
+  {
+    "sku": "0115000283",
+    "nombre": "PASTA GOMA AMARILLO  DECOR M20 X 500G PACK"
+  },
+  {
+    "sku": "0115000284",
+    "nombre": "PASTA GOMA AZUL  DECOR M20 X 500G PACK"
+  },
+  {
+    "sku": "0115000285",
+    "nombre": "PASTA GOMA BLANCO  DECOR M20 X 500G PACK"
+  },
+  {
+    "sku": "0115000287",
+    "nombre": "PASTA GOMA NEGRO  DECOR M20 X 500G PACK"
+  },
+  {
+    "sku": "0115000289",
+    "nombre": "PASTA GOMA ROJO  DECOR M20 X 500G PACK"
+  },
+  {
+    "sku": "0120000234",
+    "nombre": "BOQUILLA CONFITERIA NUMERO 62 CA RIZADO ECO"
+  },
+  {
+    "sku": "0120000552",
+    "nombre": "BOQUILLA CONFITERIA NUMERO 08 CA LISO ECO"
+  },
+  {
+    "sku": "0120000553",
+    "nombre": "BOQUILLA CONFITERIA NUMERO 10 CA LISO ECO"
+  },
+  {
+    "sku": "0120000571",
+    "nombre": "PLATO WILTON NUMERO 1 CA X 2"
+  },
+  {
+    "sku": "0120000801",
+    "nombre": "PLATO WILTON NUMERO 3 CA X 2"
+  },
+  {
+    "sku": "0120000802",
+    "nombre": "PLATO WILTON NUMERO 4 CA X 2"
+  },
+  {
+    "sku": "0104000010",
+    "nombre": "CONFITE PLATA CIRCE X KG PESABLE"
+  },
+  {
+    "sku": "0104000410",
+    "nombre": "GRANA ROSA CIRCE X 1KG PAQ"
+  },
+  {
+    "sku": "0104000422",
+    "nombre": "GRANA NEGRO CIRCE X 1KG PAQ"
+  },
+  {
+    "sku": "0105000039",
+    "nombre": "POLVO HORNEAR CIRCE X KG PESABLE"
+  },
+  {
+    "sku": "0105000063",
+    "nombre": "EXTRACTO DE MALTA CIRCE X 1L"
+  },
+  {
+    "sku": "0108000400",
+    "nombre": "COLORANTE DORADO CIRCE X 15G EN PASTA"
+  },
+  {
+    "sku": "0108000551",
+    "nombre": "COLORANTE AZUL CIRCE 12 X 15G EN PASTA CAJA"
+  },
+  {
+    "sku": "0108000552",
+    "nombre": "COLORANTE AZUL MARINO CIRCE 12 X 15G EN PASTA CAJA"
+  },
+  {
+    "sku": "0108000553",
+    "nombre": "COLORANTE BLANCO CIRCE 12 X 15G EN PASTA CAJA"
+  },
+  {
+    "sku": "0108000554",
+    "nombre": "COLORANTE CELESTE CIRCE 12 X 15G EN PASTA CAJA"
+  },
+  {
+    "sku": "0108000555",
+    "nombre": "COLORANTE DORADO CIRCE 12 X 15G EN PASTA CAJA"
+  },
+  {
+    "sku": "0108000556",
+    "nombre": "COLORANTE LILA CIRCE 12 X 15G EN PASTA CAJA"
+  },
+  {
+    "sku": "0108000557",
+    "nombre": "COLORANTE MARRON CIRCE 12 X 15G EN PASTA CAJA"
+  },
+  {
+    "sku": "0108000558",
+    "nombre": "COLORANTE NARANJA CIRCE 12 X 15G EN PASTA CAJA"
+  },
+  {
+    "sku": "0108000559",
+    "nombre": "COLORANTE NEGRO CIRCE 12 X 15G EN PASTA CAJA"
+  },
+  {
+    "sku": "0108000560",
+    "nombre": "COLORANTE PLATA CIRCE 12 X 15G EN PASTA CAJA"
+  },
+  {
+    "sku": "0108000562",
+    "nombre": "COLORANTE ROJO BORD CIRCE12 X 15 EN PASTA CAJA"
+  },
+  {
+    "sku": "0108000563",
+    "nombre": "COLORANTE ROJO ROSA CIRCE 12 X 15G EN PASTA CAJA"
+  },
+  {
+    "sku": "0108000564",
+    "nombre": "COLORANTE ROSA BEBE CIRCE 12 X 15G EN PASTA CAJA"
+  },
+  {
+    "sku": "0108000565",
+    "nombre": "COLORANTE ROSA PIEL CIRCE 12 X 15G EN PASTA CAJA"
+  },
+  {
+    "sku": "0108000566",
+    "nombre": "COLORANTE SALMON CIRCE 12 X 15G EN PASTA CAJA"
+  },
+  {
+    "sku": "0108000567",
+    "nombre": "COLORANTE TURQUESA CIRCE 12 X 15 EN PASTA CAJA"
+  },
+  {
+    "sku": "0108000569",
+    "nombre": "COLORANTE VERDE AGUA CIRCE 12 X 15G EN PASTA CAJA"
+  },
+  {
+    "sku": "0108000570",
+    "nombre": "COLORANTE VERDE HOJA CIRCE 12 X 15G EN PASTA CAJA"
+  },
+  {
+    "sku": "0108000581",
+    "nombre": "ESENCIA MENTA CIRCE 8 X 1L CAJA"
+  },
+  {
+    "sku": "0108000440",
+    "nombre": "COLORANTE CREMA NEON AGATH DELI PERLADO X 15ML"
+  },
+  {
+    "sku": "0108000441",
+    "nombre": "COLORANTE CREMA NEON BLUE B DELI PERLADO X 15ML"
+  },
+  {
+    "sku": "0108000442",
+    "nombre": "COLORANTE CREMA NEON PINK B DELI PERLADO X 15ML"
+  },
+  {
+    "sku": "0108000443",
+    "nombre": "COLORANTE CREMA NEON BLUE DELI PERLADO X 15ML"
+  },
+  {
+    "sku": "0108000444",
+    "nombre": "COLORANTE CREMA NEON BLUE DE DELI PERLADO X 15ML"
+  },
+  {
+    "sku": "0108000445",
+    "nombre": "COLORANTE CREMA NEON EMERAL DELI PERLADO X 15ML"
+  },
+  {
+    "sku": "0108000446",
+    "nombre": "COLORANTE CREMA NEON HERBAL DELI PERLADO X 15ML"
+  },
+  {
+    "sku": "0108000447",
+    "nombre": "COLORANTE CREMA NEON MAGENT DELI PERLADO X 15ML"
+  },
+  {
+    "sku": "0108000448",
+    "nombre": "COLORANTE CREMA NEON ORANGE DELI PERLADO X 15ML"
+  },
+  {
+    "sku": "0108000449",
+    "nombre": "COLORANTE CREMA NEON PARROT DELI PERLADO X 15ML"
+  },
+  {
+    "sku": "0108000451",
+    "nombre": "COLORANTE CREMA NEON PURPLE DELI PERLADO X 15ML"
+  },
+  {
+    "sku": "0108000453",
+    "nombre": "COLORANTE CREMA NEON YELLOW DELI PERLADO X 15ML"
+  },
+  {
+    "sku": "0107000064",
+    "nombre": "DULCE DE LECHE EUREKA X 10KG"
+  },
+  {
+    "sku": "0107000065",
+    "nombre": "DULCE DE LECHE EUREKA X 5KG"
+  },
+  {
+    "sku": "0107000066",
+    "nombre": "DULCE DE LECHE EUREKA X 3KG"
+  },
+  {
+    "sku": "0107000067",
+    "nombre": "DULCE DE LECHE EUREKA X 1KG"
+  },
+  {
+    "sku": "0107000068",
+    "nombre": "DULCE DE LECHE EUREKA X KG PESABLE"
+  },
+  {
+    "sku": "0105000064",
+    "nombre": "EXTRACTO DE MALTA CIRCE X 170CC"
+  },
+  {
+    "sku": "0108000050",
+    "nombre": "COLORANTE LIQUIDO AMARILLO CIRCE X CC PESABLE"
+  },
+  {
+    "sku": "0108000055",
+    "nombre": "COLORANTE LIQUIDO CARAM CIRCE X 70 CC PESABLE"
+  },
+  {
+    "sku": "0108000254",
+    "nombre": "ESENCIA ANIS CIRCE X 70CC PESABLE"
+  },
+  {
+    "sku": "0108000268",
+    "nombre": "ESENCIA BUDIN CIRCE X 70CC PESABLE"
+  },
+  {
+    "sku": "0108000271",
+    "nombre": "ESENCIA CHANTILLY CIRCE X 70CC PESABLE"
+  },
+  {
+    "sku": "0108000291",
+    "nombre": "ESENCIA MANZANA CIRCE X 70CC PESABLE"
+  },
+  {
+    "sku": "0118000046",
+    "nombre": "BIZCOCHUELO S/TACC CHOCO ARCOR X 500G"
+  },
+  {
+    "sku": "0104000349",
+    "nombre": "MERENGUE MEDIANO COLOR AMISTAD X 100G"
+  },
+  {
+    "sku": "0104000350",
+    "nombre": "MERENGUE MEDIANO BLANCO LA AMISTAD X 100G"
+  },
+  {
+    "sku": "0104000353",
+    "nombre": "MERENGUE MINI COLOR AMISTAD X 100G"
+  },
+  {
+    "sku": "0104000354",
+    "nombre": "MERENGUE MINI BLANCO AMISTAD X 100G"
+  },
+  {
+    "sku": "0104000509",
+    "nombre": "MERENGUE MEDIANO BLANCO AMISTAD CAJA 20 X 100G"
+  },
+  {
+    "sku": "0104000510",
+    "nombre": "MERENGUE MEDIANO COLOR AMISTAD CAJA 20 X 100G"
+  },
+  {
+    "sku": "0104000511",
+    "nombre": "MERENGUE MINI BLANCO AMISTAD CAJA 20 X 100G"
+  },
+  {
+    "sku": "0104000512",
+    "nombre": "MERENGUE MINI COLOR AMISTAD CAJA 20 X 100G"
+  },
+  {
+    "sku": "0103000027",
+    "nombre": "BIZCOCHUELO CHOCOLATE X 750G BM 3 CAPAS"
+  },
+  {
+    "sku": "0103000028",
+    "nombre": "BIZCOCHUELO VAINILLA X 750G BM 3 CAPAS"
+  },
+  {
+    "sku": "0103000029",
+    "nombre": "BIZCOCHUELO CHOCOLATE X 450G BM 3 CAPAS"
+  },
+  {
+    "sku": "0103000030",
+    "nombre": "BIZCOCHUELO VAINILLA X 450G BM 3 CAPAS"
+  },
+  {
+    "sku": "0103000031",
+    "nombre": "PIONONO X 200G BM"
+  },
+  {
+    "sku": "0103000032",
+    "nombre": "BIZCOCHUELO VAINILLA BOCA BM X 750G"
+  },
+  {
+    "sku": "0104000427",
+    "nombre": "RODS MIX METAL PASTELAR X 30G"
+  },
+  {
+    "sku": "0104000453",
+    "nombre": "MIX PASTELAR X 50G PESABLE"
+  },
+  {
+    "sku": "0104000574",
+    "nombre": "DROPS OJITOS PASTELAR X 30G"
+  },
+  {
+    "sku": "0104000575",
+    "nombre": "DROPS SIRENAS PASTELAR X 30G"
+  },
+  {
+    "sku": "0104000577",
+    "nombre": "DROPS DIAMANTES PASTELAR X 30G"
+  },
+  {
+    "sku": "0104000580",
+    "nombre": "MIX RODS ORO/PL PASTELAR X 30G"
+  },
+  {
+    "sku": "0104000582",
+    "nombre": "DROPS MIX CANDY PASTELAR X 30G"
+  },
+  {
+    "sku": "0104000583",
+    "nombre": "DROPS MIX NEON PASTELAR X 30G"
+  },
+  {
+    "sku": "0106000126",
+    "nombre": "MERENGUE VEGANO PASTELAR X 200G"
+  },
+  {
+    "sku": "0116000244",
+    "nombre": "LAPIZ DECORA PIEL PASTELAR X 150G"
+  },
+  {
+    "sku": "0120000576",
+    "nombre": "BOWL ACERO DORADO PASTELAR"
+  },
+  {
+    "sku": "0109000078",
+    "nombre": "DURAZNO MITADES SILVIA X 2,9KG"
+  },
+  {
+    "sku": "0109000080",
+    "nombre": "TOMATE TRITURADO SILVIA X 4KG"
+  },
+  {
+    "sku": "0109000099",
+    "nombre": "DURAZNO TROZOS SILVIA X 2,9KG"
+  },
+  {
+    "sku": "0109000101",
+    "nombre": "DURAZNO TROZOS SILVIA 6 X 2,9KG CAJA"
+  },
+  {
+    "sku": "0109000109",
+    "nombre": "DURAZNO MITADES SILVIA 12 X 820G CAJA"
+  },
+  {
+    "sku": "0109000110",
+    "nombre": "DURAZNO MITADES SILVIA 6 X 2,9KG CAJA"
+  },
+  {
+    "sku": "0109000111",
+    "nombre": "TOMATE TRITURADO SILVIA 2 X 4KG CAJA"
+  },
+  {
+    "sku": "0106000021",
+    "nombre": "CREMA DE LECHE LA PAULINA X 350CC"
+  },
+  {
+    "sku": "0106000106",
+    "nombre": "QUESO CREMA LA PAULINA X 290G"
+  },
+  {
+    "sku": "0109000037",
+    "nombre": "FRAMBUESAS CONGELADO BIOMAC X KG PESABLE"
+  },
+  {
+    "sku": "0109000038",
+    "nombre": "MANGO CONGELADO BIO 1KG PAQ"
+  },
+  {
+    "sku": "0109000040",
+    "nombre": "MORA CONGELADO BIO X 1KG PAQ"
+  },
+  {
+    "sku": "0109000054",
+    "nombre": "MANGO CONGELADO BIO X KG PESABLE"
+  },
+  {
+    "sku": "0109000058",
+    "nombre": "ARANDANO CONGELADO BIO X 1KG PAQ"
+  },
+  {
+    "sku": "0109000059",
+    "nombre": "ARANDANO CONGELADO BIO X KG PESABLE"
+  },
+  {
+    "sku": "0109000061",
+    "nombre": "FRUTILLA CONGELADO BIO X 1KG PAQ"
+  },
+  {
+    "sku": "0109000062",
+    "nombre": "FRUTILLA CONGELADO BIO X KG PESABLE"
+  },
+  {
+    "sku": "0109000065",
+    "nombre": "MIX BERRIES CONGELADO BIO X KG PESABLE"
+  },
+  {
+    "sku": "0109000067",
+    "nombre": "MIX TROPIC CONGELADO BIO X 1KG PAQ"
+  },
+  {
+    "sku": "0109000070",
+    "nombre": "MARACUYA CONGELADO BIO X 1KG CON SEMILLA PAQ"
+  },
+  {
+    "sku": "0109000084",
+    "nombre": "PALTA CONGELADO BIO X 500G PAQ"
+  },
+  {
+    "sku": "0109000087",
+    "nombre": "KIWI CONGELADO BIO X 500G EN RODAJAS PAQ"
+  },
+  {
+    "sku": "0109000088",
+    "nombre": "HIGO CONGELADO BIO X 500G EN TROZOS"
+  },
+  {
+    "sku": "0109000095",
+    "nombre": "MELON CONGELADO BIO X 1KG EN TROZOS PAQ"
+  },
+  {
+    "sku": "0109000115",
+    "nombre": "SMOOTHIE ARAN FRUT BIO 10 X 750G CAJA"
+  },
+  {
+    "sku": "0109000117",
+    "nombre": "FRUTILLA CONGELADO BIO 10 X 1KG CAJA"
+  },
+  {
+    "sku": "0109000119",
+    "nombre": "MIX TROPIC CONGELADO BIO 10 X 1K CAJA"
+  },
+  {
+    "sku": "0109000120",
+    "nombre": "MARACUYA CONGELADO BIO 10 X 1KG CON SEMILLA CAJA"
+  },
+  {
+    "sku": "0109000124",
+    "nombre": "SMOOTHIE FRUTILLA DURAZNO BIO X 750G PAQ"
+  },
+  {
+    "sku": "0109000125",
+    "nombre": "SMOOTHIE ARANDANO FRUTILLA BIO X 750G PAQ"
+  },
+  {
+    "sku": "0109000133",
+    "nombre": "HIGO CONGELADO BIOMAC X KG PESABLE"
+  },
+  {
+    "sku": "0112000001",
+    "nombre": "FECULA MAIZ GLUCOVIL X 25KG BOLSON"
+  },
+  {
+    "sku": "0112000002",
+    "nombre": "FECULA MAIZ GLUCOVIL X KG PESABLE"
+  },
+  {
+    "sku": "0114000071",
+    "nombre": "CORTANTE 4 PETALOS MULTY  "
+  },
+  {
+    "sku": "0114000072",
+    "nombre": "CORTANTE 5 PETALOS MULTY  "
+  },
+  {
+    "sku": "0114000077",
+    "nombre": "CORTANTE ALVERJILLA MULTY  "
+  },
+  {
+    "sku": "0114000078",
+    "nombre": "CORTANTE ANGEL CHICO MULTY  "
+  },
+  {
+    "sku": "0114000079",
+    "nombre": "CORTANTE ANGEL COMUNION MULTY  "
+  },
+  {
+    "sku": "0114000080",
+    "nombre": "CORTANTE ANGEL GRANDE MULTY  "
+  },
+  {
+    "sku": "0114000081",
+    "nombre": "CORTANTE ARBOLITO MULTY  "
+  },
+  {
+    "sku": "0114000085",
+    "nombre": "CORTANTE AZAHAR MULTY  "
+  },
+  {
+    "sku": "0114000086",
+    "nombre": "CORTANTE BABERO MULTY  "
+  },
+  {
+    "sku": "0114000087",
+    "nombre": "CORTANTE BAILARINA MULTY  "
+  },
+  {
+    "sku": "0114000090",
+    "nombre": "CORTANTE BATITA MULTY  "
+  },
+  {
+    "sku": "0114000092",
+    "nombre": "CORTANTE BOTE MULTY  "
+  },
+  {
+    "sku": "0114000098",
+    "nombre": "CORTANTE CALA MINI MULTY  "
+  },
+  {
+    "sku": "0114000100",
+    "nombre": "CORTANTE CALIZ MULTY  "
+  },
+  {
+    "sku": "0114000104",
+    "nombre": "CORTANTE CAPILLA MULTY  "
+  },
+  {
+    "sku": "0114000108",
+    "nombre": "CORTANTE CARA PAYASO MULTY  "
+  },
+  {
+    "sku": "0114000110",
+    "nombre": "CORTANTE CASITA DUENDE MULTY  "
+  },
+  {
+    "sku": "0114000116",
+    "nombre": "CORTANTE COCHECITO BB MULTY  "
+  },
+  {
+    "sku": "0114000121",
+    "nombre": "CORTANTE COPO NIEVE MULTY  "
+  },
+  {
+    "sku": "0114000122",
+    "nombre": "CORTANTE CORAZON INTER MULTY  "
+  },
+  {
+    "sku": "0114000131",
+    "nombre": "CORTANTE ESCARPIN MULTY  "
+  },
+  {
+    "sku": "0114000132",
+    "nombre": "CORTANTE ESFINGE HOMBR MULTY  "
+  },
+  {
+    "sku": "0114000133",
+    "nombre": "CORTANTE ESFINGE MUJER MULTY  "
+  },
+  {
+    "sku": "0114000134",
+    "nombre": "CORTANTE ESTRELLA MULTY  MOLDESSET X 3"
+  },
+  {
+    "sku": "0114000341",
+    "nombre": "CORTANTE GATO MULTY  "
+  },
+  {
+    "sku": "0114000344",
+    "nombre": "CORTANTE GUITARRA MULTY  "
+  },
+  {
+    "sku": "0114000346",
+    "nombre": "CORTANTE HIEDRA MULTY  MOLDES X 3"
+  },
+  {
+    "sku": "0114000349",
+    "nombre": "CORTANTE HOJA PARRA MULTY  "
+  },
+  {
+    "sku": "0114000352",
+    "nombre": "CORTANTE HOJA ROSA GRANDE MULTY  "
+  },
+  {
+    "sku": "0114000353",
+    "nombre": "CORTANTE HORTENSIA MULTY  MOLDES X 3"
+  },
+  {
+    "sku": "0114000354",
+    "nombre": "CORTANTE HUELLA PERRO MULTY  "
+  },
+  {
+    "sku": "0114000357",
+    "nombre": "CORTANTE JAZMIN MULTY  "
+  },
+  {
+    "sku": "0114000359",
+    "nombre": "CORTANTE LOBO MARINO MULTY  "
+  },
+  {
+    "sku": "0114000360",
+    "nombre": "CORTANTE LORO MULTY  "
+  },
+  {
+    "sku": "0114000363",
+    "nombre": "CORTANTE MARIPOSA CHICA MULTY  "
+  },
+  {
+    "sku": "0114000365",
+    "nombre": "CORTANTE MARIPOSA MULTY  "
+  },
+  {
+    "sku": "0114000381",
+    "nombre": "CORTANTE MORRON MULTY  MOLDES X 6"
+  },
+  {
+    "sku": "0114000391",
+    "nombre": "CORTANTE ORQUIDEA NUMERO 3 MULTY  "
+  },
+  {
+    "sku": "0114000392",
+    "nombre": "CORTANTE ORQUIDEA TUBO MULTY  "
+  },
+  {
+    "sku": "0114000399",
+    "nombre": "CORTANTE PAPA NOEL MULTY  "
+  },
+  {
+    "sku": "0114000402",
+    "nombre": "CORTANTE PASTELITO NUMERO 12 MULTY "
+  },
+  {
+    "sku": "0114000404",
+    "nombre": "CORTANTE PATITA POLLO MULTY  "
+  },
+  {
+    "sku": "0114000406",
+    "nombre": "CORTANTE PATO PARADO MULTY  "
+  },
+  {
+    "sku": "0114000407",
+    "nombre": "CORTANTE PERRO MULTY  "
+  },
+  {
+    "sku": "0114000419",
+    "nombre": "CORTANTE PLASTICO SET CACTUS MYM MARCADOR X 3"
+  },
+  {
+    "sku": "0114000420",
+    "nombre": "CORTANTE PLASTICO COMICS MYM SET"
+  },
+  {
+    "sku": "0114000436",
+    "nombre": "CORTANTE PLASTICO MANDALA MYM MARCADOR"
+  },
+  {
+    "sku": "0114000444",
+    "nombre": "CORTANTE PLASTICO SET PRINCES MYM SET"
+  },
+  {
+    "sku": "0114000445",
+    "nombre": "CORTANTE PLASTICO SET ROMANT MYM SET"
+  },
+  {
+    "sku": "0114000447",
+    "nombre": "CORTANTE PLASTICO SURTIDO 5CM MYM SET X 6"
+  },
+  {
+    "sku": "0114000451",
+    "nombre": "CORTANTE PRINCES SENTADA MULTY  "
+  },
+  {
+    "sku": "0114000453",
+    "nombre": "CORTANTE RANA MULTY  "
+  },
+  {
+    "sku": "0114000456",
+    "nombre": "CORTANTE RATONA PARADA MULTY  "
+  },
+  {
+    "sku": "0114000457",
+    "nombre": "CORTANTE ROSA CHINA MULTY  "
+  },
+  {
+    "sku": "0114000460",
+    "nombre": "CORTANTE ROSA MEDIANO MULTY  "
+  },
+  {
+    "sku": "0114000463",
+    "nombre": "CORTANTE SEPALO MINI MULTY  "
+  },
+  {
+    "sku": "0114000464",
+    "nombre": "CORTANTE SIRENA MULTY  "
+  },
+  {
+    "sku": "0114000466",
+    "nombre": "CORTANTE TORTUGA MULTY  "
+  },
+  {
+    "sku": "0114000467",
+    "nombre": "CORTANTE TREBOL MULTY  "
+  },
+  {
+    "sku": "0114000473",
+    "nombre": "CORTANTE VARITA MAGICA MULTY  "
+  },
+  {
+    "sku": "0114000544",
+    "nombre": "MOLDE CAUCHO FLAMENCO MYM"
+  },
+  {
+    "sku": "0114000725",
+    "nombre": "CORTANTE CAMPANAS NAVID MULTY  "
+  },
+  {
+    "sku": "0114000726",
+    "nombre": "CORTANTE TRINEO MULTY  "
+  },
+  {
+    "sku": "0114000759",
+    "nombre": "MOLDE SILICONA 22CM NUMEROS MYM"
+  },
+  {
+    "sku": "0120000220",
+    "nombre": "BOQUILLA CONFITERIA NUMERO 4 MYM X 1 METAL"
+  },
+  {
+    "sku": "0120000232",
+    "nombre": "BOQUILLA CONFITERIA NUMERO 6 MYM X 1 METAL"
+  },
+  {
+    "sku": "0120000603",
+    "nombre": "CUCHARA MEDIDORA INOXIDABLE X MYM X 5"
+  },
+  {
+    "sku": "0120000606",
+    "nombre": "PALO AMASAR CON ORING MYM FONDANT"
+  },
+  {
+    "sku": "0120000816",
+    "nombre": "TAZAS MEDIDORAS MYM"
+  },
+  {
+    "sku": "0108000395",
+    "nombre": "ILUMINADOR AZUL FLEIBOR X 3G POLVO"
+  },
+  {
+    "sku": "0108000396",
+    "nombre": "ILUMINADOR DORADO FLEIBOR X 3G POLVO"
+  },
+  {
+    "sku": "0108000397",
+    "nombre": "ILUMINADOR ROJO FLEIBOR X 3G POLVO"
+  },
+  {
+    "sku": "0108000398",
+    "nombre": "ILUMINADOR VERDE FLEIBOR X 3G POLVO"
+  },
+  {
+    "sku": "0108000399",
+    "nombre": "ILUMINADOR VIOLETA FLEIBOR X 3G POLVO"
+  },
+  {
+    "sku": "0108000462",
+    "nombre": "COLORANTE CELESTE C FLEIBOR X 15G EN PASTA"
+  },
+  {
+    "sku": "0108000463",
+    "nombre": "COLORANTE CELESTE FLEIBOR X 15G EN PASTA"
+  },
+  {
+    "sku": "0108000464",
+    "nombre": "COLORANTE NEGRO FLEIBOR X 15G EN PASTA"
+  },
+  {
+    "sku": "0108000465",
+    "nombre": "COLORANTE PLATA FLEIBOR X 15G EN PASTA"
+  },
+  {
+    "sku": "0108000466",
+    "nombre": "COLORANTE ROJO M FLEIBOR X 15G EN PASTA"
+  },
+  {
+    "sku": "0108000467",
+    "nombre": "COLORANTE ROJO ROSA FLEIBOR X 15G EN PASTA"
+  },
+  {
+    "sku": "0108000468",
+    "nombre": "COLORANTE ROSA N FLEIBOR X 15G EN PASTA"
+  },
+  {
+    "sku": "0108000469",
+    "nombre": "COLORANTE VIOLETA FLEIBOR X 15G EN PASTA"
+  },
+  {
+    "sku": "0108000477",
+    "nombre": "COLORANTE AMARILLO L FLEIBOR X 15G EN PASTA"
+  },
+  {
+    "sku": "0108000478",
+    "nombre": "COLORANTE AMARILL FLEIBOR X 15G EN PASTA"
+  },
+  {
+    "sku": "0108000479",
+    "nombre": "COLORANTE AZUL F FLEIBOR X 15G EN PASTA"
+  },
+  {
+    "sku": "0108000480",
+    "nombre": "COLORANTE AZUL FLEIBOR X 15G EN PASTA"
+  },
+  {
+    "sku": "0108000481",
+    "nombre": "COLORANTE BLANCO FLEIBOR X 15G EN PASTA"
+  },
+  {
+    "sku": "0108000482",
+    "nombre": "COLORANTE ROSA FLEIBOR X 15G EN PASTA"
+  },
+  {
+    "sku": "0108000483",
+    "nombre": "COLORANTE VERDE FLEIBOR X 15G EN PASTA"
+  },
+  {
+    "sku": "0108000497",
+    "nombre": "COLORANTE AZUL MARINO FLEIBOR X 15G"
+  },
+  {
+    "sku": "0108000499",
+    "nombre": "COLORANTE AZUL TURQUESA FLEIBOR X 15G"
+  },
+  {
+    "sku": "0108000501",
+    "nombre": "COLORANTE ROJO BORDO FLEIBOR X 15G"
+  },
+  {
+    "sku": "0108000503",
+    "nombre": "COLORANTE ROSA BEBE FLEIBOR X 15G"
+  },
+  {
+    "sku": "0108000505",
+    "nombre": "COLORANTE VERDE W FLEIBOR X 15G"
+  },
+  {
+    "sku": "0108000507",
+    "nombre": "COLORANTE CELESTE B FLEIBOR X 15G"
+  },
+  {
+    "sku": "0108000509",
+    "nombre": "COLORANTE VERDE HOJA FLEIBOR X 15G"
+  },
+  {
+    "sku": "0108000511",
+    "nombre": "COLORANTE CELESTE C FLEIBOR DISPLAY EN PASTA 4 X 15G"
+  },
+  {
+    "sku": "0108000512",
+    "nombre": "COLORANTE CELESTE FLEIBOR DISPLAY EN PASTA 4 X 15G"
+  },
+  {
+    "sku": "0108000513",
+    "nombre": "COLORANTE NEGRO FLEIBOR DISPLAY EN PASTA 4 X 15G"
+  },
+  {
+    "sku": "0108000514",
+    "nombre": "COLORANTE PLATA FLEIBOR DISPLAY EN PASTA 4 X 15G"
+  },
+  {
+    "sku": "0108000515",
+    "nombre": "COLORANTE ROJO M FLEIBOR DISPLAY EN PASTA 4 X 15G"
+  },
+  {
+    "sku": "0108000516",
+    "nombre": "COLORANTE ROJO ROSA FLEIBOR DISPLAY EN PASTA 4 X 15G"
+  },
+  {
+    "sku": "0108000517",
+    "nombre": "COLORANTE ROSA N FLEIBOR DISPLAY EN PASTA 4 X 15G"
+  },
+  {
+    "sku": "0108000518",
+    "nombre": "COLORANTE VIOLETA FLEIBOR DISPLAY EN PASTA 4 X 15G"
+  },
+  {
+    "sku": "0108000519",
+    "nombre": "COLORANTE AMARILLO L FLEIBOR DISPLAY EN PASTA 4 X 15G"
+  },
+  {
+    "sku": "0108000520",
+    "nombre": "COLORANTE AMARILLO FLEIBOR DISPLAY EN PASTA 4 X 15G"
+  },
+  {
+    "sku": "0108000521",
+    "nombre": "COLORANTE AZUL F FLEIBOR DISPLAY EN PASTA 4 X 15G"
+  },
+  {
+    "sku": "0108000522",
+    "nombre": "COLORANTE AZUL FLEIBOR DISPLAY EN PASTA 4 X 15G"
+  },
+  {
+    "sku": "0108000523",
+    "nombre": "COLORANTE BLANCO FLEIBOR DISPLAY EN PASTA 4 X 15G"
+  },
+  {
+    "sku": "0108000524",
+    "nombre": "COLORANTE ROSA FLEIBOR DISPLAY EN PASTA 4 X 15G"
+  },
+  {
+    "sku": "0108000525",
+    "nombre": "COLORANTE VERDE FLEIBOR DISPLAY EN PASTA 4 X 15G"
+  },
+  {
+    "sku": "0108000526",
+    "nombre": "COLORANTE AZUL MARINO FLEIBOR DISPLAY EN PASTA 4 X 15G"
+  },
+  {
+    "sku": "0108000527",
+    "nombre": "COLORANTE AZUL T FLEIBOR DISPLAY EN PASTA 4 X 15G"
+  },
+  {
+    "sku": "0108000528",
+    "nombre": "COLORANTE ROJO B FLEIBOR DISPLAY EN PASTA 4 X 15G"
+  },
+  {
+    "sku": "0108000529",
+    "nombre": "COLORANTE ROSA BEBE FLEIBOR DISPLAY EN PASTA 4 X 15G"
+  },
+  {
+    "sku": "0108000530",
+    "nombre": "COLORANTE VERDE W FLEIBOR DISPLAY EN PASTA 4 X 15G"
+  },
+  {
+    "sku": "0108000531",
+    "nombre": "COLORANTE CELESTE B FLEIBOR DISPLAY EN PASTA 4 X 15G"
+  },
+  {
+    "sku": "0108000532",
+    "nombre": "COLORANTE VERDE HOJA FLEIBOR DISPLAY EN PASTA 4 X 15G"
+  },
+  {
+    "sku": "0106000112",
+    "nombre": "GLASE REAL AZUL DELI X 210G EN POLVO"
+  },
+  {
+    "sku": "0108000196",
+    "nombre": "COLORANTE HIROSOLUBLE ROSA SUA DELI FOOD EN POLVO X 10CC"
+  },
+  {
+    "sku": "0108000381",
+    "nombre": "COLORANTE LIPOSOLUBLE S MIEL DELI EN POLVO X 10CC"
+  },
+  {
+    "sku": "0108000382",
+    "nombre": "COLORANTE NACAR FRAMBUESA DELI EN POLVO X 10CC"
+  },
+  {
+    "sku": "0108000383",
+    "nombre": "COLORANTE NACAR UVA DELI EN POLVO X 10CC"
+  },
+  {
+    "sku": "0108000384",
+    "nombre": "GLITTER COMESTIBLE VERDE DELI AMAZONIA X 10G"
+  },
+  {
+    "sku": "0108000385",
+    "nombre": "GLITTER COMESTIBLE PURPURA DELI AURORA BOREAL X 10G"
+  },
+  {
+    "sku": "0108000386",
+    "nombre": "GLITTER COMESTIBLE AZUL OSC DELI PACIFICO X 10G"
+  },
+  {
+    "sku": "0108000389",
+    "nombre": "GLITTER COMESTIBLE CELESTE DELI GLACIAR X 10G"
+  },
+  {
+    "sku": "0108000390",
+    "nombre": "GLITTER COMESTIBLE ROJO DELI LAVA X 10G"
+  },
+  {
+    "sku": "0108000392",
+    "nombre": "GLITTER COMESTIBLE BLANCO DELI VIA LACTEA X 10G"
+  },
+  {
+    "sku": "0108000393",
+    "nombre": "GLITTER COMESTIBLE ROSA DELI SAKURA X 10G"
+  },
+  {
+    "sku": "0108000401",
+    "nombre": "COLORANTE LIPOSOLUBLE S AMAPOLA DELI POLVO X 10CC"
+  },
+  {
+    "sku": "0108000402",
+    "nombre": "COLORANTE LIPOSOLUBLE S AMARILLO AZTE DELI POLVO X 10CC"
+  },
+  {
+    "sku": "0108000403",
+    "nombre": "COLORANTE LIPOSOLUBLE S AMARILLO PAST DELI POLVO X 10CC"
+  },
+  {
+    "sku": "0108000404",
+    "nombre": "COLORANTE LIPOSOLUBLE S MANGO DELI MANGO X 1"
+  },
+  {
+    "sku": "0108000405",
+    "nombre": "COLORANTE LIPOSOLUBLE S NARCISO DELI POLVO X 10CC"
+  },
+  {
+    "sku": "0108000406",
+    "nombre": "COLORANTE LIPOSOLUBLE S NEGRO AZUL DELI POLVO X 10CC"
+  },
+  {
+    "sku": "0108000407",
+    "nombre": "COLORANTE LIPOSOLUBLE S NUDE DELI POLVO X 10CC"
+  },
+  {
+    "sku": "0108000410",
+    "nombre": "COLORANTE LIPOSOLUBLE S TIZA DELI POLVO X 10CC"
+  },
+  {
+    "sku": "0108000434",
+    "nombre": "GLITTER COMESTIBLE METAL DELI ACONCAGUA X 10G"
+  },
+  {
+    "sku": "0108000436",
+    "nombre": "COLORANTE CREMA FLAMINGO DELI PERLADO X 15ML"
+  },
+  {
+    "sku": "0108000437",
+    "nombre": "COLORANTE CREMA GOLDEN MAK DELI PERLADO X 15ML"
+  },
+  {
+    "sku": "0108000438",
+    "nombre": "COLORANTE CREMA INDIGO DELI PERLADO X 15ML"
+  },
+  {
+    "sku": "0108000439",
+    "nombre": "COLORANTE CREMA SILVER DELI PERLADO X 15ML"
+  },
+  {
+    "sku": "0108000450",
+    "nombre": "COLORANTE CREMA NEON PINK DELI PERLADO X 15ML"
+  },
+  {
+    "sku": "0108000452",
+    "nombre": "COLORANTE CREMA NEON REDONDO DELI PERLADO X 15ML"
+  },
+  {
+    "sku": "0108000665",
+    "nombre": "COLORANTE LIQUIDO AZUL ZAFIRO DELI CON ATOMIZADOR X 60ML"
+  },
+  {
+    "sku": "0108000666",
+    "nombre": "COLORANTE LIQUIDO ROJO MA DELI CON ATOMIZADOR X 60ML"
+  },
+  {
+    "sku": "0108000667",
+    "nombre": "COLORANTE LIQUIDO GIRASOL DELI CON ATOMIZADOR X 60ML"
+  },
+  {
+    "sku": "0108000702",
+    "nombre": "COLORANTE ORO FINO X 75G DELI EN POLVO"
+  },
+  {
+    "sku": "0108000703",
+    "nombre": "COLORANTE ORO MEDIO X 85G DELI EN POLVO"
+  },
+  {
+    "sku": "0113000020",
+    "nombre": "MARCADOR COMESTIBLE COLOR DELI X 6 LINER 0.3"
+  },
+  {
+    "sku": "0113000021",
+    "nombre": "MARCADOR COMESTIBLE NEGRO DELI X 2 LINER 0.3"
+  },
+  {
+    "sku": "0117000279",
+    "nombre": "PLACA MOLDEO CODIGO A 636 PK TABLETA"
+  },
+  {
+    "sku": "0117000372",
+    "nombre": "PLACA FIGURA PASCUA CODIGO A FB/1 PK BOCA"
+  },
+  {
+    "sku": "0117000414",
+    "nombre": "PLACA FIGURA PASCUA CODIGO C FB PK BOCA"
+  },
+  {
+    "sku": "0117000461",
+    "nombre": "PLACA CHUPETIN CODIGO A 1514 PK ELEGANTE"
+  },
+  {
+    "sku": "0117000467",
+    "nombre": "PLACA MOLDEO CODIGO A 2169 PK"
+  },
+  {
+    "sku": "0117000469",
+    "nombre": "PLACA MOLDEO CODIGO E 027 PK"
+  },
+  {
+    "sku": "0117000471",
+    "nombre": "PLACA MOLDEO CODIGO A 1852 PK"
+  },
+  {
+    "sku": "0117000473",
+    "nombre": "PLACA MOLDEO CODIGO B 923 PK"
+  },
+  {
+    "sku": "0117000475",
+    "nombre": "PLACA CHUPETIN CODIGO A 1278 PK"
+  },
+  {
+    "sku": "0117000493",
+    "nombre": "PLACA MOLDEO CODIGO C 1510 PK"
+  },
+  {
+    "sku": "0117000564",
+    "nombre": "PLACA SEMIPROFESIONAL NUMERO 2 PK"
+  },
+  {
+    "sku": "0117000565",
+    "nombre": "PLACA SEMIPROFESIONAL NUMERO 3 PK"
+  },
+  {
+    "sku": "0117000600",
+    "nombre": "PLACA HUEVO CODIGO A 14 PK X 1"
+  },
+  {
+    "sku": "0117000602",
+    "nombre": "PLACA HUEVO CODIGO L NUMERO 35 PK"
+  },
+  {
+    "sku": "0117000603",
+    "nombre": "PLACA HUEVO CODIGO L NUMERO 40 PK"
+  },
+  {
+    "sku": "0117000604",
+    "nombre": "PLACA CHUPETIN CODIGO C 1617 PK 3 HUEVO POLLITO"
+  },
+  {
+    "sku": "0117000605",
+    "nombre": "PLACA FIGURA PASCUA CODIGO C 149 PK CONEJO"
+  },
+  {
+    "sku": "0117000606",
+    "nombre": "PLACA FIGURA PASCUA CODIGO C 362 PK 2 CONEJOS"
+  },
+  {
+    "sku": "0117000607",
+    "nombre": "PLACA FIGURA PASCUA CODIGO C 377 PK"
+  },
+  {
+    "sku": "0117000608",
+    "nombre": "PLACA FIGURA PASCUA CODIGO A 343 PK"
+  },
+  {
+    "sku": "0117000609",
+    "nombre": "PLACA FIGURA PASCUA CODIGO A 1186 PK HUEVOS"
+  },
+  {
+    "sku": "0117000611",
+    "nombre": "PLACA CHUPETIN CODIGO A 1552 PK CARAMELO BASTON"
+  },
+  {
+    "sku": "0117000629",
+    "nombre": "PLACA MOLDEO CODIGO A 142 PK CABALLITO MAR"
+  },
+  {
+    "sku": "0117000630",
+    "nombre": "PLACA MOLDEO CODIGO A 1798 PK CORAZON DIAMANTE"
+  },
+  {
+    "sku": "0117000631",
+    "nombre": "PLACA CHUPETIN CODIGO A 1745 PK HUELLAS"
+  },
+  {
+    "sku": "0117000632",
+    "nombre": "PLACA MOLDEO CODIGO A 1590 PK CHOCOLINAS"
+  },
+  {
+    "sku": "0117000633",
+    "nombre": "PLACA CHUPETIN CODIGO A 1751 PK CORAZONES"
+  },
+  {
+    "sku": "0117000634",
+    "nombre": "PLACA MOLDEO CODIGO A 810 PK"
+  },
+  {
+    "sku": "0117000635",
+    "nombre": "PLACA MOLDEO CODIGO A 1308 PK DIAMANTES"
+  },
+  {
+    "sku": "0117000636",
+    "nombre": "PLACA MOLDEO CODIGO A 928 PK CHOCOLATIN"
+  },
+  {
+    "sku": "0117000637",
+    "nombre": "PLACA CHUPETIN CODIGO A 1385 PK BONETE GLOBO"
+  },
+  {
+    "sku": "0117000638",
+    "nombre": "PLACA MOLDEO CODIGO A 1716 PK PALETA HELADO"
+  },
+  {
+    "sku": "0117000639",
+    "nombre": "PLACA MOLDEO CODIGO A 642 PK TABLETA"
+  },
+  {
+    "sku": "0117000640",
+    "nombre": "PLACA MOLDEO CODIGO A 926 PK CHOCOLATIN"
+  },
+  {
+    "sku": "0117000641",
+    "nombre": "PLACA CHUPETIN CODIGO A 1255 PK CORAZON TE QUIERO"
+  },
+  {
+    "sku": "0117000642",
+    "nombre": "PLACA MOLDEO CODIGO C 1762 PK"
+  },
+  {
+    "sku": "0117000643",
+    "nombre": "PLACA MOLDEO CODIGO A 866 PK CUADRADOS"
+  },
+  {
+    "sku": "0117000644",
+    "nombre": "PLACA MOLDEO CODIGO A 638 PK TRONCOS"
+  },
+  {
+    "sku": "0117000645",
+    "nombre": "PLACA MOLDEO CODIGO A 908 PK TABLETA"
+  },
+  {
+    "sku": "0117000646",
+    "nombre": "PLACA CHUPETIN CODIGO A 1452 PK CORAZONES"
+  },
+  {
+    "sku": "0117000647",
+    "nombre": "PLACA MOLDEO CODIGO A 1739 PK CORAZONES"
+  },
+  {
+    "sku": "0117000648",
+    "nombre": "PLACA CHUPETIN CODIGO A 1257 PK LABIOS"
+  },
+  {
+    "sku": "0117000649",
+    "nombre": "PLACA MOLDEO CODIGO A 1314 PK DIAMANTES"
+  },
+  {
+    "sku": "0117000650",
+    "nombre": "PLACA CHUPETIN CODIGO A 1279 PK MARIPOSAS"
+  },
+  {
+    "sku": "0117000651",
+    "nombre": "PLACA CHUPETIN CODIGO A 1489 PK PALETAS REDONDAS"
+  },
+  {
+    "sku": "0117000652",
+    "nombre": "PLACA MOLDEO CODIGO A 1820 PK DIAMANTES"
+  },
+  {
+    "sku": "0117000653",
+    "nombre": "PLACA MOLDEO CODIGO A 1292 PK HERRAMIENTAS"
+  },
+  {
+    "sku": "0117000654",
+    "nombre": "PLACA MOLDEO CODIGO A 906 PK TABLETA"
+  },
+  {
+    "sku": "0117000655",
+    "nombre": "PLACA GAUDI 1790H PK"
+  },
+  {
+    "sku": "0117000656",
+    "nombre": "PLACA GAUDI 1849H PK"
+  },
+  {
+    "sku": "0117000658",
+    "nombre": "PLACA GAUDI 1827H PK"
+  },
+  {
+    "sku": "0117000659",
+    "nombre": "PLACA GAUDI 1837H PK"
+  },
+  {
+    "sku": "0117000660",
+    "nombre": "PLACA GAUDI 1703H PK"
+  },
+  {
+    "sku": "0117000717",
+    "nombre": "PLACA GAUDI 1838H PK PAQ"
+  },
+  {
+    "sku": "0117000721",
+    "nombre": "PLACA MOLDEO CODIGO A 1389 PK CUCHARA PLATO TAZA"
+  },
+  {
+    "sku": "0117000722",
+    "nombre": "PLACA CHUPETIN CODIGO A 1207 PK"
+  },
+  {
+    "sku": "0117000723",
+    "nombre": "PLACA FIGURA PASCUA CODIGO A 1143 PK CONEJO"
+  },
+  {
+    "sku": "0117000724",
+    "nombre": "PLACA CHUPETIN CODIGO A 1555 PK CONEJITAS"
+  },
+  {
+    "sku": "0117000725",
+    "nombre": "PLACA MOLDEO CODIGO A 3002 PK EROTICO"
+  },
+  {
+    "sku": "0117000726",
+    "nombre": "PLACA MOLDEO CODIGO A 3001 PK EROTICO"
+  },
+  {
+    "sku": "0117000727",
+    "nombre": "PLACA MOLDEO CODIGO A 3006 PK EROTICO"
+  },
+  {
+    "sku": "0117000728",
+    "nombre": "PLACA CHUPETIN CODIGO C 1679 PK 4 CUPCAKES"
+  },
+  {
+    "sku": "0117000730",
+    "nombre": "PLACA MOLDEO CODIGO A 1541 PK CUCHARAS"
+  },
+  {
+    "sku": "0117000731",
+    "nombre": "PLACA FIGURA PASCUA CODIGO C 352 PK"
+  },
+  {
+    "sku": "0117000732",
+    "nombre": "PLACA MOLDEO CODIGO A 124 PK ZANAHORIA"
+  },
+  {
+    "sku": "0117000733",
+    "nombre": "PLACA CHUPETIN CODIGO A 1605 PK HUEVO CONEJO"
+  },
+  {
+    "sku": "0117000734",
+    "nombre": "PLACA CHUPETIN CODIGO C 1719 PK 4 UNICORNIOS"
+  },
+  {
+    "sku": "0117000737",
+    "nombre": "PLACA MOLDEO CODIGO A 3012 PK EROTICO"
+  },
+  {
+    "sku": "0117000738",
+    "nombre": "PLACA FIGURA PASCUA CODIGO K 237 PK CONEJO"
+  },
+  {
+    "sku": "0117000741",
+    "nombre": "PLACA MOLDEO CODIGO A 1546 PK CORAZON"
+  },
+  {
+    "sku": "0117000744",
+    "nombre": "PLACA HUEVO CODIGO A 01 PK X 10"
+  },
+  {
+    "sku": "0117000746",
+    "nombre": "PLACA HUEVO CODIGO A 03 PK X 10"
+  },
+  {
+    "sku": "0117000748",
+    "nombre": "PLACA HUEVO CODIGO A 05 PK X 10"
+  },
+  {
+    "sku": "0117000749",
+    "nombre": "PLACA HUEVO CODIGO A 06 PK X 10"
+  },
+  {
+    "sku": "0117000750",
+    "nombre": "PLACA HUEVO CODIGO A 07 PK X 10"
+  },
+  {
+    "sku": "0117000751",
+    "nombre": "PLACA HUEVO CODIGO A 08 PK X 10"
+  },
+  {
+    "sku": "0117000753",
+    "nombre": "PLACA HUEVO CODIGO A 10 PK X 10"
+  },
+  {
+    "sku": "0117000754",
+    "nombre": "PLACA HUEVO CODIGO A 11 PK X 10"
+  },
+  {
+    "sku": "0117000755",
+    "nombre": "PLACA HUEVO CODIGO A 12 PK X 10"
+  },
+  {
+    "sku": "0117000756",
+    "nombre": "PLACA HUEVO CODIGO A 13 PK X 10"
+  },
+  {
+    "sku": "0117000758",
+    "nombre": "PLACA HUEVO CODIGO A 16 PK X 10"
+  },
+  {
+    "sku": "0117000760",
+    "nombre": "PLACA HUEVO CODIGO A 18 PK X 10"
+  },
+  {
+    "sku": "0117000761",
+    "nombre": "PLACA HUEVO CODIGO A 20 PK X 10"
+  },
+  {
+    "sku": "0117000762",
+    "nombre": "PLACA HUEVO CODIGO A 14 PK X 10"
+  },
+  {
+    "sku": "0117000766",
+    "nombre": "PLACA MOLDEO CODIGO A 057 PK DEPORTE"
+  },
+  {
+    "sku": "0117000768",
+    "nombre": "PLACA MOLDEO CODIGO A 061 PK RACING"
+  },
+  {
+    "sku": "0117000774",
+    "nombre": "PLACA MOLDEO CODIGO A 1179 PK PAPA NOEL"
+  },
+  {
+    "sku": "0117000775",
+    "nombre": "PLACA MOLDEO CODIGO A 1180 PK PAPA NOEL"
+  },
+  {
+    "sku": "0117000777",
+    "nombre": "PLACA MOLDEO CODIGO A 1250 PK"
+  },
+  {
+    "sku": "0117000778",
+    "nombre": "PLACA MOLDEO CODIGO A 1251 PK"
+  },
+  {
+    "sku": "0117000779",
+    "nombre": "PLACA MOLDEO CODIGO A 1252 PK"
+  },
+  {
+    "sku": "0117000780",
+    "nombre": "PLACA MOLDEO CODIGO A 1260 PK"
+  },
+  {
+    "sku": "0117000781",
+    "nombre": "PLACA MOLDEO CODIGO A 1261 PK"
+  },
+  {
+    "sku": "0117000782",
+    "nombre": "PLACA MOLDEO CODIGO A 1262 PK"
+  },
+  {
+    "sku": "0117000783",
+    "nombre": "PLACA MOLDEO CODIGO A 1272 PK"
+  },
+  {
+    "sku": "0117000786",
+    "nombre": "PLACA MOLDEO CODIGO A 1285 PK"
+  },
+  {
+    "sku": "0117000787",
+    "nombre": "PLACA MOLDEO CODIGO A 1290 PK"
+  },
+  {
+    "sku": "0117000788",
+    "nombre": "PLACA MOLDEO CODIGO A 1405 PK"
+  },
+  {
+    "sku": "0117000789",
+    "nombre": "PLACA MOLDEO CODIGO A 1429 PK"
+  },
+  {
+    "sku": "0117000790",
+    "nombre": "PLACA MOLDEO CODIGO A 1434 PK"
+  },
+  {
+    "sku": "0117000791",
+    "nombre": "PLACA MOLDEO CODIGO A 1436 PK"
+  },
+  {
+    "sku": "0117000793",
+    "nombre": "PLACA MOLDEO CODIGO A 1500 PK"
+  },
+  {
+    "sku": "0117000794",
+    "nombre": "PLACA MOLDEO CODIGO A 1513 PK"
+  },
+  {
+    "sku": "0117000795",
+    "nombre": "PLACA MOLDEO CODIGO A 1565 PK"
+  },
+  {
+    "sku": "0117000796",
+    "nombre": "PLACA MOLDEO CODIGO A 1637 PK"
+  },
+  {
+    "sku": "0117000797",
+    "nombre": "PLACA MOLDEO CODIGO A 1641 PK"
+  },
+  {
+    "sku": "0117000801",
+    "nombre": "PLACA MOLDEO CODIGO A 3004 PK EROTICO"
+  },
+  {
+    "sku": "0117000803",
+    "nombre": "PLACA MOLDEO CODIGO A 3010 PK"
+  },
+  {
+    "sku": "0117000805",
+    "nombre": "PLACA MOLDEO CODIGO A 448 PK FARAON"
+  },
+  {
+    "sku": "0117000812",
+    "nombre": "PLACA MOLDEO CODIGO A 649 PK"
+  },
+  {
+    "sku": "0117000813",
+    "nombre": "PLACA MOLDEO CODIGO A 763 PK CUADROS"
+  },
+  {
+    "sku": "0117000814",
+    "nombre": "PLACA MOLDEO CODIGO A 836 PK PARAGUAS LUNA"
+  },
+  {
+    "sku": "0117000817",
+    "nombre": "PLACA MOLDEO CODIGO B 165 PK"
+  },
+  {
+    "sku": "0117000818",
+    "nombre": "PLACA MOLDEO CODIGO B 412 PK 2 SOLES"
+  },
+  {
+    "sku": "0117000820",
+    "nombre": "PLACA MOLDEO CODIGO C 114 PK FLOR"
+  },
+  {
+    "sku": "0117000821",
+    "nombre": "PLACA MOLDEO CODIGO C 265 PK PAPA NOEL"
+  },
+  {
+    "sku": "0117000822",
+    "nombre": "PLACA MOLDEO CODIGO C 313 PK BOTAS"
+  },
+  {
+    "sku": "0117000827",
+    "nombre": "PLACA MOLDEO CODIGO E 527 PK MARCO"
+  },
+  {
+    "sku": "0117000829",
+    "nombre": "PLACA MOLDEO CODIGO E 980 PK CARA"
+  },
+  {
+    "sku": "0117000830",
+    "nombre": "PLACA MOLDEO CODIGO H 1899 PK"
+  },
+  {
+    "sku": "0117000831",
+    "nombre": "PLACA MOLDEO CODIGO H 985 PK"
+  },
+  {
+    "sku": "0117000832",
+    "nombre": "PLACA MOLDEO CODIGO H 1692 PK"
+  },
+  {
+    "sku": "0117000833",
+    "nombre": "PLACA VINTAGE PK"
+  },
+  {
+    "sku": "0117000851",
+    "nombre": "PLACA HUEVO CODIGO A 11 PK X 10"
+  },
+  {
+    "sku": "0117000855",
+    "nombre": "PLACA HUEVO CODIGO A 16 PK X 10"
+  },
+  {
+    "sku": "0117000876",
+    "nombre": "PLACA CHUPETIN CODIGO A 1788 PK"
+  },
+  {
+    "sku": "0117000877",
+    "nombre": "PLACA CHUPETIN CODIGO C 1793 PK BUGS BUNNY"
+  },
+  {
+    "sku": "0117000879",
+    "nombre": "PLACA MOLDEO CODIGO A 1449 PK CORAZONES"
+  },
+  {
+    "sku": "0117000880",
+    "nombre": "PLACA MOLDEO CODIGO A 1873 PK HUEVO"
+  },
+  {
+    "sku": "0117000881",
+    "nombre": "PLACA MOLDEO CODIGO A 1737 PK"
+  },
+  {
+    "sku": "0117000882",
+    "nombre": "PLACA MOLDEO CODIGO A 576 PK CUADRADOS"
+  },
+  {
+    "sku": "0117000883",
+    "nombre": "PLACA MOLDEO CODIGO A 271 PK ESTRELLA"
+  },
+  {
+    "sku": "0117000884",
+    "nombre": "PLACA MOLDEO CODIGO C 1848 PK HUEVO CUCHARA"
+  },
+  {
+    "sku": "0117000885",
+    "nombre": "PLACA MOLDEO CODIGO A 027 PK"
+  },
+  {
+    "sku": "0117000886",
+    "nombre": "PLACA MOLDEO CODIGO A 1766 PK TABLETA F PASCUA"
+  },
+  {
+    "sku": "0117000887",
+    "nombre": "PLACA MOLDEO CODIGO C 1960 PK"
+  },
+  {
+    "sku": "0113000016",
+    "nombre": "LAMINA COMESTIBLE IMPRESA CHM "
+  },
+  {
+    "sku": "0114000073",
+    "nombre": "CORTANTE SET ABC MARCADOR CHM "
+  },
+  {
+    "sku": "0114000366",
+    "nombre": "CORTANTE METAL SET ABC CHM "
+  },
+  {
+    "sku": "0114000375",
+    "nombre": "CORTANTE METAL SET NUMEROS CHM "
+  },
+  {
+    "sku": "0114000390",
+    "nombre": "CORTANTE SET NUMEROS MARCADOR CHM "
+  },
+  {
+    "sku": "0114000675",
+    "nombre": "MOLDE SILICONA 12 CUPCAKES CHM "
+  },
+  {
+    "sku": "0114000686",
+    "nombre": "MOLDE SILICONA BOMBON CORAZON CHM "
+  },
+  {
+    "sku": "0114000687",
+    "nombre": "MOLDE SILICONA BOMBON CUBOS CHM "
+  },
+  {
+    "sku": "0114000688",
+    "nombre": "MOLDE SILICONA BOMBON 2 CORAZ CHM "
+  },
+  {
+    "sku": "0114000689",
+    "nombre": "MOLDE SILICONA BOMBON ESTRELLA CHM "
+  },
+  {
+    "sku": "0114000690",
+    "nombre": "MOLDE SILICONA BOMBON CAJA CHM "
+  },
+  {
+    "sku": "0114000695",
+    "nombre": "MOLDE TEFLON 12 CUPCAKES CHM "
+  },
+  {
+    "sku": "0117000560",
+    "nombre": "PLACA POLICARB BOCADITO CHM "
+  },
+  {
+    "sku": "0117000561",
+    "nombre": "PLACA POLICARB CORAZON CHM "
+  },
+  {
+    "sku": "0117000562",
+    "nombre": "PLACA POLICARB RECT CHM "
+  },
+  {
+    "sku": "0120000300",
+    "nombre": "CUCHILLO CORTA TORTA 37CM CHM "
+  },
+  {
+    "sku": "0120000301",
+    "nombre": "CUCHILLO CORTA TORTA 43CM CHM "
+  },
+  {
+    "sku": "0120000340",
+    "nombre": "ESPATULA SILICONA MANGO CRISTAL CHM "
+  },
+  {
+    "sku": "0120000353",
+    "nombre": "FRATACHO ALISADOR CLASICO CHM "
+  },
+  {
+    "sku": "0120000354",
+    "nombre": "FRATACHO ALISADOR P CURVA CHM "
+  },
+  {
+    "sku": "0120000395",
+    "nombre": "MANGA PLASTICO CON CUPLA Y PICO CHM "
+  },
+  {
+    "sku": "0120000400",
+    "nombre": "MANGA SILICONA 30CM CHM "
+  },
+  {
+    "sku": "0120000401",
+    "nombre": "MANGA SILICONA 35CM CHM "
+  },
+  {
+    "sku": "0120000402",
+    "nombre": "MANGA SILICONA 40CM CHM "
+  },
+  {
+    "sku": "0120000464",
+    "nombre": "PLACA MACARRONS SILICONA CHM "
+  },
+  {
+    "sku": "0120000491",
+    "nombre": "BATIDOR INOXIDABLE X 12\" CHM "
+  },
+  {
+    "sku": "0120000495",
+    "nombre": "SET CUCHARONES MEDIDORES CHM X 4"
+  },
+  {
+    "sku": "0120000506",
+    "nombre": "SET 4 PICOS METAL CON MANGA CHM "
+  },
+  {
+    "sku": "0120000516",
+    "nombre": "SIERRA CORTA BIZCOCHO CHM "
+  },
+  {
+    "sku": "0120000791",
+    "nombre": "BATIDOR INOXIDABLE X 10\" CHM "
+  },
+  {
+    "sku": "0120000792",
+    "nombre": "BATIDOR INOXIDABLE X 8\" CHM "
+  },
+  {
+    "sku": "0114000786",
+    "nombre": "MOLDE SILICONA REDONDO CAD"
+  },
+  {
+    "sku": "0114000787",
+    "nombre": "MOLDE SILICONA BOMBON NAVIDAD CAD"
+  },
+  {
+    "sku": "0120000605",
+    "nombre": "AGARRADERA SILICONA CAD"
+  },
+  {
+    "sku": "0104000259",
+    "nombre": "HUESITO PALMESANO X KG PESABLE"
+  },
+  {
+    "sku": "0104000314",
+    "nombre": "LENTEJA FRUTAL PALMESANO X KG PESABLE"
+  },
+  {
+    "sku": "0104000320",
+    "nombre": "LENTEJITA FRUTAL PALMESANO X KG PESABLE"
+  },
+  {
+    "sku": "0104000486",
+    "nombre": "MANI CON CHOCOLATE BLANCO PALMESANO X KG PESABLE"
+  },
+  {
+    "sku": "0104000487",
+    "nombre": "MANI CON CHOCOLATE BLANCO PALMESANO X 700G PAQ"
+  },
+  {
+    "sku": "0104000488",
+    "nombre": "MANI CON CHOCOLATE LECHE PALMESANO X 700G PAQ"
+  },
+  {
+    "sku": "0104000543",
+    "nombre": "MANI CON CHOCOLATE BLANCO PALMESANO 10 X 700G CAJA"
+  },
+  {
+    "sku": "0104000544",
+    "nombre": "MANI CON CHOCOLATE LECHE PALMESANO 10 X 700 CAJA"
+  },
+  {
+    "sku": "0104000590",
+    "nombre": "MANI CON CHOCOLATE LECHE PALMESANO X KG PESABLE"
+  },
+  {
+    "sku": "0105000024",
+    "nombre": "GLUCOSA DEWEY X 5.6KG BALDE"
+  },
+  {
+    "sku": "0105000046",
+    "nombre": "SOLUCION ENZIMATICA DEWEY X KG PESABLE"
+  },
+  {
+    "sku": "0105000073",
+    "nombre": "GLUCOSA DEWEY X 350G"
+  },
+  {
+    "sku": "0107000026",
+    "nombre": "JALEA FANTASIA DEWEY X KG PESABLE"
+  },
+  {
+    "sku": "0107000027",
+    "nombre": "JALEA FANTASIA DEWEY X 10KG POTE"
+  },
+  {
+    "sku": "0107000028",
+    "nombre": "MEMBRILLO BARRA DEWEY X 5KG"
+  },
+  {
+    "sku": "0107000029",
+    "nombre": "MEMBRILLO BARRA DEWEY X KG PESABLE"
+  },
+  {
+    "sku": "0107000042",
+    "nombre": "MERMELADA MEMBRILLO DEWEY X KG PESABLE"
+  },
+  {
+    "sku": "0107000043",
+    "nombre": "MERMELADA MEMBRILLO DEWEY X 10KG POTE"
+  },
+  {
+    "sku": "0108000314",
+    "nombre": "ESENCIA AROMA M DEWEY X 70CC PESABLE"
+  },
+  {
+    "sku": "0118000037",
+    "nombre": "PREMEZCLA PAN DULCE ROSCA DEWEY X KG PESABLE"
+  },
+  {
+    "sku": "0118000038",
+    "nombre": "PREMEZCLA PAN DULCE ROSCA DEWEY X 10KG"
+  },
+  {
+    "sku": "0118000050",
+    "nombre": "PREMEZCLA PAN DULC ROSCA DEWEY X 5KG"
+  },
+  {
+    "sku": "0106000122",
+    "nombre": "BASE HELADO NEUTRA TCLASS X 300G"
+  },
+  {
+    "sku": "0106000125",
+    "nombre": "BASE HELADO CHOCOLATE TCLASS X 300G"
+  },
+  {
+    "sku": "0108000373",
+    "nombre": "COLORANTE LIPOSOLUBLE S CARAMEL TCLASS POLVO X 15G"
+  },
+  {
+    "sku": "0108000375",
+    "nombre": "COLORANTE LIPOSOLUBLE S ROSA PIEL TCLASS POLVO X 15G"
+  },
+  {
+    "sku": "0108000377",
+    "nombre": "COLORANTE LIPOSOLUBLE S CORAL TCLASS POLVO X 15G"
+  },
+  {
+    "sku": "0108000378",
+    "nombre": "COLORANTE LIPOSOLUBLE S PISTACHO TCLASS POLVO X 15G"
+  },
+  {
+    "sku": "0108000379",
+    "nombre": "COLORANTE LIPOSOLUBLE S TURQUES TCLASS POLVO X 15G"
+  },
+  {
+    "sku": "0108000380",
+    "nombre": "COLORANTE LIPOSOLUBLE S CHOCO TCLASS POLVO X 15G"
+  },
+  {
+    "sku": "0108000418",
+    "nombre": "COLORANTE LIPOSOLUBLE S MARFIL TCLASS POLVO X 15G"
+  },
+  {
+    "sku": "0108000419",
+    "nombre": "COLORANTE LIPOSOLUBLE S MOSTAZA TCLASS POLVO X 15G"
+  },
+  {
+    "sku": "0108000420",
+    "nombre": "COLORANTE LIPOSOLUBLE S OCRE TCLASS POLVO X 15G"
+  },
+  {
+    "sku": "0115000132",
+    "nombre": "PASTA RELLENO ALMENDRA TCLASS X 250G"
+  },
+  {
+    "sku": "0115000141",
+    "nombre": "PASTA RELLENO FRUTOS ROJOS TCLASS X 250G"
+  },
+  {
+    "sku": "0115000195",
+    "nombre": "VARIEGATO FRUTOS ROJOS TCLASS X 250G"
+  },
+  {
+    "sku": "0106000020",
+    "nombre": "CHANTILLY POLVO LEDEVIT X250G"
+  },
+  {
+    "sku": "0106000029",
+    "nombre": "CHANTILLY POLVO LEDEVIT X KG PESABLE"
+  },
+  {
+    "sku": "0106000030",
+    "nombre": "CREMA CHANTILLY LEDEVIT X 5KG SACHET"
+  },
+  {
+    "sku": "0106000031",
+    "nombre": "CREMA CHANTILLY LEDEVIT X 1KG"
+  },
+  {
+    "sku": "0106000032",
+    "nombre": "CREMA CHANTILLY LEDEVIT X 4.7KG BIDON"
+  },
+  {
+    "sku": "0106000033",
+    "nombre": "CREMA CHANTILLY LEDEVIT X 500G"
+  },
+  {
+    "sku": "0106000037",
+    "nombre": "CREMA CHOCOLATE LEDEVIT X 1KG"
+  },
+  {
+    "sku": "0106000039",
+    "nombre": "CREMA CHOCOLATE LEDEVIT X 500G"
+  },
+  {
+    "sku": "0106000043",
+    "nombre": "CREMA FRUTILLA LEDEVIT X 1KG"
+  },
+  {
+    "sku": "0106000045",
+    "nombre": "CREMA FRUTILLA LEDEVIT X 500G"
+  },
+  {
+    "sku": "0106000047",
+    "nombre": "CREMA PARIS LEDEVIT X 280G"
+  },
+  {
+    "sku": "0106000049",
+    "nombre": "CREMA PASTELERA LEDEVIT X 250G"
+  },
+  {
+    "sku": "0106000054",
+    "nombre": "CREMA VAINILLA LEDEVIT X 5KG SACHET"
+  },
+  {
+    "sku": "0106000055",
+    "nombre": "CREMA VAINILLA LEDEVIT X 1KG"
+  },
+  {
+    "sku": "0106000056",
+    "nombre": "CREMA VAINILLA LEDEVIT X 4.7KG BIDON"
+  },
+  {
+    "sku": "0106000057",
+    "nombre": "CREMA VAINILLA LEDEVIT X 500G"
+  },
+  {
+    "sku": "0106000080",
+    "nombre": "MOUSSE CHOCOLATE LEDEVIT X 250G PAQ"
+  },
+  {
+    "sku": "0106000132",
+    "nombre": "CREMA CHANTILLY LEDEVIT 8 X 500G CAJA"
+  },
+  {
+    "sku": "0106000135",
+    "nombre": "CREMA CHOCOLATE LEDEVIT 6 X 1KG CAJA"
+  },
+  {
+    "sku": "0106000136",
+    "nombre": "CREMA CHOCOLATE LEDEVIT 8 X 500G CAJA"
+  },
+  {
+    "sku": "0106000138",
+    "nombre": "CREMA FRUTILLA LEDEVIT 6 X 1KG CAJA"
+  },
+  {
+    "sku": "0106000140",
+    "nombre": "CREMA PARIS LEDEVIT 16 X 280G CAJA"
+  },
+  {
+    "sku": "0106000142",
+    "nombre": "CREMA VAINILLA LEDEVIT 6 X 1KG CAJA"
+  },
+  {
+    "sku": "0106000143",
+    "nombre": "CREMA VAINILLA LEDEVIT 8 X 500G CAJA"
+  },
+  {
+    "sku": "0106000144",
+    "nombre": "CREMA VAINILLA LEDEVIT 4 X 5KG CAJA SACHET"
+  },
+  {
+    "sku": "0106000145",
+    "nombre": "MOUSSE CHOCOLATE LEDEVIT CAJA 12 X 250G"
+  },
+  {
+    "sku": "0106000146",
+    "nombre": "CHANTILLY POLVO LEDEVIT CAJA 12 X 250G"
+  },
+  {
+    "sku": "0106000147",
+    "nombre": "CREMA PASTELERA LEDEVIT CAJA 12 X 250G"
+  },
+  {
+    "sku": "0106000148",
+    "nombre": "MERENGUE POLVO LEDEVIT CAJA 12 X 250G"
+  },
+  {
+    "sku": "0106000202",
+    "nombre": "MOUSSE CHOCOLATE LEDEVIT X KG PESABLE"
+  },
+  {
+    "sku": "0107000003",
+    "nombre": "DESTELLO NEUTRO LEDEVIT X 310G"
+  },
+  {
+    "sku": "0107000004",
+    "nombre": "DESTELLO NEUTRO LEDEVIT X KG PESABLE"
+  },
+  {
+    "sku": "0107000061",
+    "nombre": "DESTELLO NEUTRO LEDEVIT 16 X 310G CAJA"
+  },
+  {
+    "sku": "0118000040",
+    "nombre": "MIX TAPITA ALFAJOR LEDEVIT X 250G"
+  },
+  {
+    "sku": "0118000052",
+    "nombre": "MIX MACARONS LEDEVIT X 250G"
+  },
+  {
+    "sku": "0118000053",
+    "nombre": "CHANTILLY POLVO LEDEVIT X 1KG"
+  },
+  {
+    "sku": "0118000054",
+    "nombre": "MOUSSE CHOCO POLVO LEDEVIT X 1KG"
+  },
+  {
+    "sku": "0118000055",
+    "nombre": "CREMA PASTELERA LEDEVIT X 1KG"
+  },
+  {
+    "sku": "0118000076",
+    "nombre": "MIX CUPCAKE VAIN LEDEVIT X 500G"
+  },
+  {
+    "sku": "0118000077",
+    "nombre": "MIX CUPCAKE CHOCOLATELEDEVIT X 500G"
+  },
+  {
+    "sku": "0118000087",
+    "nombre": "CREMA PASTELERA LEDEVIT X KG PESABLE"
+  },
+  {
+    "sku": "0104000337",
+    "nombre": "PERLAS MIX BLANCO LAUACU X 20G"
+  },
+  {
+    "sku": "0104000339",
+    "nombre": "PERLAS ROJO LAUACU X 20G"
+  },
+  {
+    "sku": "0104000365",
+    "nombre": "PERLAS AZUL LAUACU X 20G"
+  },
+  {
+    "sku": "0104000366",
+    "nombre": "PERLAS CELESTE LAUACU X 20G"
+  },
+  {
+    "sku": "0104000368",
+    "nombre": "PERLAS BLANCO LAUACU X 20G"
+  },
+  {
+    "sku": "0104000369",
+    "nombre": "PERLAS NEGRO LAUACU X 20G"
+  },
+  {
+    "sku": "0104000371",
+    "nombre": "PERLAS VERDE LAUACU X 20G"
+  },
+  {
+    "sku": "0104000372",
+    "nombre": "PERLAS VIOLETA LAUACU X 20G"
+  },
+  {
+    "sku": "0104000382",
+    "nombre": "SPRINKLES PRIMAVERA LAUACU X 20G"
+  },
+  {
+    "sku": "0104000383",
+    "nombre": "SPRINKLES JARDIN LAUACU X 20G"
+  },
+  {
+    "sku": "0104000411",
+    "nombre": "PERLAS LILA LAUACU X 20G"
+  },
+  {
+    "sku": "0104000413",
+    "nombre": "PERLAS NARANJA LAUACU X 20G"
+  },
+  {
+    "sku": "0104000414",
+    "nombre": "PERLAS DORADO LAUACU X 20G"
+  },
+  {
+    "sku": "0104000419",
+    "nombre": "SPRINKLES MISTER LAUACU X 20G"
+  },
+  {
+    "sku": "0104000420",
+    "nombre": "SPRINKLES LADY LAUACU X 20G"
+  },
+  {
+    "sku": "0104000421",
+    "nombre": "SPRINKLES WHITE LAUACU X 20G"
+  },
+  {
+    "sku": "0104000462",
+    "nombre": "SPRINKLES UNICORNIO LAUACU X 20G"
+  },
+  {
+    "sku": "0104000463",
+    "nombre": "SPRINKLES CORAZONES LAUACU X 20G"
+  },
+  {
+    "sku": "0104000464",
+    "nombre": "SPRINKLES ESTRELLAS LAUACU X 20G ECO"
+  },
+  {
+    "sku": "0104000465",
+    "nombre": "SPRINKLES GLAMOUR LAUACU X 20G"
+  },
+  {
+    "sku": "0104000466",
+    "nombre": "SPRINKLES CANDY LAUACU X 20G"
+  },
+  {
+    "sku": "0104000467",
+    "nombre": "SPRINKLES COMUNION LAUACU X 20G"
+  },
+  {
+    "sku": "0104000468",
+    "nombre": "SPRINKLES BOSQUE LAUACU X 20G"
+  },
+  {
+    "sku": "0104000469",
+    "nombre": "SPRINKLES CORAZ MULTICOLOR LAUACU X 20G ECO"
+  },
+  {
+    "sku": "0104000470",
+    "nombre": "SPRINKLES TIK TOK LAUACU X 20G"
+  },
+  {
+    "sku": "0104000471",
+    "nombre": "SPRINKLES NAVIDAD LAUACU X 20G"
+  },
+  {
+    "sku": "0104000472",
+    "nombre": "SPRINKLES MIX GOLD LAUACU X 20G"
+  },
+  {
+    "sku": "0104000473",
+    "nombre": "SPRINKLES BOCA LAUACU X 20G"
+  },
+  {
+    "sku": "0104000475",
+    "nombre": "SPRINKLES MIX MAR LAUACU X 20G"
+  },
+  {
+    "sku": "0104000476",
+    "nombre": "SPRINKLES MIX ARGENTINA LAUACU X 20G"
+  },
+  {
+    "sku": "0104000477",
+    "nombre": "SPRINKLES NAVIDEÑO LAUACU X 20G"
+  },
+  {
+    "sku": "0104000478",
+    "nombre": "SPRINKLES RIVER LAUACU X 20G"
+  },
+  {
+    "sku": "0104000545",
+    "nombre": "PERLAS MAX I BLANCO LAUACU X 20G"
+  },
+  {
+    "sku": "0104000547",
+    "nombre": "PERLAS MIX PASTEL LAUACU X 20G"
+  },
+  {
+    "sku": "0104000564",
+    "nombre": "SPRINKLES PASTEL LAUACU X 20G ECO"
+  },
+  {
+    "sku": "0104000565",
+    "nombre": "SPRINKLES VERANO LAUACU X 20G ECO"
+  },
+  {
+    "sku": "0104000566",
+    "nombre": "SPRINKLES BAST RS LAUACU X 20G FORMITAS"
+  },
+  {
+    "sku": "0104000569",
+    "nombre": "SPRINKLES HELADITOS LAUACU X 20G FORMITAS"
+  },
+  {
+    "sku": "0104000584",
+    "nombre": "SPRINKLES BARBIE LAUACU X 20G ECO"
+  },
+  {
+    "sku": "0104000585",
+    "nombre": "SPRINKLES ULTRA B LAUACU X 20G"
+  },
+  {
+    "sku": "0104000586",
+    "nombre": "PERLAS NACIONAL PLA LAUACU X 20G"
+  },
+  {
+    "sku": "0104000591",
+    "nombre": "SPRINKLES LAUACU X KG PESABLE"
+  },
+  {
+    "sku": "0104000593",
+    "nombre": "PERLAS MIX DORADO LAUACU X 20G"
+  },
+  {
+    "sku": "0102000085",
+    "nombre": "BAÑO REPOSTERO BLANCO EASY CHOC X 150G"
+  },
+  {
+    "sku": "0102000087",
+    "nombre": "BAÑO REPOSTERO CON LECHE EASY CHOC X 150G"
+  },
+  {
+    "sku": "0102000095",
+    "nombre": "BAÑO REPOSTERO BLANCO ALPINO X KG PINS PESABLE"
+  },
+  {
+    "sku": "0102000096",
+    "nombre": "BAÑO REPOSTERO SEMIAMARGO ALPINO X KG PINS PESABLE"
+  },
+  {
+    "sku": "0102000114",
+    "nombre": "GOTAS BLANCO ALPINO X 1KG PAQ"
+  },
+  {
+    "sku": "0102000115",
+    "nombre": "GOTAS BLANCO ALPINO X KG PESABLE"
+  },
+  {
+    "sku": "0102000118",
+    "nombre": "GOTAS DULCE DE LECHE ALPINO X KG PESABLE"
+  },
+  {
+    "sku": "0102000119",
+    "nombre": "GOTAS SEMIAMARGO ALPINO X KG PESABLE"
+  },
+  {
+    "sku": "0102000121",
+    "nombre": "GOTAS SEMIAMARGO ALPINO X 1KG PAQ"
+  },
+  {
+    "sku": "0106000067",
+    "nombre": "GANACHE MANI ALPINO X 2.5KG BALDE"
+  },
+  {
+    "sku": "0106000068",
+    "nombre": "GANACHE MANI ALPINO X KG PESABLE"
+  },
+  {
+    "sku": "0106000071",
+    "nombre": "GANACHE SEMIAMARGO ALPINO X KG PESABLE"
+  },
+  {
+    "sku": "0106000193",
+    "nombre": "GANACHE BLANCO ALPINO X KG PESABLE"
+  },
+  {
+    "sku": "0102000082",
+    "nombre": "BAÑO REPOSTERO BLANCO BOMBONITO X 1KG PAQ"
+  },
+  {
+    "sku": "0102000084",
+    "nombre": "BAÑO REPOSTERO SEMIAMARGO BOMBONITO X 1KG PAQ"
+  },
+  {
+    "sku": "0102000246",
+    "nombre": "BAÑO REPOSTERO BLANCO BOMBONITO 3 X 1KG CAJA"
+  },
+  {
+    "sku": "0102000247",
+    "nombre": "BAÑO REPOSTERO SEMIAMARGO BOMBONITO 3 X 1K CAJA"
+  },
+  {
+    "sku": "0114000129",
+    "nombre": "CORTANTE DIAMANTE BOTICA GEOMETRICO X 2"
+  },
+  {
+    "sku": "0114000400",
+    "nombre": "CORTANTE PASTAFROLA BOTICA"
+  },
+  {
+    "sku": "0114000412",
+    "nombre": "CORTANTE ABC FUNKY BOTICA PLASTICO "
+  },
+  {
+    "sku": "0114000413",
+    "nombre": "CORTANTE ABC ROUNDY BOTICA PLASTICO "
+  },
+  {
+    "sku": "0114000414",
+    "nombre": "CORTANTE ABC CLASSY BOTICA PLASTICO"
+  },
+  {
+    "sku": "0114000416",
+    "nombre": "CORTANTE PLASTICO ABC NUMEROS BOTICA TYPING"
+  },
+  {
+    "sku": "0114000432",
+    "nombre": "CORTANTE PLASTICO HEXAGONAL BOTICA GEOMETRICO X 2"
+  },
+  {
+    "sku": "0114000767",
+    "nombre": "CORTANTE CIRCULO BOTICA GEOMETRICO"
+  },
+  {
+    "sku": "0114000768",
+    "nombre": "CORTANTE CUADRADO BOTICA GEOMETRICO"
+  },
+  {
+    "sku": "0117000062",
+    "nombre": "PLACA ALAMBRADO BOTICA PARA PETALO Y HOJA"
+  },
+  {
+    "sku": "0120000005",
+    "nombre": "ALMOHADILLA PARA FLORES BOTICA SET X 2"
+  },
+  {
+    "sku": "0120000293",
+    "nombre": "CAVA PETALOS Y HOJAS BOTICA"
+  },
+  {
+    "sku": "0120000297",
+    "nombre": "COOL PAD 12CM BOTICA"
+  },
+  {
+    "sku": "0120000345",
+    "nombre": "ESPOLVOREADOR BOTICA AZUCAR/FECULA"
+  },
+  {
+    "sku": "0120000356",
+    "nombre": "FRATACHO BORDES PERFECT BOTICA"
+  },
+  {
+    "sku": "0120000357",
+    "nombre": "FRATACHO ALISADOR BOTICA"
+  },
+  {
+    "sku": "0120000369",
+    "nombre": "LLUVIA EN BOTELLA BOTICA 500CC"
+  },
+  {
+    "sku": "0120000465",
+    "nombre": "PLACA TRABAJO BOTICA"
+  },
+  {
+    "sku": "0120000489",
+    "nombre": "SACABOCADO PARA CUPCAKE BOTICA"
+  },
+  {
+    "sku": "0120000490",
+    "nombre": "SELLO PARA GALLETITAS BOTICA"
+  },
+  {
+    "sku": "0120000588",
+    "nombre": "ESPATULA SCRAPER NUMERO 1 BOTICA"
+  },
+  {
+    "sku": "0120000589",
+    "nombre": "ESPATULA SCRAPER NUMERO 2 BOTICA"
+  },
+  {
+    "sku": "0120000590",
+    "nombre": "ESPATULA SCRAPER NUMERO 3 BOTICA"
+  },
+  {
+    "sku": "0120000803",
+    "nombre": "ABRE BALDES BOTICA"
+  },
+  {
+    "sku": "0120000805",
+    "nombre": "MANGA DESCARTABLE 30CM BOTICA"
+  },
+  {
+    "sku": "0120000806",
+    "nombre": "MANGA DESCARTABLE 25CM BOTICA"
+  },
+  {
+    "sku": "0120000807",
+    "nombre": "CUCHARAS MEDIDORAS BOTICA X 4"
+  },
+  {
+    "sku": "0120000808",
+    "nombre": "SELLO UNICORNIO BOTICA NUMEROS Y ESTAMPAS"
+  },
+  {
+    "sku": "0120000810",
+    "nombre": "PERLAS CERAMICA BOTICA PARA COCCION"
+  },
+  {
+    "sku": "0120000811",
+    "nombre": "TAZAS MEDIDORAS BOTICA X 4"
+  },
+  {
+    "sku": "0120000812",
+    "nombre": "CERNIDOR BOTICA"
+  },
+  {
+    "sku": "0120000813",
+    "nombre": "CORNET PLASTICO BOTICA 10 X 14CM"
+  },
+  {
+    "sku": "0120000814",
+    "nombre": "SELLO FANTASY MINUSCULA/MAYUSCULA BOTICA"
+  },
+  {
+    "sku": "0120000815",
+    "nombre": "SELLO LOLI POP MINUSCULA/MAYUSCULA BOTICA"
+  },
+  {
+    "sku": "0120000838",
+    "nombre": "ESPATULA SCRAPER NUMERO 4 BOTICA 24 X 7,5CM"
+  },
+  {
+    "sku": "0114000394",
+    "nombre": "CORTANTE PARA GALLETITA PARPEN X 4"
+  },
+  {
+    "sku": "0114000443",
+    "nombre": "CORTANTE PLASTICO PARPEN SET X 24"
+  },
+  {
+    "sku": "0117000008",
+    "nombre": "PLACA 137 PARPEN ESCENA PAREJA"
+  },
+  {
+    "sku": "0117000011",
+    "nombre": "PLACA 171 PARPEN ANIMALES PEQ"
+  },
+  {
+    "sku": "0117000027",
+    "nombre": "PLACA 374 PARPEN AJEDREZ X 1"
+  },
+  {
+    "sku": "0117000029",
+    "nombre": "PLACA 381 PARPEN ANIMALES GRANJA"
+  },
+  {
+    "sku": "0117000055",
+    "nombre": "PLACA CHUPETIN 652 PARPEN UNICORNIO"
+  },
+  {
+    "sku": "0117000136",
+    "nombre": "PLACA CHUPETIN 440 PARPEN PAREJAS"
+  },
+  {
+    "sku": "0117000144",
+    "nombre": "PLACA CHUPETIN 557 PARPEN ANGRY BIRDS"
+  },
+  {
+    "sku": "0117000147",
+    "nombre": "PLACA CHUPETIN 639 PARPEN MUSICALES"
+  },
+  {
+    "sku": "0117000440",
+    "nombre": "PLACA HUEVO 3D PARPEN"
+  },
+  {
+    "sku": "0117000568",
+    "nombre": "SET CAKE SORPRESA MINI PARPEN 10 X 14CM"
+  },
+  {
+    "sku": "0117000569",
+    "nombre": "SET CAKE SORPRESA GRANDE PARPEN 19 X 24CM"
+  },
+  {
+    "sku": "0117000570",
+    "nombre": "SET CAKE SORPRESA MEDIANO PARPEN 15 X 20CM"
+  },
+  {
+    "sku": "0117000572",
+    "nombre": "SET PLACA CORAZ DIAMANTE PARPEN"
+  },
+  {
+    "sku": "0117000573",
+    "nombre": "PLACA GEMAS Y DIAMANTES PARPEN SET X 2 SPBD"
+  },
+  {
+    "sku": "0117000575",
+    "nombre": "SET PLACA HUEMOJIS NUMERO 1 PARPEN 10CM SPE101"
+  },
+  {
+    "sku": "0117000576",
+    "nombre": "SET PLACA HUEMOJIS NUMERO 2 PARPEN 10CM SPE102"
+  },
+  {
+    "sku": "0117000581",
+    "nombre": "SET PLACA HUEVO DIAMANTE PARPEN 10CM SPD10"
+  },
+  {
+    "sku": "0117000582",
+    "nombre": "SET PLACA HUEVO DIAMANTE PARPEN 14CM SPD14"
+  },
+  {
+    "sku": "0117000585",
+    "nombre": "SET PLACA LLAMITA PARPEN X 2"
+  },
+  {
+    "sku": "0117000586",
+    "nombre": "SET PLACA MINI HUEVITOS PARPEN SPMH"
+  },
+  {
+    "sku": "0117000587",
+    "nombre": "SET PLACA NUMEROS DEL 0 AL 9 PARPEN SP1N"
+  },
+  {
+    "sku": "0117000588",
+    "nombre": "SET PLACA PALETA CONEJO PARPEN SPPC"
+  },
+  {
+    "sku": "0117000590",
+    "nombre": "SET PLACA PALETA MAGICO PARPEN SPP03"
+  },
+  {
+    "sku": "0117000612",
+    "nombre": "SET PLACA OREJAS CONEJO PARPEN SPOC"
+  },
+  {
+    "sku": "0117000613",
+    "nombre": "SET PLACA FORMA POP IT PARPEN SPPI"
+  },
+  {
+    "sku": "0117000614",
+    "nombre": "SET PLACA TAB CORAZON PARPEN SPTC"
+  },
+  {
+    "sku": "0117000615",
+    "nombre": "SET PLACA TAB CONEJO PARPEN CON ZANAHORIAS SPTCZ"
+  },
+  {
+    "sku": "0117000616",
+    "nombre": "SET PLACA TAB GEOMETRIC PARPEN SPTG"
+  },
+  {
+    "sku": "0117000617",
+    "nombre": "SET PLACA BIG CANDY PARPEN SPBC"
+  },
+  {
+    "sku": "0117000618",
+    "nombre": "SET PLACA BLOQUE MUÑECO PARPEN SPBM"
+  },
+  {
+    "sku": "0117000619",
+    "nombre": "SET PLACA BARRA TABLEAD PARPEN TOBLERONE SPBT"
+  },
+  {
+    "sku": "0117000620",
+    "nombre": "SET PLACA CONEJO GALLET PARPEN SPCC"
+  },
+  {
+    "sku": "0117000623",
+    "nombre": "SET PLACA CHOCOGALLETA PARPEN SPCG"
+  },
+  {
+    "sku": "0117000624",
+    "nombre": "SET PLACA HUEVO FLAMENC PARPEN SPF10"
+  },
+  {
+    "sku": "0117000625",
+    "nombre": "SET PLACA HUEVO ESCAMAD PARPEN 15CM SPHLE"
+  },
+  {
+    "sku": "0117000626",
+    "nombre": "SET PLACA HUEVO OSTRA PARPEN 15CM SPHLO"
+  },
+  {
+    "sku": "0117000627",
+    "nombre": "SET PLACA MINI CANDY PARPEN SPMC"
+  },
+  {
+    "sku": "0117000743",
+    "nombre": "PLACA VINTAGE PARPEN"
+  },
+  {
+    "sku": "0117000840",
+    "nombre": "SET PLACA BOMBA SORPRE PARPEN PIÑATA 10 X 14CM"
+  },
+  {
+    "sku": "0120000204",
+    "nombre": "BOQUILLA GRANDE NUMERO 2A PARPEN X 5 RIZADO CURVO"
+  },
+  {
+    "sku": "0120000205",
+    "nombre": "BOQUILLA GRANDE NUMERO 2A PARPEN X 1 RIZADO CURVO"
+  },
+  {
+    "sku": "0120000206",
+    "nombre": "BOQUILLA GRANDE NUMERO 2C PARPEN X 5 RIZADO CURVO"
+  },
+  {
+    "sku": "0120000207",
+    "nombre": "BOQUILLA GRANDE NUMERO 2C PARPEN X 1 RIZADO CURVO"
+  },
+  {
+    "sku": "0120000210",
+    "nombre": "BOQUILLA GRANDE NUMERO 2E PARPEN X 5 RIZADO CURVO"
+  },
+  {
+    "sku": "0120000211",
+    "nombre": "BOQUILLA GRANDE NUMERO 2E PARPEN X 1 RIZADO CURVO"
+  },
+  {
+    "sku": "0120000212",
+    "nombre": "BOQUILLA GRANDE NUMERO 2F PARPEN X 5 RIZADO CURVO"
+  },
+  {
+    "sku": "0120000213",
+    "nombre": "BOQUILLA GRANDE NUMERO 2F PARPEN X 1 RIZADO CURVO"
+  },
+  {
+    "sku": "0120000218",
+    "nombre": "BOQUILLA GRANDE NUMERO 3B PARPEN X 5 RIZADO RECTO"
+  },
+  {
+    "sku": "0120000219",
+    "nombre": "BOQUILLA GRANDE NUMERO 3B PARPEN X 1 RIZADO RECTO"
+  },
+  {
+    "sku": "0120000223",
+    "nombre": "BOQUILLA GRANDE NUMERO 4B PARPEN X 5 RIZADO RECTO"
+  },
+  {
+    "sku": "0120000224",
+    "nombre": "BOQUILLA GRANDE NUMERO 4B PARPEN X 1 RIZADO RECTO"
+  },
+  {
+    "sku": "0120000228",
+    "nombre": "BOQUILLA GRANDE NUMERO 5B PARPEN X 5 RIZADO RECTO"
+  },
+  {
+    "sku": "0120000229",
+    "nombre": "BOQUILLA GRANDE NUMERO 5B PARPEN X 1 RIZADO RECTO"
+  },
+  {
+    "sku": "0120000230",
+    "nombre": "BOQUILLA GRANDE NUMERO 5P PARPEN X 5 PENTAGRAMA"
+  },
+  {
+    "sku": "0120000231",
+    "nombre": "BOQUILLA GRANDE NUMERO 5P PARPEN X 1 PENTAGRAMA"
+  },
+  {
+    "sku": "0120000236",
+    "nombre": "BOQUILLA GRANDE NUMERO 688 PARPEN X 5 RIZADO RECTO"
+  },
+  {
+    "sku": "0120000237",
+    "nombre": "BOQUILLA GRANDE NUMERO 688 PARPEN X 1 RIZADO RECTO"
+  },
+  {
+    "sku": "0120000238",
+    "nombre": "BOQUILLA GRANDE NUMERO 6B PARPEN X 5 RIZADO RECTO"
+  },
+  {
+    "sku": "0120000239",
+    "nombre": "BOQUILLA GRANDE NUMERO 6B PARPEN X 1 RIZADO RECTO"
+  },
+  {
+    "sku": "0120000245",
+    "nombre": "BOQUILLA GRANDE NUMERO 788 PARPEN X 5 RIZADO CURVO"
+  },
+  {
+    "sku": "0120000246",
+    "nombre": "BOQUILLA GRANDE NUMERO 788 PARPEN X 1 RIZADO CURVO"
+  },
+  {
+    "sku": "0120000250",
+    "nombre": "BOQUILLA GRANDE N B10 PARPEN X 5 VOLADOS"
+  },
+  {
+    "sku": "0120000251",
+    "nombre": "BOQUILLA GRANDE N B10 PARPEN X 1 VOLADOS"
+  },
+  {
+    "sku": "0120000254",
+    "nombre": "BOQUILLA GRANDE N C10 PARPEN X 5 REDONDO"
+  },
+  {
+    "sku": "0120000255",
+    "nombre": "BOQUILLA GRANDE N C10 PARPEN X 1 REDONDO"
+  },
+  {
+    "sku": "0120000256",
+    "nombre": "BOQUILLA GRANDE N C12 PARPEN X 5 REDONDO"
+  },
+  {
+    "sku": "0120000257",
+    "nombre": "BOQUILLA GRANDE N C12 PARPEN X 1 REDONDO"
+  },
+  {
+    "sku": "0120000258",
+    "nombre": "BOQUILLA GRANDE N C15 PARPEN X 5 REDONDO"
+  },
+  {
+    "sku": "0120000259",
+    "nombre": "BOQUILLA GRANDE N C15 PARPEN X 1 REDONDO"
+  },
+  {
+    "sku": "0120000260",
+    "nombre": "BOQUILLA GRANDE N C18 PARPEN X 5 REDONDO"
+  },
+  {
+    "sku": "0120000261",
+    "nombre": "BOQUILLA GRANDE N C18 PARPEN X 1 REDONDO"
+  },
+  {
+    "sku": "0120000262",
+    "nombre": "BOQUILLA GRANDE N C2 PARPEN X 5 REDONDO"
+  },
+  {
+    "sku": "0120000263",
+    "nombre": "BOQUILLA GRANDE N C2 PARPEN X 1 REDONDO"
+  },
+  {
+    "sku": "0120000264",
+    "nombre": "BOQUILLA GRANDE N C5 PARPEN X 5 REDONDO"
+  },
+  {
+    "sku": "0120000265",
+    "nombre": "BOQUILLA GRANDE N C5 PARPEN X 1 REDONDO"
+  },
+  {
+    "sku": "0120000268",
+    "nombre": "BOQUILLA GRANDE N SH1 PARPEN X 5 SAINT HONORE"
+  },
+  {
+    "sku": "0120000269",
+    "nombre": "BOQUILLA GRANDE N SH1 PARPEN X 1 SAINT HONORE"
+  },
+  {
+    "sku": "0120000270",
+    "nombre": "BOQUILLA GRANDE N SH2 PARPEN X 5 SAINT HONORE"
+  },
+  {
+    "sku": "0120000271",
+    "nombre": "BOQUILLA GRANDE N SH2 PARPEN X 1 SAINT HONORE"
+  },
+  {
+    "sku": "0120000272",
+    "nombre": "BOQUILLA GRANDE N T61 PARPEN X 5 TRIPLE"
+  },
+  {
+    "sku": "0120000273",
+    "nombre": "BOQUILLA GRANDE N T61 PARPEN X 1 TRIPLE"
+  },
+  {
+    "sku": "0120000274",
+    "nombre": "BOQUILLA GRANDE N T71 PARPEN X 5 TRIPLE"
+  },
+  {
+    "sku": "0120000275",
+    "nombre": "BOQUILLA GRANDE N T71 PARPEN X 1 TRIPLE"
+  },
+  {
+    "sku": "0120000278",
+    "nombre": "BOQUILLA ENMASCARAR PARPEN CON 6 MANGA DESCARTABLE"
+  },
+  {
+    "sku": "0120000306",
+    "nombre": "CUPLA TRICOLOR GRANDE PARPEN"
+  },
+  {
+    "sku": "0120000347",
+    "nombre": "ESTECA METAL PARAGUITA PARPEN"
+  },
+  {
+    "sku": "0120000348",
+    "nombre": "ESTECA PLANA VAINILLA PARPEN"
+  },
+  {
+    "sku": "0120000367",
+    "nombre": "LAMINA TEXTURADA DECORATIVA PARPEN X 1"
+  },
+  {
+    "sku": "0120000370",
+    "nombre": "MANGA CON CUPLA NUMERO 2 PARPEN"
+  },
+  {
+    "sku": "0120000371",
+    "nombre": "MANGA CON CUPLA NUMERO 3 PARPEN"
+  },
+  {
+    "sku": "0120000372",
+    "nombre": "MANGA CON CUPLA NUMERO 4 PARPEN"
+  },
+  {
+    "sku": "0120000379",
+    "nombre": "MANGA DESCARTABLE NUMERO 8 20CM PARPEN X 12"
+  },
+  {
+    "sku": "0120000380",
+    "nombre": "MANGA DESCARTABLE NUMERO 12 30CM PARPEN X 12"
+  },
+  {
+    "sku": "0120000381",
+    "nombre": "MANGA DESCARTABLE NUMERO 18 45CM PARPEN X 12"
+  },
+  {
+    "sku": "0120000387",
+    "nombre": "MANGA NUMERO 0 PARPEN"
+  },
+  {
+    "sku": "0120000388",
+    "nombre": "MANGA NUMERO 1 PARPEN"
+  },
+  {
+    "sku": "0120000389",
+    "nombre": "MANGA NUMERO 2 PARPEN"
+  },
+  {
+    "sku": "0120000390",
+    "nombre": "MANGA NUMERO 3 PARPEN"
+  },
+  {
+    "sku": "0120000391",
+    "nombre": "MANGA NUMERO 4 PARPEN"
+  },
+  {
+    "sku": "0120000392",
+    "nombre": "MANGA NUMERO 5 PARPEN"
+  },
+  {
+    "sku": "0120000394",
+    "nombre": "MANGA NUMERO 7 PARPEN"
+  },
+  {
+    "sku": "0120000476",
+    "nombre": "RODILLO CORTANTE CINTA PARPEN INTERCAMBIABLES"
+  },
+  {
+    "sku": "0120000477",
+    "nombre": "RODILLO MINI PARPEN"
+  },
+  {
+    "sku": "0120000496",
+    "nombre": "SET DECO/RELLEN CUPCAKE PARPEN"
+  },
+  {
+    "sku": "0120000503",
+    "nombre": "SET GRANDE 4 BOQUILLA + MANGA PARPEN"
+  },
+  {
+    "sku": "0120000570",
+    "nombre": "CORTANTES SET PARA PASTAS PARPEN"
+  },
+  {
+    "sku": "0120000592",
+    "nombre": "RODILLO CORTANTE CINTA PARPEN"
+  },
+  {
+    "sku": "0120000721",
+    "nombre": "BOQUILLA CHICA NUMERO 54 PARPEN X 6 BORDURA VOLADO"
+  },
+  {
+    "sku": "0120000723",
+    "nombre": "BOQUILLA CHICA NUMERO 56 PARPEN X 6 HOJA"
+  },
+  {
+    "sku": "0120000724",
+    "nombre": "BOQUILLA CHICA NUMERO 60 PARPEN X 6 REDONDO"
+  },
+  {
+    "sku": "0120000726",
+    "nombre": "BOQUILLA CHICA NUMERO 61 PARPEN X 6 RIZADO RECTO"
+  },
+  {
+    "sku": "0120000727",
+    "nombre": "BOQUILLA CHICA NUMERO 62 PARPEN X 6 RIZADO CURVO"
+  },
+  {
+    "sku": "0120000783",
+    "nombre": "BOQUILLA GRANDE NUMERO 1M PARPEN X 5 RIZADO RECTO"
+  },
+  {
+    "sku": "0120000794",
+    "nombre": "TUERCA PLASTICO ICA PARPEN REPUESTO"
+  },
+  {
+    "sku": "0120000796",
+    "nombre": "PINZA MARCADORA PARPEN"
+  },
+  {
+    "sku": "0114000423",
+    "nombre": "CORTANTE PLASTICO CORAZON COOPER MARCADOR X 4"
+  },
+  {
+    "sku": "0114000849",
+    "nombre": "CAMPANITAS PLASTICO ICAS COOPER X 4 PARA FLORES"
+  },
+  {
+    "sku": "0120000403",
+    "nombre": "MANGA SOLDADA NUMERO 1 COOPER"
+  },
+  {
+    "sku": "0120000637",
+    "nombre": "MANGA COSIDA NUMERO 1 COOPER"
+  },
+  {
+    "sku": "0120000638",
+    "nombre": "MANGA COSIDA NUMERO 2 COOPER"
+  },
+  {
+    "sku": "0120000641",
+    "nombre": "SET CAKE DRUMS 2 PLATOS COOPER CON ESPATULA Y RASQUET"
+  },
+  {
+    "sku": "0114000891",
+    "nombre": "CINTURA PERFORADA CUADRADO 20CM DCL"
+  },
+  {
+    "sku": "0114000892",
+    "nombre": "CINTURA PERFORADA CUADRADO 22CM DCL"
+  },
+  {
+    "sku": "0114000893",
+    "nombre": "CINTURA PERFORADA CUADRADO 24CM DCL"
+  },
+  {
+    "sku": "0114000894",
+    "nombre": "SET CORTANTE GALLETITA DCLX 9"
+  },
+  {
+    "sku": "0114000895",
+    "nombre": "SET CORTANTE FORMAS CHI DCL"
+  },
+  {
+    "sku": "0114000896",
+    "nombre": "SET CORTANTE FORMAS GRANDE DCL"
+  },
+  {
+    "sku": "0114000905",
+    "nombre": "SET CORTANTE GALLETITA DCLX 6"
+  },
+  {
+    "sku": "0114000906",
+    "nombre": "SET CORTANTE GALLETITA DCLX 3"
+  },
+  {
+    "sku": "0114000907",
+    "nombre": "SET CORTANTE REDONDO GRANDE DCLX 3"
+  },
+  {
+    "sku": "0114000908",
+    "nombre": "MOLDE PERICO NUMERO 1 DCLX 12"
+  },
+  {
+    "sku": "0114000909",
+    "nombre": "MOLDE CANNOLI DCL"
+  },
+  {
+    "sku": "0114000910",
+    "nombre": "SET CORTANTE GALLETITA N 1 DCLX 6"
+  },
+  {
+    "sku": "0114000933",
+    "nombre": "COMBO 1 MEDIDOR DCL"
+  },
+  {
+    "sku": "0114000934",
+    "nombre": "COMBO 2 REPOSTERO DCL"
+  },
+  {
+    "sku": "0114000935",
+    "nombre": "COMBO 3 PIZZERO DCL"
+  },
+  {
+    "sku": "0114000936",
+    "nombre": "COMBO 4 COOKIES DCL"
+  },
+  {
+    "sku": "0114000937",
+    "nombre": "COMBO 5 DECORACION DCL"
+  },
+  {
+    "sku": "0114000938",
+    "nombre": "COMBO 6 PASTELERO DCL"
+  },
+  {
+    "sku": "0114000939",
+    "nombre": "COMBO 7 PANADERO DCL"
+  },
+  {
+    "sku": "0120000642",
+    "nombre": "ESPATULA LEVANTATORTAS DCLINOXIDABLE X "
+  },
+  {
+    "sku": "0120000643",
+    "nombre": "CUPLA DCL"
+  },
+  {
+    "sku": "0120000644",
+    "nombre": "ESPATULA CORNETE DCL"
+  },
+  {
+    "sku": "0120000645",
+    "nombre": "BASE GIRATORIA BLANCO DCL"
+  },
+  {
+    "sku": "0120000646",
+    "nombre": "BASE GIRATORIA VERDE DCL"
+  },
+  {
+    "sku": "0120000647",
+    "nombre": "BASE GIRATORIA ROSA DCL"
+  },
+  {
+    "sku": "0120000648",
+    "nombre": "TAZAS MEDIDORAS DCL"
+  },
+  {
+    "sku": "0120000649",
+    "nombre": "CUCHARAS MEDIDORAS DCL"
+  },
+  {
+    "sku": "0120000650",
+    "nombre": "REJILLA REDONDO COBRE 33CM DCL"
+  },
+  {
+    "sku": "0120000651",
+    "nombre": "REJILLA REDONDO NEGRO 33CM DCL"
+  },
+  {
+    "sku": "0115000158",
+    "nombre": "POSTRE MANI LHERITIER X KG PESABLE"
+  },
+  {
+    "sku": "0115000203",
+    "nombre": "SALSA FRUTOS ROJOS LHERITIER X 500G"
+  },
+  {
+    "sku": "0115000205",
+    "nombre": "SALSA PAN DULCE LHERITIER X 500G"
+  },
+  {
+    "sku": "0115000207",
+    "nombre": "SALSA AVELLANA LHERITIER X 500G"
+  },
+  {
+    "sku": "0115000209",
+    "nombre": "SALSA AVELLANA LHERITIER X 200G"
+  },
+  {
+    "sku": "0115000218",
+    "nombre": "POSTRE MANI LHERITIER X 100G"
+  },
+  {
+    "sku": "0115000219",
+    "nombre": "POSTRE MANI LHERITIER 40 X 100G CAJA"
+  },
+  {
+    "sku": "0115000254",
+    "nombre": "PASTA ANAST LHERITIER 6 X 3KG CAJA"
+  },
+  {
+    "sku": "0115000255",
+    "nombre": "POSTRE MANI LHERITIER 6 X 1KG CAJA"
+  },
+  {
+    "sku": "0115000256",
+    "nombre": "SALSA CARAMEL LHERITIER 6 X 200G CAJA"
+  },
+  {
+    "sku": "0115000257",
+    "nombre": "SALSA CARAMEL LHERITIER 6 X 500G CAJA"
+  },
+  {
+    "sku": "0115000258",
+    "nombre": "SALSA CHOCO LHERITIER 6 X 500G CAJA"
+  },
+  {
+    "sku": "0115000259",
+    "nombre": "SALSA CHOCO LHERITIER 6 X 200G CAJA"
+  },
+  {
+    "sku": "0115000260",
+    "nombre": "SALSA DULCE DE LECHE LHERITIER 6 X 500G CAJA"
+  },
+  {
+    "sku": "0115000261",
+    "nombre": "SALSA DULCE DE LECHE LHERITIER 6 X 200G CAJA"
+  },
+  {
+    "sku": "0115000262",
+    "nombre": "SALSA FRUTILL LHERITIER 6 X 200G CAJA"
+  },
+  {
+    "sku": "0115000263",
+    "nombre": "SALSA FRUTILL LHERITIER 6 X 500G CAJA"
+  },
+  {
+    "sku": "0115000264",
+    "nombre": "SALSA PAN DULCE LHERITIER 6 X 200G CAJA"
+  },
+  {
+    "sku": "0115000265",
+    "nombre": "SALSA FRUTOS ROJOS LHERITIER 6 X 500G CAJA"
+  },
+  {
+    "sku": "0115000266",
+    "nombre": "SALSA PAN DULCE LHERITIER 6 X 500G CAJA"
+  },
+  {
+    "sku": "0115000267",
+    "nombre": "SALSA AVELLANA LHERITIER 6 X 500 CAJA"
+  },
+  {
+    "sku": "0115000268",
+    "nombre": "SALSA AVELLANA LHERITIER 6 X 200 CAJA"
+  },
+  {
+    "sku": "0115000295",
+    "nombre": "SALSA FRUTOS ROJOS LHERITIER 6 X 200G CAJA"
+  },
+  {
+    "sku": "0104000342",
+    "nombre": "MANI CROCANTE LHERITIER X KG PESABLE"
+  },
+  {
+    "sku": "0107000060",
+    "nombre": "DULCE DE LECHE LHERITIER 6 X 1KG CAJA"
+  },
+  {
+    "sku": "0115000047",
+    "nombre": "PASTA ANAST LHERITIER X KG PESABLE"
+  },
+  {
+    "sku": "0115000048",
+    "nombre": "PASTA ANAST LHERITIER X 3KG"
+  },
+  {
+    "sku": "0115000049",
+    "nombre": "PASTA ANAST LHERITIER X 500G"
+  },
+  {
+    "sku": "0115000116",
+    "nombre": "PASTA RELLENO AVELLAN MAPSA X 450G"
+  },
+  {
+    "sku": "0115000118",
+    "nombre": "PASTA RELLENO BANANA MAPSA X 450G"
+  },
+  {
+    "sku": "0115000120",
+    "nombre": "PASTA RELLENO CHOCO MAPSA X 450G"
+  },
+  {
+    "sku": "0115000122",
+    "nombre": "PASTA RELLENO FRUTILL MAPSA X 450G"
+  },
+  {
+    "sku": "0115000126",
+    "nombre": "PASTA RELLENO MANI MAPSA X 450G"
+  },
+  {
+    "sku": "0115000128",
+    "nombre": "PASTA RELLENO MENTA MAPSA X 450G"
+  },
+  {
+    "sku": "0115000241",
+    "nombre": "PASTA RELLENO ALMENDRA MAPSA CAJA 6 X 500G"
+  },
+  {
+    "sku": "0115000242",
+    "nombre": "PASTA RELLENO AVELLAN MAPSA CAJA 6 X 500G"
+  },
+  {
+    "sku": "0115000243",
+    "nombre": "PASTA RELLENO BANANA MAPSA CAJA 6 X 500G"
+  },
+  {
+    "sku": "0115000244",
+    "nombre": "PASTA RELLENO CHOCO MAPSA CAJA 6 X 500G"
+  },
+  {
+    "sku": "0115000245",
+    "nombre": "PASTA RELLENO FRUTILLA MAPSA CAJA 6 X 500G"
+  },
+  {
+    "sku": "0115000246",
+    "nombre": "PASTA RELLENO LIMON MAPSA CAJA 6 X 500G"
+  },
+  {
+    "sku": "0115000248",
+    "nombre": "PASTA RELLENO MENTA MAPSA CAJA 6 X 500G"
+  },
+  {
+    "sku": "0102000004",
+    "nombre": "BAÑO MOLDEO BLANCO MAPSA X 500G BOTON"
+  },
+  {
+    "sku": "0102000007",
+    "nombre": "BAÑO MOLDEO LECHE MAPSA X 500G BOTON"
+  },
+  {
+    "sku": "0102000010",
+    "nombre": "BAÑO MOLDEO SEMIAMA MAPSA X 500 BOTON"
+  },
+  {
+    "sku": "0102000243",
+    "nombre": "BAÑO MOLDEO BLANCO MAPSA CAJA BOTON 10 X 500G"
+  },
+  {
+    "sku": "0102000244",
+    "nombre": "BAÑO MOLDEO LECHE MAPSA CAJA BOTON 10 X 500G"
+  },
+  {
+    "sku": "0102000245",
+    "nombre": "BAÑO MOLDEO SEMIAMARGO MAPSA CAJA BOTON 10 X 500G"
+  },
+  {
+    "sku": "0102000296",
+    "nombre": "CACAO AMARGO MAPSA X KG PESABLE"
+  },
+  {
+    "sku": "0102000076",
+    "nombre": "BAÑO REPOSTERO BLANCO AGUILA X 150G"
+  },
+  {
+    "sku": "0102000078",
+    "nombre": "BAÑO REPOSTERO CON LECHE AGUILA X 150G"
+  },
+  {
+    "sku": "0102000080",
+    "nombre": "BAÑO REPOSTERO SEMIAMARGO AGUILA X 150G"
+  },
+  {
+    "sku": "0102000198",
+    "nombre": "BAÑO REPOSTERO CELESTE AGUILA X 150G PAQ"
+  },
+  {
+    "sku": "0102000199",
+    "nombre": "BAÑO REPOSTERO ROSA AGUILA X 150G PAQ"
+  },
+  {
+    "sku": "0102000277",
+    "nombre": "BAÑO REPOSTERO BLANCO AGUILA 12 X 150G CAJA"
+  },
+  {
+    "sku": "0102000278",
+    "nombre": "BAÑO REPOSTERO CON LECHE AGUILA 12 X 150G CAJA"
+  },
+  {
+    "sku": "0102000279",
+    "nombre": "BAÑO REPOSTERO SEMIAMARGO AGUILA 12 X 150G CAJA"
+  },
+  {
+    "sku": "0102000297",
+    "nombre": "CHOCOLATE 80% CACAO AGUILA X 150G"
+  },
+  {
+    "sku": "0115000159",
+    "nombre": "PASTA UNTABLE FONDUE AGUILA X 290G 3 EN 1"
+  },
+  {
+    "sku": "0115000160",
+    "nombre": "PASTA UNTABLE AVELLANA AGUILA X 290G"
+  },
+  {
+    "sku": "0102000022",
+    "nombre": "BAÑO MOLDEO CON LECHE MAPRICOA X KG PESABLE"
+  },
+  {
+    "sku": "0102000137",
+    "nombre": "CHOCOLITO BLANCO MAPRICOA X KG PESABLE"
+  },
+  {
+    "sku": "0102000142",
+    "nombre": "CHOCOLITO SEMIAMARGO MAPRICOA X KG PESABLE"
+  },
+  {
+    "sku": "0102000286",
+    "nombre": "CHOCOLITO MINI MAPRICOA 3 X 1KG CAJA"
+  },
+  {
+    "sku": "0102000298",
+    "nombre": "BAÑO REPOSTERO DULCE DE LECHE MAPRICOA X 250"
+  },
+  {
+    "sku": "0102000299",
+    "nombre": "BAÑO REPOSTERO SEMIAMARGO MAPRICOA X 150G"
+  },
+  {
+    "sku": "0102000302",
+    "nombre": "BAÑO ALFAJORERO BLANCO MAPRICOA X 1KG"
+  },
+  {
+    "sku": "0101000038",
+    "nombre": "AZUCAR IMPALPABLE REFINADA KEUKEN X KG PESABLE"
+  },
+  {
+    "sku": "0105000042",
+    "nombre": "POLVO HORNEAR KEUKEN X KG PESABLE"
+  },
+  {
+    "sku": "0105000061",
+    "nombre": "POLVO HORNEAR KEUKEN 12 X 500G CAJA"
+  },
+  {
+    "sku": "0105000062",
+    "nombre": "POLVO HORNEAR KEUKEN X 500G PAQ"
+  },
+  {
+    "sku": "0106000099",
+    "nombre": "MOUSSE LIMON KEUKEN X 800G PAQ"
+  },
+  {
+    "sku": "0106000104",
+    "nombre": "MOUSSE VAINILLA KEUKEN X 800G PAQ"
+  },
+  {
+    "sku": "0106000105",
+    "nombre": "MOUSSE VAINILLA KEUKEN X KG PESABLE"
+  },
+  {
+    "sku": "0106000156",
+    "nombre": "MOUSSE LIMON KEUKEN 6 X 800G CAJA"
+  },
+  {
+    "sku": "0106000157",
+    "nombre": "MOUSSE VAINILLA KEUKEN 6 X 800G CAJA"
+  },
+  {
+    "sku": "0106000161",
+    "nombre": "MOUSSE VAINILLA KEUKEN X 500G"
+  },
+  {
+    "sku": "0106000162",
+    "nombre": "MOUSSE VAINILLA KEUKEN 12 X 500G CAJA"
+  },
+  {
+    "sku": "0106000174",
+    "nombre": "MIX MERENGUE KEUKEN X 500G PAQ"
+  },
+  {
+    "sku": "0106000175",
+    "nombre": "MOUSSE CHOCOLATE KEUKEN X 500G PAQ"
+  },
+  {
+    "sku": "0106000176",
+    "nombre": "MOUSSE DULCE DE LECHE KEUKEN X 500G PAQ"
+  },
+  {
+    "sku": "0106000177",
+    "nombre": "MOUSSE FRUTOS ROJOS KEUKEN X 500G PAQ"
+  },
+  {
+    "sku": "0106000179",
+    "nombre": "MOUSSE CHOCOLATE KEUKEN 12 X 500 CAJA"
+  },
+  {
+    "sku": "0106000180",
+    "nombre": "MOUSSE DULCE DE LECHE KEUKEN 12 X 500G CAJA"
+  },
+  {
+    "sku": "0106000181",
+    "nombre": "MOUSSE FRUTOS ROJOS KEUKEN 12 X 500G CAJA"
+  },
+  {
+    "sku": "0106000185",
+    "nombre": "MOUSSE FRUTILLA KEUKEN 12 X 500G CAJA"
+  },
+  {
+    "sku": "0106000186",
+    "nombre": "MOUSSE FRUTILLA KEUKEN X 500G PAQ"
+  },
+  {
+    "sku": "0106000189",
+    "nombre": "MOUSSE CHOCO KEUKEN X 3KG PAQ"
+  },
+  {
+    "sku": "0106000190",
+    "nombre": "CREMA PASTELERA KEUKEN X 3KG PAQ"
+  },
+  {
+    "sku": "0106000200",
+    "nombre": "MOUSSE LIMON KEUKEN X KG PESABLE"
+  },
+  {
+    "sku": "0107000024",
+    "nombre": "JALEA EN FRIO KEUKEN X KG PESABLE"
+  },
+  {
+    "sku": "0115000188",
+    "nombre": "VARIEGATO FRUTOS ROJO KEUKEN X KG PESABLE"
+  },
+  {
+    "sku": "0115000189",
+    "nombre": "VARIEGATO FRUTOS ROJOS KEUKEN X 2.5KG"
+  },
+  {
+    "sku": "0115000192",
+    "nombre": "VARIEGATO MARACUYA KEUKEN X KG PESABLE"
+  },
+  {
+    "sku": "0115000193",
+    "nombre": "VARIEGATO MARACUY KEUKEN X 2.5KG CON SEMILLAS"
+  },
+  {
+    "sku": "0115000197",
+    "nombre": "VARIEGATO FRAMB KEUKEN X 2.5KG"
+  },
+  {
+    "sku": "0115000201",
+    "nombre": "VARIEGATO FRAMBUESA KEUKEN X 250 PESABLE"
+  },
+  {
+    "sku": "0115000301",
+    "nombre": "VARIEGATO FRUTILLA KEUKEN X 5KG"
+  },
+  {
+    "sku": "0118000026",
+    "nombre": "MIX CHANTILLY KEUKEN X 800G"
+  },
+  {
+    "sku": "0118000041",
+    "nombre": "MIX CAKE CHOCOLATE KEUKEN X 3KG"
+  },
+  {
+    "sku": "0118000044",
+    "nombre": "PAN DE QUESO KEUKEN X 3KG"
+  },
+  {
+    "sku": "0118000056",
+    "nombre": "MIX CAKE CHOCOLATE KEUKEN X KG PESABLE"
+  },
+  {
+    "sku": "0118000066",
+    "nombre": "MIX CHANTILLY KEUKEN 6 X 800G CAJA"
+  },
+  {
+    "sku": "0118000071",
+    "nombre": "PAN DE QUESO KEUKEN X 500G"
+  },
+  {
+    "sku": "0118000073",
+    "nombre": "MIX SABLE KEUKEN X 500G PAQ"
+  },
+  {
+    "sku": "0118000074",
+    "nombre": "MIX SABLE KEUKEN 12 X 500G CAJA"
+  },
+  {
+    "sku": "0118000085",
+    "nombre": "MIX CHANTILLY KEUKEN X KG PESABLE"
+  },
+  {
+    "sku": "0118000088",
+    "nombre": "BIZCOCHUELO VAIN KEUKEN X 3KG"
+  },
+  {
+    "sku": "0118000089",
+    "nombre": "MIX CUPCAKE CHOCO KEUKEN X 3KG"
+  },
+  {
+    "sku": "0102000050",
+    "nombre": "CACAO NEGRO FX  X KG PESABLE"
+  },
+  {
+    "sku": "0102000201",
+    "nombre": "CACAO AMARGO ALCALINO FX  X 1KG PAQ"
+  },
+  {
+    "sku": "0102000203",
+    "nombre": "CACAO NEGRO NOIR FX  X 1KG PAQ"
+  },
+  {
+    "sku": "0102000207",
+    "nombre": "COBERTURA FX  X 1KG PAQ"
+  },
+  {
+    "sku": "0102000211",
+    "nombre": "COBERTURA AMARGO 70% FX  X 1KG PAQ"
+  },
+  {
+    "sku": "0104000352",
+    "nombre": "MICROGALLETA BAÑADA FX  X KG PESABLE"
+  },
+  {
+    "sku": "0111000027",
+    "nombre": "MANTECA CACAO X KG FX  PESABLE"
+  },
+  {
+    "sku": "0102000099",
+    "nombre": "CACAO AMARGO ESPECIAL ALZOL X 1KG PAQ"
+  },
+  {
+    "sku": "0102000100",
+    "nombre": "CACAO AMARGO ESPECIAL ALZOL X KG PESABLE"
+  },
+  {
+    "sku": "0102000200",
+    "nombre": "CACAO NEGRO ALZOL X 500G PAQ"
+  },
+  {
+    "sku": "0102000287",
+    "nombre": "CACAO AMARGO ALCALINO ALZOL X KG PESABLE"
+  },
+  {
+    "sku": "0104000122",
+    "nombre": "GRANA MULTICOLOR ALZOL X KG PESABLE"
+  },
+  {
+    "sku": "0104000151",
+    "nombre": "GRANA COMBINADA LILA/ROSA ALZOL X 1KG PAQ"
+  },
+  {
+    "sku": "0104000152",
+    "nombre": "GRANA COMBINADA NEGRO/BLANCO ALZOL X 1KG PAQ"
+  },
+  {
+    "sku": "0104000153",
+    "nombre": "GRANA COMBINADA NEGRO/FUCSIA ALZOL X 1KG PAQ"
+  },
+  {
+    "sku": "0104000154",
+    "nombre": "GRANA COMBINADA ROJO/BLANCO ALZOL X 1KG PAQ"
+  },
+  {
+    "sku": "0105000003",
+    "nombre": "AGAR AGAR ALZOL X 50G PESABLE"
+  },
+  {
+    "sku": "0105000018",
+    "nombre": "GELATINA SIN SABOR ALZOL X 50G PESABLE"
+  },
+  {
+    "sku": "0105000026",
+    "nombre": "GOMA TRAGACANTO ALZOL X 500G PAQ"
+  },
+  {
+    "sku": "0105000028",
+    "nombre": "GOMA TRAGACANTO ALZOL X 50G PESABLE"
+  },
+  {
+    "sku": "0105000036",
+    "nombre": "POLVO HORNEAR ALZOL X KG PESABLE"
+  },
+  {
+    "sku": "0105000044",
+    "nombre": "PROPIONATO CALCIO ALZOL X KG PESABLE"
+  },
+  {
+    "sku": "0105000047",
+    "nombre": "SORBATO POTASIO ALZOL X 70CC PESABLE"
+  },
+  {
+    "sku": "0105000048",
+    "nombre": "SORBATO POTASIO ALZOL X 1L"
+  },
+  {
+    "sku": "0105000068",
+    "nombre": "CREMOR TARTARO ALZOL X KG PESABLE"
+  },
+  {
+    "sku": "0105000069",
+    "nombre": "GELATINA SIN SABOR ALZOL X KG PESABLE"
+  },
+  {
+    "sku": "0106000194",
+    "nombre": "MOUSSE CHOCOLATE ALZOL X KG PESABLE"
+  },
+  {
+    "sku": "0106000195",
+    "nombre": "MOUSSE DULCE DE LECHE ALZOL X KG PESABLE"
+  },
+  {
+    "sku": "0106000196",
+    "nombre": "MOUSSE FRUTILLA ALZOL X KG PESABLE"
+  },
+  {
+    "sku": "0106000197",
+    "nombre": "MOUSSE LIMON ALZOL X KG PESABLE"
+  },
+  {
+    "sku": "0106000198",
+    "nombre": "MOUSSE VAINILLA ALZOL X KG PESABLE"
+  },
+  {
+    "sku": "0110000020",
+    "nombre": "COCO RALLADO AMARILLO ALZOL X 500G PAQ"
+  },
+  {
+    "sku": "0110000021",
+    "nombre": "COCO RALLADO AZUL ALZOL X 500G PAQ"
+  },
+  {
+    "sku": "0110000022",
+    "nombre": "COCO RALLADO CELESTE ALZOL X 500G PAQ"
+  },
+  {
+    "sku": "0110000098",
+    "nombre": "COCO RALLADO COLOR ALZOL X KG PESABLE"
+  },
+  {
+    "sku": "0104000271",
+    "nombre": "LENTEJITA MULTICOLOR CHOOK X KG PESABLE"
+  },
+  {
+    "sku": "0104000296",
+    "nombre": "LENTEJA MULTICOLOR CHOOK X 1KG PAQ"
+  },
+  {
+    "sku": "0104000298",
+    "nombre": "LENTEJA MULTICOLOR CHOOK X KG PESABLE"
+  },
+  {
+    "sku": "0104000518",
+    "nombre": "LENTEJITA MULTICOLOR CHOOK 10 X 1KG CAJA"
+  },
+  {
+    "sku": "0104000519",
+    "nombre": "LENTEJITA MULTICOLOR CHOOK 18 X 500G CAJA"
+  },
+  {
+    "sku": "0104000529",
+    "nombre": "LENTEJA CELESTE CHOOK 18 X 500G CAJA"
+  },
+  {
+    "sku": "0104000530",
+    "nombre": "LENTEJA MULTICOLOR CHOOK 10 X 1KG CAJA"
+  },
+  {
+    "sku": "0104000531",
+    "nombre": "LENTEJA MULTICOLOR CHOOK 18 X 500G CAJA"
+  },
+  {
+    "sku": "sku",
+    "nombre": "nombre"
+  },
+  {
+    "sku": "0114000138",
+    "nombre": "CORTANTE FA001 ESTRELLAS FLO CHICA SET X 4"
+  },
+  {
+    "sku": "0114000139",
+    "nombre": "CORTANTE FA002 CORAZON FLO CHICO SET X 4"
+  },
+  {
+    "sku": "0114000143",
+    "nombre": "CORTANTE FA010 MINI SURTIDO FLO ANIMALES/FRUTAS X 7"
+  },
+  {
+    "sku": "0114000144",
+    "nombre": "CORTANTE FA012 JUEGO NAV FLO MINI"
+  },
+  {
+    "sku": "0114000148",
+    "nombre": "CORTANTE FA018 CRUZ FLO GRANDE"
+  },
+  {
+    "sku": "0114000151",
+    "nombre": "CORTANTE FA027 NUBE CHICA FLO LETRERO X 3"
+  },
+  {
+    "sku": "0114000154",
+    "nombre": "CORTANTE FA030 NUBES CHICA FLO SET X 3"
+  },
+  {
+    "sku": "0114000158",
+    "nombre": "CORTANTE FA040 MARIP CHICA FLO"
+  },
+  {
+    "sku": "0114000159",
+    "nombre": "CORTANTE FA041 MARIP MINI FLO SET X 3"
+  },
+  {
+    "sku": "0114000161",
+    "nombre": "CORTANTE FA052 BARCO FLO"
+  },
+  {
+    "sku": "0114000167",
+    "nombre": "CORTANTE FA059 VOLADO FLO"
+  },
+  {
+    "sku": "0114000168",
+    "nombre": "CORTANTE FA062 VOLADO GRANDE FLO ZIGZAG X 3"
+  },
+  {
+    "sku": "0114000172",
+    "nombre": "CORTANTE FA077 BABERO GRANDE FLO"
+  },
+  {
+    "sku": "0114000174",
+    "nombre": "CORTANTE FA083 HOJA MEDIANO FLO MUERDAGO X 4"
+  },
+  {
+    "sku": "0114000175",
+    "nombre": "CORTANTE FA085 ALA FLO"
+  },
+  {
+    "sku": "0114000176",
+    "nombre": "CORTANTE FA087 MOÑO GRANDE FLO"
+  },
+  {
+    "sku": "0114000177",
+    "nombre": "CORTANTE FA088 MOÑO CHICO FLO"
+  },
+  {
+    "sku": "0114000180",
+    "nombre": "CORTANTE FA101 MUÑECO CHIC FLO"
+  },
+  {
+    "sku": "0114000181",
+    "nombre": "CORTANTE FA102 BASTON FLO NAVIDEÑO"
+  },
+  {
+    "sku": "0114000182",
+    "nombre": "CORTANTE FA103 BASTON FLO NAVIDEÑO"
+  },
+  {
+    "sku": "0114000188",
+    "nombre": "CORTANTE FA110 CAMPANA CHI FLO NAVIDEÑA"
+  },
+  {
+    "sku": "0114000189",
+    "nombre": "CORTANTE FA111 CAMPANA FLO DOBLE"
+  },
+  {
+    "sku": "0114000199",
+    "nombre": "CORTANTE FA169 BARCO FLO"
+  },
+  {
+    "sku": "0114000200",
+    "nombre": "CORTANTE FA172 AVION FLO"
+  },
+  {
+    "sku": "0114000204",
+    "nombre": "CORTANTE FA180 CORONITA FLO MINI"
+  },
+  {
+    "sku": "0114000209",
+    "nombre": "CORTANTE FA193 GUITARRA FLO ELECTRICA"
+  },
+  {
+    "sku": "0114000211",
+    "nombre": "CORTANTE FA199 CORONITA FLO REINA"
+  },
+  {
+    "sku": "0114000214",
+    "nombre": "CORTANTE FA212 CARTEL CELE FLO"
+  },
+  {
+    "sku": "0114000215",
+    "nombre": "CORTANTE FA213 CARTEL ROSA FLO"
+  },
+  {
+    "sku": "0114000216",
+    "nombre": "CORTANTE FA215 HELADO FLO"
+  },
+  {
+    "sku": "0114000219",
+    "nombre": "CORTANTE FA223 CUNA FLO SET X 3"
+  },
+  {
+    "sku": "0114000221",
+    "nombre": "CORTANTE FA230 ROMPONES FLO SET X 3"
+  },
+  {
+    "sku": "0114000223",
+    "nombre": "CORTANTE FA234 DIENTE FLO"
+  },
+  {
+    "sku": "0114000227",
+    "nombre": "CORTANTE FA252 CORONITA FLO PRINCESA"
+  },
+  {
+    "sku": "0114000233",
+    "nombre": "CORTANTE FA273 CUPIDO FLO"
+  },
+  {
+    "sku": "0114000236",
+    "nombre": "CORTANTE FA288 COCTAIL FLO SET X 2"
+  },
+  {
+    "sku": "0114000243",
+    "nombre": "CORTANTE FA333 MEDIA ALA FLO"
+  },
+  {
+    "sku": "0114000245",
+    "nombre": "CORTANTE FA339 MOÑO FLO SET X 3"
+  },
+  {
+    "sku": "0114000250",
+    "nombre": "CORTANTE FA362TORRE EIFFEL FLO CHICA"
+  },
+  {
+    "sku": "0114000257",
+    "nombre": "CORTANTE FA380 HUELLA CHIC FLO PERRO"
+  },
+  {
+    "sku": "0114000259",
+    "nombre": "CORTANTE FA383 CARTEL 2 FLO"
+  },
+  {
+    "sku": "0114000264",
+    "nombre": "CORTANTE FA391 MANCHAS FLO SET X 3"
+  },
+  {
+    "sku": "0114000269",
+    "nombre": "CORTANTE FA402 EGRESADOS FLO"
+  },
+  {
+    "sku": "0114000272",
+    "nombre": "CORTANTE FA408 LOL ANTEOJO FLO"
+  },
+  {
+    "sku": "0114000280",
+    "nombre": "CORTANTE GA101 COLA SIRENA FLO"
+  },
+  {
+    "sku": "0114000284",
+    "nombre": "CORTANTE GA11 CUNA FLO"
+  },
+  {
+    "sku": "0114000287",
+    "nombre": "CORTANTE GA14 ZAPATO FLO"
+  },
+  {
+    "sku": "0114000295",
+    "nombre": "CORTANTE GA29 HELADO FLO"
+  },
+  {
+    "sku": "0114000296",
+    "nombre": "CORTANTE GA30 CHUPETE FLO"
+  },
+  {
+    "sku": "0114000297",
+    "nombre": "CORTANTE GA33 BUHO FLO"
+  },
+  {
+    "sku": "0114000298",
+    "nombre": "CORTANTE GA38 PIECITO FLO"
+  },
+  {
+    "sku": "0114000300",
+    "nombre": "CORTANTE GA42 PAJARO FLO COUNTRY"
+  },
+  {
+    "sku": "0114000303",
+    "nombre": "CORTANTE GA47 BUHO GORDO FLO"
+  },
+  {
+    "sku": "0114000308",
+    "nombre": "CORTANTE GA53 TIMON FLO"
+  },
+  {
+    "sku": "0114000314",
+    "nombre": "CORTANTE GA63 CARS FLO"
+  },
+  {
+    "sku": "0114000317",
+    "nombre": "CORTANTE GA71 PORNO FLO SET X 2"
+  },
+  {
+    "sku": "0114000322",
+    "nombre": "CORTANTE GA76 FLOR DE LIZ FLO"
+  },
+  {
+    "sku": "0114000323",
+    "nombre": "CORTANTE GA77 ARCOIRIS FLO"
+  },
+  {
+    "sku": "0114000324",
+    "nombre": "CORTANTE GA78 EMOTICONES FLO X 15"
+  },
+  {
+    "sku": "0114000326",
+    "nombre": "CORTANTE GA84 NUMERO 0 FLO"
+  },
+  {
+    "sku": "0114000333",
+    "nombre": "CORTANTE GA91 NUMERO 7 FLO"
+  },
+  {
+    "sku": "0114000335",
+    "nombre": "CORTANTE GA94 UNICORNIO FLO REDONDO"
+  },
+  {
+    "sku": "0114000429",
+    "nombre": "CORTANTE PLASTICO FLO RAL MULTY MARCAS X 4"
+  },
+  {
+    "sku": "0114000954",
+    "nombre": "CORTANTE P8 RECTANGULAR FLO SET X 5 PLASTICO ICO"
+  },
+  {
+    "sku": "0114000955",
+    "nombre": "CORTANTE P9 CORAZONES FLO SET X 4 PLASTICO ICO"
+  },
+  {
+    "sku": "0114000956",
+    "nombre": "CORTANTE P10 NUBES FLO SET X 4 PLASTICO ICO"
+  },
+  {
+    "sku": "0114000957",
+    "nombre": "CORTANTE P17 FUTBOL FLO SET X 2 PLASTICO ICO"
+  },
+  {
+    "sku": "0114000958",
+    "nombre": "CORTANTE P18 HUESO HUELLA FLO SET X 2 PLASTICO ICO"
+  },
+  {
+    "sku": "0114000959",
+    "nombre": "CORTANTE FA015 HEXAGONAL FLO SET X 4"
+  },
+  {
+    "sku": "0114000960",
+    "nombre": "CORTANTE FA016 CRUCES FLO SET X 3"
+  },
+  {
+    "sku": "0114000961",
+    "nombre": "CORTANTE FA021 CIRCULOS FLO SET X 10"
+  },
+  {
+    "sku": "0114000962",
+    "nombre": "CORTANTE FA063 VOLADO FLO ZIGZAG 14CM"
+  },
+  {
+    "sku": "0114000963",
+    "nombre": "CORTANTE FA350 HUEVOS FLO SET X 4"
+  },
+  {
+    "sku": "0114000964",
+    "nombre": "CORTANTE FA404 FUTBOL FLO SET X 4"
+  },
+  {
+    "sku": "0114000965",
+    "nombre": "CORTANTE FA406 ANIMALES FLO SET X 4"
+  },
+  {
+    "sku": "0114000966",
+    "nombre": "CORTANTE FA006 FLOR CAMPO FLO SET X 3 MINI"
+  },
+  {
+    "sku": "0114000968",
+    "nombre": "CORTANTE GA83 EGRESADO FLO GORRO"
+  },
+  {
+    "sku": "0114000969",
+    "nombre": "CORTANTE GA102 CARA CONEJO FLO 9 X 8CM"
+  },
+  {
+    "sku": "0114000970",
+    "nombre": "CORTANTE GA106 CALIZ MEDIANO FLO"
+  },
+  {
+    "sku": "0114000971",
+    "nombre": "CORTANTE FA129 FLOR X 9 FLO NO ME OLVIDES"
+  },
+  {
+    "sku": "sku",
+    "nombre": "nombre"
+  },
+  {
+    "sku": "0104000484",
+    "nombre": "PERLAS MAX I LWC X 50G PESABLE"
+  },
+  {
+    "sku": "0113000017",
+    "nombre": "LAMINA COMESTIBLE PERSONAJE LWC X 1"
+  },
+  {
+    "sku": "0113000018",
+    "nombre": "LAMINA COMESTIBLE PERSONALIZAD LWC X 1"
+  },
+  {
+    "sku": "0114000343",
+    "nombre": "CORTANTE SET GEOMETRIA LWC X 6"
+  },
+  {
+    "sku": "0114000369",
+    "nombre": "CORTANTE METAL SET SURTIDO LWC 12U"
+  },
+  {
+    "sku": "0114000374",
+    "nombre": "CORTANTE METAL SET NAVIDAD LWC 12U"
+  },
+  {
+    "sku": "0114000380",
+    "nombre": "CORTANTE METAL SET SURTIDO LWC 6U"
+  },
+  {
+    "sku": "0114000685",
+    "nombre": "MOLDE SILICONA CUPCAKES CUAD LWC X 6"
+  },
+  {
+    "sku": "0114000719",
+    "nombre": "SET CORTANTE METAL CORAZON LWC 5 PIEZAS"
+  },
+  {
+    "sku": "0114000727",
+    "nombre": "SET CORTANTE CORAZON CON E X P LWC SET X 3"
+  },
+  {
+    "sku": "0114000728",
+    "nombre": "SET CORTANTE LOVE CON E X P LWC SET X 3"
+  },
+  {
+    "sku": "0114000757",
+    "nombre": "CINTURA REDONDA LWC SET X 3 10 15 20CM X 5CM ALT"
+  },
+  {
+    "sku": "0114000758",
+    "nombre": "MOLDE REDONDO DESMONTABLE LWC SET X 3 24 26 28CM"
+  },
+  {
+    "sku": "0114000763",
+    "nombre": "CORTANTE MARCADOR DINOSAUR LWC FOSIL"
+  },
+  {
+    "sku": "0114000764",
+    "nombre": "MOLDE SILICONA GALLETA ESPIR LWC"
+  },
+  {
+    "sku": "0114000765",
+    "nombre": "CORTANTE GALLETA CIRCULO LWC SET X 5"
+  },
+  {
+    "sku": "0114000766",
+    "nombre": "CORTANTE NUBE LWC SET X 5"
+  },
+  {
+    "sku": "0114000770",
+    "nombre": "CORTANTE ARCOIRIS Y NUBE LWC SET X 9"
+  },
+  {
+    "sku": "0114000772",
+    "nombre": "CORTANTE ROSA LWC SET X 3"
+  },
+  {
+    "sku": "0114000773",
+    "nombre": "CORTANTE GALLETA CORAZON LWC SET X 5"
+  },
+  {
+    "sku": "0114000774",
+    "nombre": "CORTANTE GALLETA ESTRELLA LWC SET X 5"
+  },
+  {
+    "sku": "0114000804",
+    "nombre": "MOLDE SILICONA ROBOTS LWC 00101128"
+  },
+  {
+    "sku": "0114000811",
+    "nombre": "MOLDE SILICONA BURBUJAS LWC 00104229"
+  },
+  {
+    "sku": "0114000812",
+    "nombre": "MOLDE SILICONA TABLETA CUBOS LWC 00104219"
+  },
+  {
+    "sku": "0114000814",
+    "nombre": "MOLDE SILICONA TABLETA LAJA LWC 00103106"
+  },
+  {
+    "sku": "0114000815",
+    "nombre": "MOLDE SILICONA LABERINTO LWC 00103030"
+  },
+  {
+    "sku": "0114000817",
+    "nombre": "MOLDE BUDIN TEFLON LWC SET X 4 35 30 25 20 CM"
+  },
+  {
+    "sku": "0114000819",
+    "nombre": "CORTANTE MARCO LWC 7 X 5CM 00102137"
+  },
+  {
+    "sku": "0114000827",
+    "nombre": "MOLDE SILICONA 6 HUEVOS DECO LWC"
+  },
+  {
+    "sku": "0114000828",
+    "nombre": "MOLDE SILICONA TAB LOVE LWC MODELOS SURTIDOS"
+  },
+  {
+    "sku": "0114000833",
+    "nombre": "CORTANTE ARCOIRIS CON NUBE LWC METAL 11 X 8CM"
+  },
+  {
+    "sku": "0114000837",
+    "nombre": "SET CORTANTE MUJER MARAVIL LWC METAL X 5 PIEZAS"
+  },
+  {
+    "sku": "0114000838",
+    "nombre": "SET CORTANTE CORONA LWC X 3 METAL PUNTA RECTA"
+  },
+  {
+    "sku": "0114000841",
+    "nombre": "SET CORTANTES 4 FORMAS LWC X 12 METAL"
+  },
+  {
+    "sku": "0114000843",
+    "nombre": "MOLDE SILICONA CHUPETIN 2PZAS LWC 15 X 4CM"
+  },
+  {
+    "sku": "0114000942",
+    "nombre": "MOLDE SILICONA ABC CON CORAZON LWC 16 X 10CM"
+  },
+  {
+    "sku": "0114000944",
+    "nombre": "MOLDE SILICONA CHUPETIN NUMEROS LWC CON MOÑO"
+  },
+  {
+    "sku": "0114000947",
+    "nombre": "MOLDE SILICONA 2 CORAZONES LWC"
+  },
+  {
+    "sku": "0114000948",
+    "nombre": "MOLDE SILICONA 4 MEDIA ESFERA LWC 8CM DIAMETRO"
+  },
+  {
+    "sku": "0114000949",
+    "nombre": "MOLDE SILICONA COLA SIRENA CHICO LWC 10 X 6CM"
+  },
+  {
+    "sku": "0114000950",
+    "nombre": "MOLDE SILICONA COLA SIRENA GRANDE LWC 11 X 8CM"
+  },
+  {
+    "sku": "0119000015",
+    "nombre": "MIX DE SEMILLA PREMIUM LWC X KG PESABLE"
+  },
+  {
+    "sku": "0120000007",
+    "nombre": "BALANZA DE COCINA LWC HASTA 5KG"
+  },
+  {
+    "sku": "0120000315",
+    "nombre": "ESPATULA ESCALON INOXIDABLE X 30CM LWC"
+  },
+  {
+    "sku": "0120000317",
+    "nombre": "ESPATULA REPOSTERO ESCALONADA 20CM LWC"
+  },
+  {
+    "sku": "0120000318",
+    "nombre": "ESPATULA REPOSTERO ESCALONADA 25CM LWC"
+  },
+  {
+    "sku": "0120000319",
+    "nombre": "ESPATULA REPOSTERO ESCALONADA 30CM LWC"
+  },
+  {
+    "sku": "0120000332",
+    "nombre": "ESPATULA NIVELADOR ANGULAR LWC PLASTICO "
+  },
+  {
+    "sku": "0120000336",
+    "nombre": "ESPATULA REPOSTERO RECTA 15CM LWC"
+  },
+  {
+    "sku": "0120000338",
+    "nombre": "ESPATULA REPOSTERO RECTA 25CM LWC"
+  },
+  {
+    "sku": "0120000339",
+    "nombre": "ESPATULA REPOSTERO RECTA 30CM LWC"
+  },
+  {
+    "sku": "0120000364",
+    "nombre": "JERINGA PLASTICO DECORADORA LWC CON 8 PICOS"
+  },
+  {
+    "sku": "0120000454",
+    "nombre": "PAPEL MANTECA REUTILIZABLE LWC 40 X 30CM"
+  },
+  {
+    "sku": "0120000474",
+    "nombre": "REJILLA METALICA 25 X 40CM LWC"
+  },
+  {
+    "sku": "0120000501",
+    "nombre": "ESTECA PLASTICO LWC SET X 9 18 MODELOS"
+  },
+  {
+    "sku": "0120000502",
+    "nombre": "ESTECA PLASTICO LWC SET X 4 8 MODELOS"
+  },
+  {
+    "sku": "0120000504",
+    "nombre": "SET PASTELERO CON 6 PICOS LWC MANGA CUPLA"
+  },
+  {
+    "sku": "0120000514",
+    "nombre": "SET REPOSTERO PLASTICO 8 PICO LWC CUPLA Y MANGA"
+  },
+  {
+    "sku": "0120000522",
+    "nombre": "TERMOMETRO DIGITAL LWC PARA REPOSTERIA"
+  },
+  {
+    "sku": "0120000535",
+    "nombre": "CUPLA TRIPLE GRANDE LWC"
+  },
+  {
+    "sku": "0120000537",
+    "nombre": "BASE GIRATORIA 14CM LWC"
+  },
+  {
+    "sku": "0120000544",
+    "nombre": "PINCELETA STANDARD NUMERO 1 LWC 12MM"
+  },
+  {
+    "sku": "0120000547",
+    "nombre": "PINCELETA STANDARD NUMERO 4 LWC 25MM"
+  },
+  {
+    "sku": "0120000564",
+    "nombre": "ESPATULA REPOSTERO ESCALONADA 15CM LWC"
+  },
+  {
+    "sku": "0120000567",
+    "nombre": "SET SILICONA 5 UTENSILIOS LWC"
+  },
+  {
+    "sku": "0120000581",
+    "nombre": "ESPATULA SCRAPPER ACERO NUMERO 4 LWC TEXTURA DOBLE"
+  },
+  {
+    "sku": "0120000583",
+    "nombre": "ESPATULA SCRAPPER ACERO NUMERO 6 LWC TEXTURA DOBLE"
+  },
+  {
+    "sku": "0120000609",
+    "nombre": "ESPATULA SET MODELADORA LWC X 3 DORADO"
+  },
+  {
+    "sku": "0120000615",
+    "nombre": "ESPATULA ACERO SCRAPPER LWC 23 X 8CM LISA"
+  },
+  {
+    "sku": "0120000622",
+    "nombre": "CUCHARA SILICONA MANGO MADERA LWC 29CM"
+  },
+  {
+    "sku": "0120000625",
+    "nombre": "SET ESPATULAS REPOSTERIA LWC X 3 24CM SILICONA INOXIDABLE X "
+  },
+  {
+    "sku": "0120000626",
+    "nombre": "SET REPOSTERO MANGA TIJERA LWC CON ESPATULA INOXIDABLE X 23CM"
+  },
+  {
+    "sku": "0120000627",
+    "nombre": "SET UTENSILIOS DORADO LWC X 3"
+  },
+  {
+    "sku": "0120000628",
+    "nombre": "SET PINCELES REDONDOS LWC X 6"
+  },
+  {
+    "sku": "0120000630",
+    "nombre": "SET ESPATULAS CORNETE LWC X 3"
+  },
+  {
+    "sku": "0120000634",
+    "nombre": "SET 24 PICOS Y 3 CUPLAS LWC RESPOSTERO"
+  },
+  {
+    "sku": "0120000635",
+    "nombre": "SET PICOS GLOBO 9PZAS LWC CON MANGA Y CUPLA"
+  },
+  {
+    "sku": "0120000818",
+    "nombre": "ESPATULA SILICONA MANGO MADER LWC 29CM"
+  },
+  {
+    "sku": "0120000819",
+    "nombre": "PINCEL SILICONA MANGO MADERA LWC 29CM"
+  },
+  {
+    "sku": "0120000820",
+    "nombre": "PINZA PRECISION PUNTA CURV LWC PARA REPOSTERIA 12CM"
+  },
+  {
+    "sku": "0120000821",
+    "nombre": "SET UTENSILIOS SILICONA LWC X 3 ESPAT PINCEL CUCHARA"
+  },
+  {
+    "sku": "0120000822",
+    "nombre": "TERMOMETRO PARA HORNO OVEN LWC"
+  },
+  {
+    "sku": "0120000823",
+    "nombre": "BALANZA DIGITAL 5KG VIDRIO LWC MODELOS SURTIDOS"
+  },
+  {
+    "sku": "0120000824",
+    "nombre": "BALANZA DIGITAL 5KG BAMBOO LWC"
+  },
+  {
+    "sku": "0120000825",
+    "nombre": "PLANCHA SILPAT 20CM LWC REDONDA"
+  },
+  {
+    "sku": "0120000826",
+    "nombre": "SET PARA MOLDEO FLORES LWC TIJERA 2 PICOS"
+  },
+  {
+    "sku": "0120000827",
+    "nombre": "SET PICOS RUSOS GRANDES LWC X 12"
+  },
+  {
+    "sku": "0120000832",
+    "nombre": "ESPATULA SILICONA 17CM LWC"
+  },
+  {
+    "sku": "0120000833",
+    "nombre": "MOLDE SILICONA PIROTIN 7CM LWC X 12 COLORES SURTIDOS"
+  },
+  {
+    "sku": "0101000003",
+    "nombre": "AZUCAR COMUN LEDESMA X 1KG PAQ"
+  },
+  {
+    "sku": "0101000052",
+    "nombre": "AZUCAR LIGTH LEDESMA X 500G"
+  },
+  {
+    "sku": "0101000053",
+    "nombre": "AZUCAR MASCABO RUBIO LEDESMA X 800GR"
+  },
+]

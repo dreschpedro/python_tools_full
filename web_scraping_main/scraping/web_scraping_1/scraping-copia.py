@@ -29,6 +29,8 @@ with open('data.json', 'r', encoding='utf-8') as file:
 products = [{'nombre': item['nombre'], 'sku': item['sku']} for item in data]
 
 # Configuración de Selenium y ChromeDriver
+# chromePath = r'C:\Users\taller\Documents\chromedriver-win64\chromedriver.exe'
+# chromePath = r'C:\Users\taller 2\Documents\chromedriver-win64\chromedriver.exe'
 chromePath = r'C:\Users\pedro\Documents\chromedriver-win64\chromedriver.exe'
 chrome_options = Options()
 chrome_service = Service(chromePath)
@@ -42,29 +44,17 @@ for product in products:
     driver.get(search_URL)
     
     # Esperar a que la página se cargue completamente
-    print(f"Buscando imágenes para: {query}")
-    WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.CSS_SELECTOR, 'img')))
+    WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, 'img')))
     
-    # Pausa después de cargar la página
-    time.sleep(5)  # Espera adicional después de cargar la página
-
     # Obtener el HTML de la página actual
     page_html = driver.page_source
     pageSoup = bs4.BeautifulSoup(page_html, 'html.parser')
 
     # Encontrar todos los contenedores de imágenes
     containers = driver.find_elements(By.CSS_SELECTOR, 'div[jscontroller="XW992c"]')
-    
-    # Imprimir la cantidad de contenedores encontrados
-    print(f"Cantidad de contenedores encontrados para {query}: {len(containers)}")
-    
+
     if containers:
         print(f"Contenedores encontrados para {query}, procesando...")
-
-        # Imprimir el HTML de los primeros contenedores (para depuración)
-        # for i, container in enumerate(containers[0:5]):  # Limitar a los primeros 5 contenedores para evitar impresión excesiva
-        #     print(f"Contenedor {i + 1} HTML:")
-        #     print(container.get_attribute('outerHTML'))
 
         # Limitar a las imágenes de la 1 a la 20 (20 imágenes)
         for i, container in enumerate(containers[0:19]):
@@ -74,17 +64,13 @@ for product in products:
 
                 # Esperar a que la imagen completa se cargue
                 print("Esperar a que la imagen completa se cargue")
-                WebDriverWait(driver, 15).until(
+                WebDriverWait(driver, 5).until(
                     EC.presence_of_element_located((By.CSS_SELECTOR, 'img.sFlh5c.pT0Scc.iPVvYb'))
                 )
 
-                # Pausa después de hacer clic en la imagen
-                time.sleep(5)  # Espera adicional después de hacer clic en la imagen
-
                 # Encontrar la URL de la imagen
                 print("Encontrar la URL de la imagen")
-                # image_element = driver.find_element(By.CSS_SELECTOR, 'img.sFlh5c.pT0Scc.iPVvYb')
-                image_element = driver.find_element(By.CSS_SELECTOR, 'img.sFlh5c.FyHeAf.iPVvYb')
+                image_element = driver.find_element(By.CSS_SELECTOR, 'img.sFlh5c.pT0Scc.iPVvYb')
                 image_url = image_element.get_attribute('src')
                 print(f"URL de imagen encontrada ({i + 1}): {image_url}")
 
@@ -95,21 +81,14 @@ for product in products:
                 # Cerrar la vista de la imagen
                 container.click()
 
-                # Pausa antes de pasar a la siguiente imagen
-                time.sleep(10)  # Espera adicional antes de pasar a la siguiente imagen
+                # Esperar un tiempo antes de pasar a la siguiente imagen
+                time.sleep(10)  # Puedes ajustar este tiempo según sea necesario
 
             except Exception as e:
                 print(f"No se pudo procesar el contenedor {i + 1}. Error: {e}")
 
-        # Pausa adicional antes de procesar el siguiente producto
-        print(f"Finalizado procesamiento para {query}, esperando antes de continuar...")
-        time.sleep(30)  # Ajusta este tiempo si es necesario
-
     else:
         print(f"No se encontraron contenedores de imágenes para {query}.")
-
-    # Pausa después de procesar el producto
-    time.sleep(15)  # Espera adicional después de procesar el producto
 
 # Cerrar el navegador al finalizar
 driver.quit()
