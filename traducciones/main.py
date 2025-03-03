@@ -3,10 +3,10 @@ import polib
 from tqdm import tqdm
 
 # Ruta del archivo .po original
-archivo_po_original = 'maintenance/wp-maintenance-mode-site-under-construction.pot'
+archivo_po_original = 'archivos/woocommerce-memberships-en_US.po'
 
 # Ruta del archivo .po traducido
-archivo_po_traducido = 'maintenance/wp-maintenance-mode-site-under-construction-es_AR.po'
+archivo_po_traducido = 'archivos/woocommerce-memberships-es_AR.po'
 
 # Crear un objeto Translator
 translator = Translator(to_lang='es')
