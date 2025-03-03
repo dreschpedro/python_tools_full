@@ -58,11 +58,16 @@ def inicia_proceso_descarga(link, job, loop):
 
     nombre_video = ''
 
-    print('')
-    print('-------------------------------------------------------')
-    print('Título: {0}'.format(yt.title))
-    print('Autor: {0}'.format(yt.author))
-    print('')
+    # print('')
+    # print('-------------------------------------------------------')
+    # print('Título: {0}'.format(yt.title))
+    # print('Autor: {0}'.format(yt.author))
+    # print('')
+    try:
+        print('Título: {0}'.format(yt.title))
+    except KeyError:
+        print('Error al obtener el título para el enlace: {0}'.format(link))
+
 
     video_y_audio = yt.streams.filter(
         progressive=True).order_by('resolution').desc().first()
